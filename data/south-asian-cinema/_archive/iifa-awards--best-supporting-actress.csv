@@ -1,0 +1,8 @@
+year,film,person,is_winner,raw_text,source_url
+,Jaya Bachchan,3,False,Actor with most awards | Jaya Bachchan | 3,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Supporting_Actress
+,Kirron Kher Divya Dutta,5,False,Actor with most nominations | Kirron Kher Divya Dutta | 5,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Supporting_Actress
+,Rekha Bipasha Basu Kalki Koechlin,3,False,Actor with most nominations without ever winning | Rekha Bipasha Basu Kalki Koechlin | 3,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Supporting_Actress
+,Sushmita Sen Rani Mukerji Kirron Kher Konkona Sen Sharma Seema Pahwa,2,False,Actor with most nominations in a single year | Sushmita Sen (2000) Rani Mukerji (2005) Kirron Kher (2007) Konkona Sen Sharma (2008) Seema Pahwa (2018) | 2,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Supporting_Actress
+,Jaya Bachchan,56,False,Eldest Winner | Jaya Bachchan ( Kal Ho Naa Ho ) | 56,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Supporting_Actress
+,Zohra Sehgal,96,False,Eldest Nominee | Zohra Sehgal ( Cheeni Kum ) | 96,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Supporting_Actress
+,Ayesha Kapur,11,False,Youngest Winner | Ayesha Kapur ( Black ) | 11,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Supporting_Actress

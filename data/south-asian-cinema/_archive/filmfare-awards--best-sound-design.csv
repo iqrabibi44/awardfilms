@@ -1,0 +1,74 @@
+year,film,person,is_winner,raw_text,source_url
+2025,Subhash Sahoo,Kill,False,2025 | Subhash Sahoo | Kill,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+2024,Kunal Sharma,Sam Bahadur,False,2024 | Kunal Sharma (MPSE) | Sam Bahadur,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+2024,Animal,,False,Sachin Sudhakaran & Hariharan Muralidharan (Sync Cinema) | Animal,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+2023,Bishwadeep Chatterjee,Brahmāstra: Part One – Shiva,False,2023 | Bishwadeep Chatterjee | Brahmāstra: Part One – Shiva,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+2022,Dipankar Chaki and Nihar Ranjan Samal,Sardar Udham,False,2022 | Dipankar Chaki and Nihar Ranjan Samal | Sardar Udham,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+2021,Kaamod Kharade,Thappad,False,2021 | Kaamod Kharade | Thappad,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+2020,"Bishwadeep Dipak Chatterjee, Nihar Ranjan Samal",Uri: The Surgical Strike,False,"2020 | Bishwadeep Dipak Chatterjee, Nihar Ranjan Samal | Uri: The Surgical Strike",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+2019,Kunal Sharma,Tumbbad,False,2019 | Kunal Sharma | Tumbbad,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+2018,Anish John,Trapped,False,2018 | Anish John | Trapped,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+2017,Vivek Sachidananda,Phobia,False,2017 | Vivek Sachidananda | Phobia,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+2017,Ravi Soni,Neerja,False,2017 | Ravi Soni | Neerja,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+2016,Shajith Koyeri,Talvar,False,2016 | Shajith Koyeri | Talvar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+2015,Anilkumar Konakandla and Prabal Pradhan,Mardaani,False,2015 | Anilkumar Konakandla and Prabal Pradhan | Mardaani,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+2014,Bishwadeep Chatterjee & Nihar Ranjan Samar,Madras Cafe,False,2014 | Bishwadeep Chatterjee & Nihar Ranjan Samar | Madras Cafe,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+2013,Sanjay Maurya & Allwin Rego,Kahaani,False,2013 | Sanjay Maurya & Allwin Rego | Kahaani,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+2012,Nakul Kamte,Don 2,False,2012 | Nakul Kamte | Don 2,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+2011,Pritam Das Kunal Sharma,Love Sex aur Dhokha Udaan,False,2011 | Pritam Das Kunal Sharma | Love Sex aur Dhokha Udaan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+2010,Manas Chaudhury,Firaaq,False,2010 | Manas Chaudhury | Firaaq,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+2009,"Baylon Fonseca , Vinod Subramanian",Rock On!!,False,"2009 | Baylon Fonseca , Vinod Subramanian | Rock On!!",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+2008,Leslie Fernandes,Johnny Gaddaar,False,2008 | Leslie Fernandes | Johnny Gaddaar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+2007,"Shajith Koyeri , Subash Sahu & K. J. Singh",Omkara,False,"2007 | Shajith Koyeri , Subash Sahu & K. J. Singh | Omkara",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+2006,Bishwadeep Chatterjee,Parineeta,False,2006 | Bishwadeep Chatterjee | Parineeta,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+2005,Dwarak Warrier,Dhoom,False,2005 | Dwarak Warrier | Dhoom,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+2004,Dwarak Warrior,Bhoot,False,2004 | Dwarak Warrior | Bhoot,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+2003,Arun Nambiar,Road,False,2003 | Arun Nambiar | Road,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+2002,Ranjit Ranjan,Aks,False,2002 | Ranjit Ranjan | Aks,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+2001,Anuj Mathur,Mohabbatein,False,2001 | Anuj Mathur | Mohabbatein,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+2000,Rakesh Ranjan,Taal,False,2000 | Rakesh Ranjan | Taal,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1999,H. Sridhar,Satya,False,1999 | H. Sridhar | Satya,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1998,Vinod Potdar,Border,False,1998 | Vinod Potdar | Border,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1997,Jitendra Chowdhary,Khamoshi: The Musical,False,1997 | Jitendra Chowdhary | Khamoshi: The Musical,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1996,Rakesh Ranjan,Barsaat,False,1996 | Rakesh Ranjan | Barsaat,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1995,Jitendra Chaudhary and Namita Nayak,1942: A Love Story,False,1995 | Jitendra Chaudhary and Namita Nayak | 1942: A Love Story,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1994,Rakesh Ranjan,Damini – Lightning,False,1994 | Rakesh Ranjan | Damini – Lightning,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1993,Bhagat Singh Rathod and Kuldeep Sood,Khuda Gawah,False,1993 | Bhagat Singh Rathod and Kuldeep Sood | Khuda Gawah,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1992,S.C. Bhambri,Pathar Ke Insan,False,1992 | S.C. Bhambri | Pathar Ke Insan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1991,E. Rudra,Azaad Desh Ke Gulam,False,1991 | E. Rudra | Azaad Desh Ke Gulam,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1990,B.V. Chaturvedi,Tridev,False,1990 | B.V. Chaturvedi | Tridev,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1989,J.P. Seghal,Hatya,False,1989 | J.P. Seghal | Hatya,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1988,No Ceremony Held,No Ceremony Held,False,1988 | No Ceremony Held | No Ceremony Held,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1987,1987,,False,1987,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1986,A. Radha Swamy,Shiva Ka Insaaf,False,1986 | A. Radha Swamy | Shiva Ka Insaaf,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1985,Brahmamand Sharma,Sohni Mahiwal,False,1985 | Brahmamand Sharma | Sohni Mahiwal,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1984,Hitendra Ghosh,Vijeta,False,1984 | Hitendra Ghosh | Vijeta,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1983,P. Harikishan,Shakti,False,1983 | P. Harikishan | Shakti,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1982,Hitendra Ghosh,Kalyug,False,1982 | Hitendra Ghosh | Kalyug,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1981,P. Harikishan,Qurbani,False,1981 | P. Harikishan | Qurbani,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1980,Hitendra Ghosh,Junoon,False,1980 | Hitendra Ghosh | Junoon,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1979,Ranjit Biswas,Devata,False,1979 | Ranjit Biswas | Devata,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1978,Dinshaw Billimoria,Agent Vinod,False,1978 | Dinshaw Billimoria | Agent Vinod,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1977,P. Harikishan,Bairaag,False,1977 | P. Harikishan | Bairaag,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1976,M.A. Shaikh,Deewaar,False,1976 | M.A. Shaikh | Deewaar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1975,L.H. Bhatia,Amir Garib,False,1975 | L.H. Bhatia | Amir Garib,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1974,Allauddin Khan Qureshi,Bobby,False,1974 | Allauddin Khan Qureshi | Bobby,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1973,Jehangir Nowroji,Amar Prem,False,1973 | Jehangir Nowroji | Amar Prem,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1972,Allauddin Khan Qureshi,Mera Naam Joker,False,1972 | Allauddin Khan Qureshi | Mera Naam Joker,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1971,S. C. Bhambri,Talash,False,1971 | S. C. Bhambri | Talash,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1970,M.A. Shaikh,Ittefaq,False,1970 | M.A. Shaikh | Ittefaq,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1969,P. Thakkersey,Shikar,False,1969 | P. Thakkersey | Shikar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1968,J. M. Barot,Jewel Thief,False,1968 | J. M. Barot | Jewel Thief,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1967,Manohar Amberkar,Mera Saaya,False,1967 | Manohar Amberkar | Mera Saaya,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1966,Essa M. Suratwala,Yaadein,False,1966 | Essa M. Suratwala | Yaadein,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1965,Allauddin Khan Qureshi,Sangam,False,1965 | Allauddin Khan Qureshi | Sangam,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1964,Dinshaw Billimoria,Bandini,False,1964 | Dinshaw Billimoria | Bandini,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1963,S. Y. Pathak,Bees Saal Baad,False,1963 | S. Y. Pathak | Bees Saal Baad,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1962,Kuldeep Singh,Junglee,False,1962 | Kuldeep Singh | Junglee,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1961,George D'Cruz,Parakh,False,1961 | George D'Cruz | Parakh,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1960,A. K. Parmar,Navrang,False,1960 | A. K. Parmar | Navrang,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1959,Ishan Ghosh,Chandan,False,1959 | Ishan Ghosh | Chandan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1958,R. Kaushik,Mother India,False,1958 | R. Kaushik | Mother India,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1957,A. K. Parmar,Jhanak Jhanak Payal Baaje,False,1957 | A. K. Parmar | Jhanak Jhanak Payal Baaje,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1956,R. Kaushik,Amar,False,1956 | R. Kaushik | Amar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design
+1955,Ishan Ghosh,Jeewan Jyoti,False,1955 | Ishan Ghosh | Jeewan Jyoti,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Sound_Design

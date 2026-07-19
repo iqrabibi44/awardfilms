@@ -1,0 +1,28 @@
+year,film,person,is_winner,raw_text,source_url
+,Year,Actor,False,# | Year | Actor | Film (English) | Film (Korean),https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1999,Jung Jin-young,False,36 | 1999 | Jung Jin-young | A Promise | 약속,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2000,Joo Jin-mo,False,37 | 2000 | Joo Jin-mo | Happy End | 해피엔드,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2001,Jung Eun-pyo,False,38 | 2001 | Jung Eun-pyo | Kilimanjaro | 킬리만자로,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2002,Nakamura Tōru,False,39 | 2002 | Nakamura Tōru | 2009 Lost Memories | 2009 로스트메모리즈,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2003,Baek Yoon-sik,False,40 | 2003 | Baek Yoon-sik | Save the Green Planet! | 지구를 지켜라!,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2004,Huh Joon-ho,False,41 | 2004 | Huh Joon-ho | Silmido | 실미도,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2005,Hwang Jung-min,False,42 | 2005 | Hwang Jung-min | A Bittersweet Life | 달콤한 인생,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2006,Yoo Hae-jin,False,43 | 2006 | Yoo Hae-jin | King and the Clown | 왕의 남자,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2007,Kim Yoon-seok,False,44 | 2007 | Kim Yoon-seok | Tazza: The High Rollers | 타짜,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2008,Yoo Jun-sang,False,45 | 2008 | Yoo Jun-sang | Wide Awake | 리턴,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2009,Jin Goo,False,46 | 2009 | Jin Goo | Mother | 마더,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2010,Kim Hee-ra,False,47 | 2010 | Kim Hee-ra | Poetry | 시,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,The Servant,방자전,False,Song Sae-byeok | The Servant | 방자전,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2011,Jo Sung-ha,False,48 | 2011 | Jo Sung-ha | The Yellow Sea | 황해,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2012,Ryu Seung-ryong,False,49 | 2012 | Ryu Seung-ryong | Masquerade | 광해:왕이 된 남자,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2013,Jo Jung-suk,False,50 | 2013 | Jo Jung-suk | The Face Reader | 관상,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2014,Yoo Hae-jin,False,51 | 2014 | Yoo Hae-jin | The Pirates | 해적: 바다로 간 산적,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2015,Oh Dal-su,False,52 | 2015 | Oh Dal-su | Ode to My Father | 국제시장,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2016,Uhm Tae-goo,False,53 | 2016 | Uhm Tae-goo | The Age of Shadows | 밀정,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2017,Bae Seong-woo,False,54 | 2017 | Bae Seong-woo | The King | 더 킹,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2018,Kim Joo-hyuk,False,55 | 2018 | Kim Joo-hyuk | Believer | 독전,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2019,Jin Seon-kyu,False,56 | 2019 | Jin Seon-kyu | Extreme Job | 극한직업,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2020,N/a,False,57 | 2020 | — N/a,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+2021,2021,,False,2021,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+2021,2022,Byun Yo-han,False,58 | 2022 | Byun Yo-han | Hansan: Rising Dragon | 한산: 용의 출현,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+2021,2023,Oh Jung-se,False,59 | 2023 | Oh Jung-se | Cobweb | 거미집,https://en.wikipedia.org/wiki/Grand_Bell_Awards

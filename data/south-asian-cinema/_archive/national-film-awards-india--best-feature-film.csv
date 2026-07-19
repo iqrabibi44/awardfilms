@@ -1,0 +1,74 @@
+year,film,person,is_winner,raw_text,source_url
+,Film,Language,False,Year | Film(s) | Language(s) | Producer(s) | Director(s) | Refs.,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1953,Shyamchi Aai,Marathi,False,1953 (1st) | Shyamchi Aai | Marathi | Pralhad Keshav Atre | Pralhad Keshav Atre | [ 1 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1954,Mirza Ghalib,Hindi,False,1954 (2nd) | Mirza Ghalib | Hindi | Sohrab Modi | Sohrab Modi | [ 29 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1955,Pather Panchali,Bengali,False,1955 (3rd) | Pather Panchali | Bengali | Government of West Bengal | Satyajit Ray | [ 30 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1956,Kabuliwala,Bengali,False,1956 (4th) | Kabuliwala | Bengali | Charuchitra | Tapan Sinha | [ 8 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1957,Do Aankhen Barah Haath,Hindi,False,1957 (5th) | Do Aankhen Barah Haath | Hindi | V. Shantaram | V. Shantaram | [ 6 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1958,Sagar Sangamey,Bengali,False,1958 (6th) | Sagar Sangamey | Bengali | De Luxe Film Distributors | Debaki Bose | [ 31 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1959,Apur Sansar,Bengali,False,1959 (7th) | Apur Sansar | Bengali | Satyajit Ray Productions | Satyajit Ray | [ 32 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1960,Anuradha,Hindi,False,1960 (8th) | Anuradha | Hindi | Hrishikesh Mukherjee and L. B. Thakur | Hrishikesh Mukherjee | [ 33 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1961,Bhagini Nivedita,Bengali,False,1961 (9th) | Bhagini Nivedita | Bengali | Aurora Film Corporation | Bijoy Bose | [ 34 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1962,Dada Thakur,Bengali,False,1962 (10th) | Dada Thakur | Bengali | Shyamlal Jalan | Sudhir Mukherjee | [ 35 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1963,Shehar Aur Sapna,Hindi,False,1963 (11th) | Shehar Aur Sapna | Hindi | Naya Sansar | Khwaja Ahmad Abbas | [ 36 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1964,Charulata,Bengali,False,1964 (12th) | Charulata | Bengali | R. D. Bansal | Satyajit Ray | [ 37 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1965,Chemmeen,Malayalam,False,1965 (13th) | Chemmeen | Malayalam | Babu Ismail Settu | Ramu Kariat | [ 38 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1966,Teesri Kasam,Hindi,False,1966 (14th) | Teesri Kasam | Hindi | Shailendra | Basu Bhattacharya | [ 39 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1967,Hatey Bazarey,Bengali,False,1967 (15th) | Hatey Bazarey | Bengali | Asim Dutta | Tapan Sinha | [ 2 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1968,Goopy Gyne Bagha Byne,Bengali,False,1968 (16th) | Goopy Gyne Bagha Byne | Bengali | Nepal Dutta and Asim Dutta | Satyajit Ray | [ 40 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1969,Bhuvan Shome,Hindi,False,1969 (17th) | Bhuvan Shome | Hindi | Mrinal Sen Productions | Mrinal Sen | [ 41 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1970,Samskara,Kannada,False,1970 (18th) | Samskara | Kannada | Tikkavarapu Pattabhirama Reddy | Tikkavarapu Pattabhirama Reddy | [ 4 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1971,Seemabaddha,Bengali,False,1971 (19th) | Seemabaddha | Bengali | Bharat Shumsher Jung Bahadur Rana | Satyajit Ray | [ 42 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1972,Swayamvaram,Malayalam,False,1972 (20th) | Swayamvaram | Malayalam | Adoor Gopalakrishnan | Adoor Gopalakrishnan | [ 43 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1973,Nirmalyam,Malayalam,False,1973 (21st) | Nirmalyam [ c ] | Malayalam | M. T. Vasudevan Nair | M. T. Vasudevan Nair | [ 9 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1974,Chorus,Bengali,False,1974 (22nd) | Chorus [ d ] | Bengali | Mrinal Sen Productions | Mrinal Sen | [ 10 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1975,Chomana Dudi,Kannada,False,1975 (23rd) | Chomana Dudi | Kannada | Praja Films | B. V. Karanth | [ 44 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1976,Mrigayaa,Hindi,False,1976 (24th) | Mrigayaa | Hindi | Uday Bhaskar International | Mrinal Sen | [ 45 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1977,Ghatashraddha,Kannada,False,1977 (25th) | Ghatashraddha | Kannada | Sadanand Suvarna | Girish Kasaravalli | [ 11 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1978,No Award,,False,1978 (26th) | No Award | [ 13 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1979,Shodh,Hindi,False,1979 (27th) | Shodh | Hindi | Sitakant Misra | Biplab Roy Chowdhury | [ 46 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1980,Akaler Shandhaney,Bengali,False,1980 (28th) | Akaler Shandhaney | Bengali | D. K. Films | Mrinal Sen | [ 5 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1981,Dakhal,Bengali,False,1981 (29th) | Dakhal | Bengali | Government of West Bengal | Goutam Ghose | [ 47 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1982,Chokh,Bengali,False,"1982 (30th) | Chokh | Bengali | Department of Information, Cultural Affairs India and the Government of West Bengal | Utpalendu Chakrabarty | [ 48 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1983,Adi Shankaracharya,Sanskrit,False,1983 (31st) | Adi Shankaracharya | Sanskrit | NFDC | G. V. Iyer | [ 49 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1984,Damul,Hindi,False,1984 (32nd) | Damul | Hindi | Prakash Jha Productions | Prakash Jha | [ 50 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1985,Chidambaram,Malayalam,False,1985 (33rd) | Chidambaram | Malayalam | G. Aravindan | G. Aravindan | [ 51 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1986,Tabarana Kathe,Kannada,False,1986 (34th) | Tabarana Kathe | Kannada | Girish Kasaravalli | Girish Kasaravalli | [ 52 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1987,Halodhia Choraye Baodhan Khai,Assamese,False,1987 (35th) | Halodhia Choraye Baodhan Khai | Assamese | Sailadhar Baruah and Jahnu Barua | Jahnu Barua | [ 53 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1988,Piravi,Malayalam,False,1988 (36th) | Piravi | Malayalam | Film Folks | Shaji N. Karun | [ 54 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1989,Bagh Bahadur,Bengali,False,1989 (37th) | Bagh Bahadur | Bengali | Buddhadeb Dasgupta | Buddhadeb Dasgupta | [ 55 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1990,Marupakkam,Tamil,False,1990 (38th) | Marupakkam | Tamil | NFDC | K. S. Sethumadhavan | [ 56 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1991,Agantuk,Bengali,False,1991 (39th) | Agantuk | Bengali | NFDC | Satyajit Ray | [ 57 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1992,Bhagavad Gita,Sanskrit,False,1992 (40th) | Bhagavad Gita | Sanskrit | T. Subbarami Reddy | G. V. Iyer | [ 58 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1993,Charachar,Bengali,False,1993 (41st) | Charachar | Bengali | Gita Gope and Shankar Gope | Buddhadeb Dasgupta | [ 59 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1994,Unishe April,Bengali,False,1994 (42nd) | Unishe April | Bengali | Renu Roy | Rituparno Ghosh | [ 60 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1995,Kathapurushan,Malayalam,False,1995 (43rd) | Kathapurushan | Malayalam | Adoor Gopalakrishnan | Adoor Gopalakrishnan | [ 61 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1996,Lal Darja,Bengali,False,1996 (44th) | Lal Darja | Bengali | Chitrani Lahiri and Dulal Roy | Buddhadeb Dasgupta | [ 62 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1997,Thaayi Saheba,Kannada,False,1997 (45th) | Thaayi Saheba | Kannada | Jayamala | Girish Kasaravalli | [ 63 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1998,Samar,Hindi,False,"1998 (46th) | Samar | Hindi | Shyam Benegal , Sahyadri Films, and NFDC | Shyam Benegal | [ 64 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+1999,Vanaprastham,Malayalam,False,1999 (47th) | Vanaprastham | Malayalam | Mohanlal | Shaji N. Karun | [ 65 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+2000,Shantham,Malayalam,False,2000 (48th) | Shantham | Malayalam | P. V. Gangadharan | Jayaraj | [ 66 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+2001,Dweepa,Kannada,False,2001 (49th) | Dweepa | Kannada | Soundarya | Girish Kasaravalli | [ 67 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+2002,Mondo Meyer Upakhyan,Bengali,False,2002 (50th) | Mondo Meyer Upakhyan | Bengali | Arya Bhattacharya | Buddhadeb Dasgupta | [ 68 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+2003,Shwaas,Marathi,False,2003 (51st) | Shwaas | Marathi | Arun Nalawade | Sandeep Sawant | [ 69 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+2004,Page 3,Hindi,False,2004 (52nd) | Page 3 | Hindi | Bobby Pushkarna | Madhur Bhandarkar | [ 70 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+2005,Kaalpurush,Bengali,False,2005 (53rd) | Kaalpurush | Bengali | Jhamu Sughand | Buddhadeb Dasgupta | [ 71 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+2006,Pulijanmam,Malayalam,False,2006 (54th) | Pulijanmam | Malayalam | M. G. Vijay | Priyanandanan | [ 7 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+2007,Kanchivaram,Tamil,False,2007 (55th) | Kanchivaram | Tamil | Percept Picture Company | Priyadarshan | [ 72 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+2008,Antaheen,Bengali,False,2008 (56th) | Antaheen | Bengali | Screenplay Films | Aniruddha Roy Chowdhury | [ 73 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+2009,Kutty Srank,Malayalam,False,2009 (57th) | Kutty Srank | Malayalam | Reliance Big Pictures | Shaji N. Karun | [ 74 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+2010,Adaminte Makan Abu,Malayalam,False,2010 (58th) | Adaminte Makan Abu | Malayalam | Salim Ahamed and Ashraf Bedi | Salim Ahamed | [ 75 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+2011,Deool,Marathi,False,2011 (59th) | Deool | Marathi | Abhijeet Gholap | Umesh Vinayak Kulkarni | [ 14 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+2011,Beary,Altaaf Hussain,False,Byari | Beary | Altaaf Hussain | K. P. Suveeran,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+2012,Paan Singh Tomar,Hindi,False,2012 (60th) | Paan Singh Tomar | Hindi | UTV Software Communications | Tigmanshu Dhulia | [ 76 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+2013,Ship of Theseus,English,False,2013 (61st) | Ship of Theseus | English | Recyclewala Films Pvt. Ltd. | Anand Gandhi | [ 77 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+2014,Court,Marathi,False,2014 (62nd) | Court | Marathi | Zoo Entertainment Pvt. Ltd. | Chaitanya Tamhane | [ 78 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+2015,Baahubali: The Beginning,Telugu,False,2015 (63rd) | Baahubali: The Beginning | Telugu | Shobu Yarlagadda and Arka Media Works | S. S. Rajamouli | [ 79 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+2016,Kaasav,Marathi,False,"2016 (64th) | Kaasav | Marathi | Sumitra Bhave , Sunil Sukthankar , and Mohan Agashe | Sumitra Bhave and Sunil Sukthankar | [ 80 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+2017,Village Rockstars,Assamese,False,2017 (65th) | Village Rockstars | Assamese | Rima Das | Rima Das | ,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+2018,Hellaro,Gujarati,False,2018 (66th) | Hellaro | Gujarati | Saarthi Productions LLP | Abhishek Shah | [ 81 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+2019,Marakkar: Lion of the Arabian Sea,Malayalam,False,2019 (67th) | Marakkar: Lion of the Arabian Sea | Malayalam | Antony Perumbavoor | Priyadarshan | [ 82 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+2020,Soorarai Pottru,Tamil,False,2020 (68th) | Soorarai Pottru | Tamil | 2D Entertainment | Sudha Kongara | [ 83 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+2021,Rocketry: The Nambi Effect,Tamil,False,2021 (69th) | Rocketry: The Nambi Effect | Tamil | Rocketry Entertainment LLP | R. Madhavan | [ 84 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+2022,Aattam,Malayalam,False,2022 (70th) | Aattam | Malayalam | Joy Movie Productions | Anand Ekarshi | [ 85 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film
+2023,12th Fail,Hindi,False,2023 (71st) | 12th Fail | Hindi | Vinod Chopra Films | Vidhu Vinod Chopra | [ 86 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Feature_Film

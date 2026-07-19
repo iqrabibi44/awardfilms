@@ -1,0 +1,140 @@
+year,film,person,is_winner,raw_text,source_url
+1981,N/A,,False,1981 | N/A,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1982,Zhang Yan,张雁,True,1982 | Zhang Yan | 张雁 | Laughter at the Moon Bay | 月亮湾的笑声,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1982,冯汉元,Neighbour,False,Feng Hanyuan | 冯汉元 | Neighbour | 邻居,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1982,金安歌,The Xi'an Incident,False,Jin Ange | 金安歌 | The Xi'an Incident | 西安事变,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1983,N/A,,False,1983 | N/A,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1984,Dong Xingji,董行佶,True,1984 | Dong Xingji | 董行佶 | Liao Zhongkai | 廖仲恺,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1984,杨在葆,Blood is Always Hot,True,Yang Zaibao | 杨在葆 | Blood is Always Hot | 血，总是热的,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1984,李纬,River Without Buoys,False,Li Wei | 李纬 | River Without Buoys | 没有航标的河流,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1985,Lv Xiaohe,吕晓禾,True,1985 | Lv Xiaohe | 吕晓禾 | Wreaths at the Foot of the Mountain | 高山下的花环,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1986,Liu Zifeng,刘子枫,True,1986 | Liu Zifeng | 刘子枫 | Black Cannon Incident | 黑炮事件,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1986,孔宪珠,Jue Xiang,False,Kong Xianzhu | 孔宪珠 | Jue Xiang | 绝响,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1986,吐依贡,Money,False,Tu Yigong | 吐依贡 | Money | 钱这个东西……,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1986,朱旭,A Narrow Lane Celebrity,False,Zhu Xu | 朱旭 | A Narrow Lane Celebrity | 小巷名流,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1987,Liu Wenzhi,刘文治,True,1987 | Liu Wenzhi | 刘文治 | Sun Yat-sen | 孙中山,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1988,Zhang Yimou,张艺谋,True,1988 | Zhang Yimou | 张艺谋 | Old Well | 老井,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1988,姜文,Red Sorghum,False,Jiang Wen | 姜文 | Red Sorghum | 红高粱,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1988,刘威,The Warrior,False,Liu Wei | 刘威 | The Warrior | 关中大侠,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1989,Tao Zeru,陶泽如,True,1989 | Tao Zeru | 陶泽如 | Night Bell / Happy Heroes | 晚钟 、 欢乐英雄,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1989,谢园,King of Chess / Out of Breath,True,Xie Yuan | 谢园 | ' King of Chess / Out of Breath | 棋王 、 大喘气,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1989,雷汉,Reincarnation,False,Lei Han | 雷汉 | Reincarnation | 轮回,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1989,严翔,When does the day break?,False,Yan Xiang | 严翔 | When does the day break? | 问天何时明,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1990,Lu Qi,卢奇,True,1990 | Lu Qi | 卢奇 | The Baise Uprising | 百色起义,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1990,古月,Founding Ceremony,False,Gu Yue | 古月 | Founding Ceremony | 开国大典,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1990,奇梦石,Long Yun and Chiang Kai-shek,False,Qi Mengshi | 奇梦石 | Long Yun and Chiang Kai-shek | 龙云与蒋介石,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1991,Li Xuejian,李雪健,True,1991 | Li Xuejian | 李雪健 | Jiao Yulu | 焦裕禄,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1991,陈宝国,Peking Duck Restaurant,False,Chen Baoguo | 陈宝国 | Peking Duck Restaurant | 老店,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1991,张丰毅,Dragon Year Cops,False,Zhang Fengyi | 张丰毅 | Dragon Year Cops | 龙年警官,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1992,Wang Tiecheng,王铁成,True,1992 | Wang Tiecheng | 王铁成 | Zhou Enlai | 周恩来,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1992,李法曾,After the Battle,False,Li Fazeng | 李法曾 | After the Battle | 决战之后,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1992,邵宏来,Kai Tian Pi Di,False,Shao Honglai | 邵宏来 | Kai Tian Pi Di | 开天辟地,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1992,朱旭,Xin Xiang,False,Zhu Xu | 朱旭 | Xin Xiang | 心香,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1993,Ge You,葛优,True,1993 | Ge You | 葛优 | After Separation | 大撒把,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1993,巍子,Jiang Zhuying,False,Wei Zi | 巍子 | Jiang Zhuying | 蒋筑英,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1993,朱旭,A Confucius family,False,Zhu Xu | 朱旭 | A Confucius family | 阙里谭,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1994,Li Baotian,李保田,True,1994 | Li Baotian | 李保田 | No More Applause | 凤凰琴,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1994,巫刚,"Red Firecracker, Green Firecracker",False,"Wu Gang (actor) | 巫刚 | Red Firecracker, Green Firecracker | 炮打双灯",https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1994,周里京,Artillery Commander,False,Zhou Lijing | 周里京 | Artillery Commander | 炮兵少校,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1995,Li Rentang,李仁堂,True,1995 | Li Rentang | 李仁堂 | The Accused Uncle Shangang | 被告山杠爷,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1995,牛振华,"Back to Back, Face to Face",False,"Niu Zhenhua | 牛振华 | Back to Back, Face to Face | 背靠背，脸对脸",https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1996,Gao Ming,高明,True,1996 | Gao Ming | 高明 | Kong Fansen | 孔繁森,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1996,曹景阳,Brother Wu Invites the God,False,Cao Jingyang | 曹景阳 | Brother Wu Invites the God | 吴二哥请神,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1996,邵兵,Winner,False,Shao Bing | 邵兵 | Winner | 赢家,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1997,Liu Peiqi,刘佩琦,True,1997 | Liu Peiqi | 刘佩琦 | The Days Without Lei Feng | 离开雷锋的日子,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1997,冯巩,Ambush,False,Feng Gong | 冯巩 | Ambush | 埋伏,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1997,卢琦,The Great Transition,False,Lu Qi | 卢琦 | The Great Transition | 大转折,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1998,Feng Gong,冯巩,True,1998 | Feng Gong | 冯巩 | A Tree in House | 没事偷着乐,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1998,唐国强,Long March,False,Tang Guoqiang | 唐国强 | Long March | 长征,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1999,Teng Rujun,滕汝俊,True,1999 | Teng Rujun | 滕汝俊 | Postmen in the Mountains | 那山那人那狗,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1999,田成仁,Golden Marriage,False,Tian Chengren | 田成仁 | Golden Marriage | 金婚,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+1999,王亚楠,Once Upon a Time in Shanghai,False,Wang Yanan | 王亚楠 | Once Upon a Time in Shanghai | 上海纪事,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2000,Chen Daoming,陈道明,True,2000 | Chen Daoming | 陈道明 | My 1919 | 我的1919,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2000,王庆祥,Final Decision,False,Wang Qingxiang | 王庆祥 | Final Decision | 生死抉择,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2000,尤勇,Neverland,False,You Yong | 尤勇 | Neverland | 梦幻田园,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2000,朱旭,Shower,False,Zhu Xu | 朱旭 | Shower | 洗澡,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2001,Ge Zhijun,戈治均,True,2001 | Ge Zhijun | 戈治均 | Escort | 押解的故事,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2001,潘粤明,A Love of Blueness,False,Pan Yueming | 潘粤明 | A Love of Blueness | 蓝色爱情,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2001,赵文卓,The Sino-Dutch War 1661,False,Vincent Zhao | 赵文卓 | The Sino-Dutch War 1661 | 英雄郑成功,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2001,王学圻,Together Forever,False,Wang Xueqi | 王学圻 | Together Forever | 相伴永远,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2002,Ning Cai,宁才,True,2002 | Ning Cai | 宁才 | Heavenly Grassland | 天上草原,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2002,刘佩琦,Together,False,Liu Peiqi | 刘佩琦 | Together | 和你在一起,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2002,肖荣生,Facing Life,False,Xiao Rongsheng | 肖荣生 | Facing Life | 面对生命,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2003,Xia Yu,夏雨,True,2003 | Xia Yu | 夏雨 | The Law of Romance | 警察有约,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2003,葛优,"Cala, My Dog!",False,"Ge You | 葛优 | Cala, My Dog! | 卡拉是条狗",https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2003,范伟,The Parking Attendant in July,False,Fan Wei | 范伟 | The Parking Attendant in July | 看车人的七月,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2003,卢琦,Deng Xiaoping,False,Lu Qi | 卢琦 | Deng Xiaoping | 邓小平,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2004,Liu Ye,刘烨,True,2004 | Liu Ye | 刘烨 | Years Without Epidemic | 美人草,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2004,刘威,Defending Reputation,False,Liu Wei | 刘威 | Defending Reputation | 疑案忠魂,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2005,Jackie Chan,成龙,True,2005 | Jackie Chan | 成龙 | New Police Story | 新警察故事,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2005,罗德元,Silent Mountains,False,Luo Deyuan | 罗德元 | Silent Mountains | 沉默的远山,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2005,濮存昕,A Bright Moon,False,Pu Cunxin | 濮存昕 | A Bright Moon | 一轮明月,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2005,多布杰,Kekexili: Mountain Patrol,False,Tobgyal | 多布杰 | Kekexili: Mountain Patrol | 可可西里,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2005,吴军,Zhang Side,False,Wu Jun | 吴军 | Zhang Side | 张思德,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2005,Fu Dalong,富大龙,True,2006-2007 | Fu Dalong | 富大龙 | The Forest Ranger | 天狗,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2005,陈坤,The Knot,False,Chen Kun | 陈坤 | The Knot | 云水谣,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2005,刘松仁,The Tokyo Trial,False,Damian Lau | 刘松仁 | The Tokyo Trial | 东京审判,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2005,李易祥,One Foot of the Ground,False,Li Yixiang | 李易祥 | One Foot of the Ground | 鸡犬不宁,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2005,刘佩琦,5 Bullets,False,Liu Peiqi | 刘佩琦 | 5 Bullets | 五颗子弹,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2005,邱林,A Postman of Paradise,False,Qiu Lin | 邱林 | A Postman of Paradise | 香巴拉信使,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2005,Wu Gang,吴刚,True,2008-2009 | Wu Gang | 吴刚 | Iron Man | 铁人,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2005,范伟,Lucky Dog,False,Fan Wei | 范伟 | Lucky Dog | 耳朵大有福,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2005,马国伟,Old Fish,False,Ma Guowei | 马国伟 | Old Fish | 千钧。一发,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2005,孙敏,Deng Pingshou,False,Sun Min | 孙敏 | Deng Pingshou | 我是花下肥泥巴,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2005,张涵予,Assembly,False,Zhang Hanyu | 张涵予 | Assembly | 集结号,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+,Sun Chun,孙淳,True,2010-2011 | Sun Chun | 孙淳 | Qiu Xi | 秋喜,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+,郭富城,Love for Life,False,Aaron Kwok | 郭富城 | Love for Life | 最爱,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+,刘之冰,The Space Dream,False,Liu Zhibing | 刘之冰 | The Space Dream | 飞天,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+,王千源,The Piano in a Factory,False,Wang Qianyuan | 王千源 | The Piano in a Factory | 钢的琴,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+,朱旭,Lan,False,Zhu Xu | 朱旭 | Lan | 我们天上见,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+,Huang Xiaoming,黄晓明,True,2012-2013 [ 1 ] | Huang Xiaoming | 黄晓明 | American Dreams in China | 中国合伙人,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+,张国立,Back to 1942,True,Zhang Guoli | 张国立 | Back to 1942 | 一九四二,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+,陶泽如,Song of the Phoenix,False,Tao Zeru | 陶泽如 | Song of the Phoenix | 百鸟朝凤,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+,黄觉,Fallen City,False,Huang Jue | 黄觉 | Fallen City | 倾城,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+,孙维民,The Story of Zhou Enlai,False,Sun Weimin | 孙维民 | The Story of Zhou Enlai | 周恩来的四个昼夜,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+,Zhang Hanyu,张涵予,True,2014-2015 [ 2 ] | Zhang Hanyu | 张涵予 | The Taking of Tiger Mountain | 智取威虎山,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+,刘德华,Lost and Love,False,Andy Lau | 刘德华 | Lost and Love | 失孤,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+,孙维民,Who is Undercover,False,Sun Weimin | 孙维民 | Who is Undercover | 一号目标,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+,陈建斌,A Fool,False,Chen Jianbin | 陈建斌 | A Fool | 一个勺子,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+,Deng Chao,邓超,True,2016-2017 | Deng Chao | 邓超 | The Dead End | 烈日灼心,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+,冯小刚,Mr. Six,False,Feng Xiaogang | 冯小刚 | Mr. Six | 老炮儿,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+,涂们,A Simple Goodbye,False,Tu Men | 涂们 | A Simple Goodbye | 告别,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+,包贝尔,When Larry Met Mary,False,Bao Bei'er | 包贝尔 | When Larry Met Mary | 陆垚知马俐,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+,廖凡,The Final Master,False,Liao Fan | 廖凡 | The Final Master | 师父,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+,Wang Jingchun,王景春,True,"2018-2019 | Wang Jingchun | 王景春 | So Long, My Son | 地久天长",https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+,徐峥,Dying to Survive,False,Xu Zheng | 徐峥 | Dying to Survive | 我不是药神,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+,涂们,Old Beast,False,Tu Men | 涂们 | Old Beast | 老兽,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+,段奕宏,The Looming Storm,False,Duan Yihong | 段奕宏 | The Looming Storm | 暴雪将至,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+,富大龙,Enter the Forbidden City,False,Fu Dalong | 富大龙 | Enter the Forbidden City | 进京城,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+,杨太义,Crossing The Border-Zhaoguan,False,Yang Taiyi | 杨太义 | Crossing The Border-Zhaoguan | 过昭关,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2020,Huang Xiaoming,The Bravest,True,2020 | Huang Xiaoming | The Bravest | Jiang Liwei,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2020,My Dear Liar,Wu Hai,False,Dong Chengpeng | My Dear Liar | Wu Hai,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2020,Sheep Without a Shepherd,Li Weijie,False,Xiao Yang | Sheep Without a Shepherd | Li Weijie,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2020,Almost a Comedy,Sun Tong,False,Wu Yuhan | Almost a Comedy | Sun Tong,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2020,Better Days,Liu Beishan,False,Jackson Yee | Better Days | Liu Beishan,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2021,Zhang Yi,Cliff Walkers,True,2021 [ 3 ] | Zhang Yi | Cliff Walkers | Zhang Xianchen,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2021,Cliff Walkers,Zhou Yi,False,Yu Hewei | Cliff Walkers | Zhou Yi,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2021,Island Keeper,Wang Jicai,False,Liu Ye | Island Keeper | Wang Jicai,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2021,"My Father, Jiao Yulu",Jiao Yulu,False,"Guo Xiaodong | My Father, Jiao Yulu | Jiao Yulu",https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2021,A Little Red Flower,Wei Yihang,False,Jackson Yee | A Little Red Flower | Wei Yihang,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2022,Zhu Yilong,Lighting Up the Stars,True,2022 | Zhu Yilong | Lighting Up the Stars | Mo Sanmei,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2022,Moon Man,Dugu Yue,False,Shen Teng | Moon Man | Dugu Yue,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2022,The Battle at Lake Changjin,Wu Qianli,False,Wu Jing | The Battle at Lake Changjin | Wu Qianli,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2022,Myth of Love,Lao Bai,False,Xu Zheng | Myth of Love | Lao Bai,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2022,Nice View,Jing Hao,False,Jackson Yee | Nice View | Jing Hao,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2023,Tony Leung Chiu-wai,Hidden Blade,True,2023 | Tony Leung Chiu-wai | Hidden Blade | Director He,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2023,Study Dad,Lei Dali,False,Huang Bo | Study Dad | Lei Dali,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2023,Back to Tibet,Lao Kong,False,Song Yang | Back to Tibet | Lao Kong,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2023,Like Father and Son,Gou Ren,False,Hui Wangjun | Like Father and Son | Gou Ren,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2023,Journey to the West,Tang Zhijun,False,Yang Haoyu | Journey to the West | Tang Zhijun,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2024,Lei Jiayin,Article 20,True,2024 | Lei Jiayin | Article 20 | Han Ming,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2024,One and Only,Chen Shuo,False,Wang Yibo | One and Only | Chen Shuo,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2024,Pegasus 2,Zhang Chi,False,Shen Teng | Pegasus 2 | Zhang Chi,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2024,In Broad Daylight,Cheung Kim-Wah,False,Bowie Lam | In Broad Daylight | Cheung Kim-Wah,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2024,Snow Leopard,Jinpa,False,Jinpa | Snow Leopard | Jinpa (eldest son),https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2024,Viva La Vida,Lü Tu,False,Peng Yuchang | Viva La Vida | Lü Tu,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2025,Jackson Yee,Big World,True,2025 | Jackson Yee | Big World | Liu Chunhe,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2025,The Lychee Road,Li Shande,False,Da Peng | The Lychee Road | Li Shande,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2025,The Volunteers: The Battle of Life and Death,Li Xiang,False,Zhu Yilong | The Volunteers: The Battle of Life and Death | Li Xiang,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2025,Decoded,Rong Jinzhen,False,Liu Haoran | Decoded | Rong Jinzhen,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor
+2025,Mostly Sunny,Wu You,False,Huang Xiaoming | Mostly Sunny | Wu You,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Actor

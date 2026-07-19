@@ -1,0 +1,165 @@
+year,film,person,is_winner,raw_text,source_url
+,Amparo Rivelles,Laura García,True,1986 (1st) [ 1 ] [ 2 ] [ 3 ] | Amparo Rivelles ‡ | Laura García | We Must Undo the House | Hay que deshacer la casa,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Dorita,Time of Silence,False,Victoria Abril | Dorita | Time of Silence | Tiempo de silencio,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Rosa,Half of Heaven,False,Ángela Molina | Rosa | Half of Heaven | La mitad del cielo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Verónica Forqué,Ana Chamorro,True,1987 (2nd) | Verónica Forqué ‡ | Ana Chamorro | The Happy Life | La vida alegre,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,"Consuelo ""Chelo"" García",El Lute: Run for Your Life,False,"Victoria Abril | Consuelo ""Chelo"" García | El Lute: Run for Your Life | El lute: camina o revienta",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Bernarda Alba,The House of Bernarda Alba,False,Irene Gutiérrez Caba [ es ] | Bernarda Alba | The House of Bernarda Alba | La casa de Bernada Alba,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Carmen Maura,Pepa Marcos,True,1988 (3rd) | Carmen Maura ‡ | Pepa Marcos | Women on the Verge of a Nervous Breakdown | Mujeres al borde de un ataque de nervios,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Ana Alonso,Baton Rouge,False,Victoria Abril | Ana Alonso | Baton Rouge,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Alejandra Barrachina,Miss Caribe,False,Ana Belén | Alejandra Barrachina | Miss Caribe [ ca ],https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Sor Mercedes,Caminos de tiza,False,María Fernanda D'Ocón [ es ] | Sor Mercedes | Caminos de tiza [ ca ],https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Charo,Lights and Shadows,False,Ángela Molina | Charo | Lights and Shadows | Luces y sombras,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Rafaela Aparicio,Grandmother,True,1989 (4th) | Rafaela Aparicio ‡ | Grandmother | The Sea and the Weather | El mar y el tiempo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Ramona / Menchu / Aurora Nin,If They Tell You I Fell,False,Victoria Abril | Ramona / Menchu / Aurora Nin | If They Tell You I Fell | Si te dicen que caí,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Paloma,The Flight of the Dove,False,Ana Belén | Paloma | The Flight of the Dove | El vuelo de la paloma,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Chusa,Going South Shopping,False,Verónica Forqué | Chusa | Going South Shopping | Bajarse al moro,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Pepita Morán,The Things of Love,False,Ángela Molina | Pepita Morán | The Things of Love | Las cosas del querer,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Carmen Maura,Carmela,True,"1990 (5th) | Carmen Maura ‡ | Carmela | Ay, Carmela! | ¡Ay, Carmela!",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Marina Osorio,Tie Me Up! Tie Me Down!,False,Victoria Abril | Marina Osorio | Tie Me Up! Tie Me Down! | ¡Átame!,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Clara,The Most Natural Thing,False,Charo López | Clara | The Most Natural Thing | Lo más natural,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Sílvia Munt,Carmen Galán,True,1991 (6th) | Sílvia Munt ‡ | Carmen Galán | Butterfly Wings | Alas de mariposa,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Luisa,Lovers,False,Victoria Abril | Luisa | Lovers | Amantes,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Trini,,False,Maribel Verdú | Trini,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Ariadna Gil,Violeta,True,1992 (7th) | Ariadna Gil ‡ | Violeta | Belle Époque,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Silvia,Jamón Jamón,False,Penélope Cruz | Silvia | Jamón Jamón,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Adela de Otero,The Fencing Master,False,Assumpta Serna | Adela de Otero | The Fencing Master | El maestro de esgrima,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Verónica Forqué,Kika,True,1993 (8th) | Verónica Forqué ‡ | Kika | Kika,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Ana,Shadows in a Conflict,False,Carmen Maura | Ana | Shadows in a Conflict | Sombras en una batalla,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Lisa / Sofía,The Red Squirrel,False,Emma Suárez | Lisa / Sofía | The Red Squirrel | La ardilla roja,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Cristina Marcos,Yoli,True,1994 (9th) | Cristina Marcos ‡ | Yoli | All Men Are the Same | Todos los hombres sois iguales,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Desideria Oliván,The Turkish Passion,False,Ana Belén | Desideria Oliván | The Turkish Passion | La pasión turca,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Charo,Running Out of Time,False,Ruth Gabriel | Charo | Running Out of Time | Días contados,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Victoria Abril,Gloria Duque,True,1995 (10th) | Victoria Abril ‡ | Gloria Duque | Nobody Will Speak of Us When We're Dead | Nadie hablará de nosotras cuando hayamos muerto,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,María,Antarctica,False,Ariadna Gil | María | Antarctica | Antártida,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Leo Macías,The Flower of My Secret,False,Marisa Paredes | Leo Macías | The Flower of My Secret | La flor de mi secreto,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Emma Suárez,Diana,True,1996 (11th) | Emma Suárez ‡ | Diana | The Dog in the Manger | El perro del hortelano,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Ángela Márquez,Thesis,False,Ana Torrent | Ángela Márquez | Thesis | Tesis,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Palmira Gadea,Beyond the Garden,False,Concha Velasco | Palmira Gadea | Beyond the Garden | Más allá del jardín,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Cecilia Roth,Alicia,True,1997 (12th) | Cecilia Roth ‡ | Alicia | Martín (Hache),https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Marina,The Lucky Star,False,Maribel Verdú | Marina | The Lucky Star | La buena estrella,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Lola,The Color of the Clouds,False,Julia Gutiérrez Caba | Lola | The Color of the Clouds | El color de las nubes,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Penélope Cruz,Macarena Granada,True,1998 (13th) | Penélope Cruz ‡ | Macarena Granada | The Girl of Your Dreams | La niña de tus ojos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Lucrecia Richmond,The Grandfather,False,Cayetana Guillén Cuervo | Lucrecia Richmond | The Grandfather | El abuelo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Ana,Lovers of the Arctic Circle,False,Najwa Nimri | Ana | Lovers of the Arctic Circle | Los amantes del círculo polar,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Carmen López,A Time for Defiance,False,Leonor Watling | Carmen López | A Time for Defiance | La hora de los valientes,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Cecilia Roth,Manuela Coleman,True,1999 (14th) | Cecilia Roth ‡ | Manuela Coleman | All About My Mother | Todo sobre mi madre,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Isabel,Black Tears,False,Ariadna Gil | Isabel | Black Tears | Lágrimas negras,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Berta,Lisbon,False,Carmen Maura | Berta | Lisbon | Lisboa,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Gloria,By My Side Again,False,Mercedes Sampietro | Gloria | By My Side Again | Cuando vuelvas a mi lado,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Carmen Maura,Julia García,True,2000 (15th) | Carmen Maura ‡ | Julia García | Common Wealth | La comunidad,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Leo,Leo,False,Icíar Bollaín | Leo | Leo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Julia,You're the One,False,Lydia Bosch | Julia | You're the One | Una historia de entonces,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Susana Grey,Plenilune,False,Adriana Ozores | Susana Grey | Plenilune | Plenilunio,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Pilar López de Ayala,Joanna of Castile,True,2001 (16th) | Pilar López de Ayala ‡ | Joanna of Castile | Mad Love | Juana la Loca,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Lola Nevado,Don't Tempt Me,False,Victoria Abril | Lola Nevado | Don't Tempt Me | Sin noticias de Dios,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Grace Stewart,The Others,False,Nicole Kidman | Grace Stewart | The Others | The Others,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Angela,Mine Alone,False,Paz Vega | Angela | Mine Alone | Sólo mía,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Mercedes Sampietro,Liliana Rovira,True,2002 (17th) | Mercedes Sampietro ‡ | Liliana Rovira | Common Ground | Lugares comunes,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Andrea,Story of a Kiss,False,Ana Fernández | Andrea | Story of a Kiss | Historia de un beso,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Ágata,Nobody's Life,False,Adriana Ozores | Ágata | Nobody's Life | La vida de nadie,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Elvira,My Mother Likes Women,False,Leonor Watling | Elvira | My Mother Likes Women | A mi madre le gustan las mujeres,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Laia Marull,Pilar Pérez Villar,True,2003 (18th) | Laia Marull ‡ | Pilar Pérez Villar | Take My Eyes | Te doy mis ojos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Lola Cercas,Soldiers of Salamis,False,Ariadna Gil | Lola Cercas | Soldiers of Salamis | Soldados de Salamina,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Amparo,Sleeping Luck,False,Adriana Ozores | Amparo | Sleeping Luck | La suerte dormida,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Ann,My Life Without Me,False,Sarah Polley | Ann | My Life Without Me,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Lola Dueñas,Rosa,True,2004 (19th) | Lola Dueñas ‡ | Rosa | The Sea Inside | Mar adentro,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,María Zambrano,Dearest Maria,False,Pilar Bardem | María Zambrano | Dearest Maria | María querida,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Hortensia Ocaña,Things That Make Living Worthwhile,False,Ana Belén | Hortensia Ocaña | Things That Make Living Worthwhile | Cosas que hacen que la vida valga la pena,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Italia,Don't Move,False,Penélope Cruz | Italia | Don't Move | Non ti muovere,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Candela Peña,Caye,True,2005 (20th) | Candela Peña ‡ | Caye | Princesas,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Pilar,Heroine,False,Adriana Ozores | Pilar | Heroine | Heroína,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Ana,Hard Times,False,Nathalie Poza | Ana | Hard Times | Malas temporadas,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Irene,Something to Remember Me By,False,Emma Vilarasau | Irene | Something to Remember Me By | Para que no me olvides,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Penélope Cruz,Raimunda,True,2006 (21st) | Penélope Cruz ‡ | Raimunda | Volver,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Finea,The Idiot Maiden,False,Silvia Abascal | Finea | The Idiot Maiden | La dama boba,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Paula,Dark Blue Almost Black,False,Marta Etura | Paula | Dark Blue Almost Black | Azuloscurocasinegro,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Mercedes,Pan's Labyrinth,False,Maribel Verdú | Mercedes | Pan's Labyrinth | El laberinto del fauno,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Maribel Verdú,Ángela Montero,True,2007 (22nd) | Maribel Verdú ‡ | Ángela Montero | Seven Billiard Tables | Siete mesas de billar francés,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Laura García,The Orphanage,False,Belén Rueda | Laura García | The Orphanage | El orfanato,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Charo Gil,Seven Billiard Tables,False,Blanca Portillo | Charo Gil | Seven Billiard Tables | Siete mesas de billar francés,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Nines,Under the Stars,False,Emma Suárez | Nines | Under the Stars | Bajo las estrellas,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Carme Elías,Gloria Usaola,True,2008 (23rd) | Carme Elías ‡ | Gloria Usaola | Camino,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Isa,My Prison Yard,False,Verónica Echegui | Isa | My Prison Yard | El patio de mi cárcel,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Aurora Rodríguez,Just Walking,False,Ariadna Gil | Aurora Rodríguez | Just Walking | Sólo quiero caminar,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Elena Vadillo,The Blind Sunflowers,False,Maribel Verdú | Elena Vadillo | The Blind Sunflowers | Los girasoles ciegos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Lola Dueñas,Laura Valiente,True,"2009 (24th) | Lola Dueñas ‡ | Laura Valiente | Me Too | Yo, también",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Magdalena Rivas,Broken Embraces,False,Penélope Cruz | Magdalena Rivas | Broken Embraces | Los abrazos rotos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Miranda,Tetro,False,Maribel Verdú | Miranda | Tetro,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Hypatia,Agora,False,Rachel Weisz | Hypatia | Agora | Ágora,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Nora Navas,Florència,True,2010 (25th) | Nora Navas ‡ | Florència | Black Bread | Pa negre,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Alba,Room in Rome,False,Elena Anaya | Alba | Room in Rome | Habitación en Roma,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Alícia,The Mosquito Net,False,Emma Suárez | Alícia | The Mosquito Net | La mosquitera,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Julia Levin / Sara,Julia's Eyes,False,Belén Rueda | Julia Levin / Sara | Julia's Eyes | Los ojos de Julia,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Elena Anaya,Vera Cruz / Gal Ledgard,True,2011 (26th) | Elena Anaya ‡ | Vera Cruz / Gal Ledgard | The Skin I Live In | La piel que habito,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Laia,Kathmandu Lullaby,False,"Verónica Echegui | Laia | Kathmandu Lullaby | Katmandú, un espejo en el cielo",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Luisa Gómez,As Luck Would Have It,False,Salma Hayek | Luisa Gómez | As Luck Would Have It | La chispa de la vida,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Hortensia Rodríguez,The Sleeping Voice,False,Inma Cuesta | Hortensia Rodríguez | The Sleeping Voice | La voz dormida,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Maribel Verdú,Encarna,True,2012 (27th) | Maribel Verdú ‡ | Encarna | Blancanieves,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Gemma,Twice Born,False,Penélope Cruz | Gemma | Twice Born | Venuto al mondo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Mercè,The Artist and the Model,False,Aida Folch | Mercè | The Artist and the Model | El artista y la modelo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,María Bennet,The Impossible,False,Naomi Watts | María Bennet | The Impossible | The Impossible,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Marian Álvarez,Ana,True,2013 (28th) | Marian Álvarez ‡ | Ana | Wounded | La herida,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Ruth Belloso,Three Many Weddings,False,Inma Cuesta | Ruth Belloso | Three Many Weddings | Tres bodas de más,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Ella,Stockholm,False,Aura Garrido | Ella | Stockholm | Stockholm,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Geni Moncada,We All Want What's Best for Her,False,Nora Navas | Geni Moncada | We All Want What's Best for Her | Tots volem el millor per a ella,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Bárbara Lennie,Bárbara,True,2014 (29th) | Bárbara Lennie ‡ | Bárbara | Magical Girl,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Sara,Marseille,False,María León | Sara | Marseille | Marsella,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Montse,Shrew's Nest,False,Macarena Gómez | Montse | Shrew's Nest | Musarañas,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Lupe,They Are All Dead,False,Elena Anaya | Lupe | They Are All Dead | Todos Están Muertos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Natalia de Molina,Rocío Gómez,True,2015 (30th) | Natalia de Molina ‡ | Rocío Gómez | Food and Shelter | Techo y comida,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,The Bride,The Bride,False,Inma Cuesta | The Bride | The Bride | La novia,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Magda,Ma Ma,False,Penélope Cruz | Magda | Ma Ma | Ma ma,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Josephine Peary,Nobody Wants the Night,False,Juliette Binoche | Josephine Peary | Nobody Wants the Night | Nadie quiere la noche,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Emma Suárez,Julieta Arcos,True,2016 (31st) | Emma Suárez ‡ | Julieta Arcos | Julieta,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Macarena Granada,The Queen of Spain,False,Penélope Cruz | Macarena Granada | The Queen of Spain | La reina de España,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,María Funes,María,False,Bárbara Lennie | María Funes | María (and Everybody Else) | María (y los demás),https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Rosa,The Open Door,False,Carmen Machi | Rosa | The Open Door | La puerta abierta,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Nathalie Poza,Carla Miralles,True,2017 (32nd) [ 4 ] | Nathalie Poza ‡ | Carla Miralles | Can't Say Goodbye | No sé decir adiós,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Florence Green,The Bookshop,False,Emily Mortimer | Florence Green | The Bookshop,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Virginia Vallejo,Loving Pablo,False,Penélope Cruz | Virginia Vallejo | Loving Pablo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Carmen,Abracadabra,False,Maribel Verdú | Carmen | Abracadabra,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Susi Sánchez,Anabel Barnuevo,True,2018 (33rd) [ 5 ] | Susi Sánchez ‡ | Anabel Barnuevo | Sunday's Illness | La enfermedad del domingo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Lila Cassen,Quién te cantará,False,Najwa Nimri | Lila Cassen | Quién te cantará,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Laura,Everybody Knows,False,Penélope Cruz | Laura | Everybody Knows | Todos lo saben,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Estrella Aranda,Journey to a Mother's Room,False,Lola Dueñas | Estrella Aranda | Journey to a Mother's Room | Viaje al cuarto de una madre,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Belén Cuesta,Rosa Domínguez,True,2019 (34th) [ 6 ] | Belén Cuesta ‡ | Rosa Domínguez | The Endless Trench | La trinchera infinita,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Jacinta,Pain and Glory,False,Penélope Cruz | Jacinta | Pain and Glory | Dolor y gloria,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Sara Garrido,A Thief's Daughter,False,Greta Fernández | Sara Garrido | A Thief's Daughter | La hija de un ladrón,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Elena,Mother,False,Marta Nieto | Elena | Mother | Madre,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Patricia López Arnaiz,Lide Sagasti,True,2020 (35th) [ 7 ] [ 8 ] [ 9 ] | Patricia López Arnaiz ‡ | Lide Sagasti | Ane Is Missing | Ane,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Ana Ibarguren,Coven,False,Amaia Aberasturi | Ana Ibarguren | Coven | Akelarre,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Lola Cruz,One Careful Owner,False,Kiti Mánver | Lola Cruz | One Careful Owner | El inconveniente,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Rosa Román,Rosa's Wedding,False,Candela Peña | Rosa Román | Rosa's Wedding | La boda de Rosa,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Blanca Portillo,Maixabel Lasa,True,2021 (36th) [ 10 ] | Blanca Portillo ‡ | Maixabel Lasa | Maixabel,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Berta,Josephine,False,Emma Suárez | Berta | Josephine | Josefina,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,María,That Was Life,False,Petra Martínez | María | That Was Life | La vida era eso,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Janis Martínez Moreno,Parallel Mothers,False,Penélope Cruz | Janis Martínez Moreno | Parallel Mothers | Madres paralelas,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Laia Costa,Amaia,True,2022 (37th) [ 11 ] [ 12 ] | Laia Costa ‡ | Amaia | Lullaby | Cinco lobitos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Olga Denis,The Beasts,False,Marina Foïs | Olga Denis | The Beasts | As bestas,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Julia,Wild Flowers,False,Anna Castillo | Julia | Wild Flowers | Girasoles silvestres,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Alice Gould,God's Crooked Lines,False,Bárbara Lennie | Alice Gould | God's Crooked Lines | Los renglones torcidos de Dios,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Elena,Cork,False,Vicky Luengo | Elena | Cork | Suro,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Malena Alterio,Lucía,True,2023 (38th) [ 13 ] | Malena Alterio ‡ | Lucía | Something Is About to Happen | Que nadie duerma,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Ane,"20,000 Species of Bees",False,"Patricia López Arnaiz | Ane | 20,000 Species of Bees | 20.000 especies de abejas",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Ramona,Matria,False,María Vázquez | Ramona | Matria,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Conchita,Jokes & Cigarettes,False,Carolina Yuste | Conchita | Jokes & Cigarettes | Saben aquell,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Nat,Un amor,False,Laia Costa | Nat | Un amor,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Carolina Yuste,Mónica / Arantxa,True,2024 (39th) [ 14 ] | Carolina Yuste ‡ | Mónica / Arantxa | Undercover | La infiltrada,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Montse,A House on Fire,False,Emma Vilarasau | Montse | A House on Fire | Casa en flames,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Ingrid Parker,The Room Next Door,False,Julianne Moore | Ingrid Parker | The Room Next Door | La habitación de al lado,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Martha Hunt,,False,Tilda Swinton | Martha Hunt,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Isabel,Glimmers,False,Patricia López Arnaiz | Isabel | Glimmers | Los destellos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Patricia López Arnaiz,Maite,True,2025 (40th) [ 15 ] | Patricia López Arnaiz | Maite | Sundays | Los domingos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Alexandra,Fury,False,Ángela Cervantes | Alexandra | Fury | La furia,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Delia,The Exiles,False,Antonia Zegers | Delia | The Exiles | Los Tortuga,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Eva,My Friend Eva,False,Nora Navas | Eva | My Friend Eva | Mi amiga Eva,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Amaia,She Walks in Darkness,False,Susana Abaitua | Amaia | She Walks in Darkness | Un fantasma en la batalla,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Carmen Maura,,False,3 | Carmen Maura,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Cecilia Roth,,False,2 | Cecilia Roth,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Penélope Cruz,,False,12 | Penélope Cruz,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Victoria Abril,,False,8 | Victoria Abril,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Emma Suárez,,False,6 | Emma Suárez,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Carmen Maura,,False,5 | Carmen Maura,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Ana Belén,,False,4 | Ana Belén,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress
+,Elena Anaya,,False,3 | Elena Anaya,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actress

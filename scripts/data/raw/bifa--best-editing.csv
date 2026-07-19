@@ -1,0 +1,41 @@
+year,film,person,is_winner,raw_text,source_url
+2017,"Three Billboards Outside Ebbing, Missouri",Jon Gregory,True,"2017 (20th) [ 1 ] [ 2 ] | Three Billboards Outside Ebbing, Missouri | Jon Gregory",https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Editing
+2017,Peter Lambert,,False,The Death of Stalin | Peter Lambert,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Editing
+2017,David Charap,,False,Jawbone | David Charap,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Editing
+2017,Joe Martin,,False,Us and Them | Joe Martin,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Editing
+2017,Johnny Burke,,False,Williams | Johnny Burke,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Editing
+2018,American Animals,"Nick Fenton, Chris Gill and Julian Hart",True,"2018 (21st) [ 3 ] [ 4 ] | American Animals | Nick Fenton, Chris Gill and Julian Hart",https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Editing
+2018,Yorgos Mavropsaridis,,False,The Favourite | Yorgos Mavropsaridis,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Editing
+2018,Ben Wheatley,,False,"Happy New Year, Colin Burstead | Ben Wheatley",https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Editing
+2018,Marc Boucrot,,False,A Prayer Before Dawn | Marc Boucrot,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Editing
+2018,Joe Bini,,False,You Were Never Really Here | Joe Bini,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Editing
+2019,For Sama,Chloe Lambourne and Simon McMahon,True,2019 (22nd) [ 5 ] [ 6 ] | For Sama | Chloe Lambourne and Simon McMahon,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Editing
+2019,Mark Jenkin,,False,Bait | Mark Jenkin,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Editing
+2019,Chris King,,False,Diego Maradona | Chris King,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Editing
+2019,Mick Audsley and Peter Lambert,,False,The Personal History of David Copperfield | Mick Audsley and Peter Lambert,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Editing
+2019,Helle Le Fevre,,False,The Souvenir | Helle Le Fevre,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Editing
+2020,The Father,Yorgos Lamprinos,True,2020 (23rd) [ 7 ] [ 8 ] | The Father | Yorgos Lamprinos,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Editing
+2020,Julia Bloch,,False,His House | Julia Bloch,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Editing
+2020,Brenna Rangott,,False,Host | Brenna Rangott,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Editing
+2020,Maya Maffioli,,False,Rocks | Maya Maffioli,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Editing
+2020,Mark Towns,,False,Saint Maud | Mark Towns,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Editing
+2021,The Souvenir Part II,Helle le Fevre,True,2021 (24th) [ 9 ] | The Souvenir Part II | Helle le Fevre,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Editing
+2021,Úna Ní Dhonghaíle,,False,Belfast | Úna Ní Dhonghaíle,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Editing
+2021,Mark Towns,,False,Censor | Mark Towns,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Editing
+2021,"Rebecca Lloyd, Jacob Schulsinger and Nicolas Chaudeurge",,False,"Cow | Rebecca Lloyd, Jacob Schulsinger and Nicolas Chaudeurge",https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Editing
+2021,Ben Wheatley,,False,IN THE EⱯRTH | Ben Wheatley,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Editing
+2022,Aftersun,Blair McClendon,True,2022 (25th) [ 10 ] [ 11 ] | Aftersun | Blair McClendon,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Editing
+2022,Izabella Curry,,False,Blue Jean | Izabella Curry,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Editing
+2022,Joanna Crickmay,,False,Elizabeth: A Portrait in Parts | Joanna Crickmay,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Editing
+2022,Mátyás Fekete,,False,Flux Gourmet | Mátyás Fekete,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Editing
+2022,Mich Mahon,,False,Nothing Compares | Mich Mahon,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Editing
+2023,All of Us Strangers,Jonathan Alberts,True,2023 (26th) [ 12 ] [ 13 ] | All of Us Strangers | Jonathan Alberts,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Editing
+2023,Paul Carlin,,False,Bobi Wine: The People's President | Paul Carlin,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Editing
+2023,Arttu Salmi,,False,The End We Start From | Arttu Salmi,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Editing
+2023,Avdhesh Mohla,,False,High & Low – John Galliamo | Avdhesh Mohla,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Editing
+2023,Victoria Boydell,,False,Rye Lane | Victoria Boydell,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Editing
+2024,Kneecap,Julian Ulrichs and Chris Gill,True,2024 (27th) [ 14 ] | Kneecap | Julian Ulrichs and Chris Gill,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Editing
+2024,Joe Bini,,False,Bird | Joe Bini,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Editing
+2024,Jake Roberts,,False,Civil War | Jake Roberts,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Editing
+2024,Margarida Cartaxo and Stuart Davidson,,False,Made in England: The Films of Powell and Pressburger | Margarida Cartaxo and Stuart Davidson,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Editing
+2024,Stephen Bechinger,,False,The Outrun | Stephen Bechinger,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Editing

@@ -1,0 +1,321 @@
+year,film,person,is_winner,raw_text,source_url
+,Gulzar,13,False,Most awards | Gulzar | 13 (from 35 nominations),https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+,Anand Bakshi,41,False,Most nominations | Anand Bakshi | 41 (resulted in 4 wins),https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+,Javed Akhtar,5,False,Most nominations in a single year | Javed Akhtar (2005) | 5 (all),https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+,Anjaan,6,False,Most nominations without ever winning a single award | Anjaan | 6,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+,Gulzar,,False,13 | Gulzar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+,Javed Akhtar,,False,8 | Javed Akhtar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+,"Anand Bakshi , Amitabh Bhattacharya",,False,"4 | Anand Bakshi , Amitabh Bhattacharya",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+,"Shakeel Badayuni , Shailendra , Sameer , Prasoon Joshi , Irshad Kamil",,False,"3 | Shakeel Badayuni , Shailendra , Sameer , Prasoon Joshi , Irshad Kamil",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+,"Hasrat Jaipuri , Verma Malik, Gulshan Kumar Mehta , Sahir Ludhianvi , Santosh Anand",,False,"2 | Hasrat Jaipuri , Verma Malik, Gulshan Kumar Mehta , Sahir Ludhianvi , Santosh Anand",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+,Anand Bakshi,,False,41 | Anand Bakshi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+,Gulzar,,False,36 | Gulzar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+,Javed Akhtar,,False,27 | Javed Akhtar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+,Sameer,,False,17 | Sameer,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+,Amitabh Bhattacharya,,False,14 | Amitabh Bhattacharya,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+,"Sahir Ludhianvi , Irshad Kamil",,False,"9 | Sahir Ludhianvi , Irshad Kamil",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+,Majrooh Sultanpuri,,False,8 | Majrooh Sultanpuri,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+,Prasoon Joshi,,False,7 | Prasoon Joshi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+,"Shakeel Badayuni , Shailendra , Hasrat Jaipuri , Anjaan",,False,"6 | Shakeel Badayuni , Shailendra , Hasrat Jaipuri , Anjaan",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+,"Santosh Anand , Indeevar , Kausar Munir",,False,"5 | Santosh Anand , Indeevar , Kausar Munir",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+,"Hasan Kamal , Mehboob , Swanand Kirkire",,False,"4 | Hasan Kamal , Mehboob , Swanand Kirkire",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+,"Neeraj , Gulshan Kumar Mehta , Dev Kohli , Niranjan Iyengar , Vishal Dadlani",,False,"3 | Neeraj , Gulshan Kumar Mehta , Dev Kohli , Niranjan Iyengar , Vishal Dadlani",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+,"Verma Malik, Saawan Kumar Tak , Prakash Mehra , Ravindra Jain , Sudhakar Sharma, Faaiz Anwar",,False,"2 | Verma Malik, Saawan Kumar Tak , Prakash Mehra , Ravindra Jain , Sudhakar Sharma, Faaiz Anwar",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1959,,Shailendra,True,"1959 ( 6th ) |  | Shailendra † | "" Yeh Mera Deewanapan Hain "" | Yahudi | [ 2 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1959,Aurat Ne Janam Diya,Sadhna,False,"Sahir Ludhianvi | ""Aurat Ne Janam Diya"" | Sadhna",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1959,Meri Jaan,Yahudi,False,"Shailendra | ""Meri Jaan"" | Yahudi",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1960,,Shailendra,True,"1960 ( 7th ) |  | Shailendra † | "" Sab Kuchh Seekha Hum Ne "" | Anari | [ 3 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1960,Jalte Hain Jiske Liye,Sujata,False,"Majrooh Sultanpuri | ""Jalte Hain Jiske Liye"" | Sujata",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1960,Tu Hindu Banega,Dhool Ka Phool,False,"Sahir Ludhianvi | ""Tu Hindu Banega"" | Dhool Ka Phool",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1961,,Shakeel Badayuni,True,"1961 ( 8th ) |  | Shakeel Badayuni † | "" Chaudhvin Ka Chand "" | Chaudhvin Ka Chand | [ 4 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1961,Dil Apna Aur Preet Parai,Dil Apna Aur Preet Parai,False,"Shailendra | ""Dil Apna Aur Preet Parai"" | Dil Apna Aur Preet Parai",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1961,Pyar Kiya To Darna Kiya,Mughal-e-Azam,False,"Shakeel Badayuni | "" Pyar Kiya To Darna Kiya "" | Mughal-e-Azam",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1962,Shakeel Badayuni,Husn Wale Tera,True,"1962 ( 9th ) | Shakeel Badayuni † | "" Husn Wale Tera "" | Gharana | [ 5 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1962,Teri Pyari Pyari Surat,Sasural,False,"Hasrat Jaipuri | ""Teri Pyari Pyari Surat"" | Sasural",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1962,Hothon Pe Sacchai,Jis Desh Mein Ganga Behti Hai,False,"Shailendra | ""Hothon Pe Sacchai"" | Jis Desh Mein Ganga Behti Hai",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1963,Shakeel Badayuni,Kahin Deep Jale,True,"1963 ( 10th ) | Shakeel Badayuni † | "" Kahin Deep Jale "" | Bees Saal Baad | [ 6 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1963,Ae Gulbadan,Professor,False,"Hasrat Jaipuri | ""Ae Gulbadan"" | Professor",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1963,Aapki Nazrone,Anpadh,False,"Raja Mehdi Ali Khan | ""Aapki Nazrone"" | Anpadh",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1964,,Sahir Ludhianvi,True,"1964 ( 11th ) |  | Sahir Ludhianvi † | "" Jo Waada Kiya "" | Taj Mahal | [ 7 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1964,Chalo Ek Bar Phir Se,Gumrah,False,"Sahir Ludhianvi | ""Chalo Ek Bar Phir Se"" | Gumrah",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1964,Mere Mehboob Tujhe Meri,Mere Mehboob,False,"Shakeel Badayuni | ""Mere Mehboob Tujhe Meri"" | Mere Mehboob",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1965,,Majrooh Sultanpuri,True,"1965 ( 12th ) |  | Majrooh Sultanpuri † | "" Chahunga Main Tujhe "" | Dosti | [ 8 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1965,Jyot Se Jyot Jagate Chalo,Sant Gyaneshwar,False,"Bharat Vyas | ""Jyot Se Jyot Jagate Chalo"" | Sant Gyaneshwar",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1965,Dost Dost Na Raha,Sangam,False,"Shailendra | ""Dost Dost Na Raha"" | Sangam",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1966,,Rajendra Krishan,True,"1966 ( 13th ) |  | Rajendra Krishan † | "" Tumhi Mere Mandir "" | Khandan | [ 9 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1966,Aji Rooth Kar Ab Kahan,Arzoo,False,"Hasrat Jaipuri | ""Aji Rooth Kar Ab Kahan"" | Arzoo",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1966,Ek Tu Na Mila,Himalay Ki God Mein,False,"Indeevar | ""Ek Tu Na Mila"" | Himalay Ki God Mein",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1967,,Hasrat Jaipuri,True,"1967 ( 14th ) |  | Hasrat Jaipuri † | "" Baharon Phool Barsao "" | Suraj | [ 10 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1967,Sajan Re Jhoot,Teesri Kasam,False,"Shailendra | ""Sajan Re Jhoot"" | Teesri Kasam",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1967,Naseeb Me Jiske,Do Badan,False,"Shakeel Badayuni | ""Naseeb Me Jiske"" | Do Badan",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1968,,Gulshan Kumar Mehta,True,"1968 ( 15th ) |  | Gulshan Kumar Mehta † | "" Mere Desh Ki Dharti "" | Upkar | [ 11 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1968,Sawan Ka Mahina,Milan,False,"Anand Bakshi | ""Sawan Ka Mahina"" | Milan",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1968,Neele Gagan Ke Tale,Hamraaz,False,"Sahir Ludhianvi | ""Neele Gagan Ke Tale"" | Hamraaz",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1969,,Shailendra,True,"1969 ( 16th ) |  | Shailendra † | "" Main Gaoon Tum "" | Brahmachari | [ 12 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1969,Dil Ke Jharoke Mein,Brahmachari,False,"Hasrat Jaipuri | ""Dil Ke Jharoke Mein"" | Brahmachari",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1969,Milti Hai Zindagi Mein,Ankhen,False,"Sahir Ludhianvi | ""Milti Hai Zindagi Mein"" | Ankhen",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1970,,Neeraj,True,"1970 ( 17th ) |  | Neeraj † | "" Kaal Ka Pahiya "" | Chanda Aur Bijli | [ 13 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1970,Kora Kagaz Tha,Aradhana,False,"Anand Bakshi | ""Kora Kagaz Tha"" | Aradhana",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1970,Jeene Ki Raah,,False,"""Badi Mastani Hai"" | Jeene Ki Raah",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1971,,Verma Malik,True,"1971 ( 18th ) | – | Verma Malik † | "" Sabse Bada Nadaan "" | Pehchan | [ 14 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1971,Bindiya Chamkegi,Do Raaste,False,"Anand Bakshi | ""Bindiya Chamkegi"" | Do Raaste",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1971,Bas Yehi Apradh,Pehchan,False,"Neeraj | ""Bas Yehi Apradh"" | Pehchan",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1972,,Hasrat Jaipuri,True,"1972 ( 19th ) |  | Hasrat Jaipuri † | "" Zindagi Ek Safar Hai Suhana "" | Andaz | [ 15 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1972,Na Koi Umang Hai,Kati Patang,False,"Anand Bakshi | ""Na Koi Umang Hai"" | Kati Patang",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1972,Ae Bhai Zara Dekh Ke Chalo,Mera Naam Joker,False,"Neeraj | ""Ae Bhai Zara Dekh Ke Chalo"" | Mera Naam Joker",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1973,,Verma Malik,True,"1973 ( 20th ) | – | Verma Malik † | "" Jai Bolo Be-Imaan Ki "" | Be-Imaan | [ 16 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1973,Chingari Koi Bhadke,Amar Prem,False,"Anand Bakshi | ""Chingari Koi Bhadke"" | Amar Prem",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1973,Ek Pyaar Ka Nagma Hain,Shor,False,"Santosh Anand | ""Ek Pyaar Ka Nagma Hain"" | Shor",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1974,,Gulshan Kumar Mehta,True,"1974 ( 21st ) |  | Gulshan Kumar Mehta † | "" Yaari Hai Imaan Mera "" | Zanjeer | [ 17 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1974,Hum Tum Ek Kamre Mein Band Ho,Bobby,False,"Anand Bakshi | "" Hum Tum Ek Kamre Mein Band Ho "" | Bobby",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1974,Main Shayar To Nahin,,False,"""Main Shayar To Nahin""",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1974,Samjhauta Ghamose Kar Lo,Samjhauta,False,"Indeevar | ""Samjhauta Ghamose Kar Lo"" | Samjhauta",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1974,Jhooth Bole Kauwa Kaate,Bobby,False,"Vitthalbhai Patel | ""Jhooth Bole Kauwa Kaate"" | Bobby",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1975,,Santosh Anand,True,"1975 ( 22nd ) | – | Santosh Anand † | "" Main Na Bhooloonga "" | Roti Kapada Aur Makaan | [ 18 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1975,Gaadi Bula Rahi Hai,Dost,False,"Anand Bakshi | ""Gaadi Bula Rahi Hai"" | Dost",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1975,Behnane Bhai Ki Kalai,Resham Ki Dori,False,"Indeevar | ""Behnane Bhai Ki Kalai"" | Resham Ki Dori",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1975,Mera Jeevan Kora Kagaz,Kora Kagaz,False,"M. G. Hashmat | ""Mera Jeevan Kora Kagaz"" | Kora Kagaz",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1975,Aur Nahi Bus Aur Nahin,Roti Kapda Aur Makaan,False,"Santosh Anand | ""Aur Nahi Bus Aur Nahin"" | Roti Kapda Aur Makaan",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1976,,Indeevar,True,"1976 ( 23rd ) |  | Indeevar † | "" Dil Aisa Kisi "" | Amanush | [ 19 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1976,Aayegi Zaroor Chiththi,Dulhan,False,"Anand Bakshi | ""Aayegi Zaroor Chiththi"" | Dulhan",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1976,Sholay,,False,"""Mehbooba O Mehbooba"" | Sholay",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1976,Tere Bina Zindagi Se,Aandhi,False,"Gulzar | ""Tere Bina Zindagi Se"" | Aandhi",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1976,Chal Sanyasi Mandir Mein,Sanyasi,False,"Vishweshwar Sharma | ""Chal Sanyasi Mandir Mein"" | Sanyasi",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1977,,Sahir Ludhianvi,True,"1977 ( 24th ) |  | Sahir Ludhianvi † | "" Kabhi Kabhie Mere Dil Mein "" | Kabhi Kabhie | [ 20 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1977,Mere Naina Sawan Bhadon,Mehbooba,False,"Anand Bakshi | ""Mere Naina Sawan Bhadon"" | Mehbooba",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1977,Dil Dhoondta Hai,Mausam,False,"Gulzar | ""Dil Dhoondta Hai"" | Mausam",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1977,Ek Din Bik Jaayega,Dharam Karam,False,"Majrooh Sultanpuri | ""Ek Din Bik Jaayega"" | Dharam Karam",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1977,Main Pal Do Pal Ka Shayar,Kabhi Kabhie,False,"Sahir Ludhianvi | ""Main Pal Do Pal Ka Shayar"" | Kabhi Kabhie",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1978,,Gulzar,True,"1978 ( 25th ) |  | Gulzar † | "" Do Deewaane Sheher Mein "" | Gharaonda | [ 21 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1978,Parda Hai Parda,Amar Akbar Anthony,False,"Anand Bakshi | "" Parda Hai Parda "" | Amar Akbar Anthony",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1978,Naam Gum Jaayega,Kinara,False,"Gulzar | ""Naam Gum Jaayega"" | Kinara",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1978,Kya Hua Tera Waada,Hum Kisise Kum Naheen,False,"Majrooh Sultanpuri | ""Kya Hua Tera Waada"" | Hum Kisise Kum Naheen",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1978,Mera Gaon Kadhapane,Manthan,False,"Preeti Sagar | ""Mera Gaon Kadhapane"" | Manthan",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1979,,Anand Bakshi,True,"1979 ( 26th ) |  | Anand Bakshi † | "" Aadmi Musafir Hai "" | Apnapan | [ 22 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1979,Main Tulsi Tere Aangan Ki,Main Tulsi Tere Aangan Ki,False,"Anand Bakshi | ""Main Tulsi Tere Aangan Ki"" | Main Tulsi Tere Aangan Ki",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1979,Khaike Paan Banaraswala,Don,False,"Anjaan | ""Khaike Paan Banaraswala"" | Don",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1979,Satyam Shivam Sundaram,Satyam Shivam Sundaram,False,"Pandit Narendra Sharma | ""Satyam Shivam Sundaram"" | Satyam Shivam Sundaram",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1979,Ankhiyon Ke Jharokhon Se,Ankhiyon Ke Jharokhon Se,False,"Ravindra Jain | ""Ankhiyon Ke Jharokhon Se"" | Ankhiyon Ke Jharokhon Se",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1980,,Gulzar,True,"1980 ( 27th ) |  | Gulzar † | "" Aanewala Pal "" | Gol Maal | [ 23 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1980,Saawan Ke Jhoole Pade,Jurmana,False,"Anand Bakshi | ""Saawan Ke Jhoole Pade"" | Jurmana",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1980,Sargam,,False,"""Dafliwale"" | Sargam",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1980,Aaja Re Mere Dilbar Aaja,Noorie,False,"Jan Nisar Akhtar | ""Aaja Re Mere Dilbar Aaja"" | Noorie",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1980,Dil Ke Tukde Tukde Kar Ke,Dada,False,"Sahir Ludhianvi | ""Dil Ke Tukde Tukde Kar Ke"" | Dada",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1981,Gulzar,Hazaar Raahen Mud Ke Dekhi,True,"1981 ( 28th ) | Gulzar † | "" Hazaar Raahen Mud Ke Dekhi "" | Thodisi Bewafaii | [ 24 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1981,Dard-e-Dil,Karz,False,"Anand Bakshi | ""Dard-e-Dil"" | Karz",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1981,Om Shanti Om,,False,"""Om Shanti Om""",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1981,Dostana,,False,"""Salaamat Rahe Dostana Hamara"" | Dostana",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1981,Aasha,,False,"""Shisha Ho Ya Dil Ho"" | Aasha",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1982,,Anand Bakshi,True,"1982 ( 29th ) |  | Anand Bakshi † | "" Tere Mere Beech Mein "" | Ek Duuje Ke Liye | [ 25 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1982,Solah Baras Ki Bali Umar,Ek Duuje Ke Liye,False,"Anand Bakshi | ""Solah Baras Ki Bali Umar"" | Ek Duuje Ke Liye",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1982,Love Story,,False,"""Yaad Aa Rahi Hai"" | Love Story",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1982,Jahaan Pe Savera,Baseraa,False,"Gulzar | ""Jahaan Pe Savera"" | Baseraa",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1982,Zindagi Ki Naa Toote,Kranti,False,"Santosh Anand | ""Zindagi Ki Naa Toote"" | Kranti",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1983,,Santosh Anand,True,"1983 ( 30th ) | – | Santosh Anand † | "" Mohabbat Hai Kya Cheez "" | Prem Rog | [ 26 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1983,Meri Kismat,Prem Rog,False,"Amir Qazalbash | ""Meri Kismat"" | Prem Rog",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1983,Pag Ghungroo Baandh,Namak Halaal,False,"Anjaan & Prakash Mehra | ""Pag Ghungroo Baandh"" | Namak Halaal",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1983,Dil Ke Armaan,Nikaah,False,"Hasan Kamal | ""Dil Ke Armaan"" | Nikaah",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1983,"Hasan Kamal – ""Dil Ki Yeh Arzoo Thi"" from Nikaah",,False,"Hasan Kamal – ""Dil Ki Yeh Arzoo Thi"" from Nikaah",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1984,,Gulzar,True,"1984 ( 31st ) |  | Gulzar † | "" Tujhse Naraaz Nahi Zindagi "" | Masoom | [ 27 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1984,Jab Hum Jawaan Honge,Betaab,False,"Anand Bakshi | ""Jab Hum Jawaan Honge"" | Betaab",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1984,Hume Aur Jeene Ki,Agar Tum Na Hote,False,"Gulshan Kumar Mehta | ""Hume Aur Jeene Ki"" | Agar Tum Na Hote",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1984,Shayad Meri Shaadi Ka Khayal,Souten,False,"Saawan Kumar Tak | ""Shayad Meri Shaadi Ka Khayal"" | Souten",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1984,Zindagi Pyaar Ka Geet Hai,,False,"""Zindagi Pyaar Ka Geet Hai""",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1985,,Hasan Kamal,True,"1985 ( 32nd ) | – | Hasan Kamal † | "" Aaj Ki Awaaz "" | Aaj Ki Awaaz | [ 28 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1985,Sohni Chenab Di,Sohni Mahiwal,False,"Anand Bakshi | ""Sohni Chenab Di"" | Sohni Mahiwal",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1985,Manzilein Apni Jagah Hain,Sharaabi,False,"Anjaan | ""Manzilein Apni Jagah Hain"" | Sharaabi",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1985,Intehaa Ho Gayi,,False,"Anjaan and Prakash Mehra | ""Intehaa Ho Gayi""",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1985,Pyaar Ka Tohfa Tera,Tohfa,False,"Indeevar | ""Pyaar Ka Tohfa Tera"" | Tohfa",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1986,,Vasant Dev,True,"1986 ( 33rd ) | – | Vasant Dev † | "" Mann Kyon Behka "" | Utsav | [ 29 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1986,Zindagi Har Kadam,Meri Jung,False,"Anand Bakshi | ""Zindagi Har Kadam"" | Meri Jung",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1986,Yaar Bina Chain Kahaan Re,Saaheb,False,"Anjaan | ""Yaar Bina Chain Kahaan Re"" | Saaheb",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1986,Bahut Der Se,Tawaif,False,"Hasan Kamal | ""Bahut Der Se"" | Tawaif",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1986,Sun Sahiba Sun,Ram Teri Ganga Maili,False,"Hasrat Jaipuri | ""Sun Sahiba Sun"" | Ram Teri Ganga Maili",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1986,Saagar Kinare,Saagar,False,"Javed Akhtar | ""Saagar Kinare"" | Saagar",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1987,NO CEREMONY HELD,,True,1987 | NO CEREMONY HELD,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1988,NO CEREMONY HELD,,True,1988 | NO CEREMONY HELD,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1989,,Gulzar,True,"1989 ( 34th ) |  | Gulzar † | "" Mera Kuchh Saamaan "" | Ijaazat | [ 30 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1989,Ek Do Teen,Tezaab,False,"Javed Akhtar | "" Ek Do Teen "" | Tezaab",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1989,Papa Kehte Hain,Qayamat Se Qayamat Tak,False,"Majrooh Sultanpuri | ""Papa Kehte Hain"" | Qayamat Se Qayamat Tak",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1990,,Asad Bhopali,True,"1990 ( 35th ) | – | Asad Bhopali † | "" Dil Deewana "" | Maine Pyar Kiya | [ 31 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1990,Lagi Aaj Sawan,Chandni,False,"Anand Bakshi | ""Lagi Aaj Sawan"" | Chandni",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1990,Aate Jaate Hanste Gaate,Maine Pyar Kiya,False,"Dev Kohli | ""Aate Jaate Hanste Gaate"" | Maine Pyar Kiya",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1991,,Sameer,True,"1991 ( 36th ) |  | Sameer † | "" Nazar Ke Saamne "" | Aashiqui | [ 32 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1991,Dheere Dheere Se,Aashiqui,False,"Rani Malik | "" Dheere Dheere Se "" | Aashiqui",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1991,Naa Jaane Kahan Dil Kho Gaya,Dil,False,"Sameer | ""Naa Jaane Kahan Dil Kho Gaya"" | Dil",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1992,,Gulzar,True,"1992 ( 37th ) |  | Gulzar † | "" Yaara Seeli Seeli "" | Lekin... | [ 33 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1992,Kabhi Main Kahoon,Lamhe,False,"Anand Bakshi | ""Kabhi Main Kahoon"" | Lamhe",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1992,Dil Hai Ke Manta Nahin,Dil Hai Ke Manta Nahin,False,"Faaiz Anwar | ""Dil Hai Ke Manta Nahin"" | Dil Hai Ke Manta Nahin",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1992,Main Hoon Khushrang Henna,Henna,False,"Ravindra Jain | ""Main Hoon Khushrang Henna"" | Henna",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1992,Mera Dil Bhi,Saajan,False,"Sameer | ""Mera Dil Bhi"" | Saajan",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1993,,Sameer,True,"1993 ( 38th ) |  | Sameer † | "" Teri Umeed Tera Intezar Karte Hai "" | Deewana | [ 34 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1993,Woh Sikander Hi Doston,Jo Jeeta Wohi Sikandar,False,"Majrooh Sultanpuri | ""Woh Sikander Hi Doston"" | Jo Jeeta Wohi Sikandar",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1993,Aisi Deewangi,Deewana,False,"Sameer | ""Aisi Deewangi"" | Deewana",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1994,Sameer,Ghunghat Ki Aad Se,True,"1994 ( 39th ) | Sameer † | "" Ghunghat Ki Aad Se "" | Hum Hain Rahi Pyar Ke | [ 35 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1994,Choli Ke Peeche Kya Hai,Khalnayak,False,"Anand Bakshi | ""Choli Ke Peeche Kya Hai"" | Khalnayak",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1994,Darr,,False,"""Jaadu Teri Nazar"" | Darr",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1994,Yeh Kaali Kaali Aankhen,Baazigar,False,"Dev Kohli | ""Yeh Kaali Kaali Aankhen"" | Baazigar",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1994,Dil Hum Hum,Rudaali,False,"Gulzar | ""Dil Hum Hum"" | Rudaali",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1995,,Javed Akhtar,True,"1995 ( 40th ) |  | Javed Akhtar † | "" Ek Ladki Ko Dekha "" | 1942: A Love Story | [ 36 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1995,Tu Cheez Badi Mast Mast,Mohra,False,"Anand Bakshi | ""Tu Cheez Badi Mast Mast"" | Mohra",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1995,Hum Aapke Hain Koun,Hum Aapke Hain Koun..!,False,"Dev Kohli | ""Hum Aapke Hain Koun"" | Hum Aapke Hain Koun..!",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1995,Ole Ole,Yeh Dillagi,False,"Sameer | ""Ole Ole"" | Yeh Dillagi",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1996,,Anand Bakshi,True,"1996 ( 41st ) |  | Anand Bakshi † | "" Tujhe Dekha To "" | Dilwale Dulhania Le Jayenge | [ 37 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1996,Ho Gaya Hai Tujhko To Pyar Sajna,Dilwale Dulhania Le Jayenge,False,"Anand Bakshi | ""Ho Gaya Hai Tujhko To Pyar Sajna"" | Dilwale Dulhania Le Jayenge",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1996,Raja Ko Rani Se Pyar Ho Gaya,Akele Hum Akele Tum,False,"Majrooh Sultanpuri | ""Raja Ko Rani Se Pyar Ho Gaya"" | Akele Hum Akele Tum",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1996,Kya Kare,Rangeela,False,"Mehboob | ""Kya Kare"" | Rangeela",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1996,Tanha Tanha,,False,"""Tanha Tanha""",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1997,,Javed Akhtar,True,"1997 ( 42nd ) |  | Javed Akhtar † | "" Ghar Se Nikalte Hi "" | Papa Kehte Hai | [ 38 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1997,Chappa Chappa Charkha Chale,Maachis,False,"Gulzar | ""Chappa Chappa Charkha Chale"" | Maachis",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1997,Aaj Main Upar,Khamoshi: The Musical,False,"Majrooh Sultanpuri | ""Aaj Main Upar"" | Khamoshi: The Musical",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1997,Jeevan Kya Hai,Is Raat Ki Subah Nahin,False,"Nida Fazli | ""Jeevan Kya Hai"" | Is Raat Ki Subah Nahin",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1997,Pardesi Pardesi,Raja Hindustani,False,"Sameer | ""Pardesi Pardesi"" | Raja Hindustani",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1998,Javed Akhtar,Sandese Aate Hai,True,"1998 ( 43rd ) | Javed Akhtar † | "" Sandese Aate Hai "" | Border | [ 39 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1998,Bholi Si Surat,Dil To Pagal Hai,False,"Anand Bakshi | ""Bholi Si Surat"" | Dil To Pagal Hai",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1998,Pardes,,False,"""I Love My India"" | Pardes",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1998,Zara Tasveer Se Tu,,False,"""Zara Tasveer Se Tu""",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1998,Chand Taare,Yes Boss,False,"Javed Akhtar | ""Chand Taare"" | Yes Boss",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1999,,Gulzar,True,"1999 ( 44th ) |  | Gulzar † | "" Chaiyya Chaiyya "" | Dil Se.. | [ 40 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1999,Ae Ajnabi,Dil Se..,False,"Gulzar | ""Ae Ajnabi"" | Dil Se..",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1999,Mere Mehboob Mere Sanam,Duplicate,False,"Javed Akhtar | ""Mere Mehboob Mere Sanam"" | Duplicate",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1999,Kuch Kuch Hota Hai,Kuch Kuch Hota Hai,False,"Sameer | "" Kuch Kuch Hota Hai "" | Kuch Kuch Hota Hai",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+1999,Ladki Badi Anjaani Hai,,False,"""Ladki Badi Anjaani Hai""",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2000,,Anand Bakshi,True,"2000 ( 45th ) |  | Anand Bakshi † | "" Ishq Bina "" | Taal | [ 41 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2000,Taal Se Taal Mila,Taal,False,"Anand Bakshi | ""Taal Se Taal Mila"" | Taal",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2000,Zindagi Maut Na Ban Jaaye,Sarfarosh,False,"Israr Ansari | ""Zindagi Maut Na Ban Jaaye"" | Sarfarosh",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2000,Aankhon Ki Gustakhiyan,Hum Dil De Chuke Sanam,False,"Mehboob | ""Aankhon Ki Gustakhiyan"" | Hum Dil De Chuke Sanam",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2000,Tadap Tadap Ke,,False,"""Tadap Tadap Ke""",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2001,,Javed Akhtar,True,"2001 ( 46th ) |  | Javed Akhtar † | "" Panchchi Nadiyaan "" | Refugee | [ 42 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2001,Humko Humise Churaalo,Mohabbatein,False,"Anand Bakshi | ""Humko Humise Churaalo"" | Mohabbatein",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2001,Aaja Mahiya,Fiza,False,"Gulzar | ""Aaja Mahiya"" | Fiza",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2001,Naa Tum Jaano Naa Hum,Kaho Naa... Pyaar Hai,False,"Ibrahim Ashk | ""Naa Tum Jaano Naa Hum"" | Kaho Naa... Pyaar Hai",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2001,Tum Dil Ki Dhadkan Mein,Dhadkan,False,"Sameer | ""Tum Dil Ki Dhadkan Mein"" | Dhadkan",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2002,Javed Akhtar,Mitwa,True,"2002 ( 47th ) | Javed Akhtar † | "" Mitwa "" | Lagaan | [ 43 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2002,Udja Kale Kawan,Gadar: Ek Prem Katha,False,"Anand Bakshi | ""Udja Kale Kawan"" | Gadar: Ek Prem Katha",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2002,Suraj Hua Maddham,Kabhi Khushi Kabhie Gham,False,"Anil Pandey | ""Suraj Hua Maddham"" | Kabhi Khushi Kabhie Gham",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2002,Radha Kaise Naa Jale,Lagaan,False,"Javed Akhtar | ""Radha Kaise Naa Jale"" | Lagaan",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2002,Kabhi Khushi Kabhie Gham,Kabhi Khushi Kabhie Gham,False,"Sameer | ""Kabhi Khushi Kabhie Gham"" | Kabhi Khushi Kabhie Gham",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2003,,Gulzar,True,"2003 ( 48th ) |  | Gulzar † | "" Saathiya "" | Saathiya | [ 44 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2003,Dola Re,Devdas,False,"Nusrat Badr | "" Dola Re "" | Devdas",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2003,Aapke Pyaar Mein,Raaz,False,"Sameer | ""Aapke Pyaar Mein"" | Raaz",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2003,Sanam Mere Humraaz,Humraaz,False,"Sudhakar Sharma | ""Sanam Mere Humraaz"" | Humraaz",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2003,Tumne Zindagi Mein Aake,,False,"""Tumne Zindagi Mein Aake""",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2004,,Javed Akhtar,True,"2004 ( 49th ) |  | Javed Akhtar † | "" Kal Ho Naa Ho "" | Kal Ho Naa Ho | [ 45 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2004,Tauba Tumhare Yeh Ishaare,Chalte Chalte,False,"Javed Akhtar | ""Tauba Tumhare Yeh Ishaare"" | Chalte Chalte",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2004,LOC Kargil,,False,"""Ek Saathi Aur Bhi Tha"" | LOC Kargil",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2004,Kisi Se Tum Pyaar Karo,Andaaz,False,"Sameer | ""Kisi Se Tum Pyaar Karo"" | Andaaz",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2004,Tere Naam,,False,"""Tere Naam"" | Tere Naam",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2005,Javed Akhtar,Tere Liye,True,"2005 ( 50th ) | Javed Akhtar † | "" Tere Liye "" | Veer-Zaara | [ 46 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2005,Aisa Des Hai Mera,Veer-Zaara,False,"Javed Akhtar | ""Aisa Des Hai Mera"" | Veer-Zaara",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2005,Main Hoon Na,,False,"""Main Hoon Na"" | Main Hoon Na",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2005,Veer-Zaara,,False,"""Main Yahaan Hoon"" | Veer-Zaara",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2005,Swades,,False,"""Yeh Taara Woh Taara"" | Swades",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2006,,Gulzar,True,"2006 ( 51st ) |  | Gulzar † | "" Kajra Re "" | Bunty Aur Babli | [ 47 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2006,Chup Chup Ke,Bunty Aur Babli,False,"Gulzar | ""Chup Chup Ke"" | Bunty Aur Babli",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2006,Paheli,,False,"""Dheere Jalna"" | Paheli",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2006,Aashiq Banaya Aapne,Aashiq Banaya Aapne,False,"Sameer | ""Aashiq Banaya Aapne"" | Aashiq Banaya Aapne",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2006,Piyu Bole,Parineeta,False,"Swanand Kirkire | ""Piyu Bole"" | Parineeta",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2007,,Prasoon Joshi,True,"2007 ( 52nd ) |  | Prasoon Joshi † | "" Chand Sifarish "" | Fanaa | [ 48 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2007,Beedi,Omkara,False,"Gulzar | ""Beedi"" | Omkara",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2007,Kabhi Alvida Naa Kehna,Kabhi Alvida Naa Kehna,False,"Javed Akhtar | ""Kabhi Alvida Naa Kehna"" | Kabhi Alvida Naa Kehna",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2007,Mitwa,,False,""" Mitwa """,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2007,Roobaroo,Rang De Basanti,False,"Prasoon Joshi | ""Roobaroo"" | Rang De Basanti",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2008,Prasoon Joshi,Maa,True,"2008 ( 53rd ) | Prasoon Joshi † | "" Maa "" | Taare Zameen Par | [ 49 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2008,Tere Bina,Guru,False,"Gulzar | "" Tere Bina "" | Guru",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2008,Main Agar Kahoon,Om Shanti Om,False,"Javed Akhtar | ""Main Agar Kahoon"" | Om Shanti Om",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2008,Jab Se Tere Naina,Saawariya,False,"Sameer | ""Jab Se Tere Naina"" | Saawariya",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2008,Aankhon Mein Teri,Om Shanti Om,False,"Vishal Dadlani | ""Aankhon Mein Teri"" | Om Shanti Om",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2009,,Javed Akhtar,True,"2009 ( 54th ) |  | Javed Akhtar † | "" Jashn-E-Bahaara "" | Jodhaa Akbar | [ 50 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2009,Kabhi Kabhi Aditi,Jaane Tu... Ya Jaane Na,False,"Abbas Tyrewala | ""Kabhi Kabhi Aditi"" | Jaane Tu... Ya Jaane Na",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2009,Tu Meri Dost Hai,Yuvvraaj,False,"Gulzar | ""Tu Meri Dost Hai"" | Yuvvraaj",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2009,Haule Haule,Rab Ne Bana Di Jodi,False,"Jaideep Sahni | ""Haule Haule"" | Rab Ne Bana Di Jodi",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2009,Socha Hai,Rock On!!,False,"Javed Akhtar | ""Socha Hai"" | Rock On!!",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2009,Guzaarish,Ghajini,False,"Prasoon Joshi | ""Guzaarish"" | Ghajini",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2010,,Irshad Kamil,True,"2010 ( 55th ) |  | Irshad Kamil † | "" Aaj Din Chadheya "" | Love Aaj Kal | [ 51 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2010,Dhan Te Nan,Kaminey,False,"Gulzar | ""Dhan Te Nan"" | Kaminey",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2010,Kaminey,,False,"""Kaminey""",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2010,Iktara,Wake Up Sid,False,"Javed Akhtar | ""Iktara"" | Wake Up Sid",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2010,Masakali,Delhi-6,False,"Prasoon Joshi | "" Masakali "" | Delhi-6",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2010,Rehna Tu,,False,"""Rehna Tu""",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2011,,Gulzar,True,"2011 ( 56th ) |  | Gulzar † | "" Dil Toh Bachcha Hai Ji "" | Ishqiya | [ 52 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2011,Tere Mast Mast Do Nain,Dabangg,False,"Faaiz Anwar | "" Tere Mast Mast Do Nain "" | Dabangg",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2011,Sajda,My Name Is Khan,False,"Niranjan Iyengar | ""Sajda"" | My Name Is Khan",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2011,Noor-e-Khuda,,False,"""Noor-e-Khuda""",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2011,Bin Tere,I Hate Luv Storys,False,"Vishal Dadlani | ""Bin Tere"" | I Hate Luv Storys",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2012,,Irshad Kamil,True,"2012 ( 57th ) |  | Irshad Kamil † | "" Nadaan Parindey "" | Rockstar | [ 53 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2012,Darling,7 Khoon Maaf,False,"Gulzar | ""Darling"" | 7 Khoon Maaf",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2012,Sadda Haq,Rockstar,False,"Irshad Kamil | "" Sadda Haq "" | Rockstar",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2012,Señorita,Zindagi Na Milegi Dobara,False,"Javed Akhtar | "" Señorita "" | Zindagi Na Milegi Dobara",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2012,Chammak Challo,Ra.One,False,"Vishal Dadlani and Niranjan Iyengar | "" Chammak Challo "" | Ra.One",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2013,,Gulzar,True,"2013 ( 58th ) |  | Gulzar † | "" Challa "" | Jab Tak Hai Jaan | [ 54 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2013,Abhi Mujh Mein Kahin,Agneepath,False,"Amitabh Bhattacharya | "" Abhi Mujh Mein Kahin "" | Agneepath",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2013,Saans,Jab Tak Hai Jaan,False,"Gulzar | ""Saans"" | Jab Tak Hai Jaan",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2013,Jee Le Zaara,Talaash: The Answer Lies Within,False,"Javed Akhtar | ""Jee Le Zaara"" | Talaash: The Answer Lies Within",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2013,Aashiyan,Barfi!,False,"Swanand Kirkire | ""Aashiyan"" | Barfi!",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2014,,Prasoon Joshi,True,"2014 ( 59th ) |  | Prasoon Joshi † | "" Zinda "" | Bhaag Milkha Bhaag | [ 55 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2014,Shikayatein,Lootera,False,"Amitabh Bhattacharya | ""Shikayatein"" | Lootera",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2014,Yeh Jawaani Hai Deewani,,False,""" Kabira "" | Yeh Jawaani Hai Deewani",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2014,Tum Hi Ho,Aashiqui 2,False,"Mithoon | "" Tum Hi Ho "" | Aashiqui 2",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2014,Manja,Kai Po Che!,False,"Swanand Kirkire | ""Manja"" | Kai Po Che!",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2015,,Rashmi Singh,True,"2015 ( 60th ) | – | Rashmi Singh † | "" Muskurane "" | CityLights | [ 56 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2015,Zehnaseeb,Hasee Toh Phasee,False,"Amitabh Bhattacharya | ""Zehnaseeb"" | Hasee Toh Phasee",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2015,Bismil,Haider,False,"Gulzar | "" Bismil "" | Haider",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2015,Pathaka Guddi,Highway,False,"Irshad Kamil | "" Pathaka Guddi "" | Highway",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2015,Suno Na Sangemarmar,Youngistaan,False,"Kausar Munir | "" Suno Na Sangemarmar "" | Youngistaan",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2016,,Irshad Kamil,True,"2016 ( 61st ) |  | Irshad Kamil † | "" Agar Tum Saath Ho "" | Tamasha | [ 57 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2016,Gerua,Dilwale,False,"Amitabh Bhattacharya | "" Gerua "" | Dilwale",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2016,Gulaabo,Shaandaar,False,"Anvita Dutt Guptan | ""Gulaabo"" | Shaandaar",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2016,Zinda,Talvar,False,"Gulzar | ""Zinda"" | Talvar",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2016,Sooraj Dooba Hain,Roy,False,"Kumaar | "" Sooraj Dooba Hain "" | Roy",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2016,Moh Moh Ke Dhaage,Dum Laga Ke Haisha,False,"Varun Grover | ""Moh Moh Ke Dhaage"" | Dum Laga Ke Haisha",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2017,,Amitabh Bhattacharya,True,"2017 ( 62nd ) |  | Amitabh Bhattacharya † | "" Channa Mereya "" | Ae Dil Hai Mushkil | [ 58 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2017,Jag Ghoomeya,Sultan,False,"Irshad Kamil | "" Jag Ghoomeya "" | Sultan",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2017,Aave Re Hitchki,Mirzya,False,"Gulzar | ""Aave Re Hitchki"" | Mirzya",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2017,Mirzya,,False,"""Mirzya""",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2017,Love You Zindagi,Dear Zindagi,False,"Kausar Munir | ""Love You Zindagi"" | Dear Zindagi",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2017,Ikk Kudi,Udta Punjab,False,"Shiv Kumar Batalvi | ""Ikk Kudi"" | Udta Punjab",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2017,Amitabh Bhattacharya,Galti Se Mistake,True," | Amitabh Bhattacharya † | ""Galti Se Mistake"" | Jagga Jasoos | ",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2018,Amitabh Bhattacharya,Ullu Ka Pattha,True,"2018 ( 63rd ) | Amitabh Bhattacharya | "" Ullu Ka Pattha "" | Jagga Jasoos | [ 59 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2018,Nazm Nazm,Bareilly Ki Barfi,False,"Arko Pravo Mukherjee | ""Nazm Nazm"" | Bareilly Ki Barfi",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2018,Maana Ke Hum Yaar Nahin,Meri Pyaari Bindu,False,"Kausar Munir | ""Maana Ke Hum Yaar Nahin"" | Meri Pyaari Bindu",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2018,Secret Superstar,,False,"""Nachdi Phira"" | Secret Superstar",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2018,Rafu,Tumhari Sulu,False,"Santanu Ghatak | ""Rafu"" | Tumhari Sulu",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2019,,Gulzar,True,"2019 ( 64th ) |  | Gulzar † | "" Ae Watan "" | Raazi | [ 60 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2019,Binte Dil,Padmaavat,False,"A. M. Turaz | ""Binte Dil"" | Padmaavat",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2019,Dilbaro,Raazi,False,"Gulzar | ""Dilbaro"" | Raazi",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2019,Mera Naam Tu,Zero,False,"Irshad Kamil | ""Mera Naam Tu"" | Zero",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2019,Tera Yaar Hoon Main,Sonu Ke Titu Ki Sweety,False,"Kumaar | ""Tera Yaar Hoon Main"" | Sonu Ke Titu Ki Sweety",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2019,Kar Har Maidaan Fateh,Sanju,False,"Shekhar Astitva | ""Kar Har Maidaan Fateh"" | Sanju",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2020,,Divine and Ankur Tewari,True,"2020 ( 65th ) |  | Divine and Ankur Tewari † | "" Apna Time Aayega "" | Gully Boy | [ 61 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2020,Kalank,Kalank,False,"Amitabh Bhattacharya | ""Kalank"" | Kalank",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2020,Bekhayali,Kabir Singh,False,"Irshad Kamil | "" Bekhayali "" | Kabir Singh",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2020,Teri Mitti,Kesari,False,"Manoj Muntashir | "" Teri Mitti "" | Kesari",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2020,Tujhe Kitna Chahne Lage Hum,Kabir Singh,False,"Mithoon | "" Tujhe Kitna Chahne Lage Hum"" | Kabir Singh",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2020,Ve Maahi,Kesari,False,"Tanishk Bagchi | ""Ve Maahi"" | Kesari",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2021,,Gulzar,True,"2021 ( 66th ) |  | Gulzar † | "" Chhapaak "" | Chhapaak | [ 62 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2021,Mehrama,Love Aaj Kal,False,"Irshad Kamil | ""Mehrama"" | Love Aaj Kal",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2021,Shayad,,False,"""Shayad""",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2021,Humdum Hardam,Ludo,False,"Sayeed Quadri | ""Humdum Hardam"" | Ludo",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2021,Ek Tukda Dhoop,Thappad,False,"Shakeel Azmi | ""Ek Tukda Dhoop"" | Thappad",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2021,Mere Liye Tum Kaafi Ho,Shubh Mangal Zyada Saavdhan,False,"Vayu | ""Mere Liye Tum Kaafi Ho"" | Shubh Mangal Zyada Saavdhan",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2022,,Kausar Munir,True,"2022 ( 67th ) | – | Kausar Munir † | "" Lehra Do "" | 83 | [ 63 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2022,Rait Zara Si,Atrangi Re,False,"Irshad Kamil | ""Rait Zara Si"" | Atrangi Re",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2022,Mann Bharrya 2.0,Shershaah,False,"Jaani | ""Mann Bharrya 2.0"" | Shershaah",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2022,Parinda,Saina,False,"Manoj Muntashir | ""Parinda"" | Saina",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2022,Raataan Lambiya,Shershaah,False,"Tanishk Bagchi | ""Raataan Lambiya"" | Shershaah",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2023,,Amitabh Bhattacharya,True,"2023 ( 68th ) |  | Amitabh Bhattacharya † | "" Kesariya "" | Brahmāstra: Part One – Shiva | [ 64 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2023,Tere Hawaale,Laal Singh Chaddha,False,"Amitabh Bhattacharya | ""Tere Hawaale"" | Laal Singh Chaddha",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2023,Bhediya,,False,Apna Bana Le | Bhediya,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2023,Maiyya Mainu,Jersey,False,"Shellee | ""Maiyya Mainu"" | Jersey",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2023,Jab Saiyaan,Gangubai Kathiawadi,False,"A. M. Turaz | ""Jab Saiyaan"" | Gangubai Kathiawadi",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2024,Amitabh Bhattacharya,Tere Vaaste,True,"2024 ( 69th ) | Amitabh Bhattacharya † | "" Tere Vaaste "" | Zara Hatke Zara Bachke | [ 65 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2024,Tum Kya Mile,Rocky Aur Rani Kii Prem Kahaani,False,"Amitabh Bhattacharya | ""Tum Kya Mile"" | Rocky Aur Rani Kii Prem Kahaani",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2024,Itni Si Baat,Sam Bahadur,False,"Gulzar | ""Itni Si Baat"" | Sam Bahadur",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2024,Nikle The Kabhi Hum Ghar Se,Dunki,False,"Javed Akhtar | ""Nikle The Kabhi Hum Ghar Se"" | Dunki",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2024,Satranga,Animal,False,"Siddharth–Garima | ""Satranga"" | Animal",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2024,Lutt Putt Gaya,Dunki,False,"Swanand Kirkire and I. P. Singh | ""Lutt Putt Gaya"" | Dunki",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2025,,Prashant Pandey,True,"2025 ( 70th ) | – | Prashant Pandey | "" Sajni "" | Lapataa Ladies | [ 66 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2025,Sarphira,Chandu Champion,False,"Kausar Munir | ""Sarphira"" | Chandu Champion",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2025,Nikat,Kill,False,"Siddhant Kaushal | ""Nikat"" | Kill",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2025,Dheeme Dheeme,Laapataa Ladies,False,"Swanand Kirkire | ""Dheeme Dheeme"" | Laapataa Ladies",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist
+2025,Raat Akeli Thi,Merry Christmas,False,"Varun Grover | ""Raat Akeli Thi"" | Merry Christmas",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Lyricist

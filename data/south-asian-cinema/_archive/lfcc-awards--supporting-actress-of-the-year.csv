@@ -1,0 +1,52 @@
+year,film,person,is_winner,raw_text,source_url
+2011,Sareh Bayat,A Separation,True,2011 [ 1 ] | Sareh Bayat | A Separation | Razieh,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2012,Anne Hathaway,Les Misérables,True,2012 [ 2 ] | Anne Hathaway | Les Misérables | Fantine,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2013,Lupita Nyong'o,12 Years a Slave,True,2013 [ 3 ] | Lupita Nyong'o | 12 Years a Slave | Patsey,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2014,Patricia Arquette,Boyhood,True,2014 [ 4 ] | Patricia Arquette | Boyhood | Olivia Evans,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2015,Kate Winslet,Steve Jobs,True,2015 [ 5 ] | Kate Winslet | Steve Jobs | Joanna Hoffman,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2016,Naomie Harris,Moonlight,True,2016 [ 6 ] | Naomie Harris | Moonlight | Paula Harris,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2017,Lesley Manville,Phantom Thread,True,2017 [ 7 ] [ 8 ] | Lesley Manville | Phantom Thread | Cyril Woodcock,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2017,Certain Women,Jamie,False,Lily Gladstone | Certain Women | Jamie,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2017,The Big Sick,Beth Gardner,False,Holly Hunter | The Big Sick | Beth Gardner,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2017,"I, Tonya",LaVona Golden,False,"Allison Janney | I, Tonya | LaVona Golden",https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2017,Lady Bird,Marion McPherson,False,Laurie Metcalf | Lady Bird | Marion McPherson,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2018,Rachel Weisz,The Favourite,True,2018 [ 9 ] [ 10 ] | Rachel Weisz | The Favourite | Sarah Churchill,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2018,Widows,Alice,False,Elizabeth Debicki | Widows | Alice,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2018,Bad Times at the El Royale,Darlene Sweet,False,Cynthia Erivo | Bad Times at the El Royale | Darlene Sweet,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2018,First Man,Janet Armstrong,False,Claire Foy | First Man | Janet Armstrong,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2018,If Beale Street Could Talk,Sharon Rivers,False,Regina King | If Beale Street Could Talk | Sharon Rivers,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2019,Laura Dern,Marriage Story,True,2019 [ 11 ] [ 12 ] | Laura Dern [ 13 ] | Marriage Story | Nora Fanshaw,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2019,Hustlers,Ramona Vega,False,Jennifer Lopez | Hustlers | Ramona Vega,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2019,Little Women,Amy March,False,Florence Pugh | Little Women | Amy March,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2019,Bombshell,Kayla Pospisil,False,Margot Robbie | Bombshell | Kayla Pospisil,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2019,The Souvenir,Rosalind,False,Tilda Swinton | The Souvenir | Rosalind,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2020,Maria Bakalova,Borat Subsequent Moviefilm,True,2020 [ 14 ] [ 15 ] | Maria Bakalova | Borat Subsequent Moviefilm | Tutar Sagdiyev,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2020,Pieces of a Woman,Elizabeth Weiss,False,Ellen Burstyn | Pieces of a Woman | Elizabeth Weiss,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2020,Babyteeth,Anna Finlay,False,Essie Davis | Babyteeth | Anna Finlay,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2020,Saint Maud,Amanda Köhl,False,Jennifer Ehle | Saint Maud | Amanda Köhl,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2020,Mank,Marion Davies,False,Amanda Seyfried | Mank | Marion Davies,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2021,Ruth Negga,Passing,True,2021 [ 16 ] [ 17 ] | Ruth Negga | Passing | Clare Bellew,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2021,The Lost Daughter,Young Leda,False,Jessie Buckley | The Lost Daughter | Young Leda,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2021,West Side Story,Anita,False,Ariana DeBose | West Side Story | Anita,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2021,The Power of the Dog,Rose Gordon,False,Kirsten Dunst | The Power of the Dog | Rose Gordon,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2021,West Side Story,Valentina,False,Rita Moreno | West Side Story | Valentina,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2022,Kerry Condon,The Banshees of Inisherin,True,2022 [ 18 ] [ 19 ] | Kerry Condon | The Banshees of Inisherin | Siobhán Súilleabháin,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2022,The Whale,Liz,False,Hong Chau | The Whale | Liz,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2022,Triangle of Sadness,Abigail,False,Dolly de Leon | Triangle of Sadness | Abigail,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2022,Tár,Sharon Goodnow,False,Nina Hoss | Tár | Sharon Goodnow,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2022,Saint Omer,Laurence Coly,False,Guslagie Malanda | Saint Omer | Laurence Coly,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2023,Da'Vine Joy Randolph,The Holdovers,True,2023 [ 20 ] [ 21 ] | Da'Vine Joy Randolph | The Holdovers | Mary Lamb,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2023,All of Us Strangers,Adam's mother,False,Claire Foy | All of Us Strangers | Adam's mother,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2023,The Zone of Interest,Hedwig Höss,False,Sandra Hüller | The Zone of Interest | Hedwig Höss,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2023,May December,Gracie Atherton-Yoo,False,Julianne Moore | May December | Gracie Atherton-Yoo,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2023,Saltburn,Lady Elspeth Catton,False,Rosamund Pike | Saltburn | Lady Elspeth Catton,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2024,Zoe Saldaña,Emilia Pérez,True,2024 [ 22 ] [ 23 ] | Zoe Saldaña | Emilia Pérez | Rita Mora Castro,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2024,Hard Truths,Chantelle,False,Michele Austin | Hard Truths | Chantelle,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2024,The Piano Lesson,Berniece,False,Danielle Deadwyler | The Piano Lesson | Berniece,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2024,The Substance,Sue,False,Margaret Qualley | The Substance | Sue,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2024,Conclave,Sister Agnes,False,Isabella Rossellini | Conclave | Sister Agnes,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2025,Amy Madigan,Weapons,True,2025 | Amy Madigan | Weapons | Gladys,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2025,Marty Supreme,Rachel Mizler,False,Odessa A'zion | Marty Supreme | Rachel Mizler,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2025,Sentimental Value,Agnes Borg Pettersen,False,Inga Ibsdotter Lilleaas | Sentimental Value | Agnes Borg Pettersen,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2025,Sinners,Annie,False,Wunmi Mosaku | Sinners | Annie,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year
+2025,One Battle After Another,Perfidia Beverly Hills,False,Teyana Taylor | One Battle After Another | Perfidia Beverly Hills,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Supporting_Actress_of_the_Year

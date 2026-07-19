@@ -1,0 +1,42 @@
+year,film,person,is_winner,raw_text,source_url
+1991,Susan Sarandon,Thelma & Louise,True,1991 | Susan Sarandon | Thelma & Louise | Louise Sawyer,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year
+1991,Nora Baker,,False,White Palace | Nora Baker,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year
+1992,Judy Davis,Husbands and Wives,True,1992 | Judy Davis | Husbands and Wives | Sally,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year
+1992,Audrey Taylor,,False,Barton Fink | Audrey Taylor,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year
+1992,Joan Lee / Joan Frost,,False,Naked Lunch | Joan Lee / Joan Frost,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year
+1993,Holly Hunter *,The Piano,True,1993 | Holly Hunter * | The Piano | Ada McGrath,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year
+1994,Linda Fiorentino,The Last Seduction,True,1994 | Linda Fiorentino | The Last Seduction | Bridget Gregory / Wendy Kroy,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year
+1995,Nicole Kidman,To Die For,True,1995 | Nicole Kidman | To Die For | Suzanne Stone-Maretto,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year
+1996,Frances McDormand *,Fargo,True,1996 | Frances McDormand * | Fargo | Marge Gunderson,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year
+1997,Claire Danes,Romeo + Juliet,True,1997 | Claire Danes | Romeo + Juliet | Juliet Capulet,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year
+1998,Cate Blanchett,Elizabeth,True,1998 | Cate Blanchett | Elizabeth | Queen Elizabeth I,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year
+1999,Annette Bening,American Beauty,True,1999 | Annette Bening | American Beauty | Carolyn Burnham,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year
+2000,Julia Roberts *,Erin Brockovich,True,2000 | Julia Roberts * | Erin Brockovich | Erin Brockovich,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year
+2001,Nicole Kidman,The Others,True,2001 | Nicole Kidman | The Others | Grace Stewart,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year
+2001,Satine,,False,Moulin Rouge! | Satine,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year
+2002,Stockard Channing,The Business of Strangers,True,2002 | Stockard Channing | The Business of Strangers | Julie Styron,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year
+2003,Julianne Moore,Far from Heaven,True,2003 | Julianne Moore | Far from Heaven | Cathy Whitaker,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year
+2004,Imelda Staunton,Vera Drake,True,2004 | Imelda Staunton | Vera Drake | Vera Drake,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year
+2005,Naomi Watts,King Kong,True,2005 | Naomi Watts | King Kong | Ann Darrow,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year
+2006,Meryl Streep,The Devil Wears Prada,True,2006 | Meryl Streep | The Devil Wears Prada | Miranda Priestly,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year
+2007,Marion Cotillard *,La Vie en Rose,True,2007 | Marion Cotillard * | La Vie en Rose (La môme) | Édith Piaf,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year
+2008,Kate Winslet *,The Reader,True,2008 | Kate Winslet * | The Reader | Hanna Schmitz,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year
+2008,April Wheeler,,False,Revolutionary Road | April Wheeler,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year
+2009,Mo'Nique ¥,Precious,True,2009 | Mo'Nique ¥ | Precious | Mary Lee Johnston,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year
+2010,Annette Bening,The Kids Are All Right,True,"2010 | Annette Bening | The Kids Are All Right | Dr. Nicole ""Nic"" Allgood",https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year
+2011,Anna Paquin,Margaret,True,2011 | Anna Paquin | Margaret | Lisa Cohen,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year
+2011,The Iron Lady,Margaret Thatcher,True,Meryl Streep * | The Iron Lady | Margaret Thatcher,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year
+2012,Emmanuelle Riva,Amour,True,2012 | Emmanuelle Riva | Amour | Anne Laurent,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year
+2013,Cate Blanchett *,Blue Jasmine,True,"2013 | Cate Blanchett * | Blue Jasmine | Jeanette ""Jasmine"" Francis",https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year
+2014,Julianne Moore *,Still Alice,True,2014 | Julianne Moore * | Still Alice | Alice Daly Howland,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year
+2015,Charlotte Rampling,45 Years,True,2015 | Charlotte Rampling | 45 Years | Kate Mercer,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year
+2016,Isabelle Huppert,Things to Come,True,2016 | Isabelle Huppert | Things to Come | Nathalie Chazeaux,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year
+2017,Frances McDormand *,"Three Billboards Outside Ebbing, Missouri",True,"2017 | Frances McDormand * | Three Billboards Outside Ebbing, Missouri | Mildred Hayes",https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year
+2018,Olivia Colman *,The Favourite,True,2018 | Olivia Colman * | The Favourite | Queen Anne,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year
+2019,Renée Zellweger *,Judy,True,2019 | Renée Zellweger * | Judy | Judy Garland,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year
+2020,Frances McDormand *,Nomadland,True,2020 | Frances McDormand * | Nomadland | Fern,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year
+2021,Olivia Colman,The Lost Daughter,True,2021 | Olivia Colman | The Lost Daughter | Leda Caruso,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year
+2022,Cate Blanchett,Tár,True,2022 | Cate Blanchett | Tár | Lydia Tár,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year
+2023,Emma Stone *,Poor Things,True,2023 | Emma Stone * | Poor Things | Bella Baxter,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year
+2024,Marianne Jean-Baptiste,Hard Truths,True,2024 | Marianne Jean-Baptiste | Hard Truths | Pansy Deacon,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year
+2025,Jessie Buckley *,Hamnet,True,2025 | Jessie Buckley * | Hamnet | Agnes Shakespeare,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actress_of_the_Year

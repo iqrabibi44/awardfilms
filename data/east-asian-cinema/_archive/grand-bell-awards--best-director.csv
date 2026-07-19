@@ -1,0 +1,62 @@
+year,film,person,is_winner,raw_text,source_url
+,Year,Director,False,# | Year | Director | Film (English) | Film (Korean),https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1962,Shin Sang-ok,False,1 | 1962 | Shin Sang-ok | The Houseguest and My Mother | 사랑방 손님과 어머니,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1963,Yu Hyun-mok,False,2 | 1963 | Yu Hyun-mok | Freely Given | 아낌없이 주련다,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1964,Lee Man-hee,False,3 | 1964 | Lee Man-hee | The Marines Who Never Returned | 돌아오지 않는 해병,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1965,Shin Sang-ok,False,4 | 1965 | Shin Sang-ok | Deaf Sam-yong | 벙어리 삼룡이,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1966,Yu Hyun-mok,False,5 | 1966 | Yu Hyun-mok | Martyr | 순교자,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1967,Kim Soo-yong,False,6 | 1967 | Kim Soo-yong | Mist | 안개,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1968,Shin Sang-ok,False,7 | 1968 | Shin Sang-ok | Prince Daewon | 대원군,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1969,N/a,False,8 | 1969 | — N/a,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1970,,False,9 | 1970,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1971,,False,10 | 1971,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1972,Shin Sang-ok,False,11 | 1972 | Shin Sang-ok | Last Battle in Pyeongyang | 평양폭격대,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1973,Choi Hun,False,12 | 1973 | Choi Hun | Narcissus | 수선화,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1974,Kim Soo-yong,False,13 | 1974 | Kim Soo-yong | The Land | 토지,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1975,Lee Man-hee,False,14 | 1975 | Lee Man-hee | The Road to Sampo | 삼포가는 길,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1976,Seol Tae-ho,False,15 | 1976 | Seol Tae-ho | The Secret of Wonsan | 원산공작,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1977,Choi In-hyeon,False,16 | 1977 | Choi In-hyeon | Concentration | 집념,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1978,Im Kwon-taek,False,17 | 1978 | Im Kwon-taek | The Genealogy | 족보,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1979,Jung Jin-woo,False,18 | 1979 | Jung Jin-woo | I Saw the Wild Ginseng | 심봤다,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1980,Lee Jang-ho,False,"19 | 1980 | Lee Jang-ho | A Fine, Windy Day | 바람불어 좋은날",https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1981,Im Kwon-taek,False,20 | 1981 | Im Kwon-taek | Mandala | 만다라,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1982,Lee Jang-ho,False,21 | 1982 | Lee Jang-ho | Come Unto Down | 낮은데로 임하소서,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1983,Lee Doo-yong,False,22 | 1983 | Lee Doo-yong | Mulleya Mulleya | 여인잔혹사 물레야 물레야,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1984,Jung Jin-woo,False,23 | 1984 | Jung Jin-woo | Adultery Tree | 자녀목,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1985,Bae Chang-ho,False,24 | 1985 | Bae Chang-ho | Deep Blue Night | 깊고 푸른밤,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1986,Im Kwon-taek,False,25 | 1986 | Im Kwon-taek | Ticket | 티켓,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1987,Im Kwon-taek,False,26 | 1987 | Im Kwon-taek | Diary of King Yeonsan | 연산일기,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1989,Kim Ho-sun,False,27 | 1989 | Kim Ho-sun | Rainbow Over Seoul | 서울 무지개,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1990,Chang Gil-soo,False,28 | 1990 | Chang Gil-soo | All That Falls Has Wings | 추락하는 것은 날개가 있다,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1991,Kwak Ji-kyoon,False,29 | 1991 | Kwak Ji-kyoon | Passion Portrait | 젊은날의 초상,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1992,Kim Ho-sun,False,30 | 1992 | Kim Ho-sun | Death Song | 사의 찬미,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1993,Im Kwon-taek,False,31 | 1993 | Im Kwon-taek | Sopyonje | 서편제,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1994,Jang Sun-woo,False,32 | 1994 | Jang Sun-woo | Passage to Buddha | 화엄경,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1995,Park Jong-won,False,33 | 1995 | Park Jong-won | The Eternal Empire | 영원한 제국,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1996,Kim Ho-sun,False,34 | 1996 | Kim Ho-sun | Henequen | 애니깽,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1997,Chung Ji-young,False,35 | 1997 | Chung Ji-young | Blackjack | 블랙잭,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1999,Lee Kwang-mo,False,36 | 1999 | Lee Kwang-mo | Spring in My Hometown | 아름다운 시절,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2000,Lee Chang-dong,False,37 | 2000 | Lee Chang-dong | Peppermint Candy | 박하사탕,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2001,Han Ji-seung,False,38 | 2001 | Han Ji-seung | A Day | 하루,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2002,Song Hae-sung,False,39 | 2002 | Song Hae-sung | Failan | 파이란,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2003,Bong Joon-ho,False,40 | 2003 | Bong Joon-ho | Memories of Murder | 살인의 추억,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2004,Park Chan-wook,False,41 | 2004 | Park Chan-wook | Oldboy | 올드보이,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2005,Song Hae-sung,False,42 | 2005 | Song Hae-sung | Rikidōzan | 역도산,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2006,Lee Joon-ik,False,43 | 2006 | Lee Joon-ik | King and the Clown | 왕의 남자,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2007,Bong Joon-ho,False,44 | 2007 | Bong Joon-ho | The Host | 괴물,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2008,Na Hong-jin,False,45 | 2008 | Na Hong-jin | The Chaser | 추격자,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2009,Kim Yong-hwa,False,46 | 2009 | Kim Yong-hwa | Take Off | 국가대표,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2010,Kang Woo-suk,False,47 | 2010 | Kang Woo-suk | Moss | 이끼,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2011,Kang Hyeong-cheol,False,48 | 2011 | Kang Hyeong-cheol | Sunny | 써니,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2012,Choo Chang-min,False,49 | 2012 | Choo Chang-min | Masquerade | 광해: 왕이 된 남자,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2013,Han Jae-rim,False,50 | 2013 | Han Jae-rim | The Face Reader | 관상,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2014,Kim Seong-hun,False,51 | 2014 | Kim Seong-hun | A Hard Day | 끝까지 간다,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2015,Yoon Je-kyoon,False,52 | 2015 | Yoon Je-kyoon | Ode to My Father | 국제시장,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2016,Woo Min-ho,False,53 | 2016 | Woo Min-ho | Inside Men | 내부자들,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2017,Lee Joon-ik,False,54 | 2017 | Lee Joon-ik | Anarchist from Colony | 박열,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2018,Jang Joon-hwan,False,55 | 2018 | Jang Joon-hwan | 1987: When the Day Comes | 1987,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2019,Bong Joon-ho,False,56 | 2019 | Bong Joon-ho | Parasite | 기생충,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2020,N/a,False,57 | 2020 | — N/a,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+2021,2021,,False,2021,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+2021,2022,Byun Sung-hyun,False,58 | 2022 | Byun Sung-hyun | Kingmaker | 킹메이커,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+2021,2023,Ryoo Seung-wan,False,59 | 2023 | Ryoo Seung-wan | Smugglers | 밀수,https://en.wikipedia.org/wiki/Grand_Bell_Awards

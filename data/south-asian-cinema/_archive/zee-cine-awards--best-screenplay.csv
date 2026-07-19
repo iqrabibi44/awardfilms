@@ -1,0 +1,35 @@
+year,film,person,is_winner,raw_text,source_url
+2024,Atlee,Jawan,False,2024 | Atlee (director) | Jawan (film) [ 8 ],https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Screenplay
+2020,Anubhav Sinha & Gaurav Solanki,Article 15,False,2020 | Anubhav Sinha & Gaurav Solanki | Article 15,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Screenplay
+2015,Juhi Chaturvedi,Piku,False,2015 | Juhi Chaturvedi | Piku,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Screenplay
+2014,Pubali Chaudhari Supratik Sen Abhishek Kapoor Chetan Bhagat,Kai Po Che!,False,2014 | Pubali Chaudhari Supratik Sen Abhishek Kapoor Chetan Bhagat | Kai Po Che!,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Screenplay
+2011,Karan Johar Shibani Bathija,My Name is Khan,False,2011 | Karan Johar Shibani Bathija | My Name is Khan,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Screenplay
+2008,Amole Gupte,Taare Zameen Par,False,2008 | Amole Gupte | Taare Zameen Par (Like Stars on Earth),https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Screenplay
+2007,Rajkumar Hirani & Abhijat Joshi,Lage Raho Munna Bhai,False,2007 | Rajkumar Hirani & Abhijat Joshi | Lage Raho Munna Bhai,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Screenplay
+2005,Ashutosh Gowariker & M.G. Sathya,Swades,False,2005 | Ashutosh Gowariker & M.G. Sathya | Swades,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Screenplay
+2023,Vivek Agnihotri,The Kashmir Files,False,2023 | Vivek Agnihotri | The Kashmir Files,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Screenplay
+2020,"Gaurav Solanki , Anubhav Sinha",Article 15,False,"2020 | Gaurav Solanki , Anubhav Sinha | Article 15",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Screenplay
+2018,Nitesh Tiwari,Bareilly Ki Barfi,False,2018 | Nitesh Tiwari | Bareilly Ki Barfi,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Screenplay
+2015,Juhi Chaturvedi,Piku,False,2015 | Juhi Chaturvedi | Piku,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Screenplay
+2014,Ayan Mukerji,Yeh Jawaani Hai Deewani,False,2014 | Ayan Mukerji | Yeh Jawaani Hai Deewani,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Screenplay
+2013,Anurag Basu,Barfi!,False,2013 | Anurag Basu | Barfi!,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Screenplay
+2012,Imtiaz Ali,Rockstar,False,2012 | Imtiaz Ali | Rockstar,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Screenplay
+2008,Jab We Met,,False,2008 | Jab We Met,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Screenplay
+2007,Rajkumar Hirani & Abhijat Joshi,Lage Raho Munna Bhai,False,2007 | Rajkumar Hirani & Abhijat Joshi | Lage Raho Munna Bhai,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Screenplay
+2005,Vishal Bhardwaj & Abbas Tyrewala,Maqbool,False,2005 | Vishal Bhardwaj & Abbas Tyrewala | Maqbool,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Screenplay
+2003,Mahesh Bhatt,Raaz,False,2003 | Mahesh Bhatt | Raaz,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Screenplay
+1997,Manmohan Singh,Dil To Pagal Hai,False,1997 | Manmohan Singh | Dil To Pagal Hai | ,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Screenplay
+2002,Rajiv Jain,Badhaai Ho Badhaai,False,2002 | Rajiv Jain | Badhaai Ho Badhaai | ,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Screenplay
+2005,Santosh Sivan,Meenaxi: A Tale of Three Cities,False,2005 | Santosh Sivan | Meenaxi: A Tale of Three Cities [ 9 ] | ,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Screenplay
+2006,Ravi K. Chandran,Black,False,2006 | Ravi K. Chandran | Black | ,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Screenplay
+2008,Sudeep Chatterjee,Chak De India,False,2008 | Sudeep Chatterjee | Chak De India | ,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Screenplay
+2009,Ravi K. Chandran,Ghajini,False,2009 | Ravi K. Chandran | Ghajini | ,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Screenplay
+2012,Carlos Catalan,Zindagi Na Milegi Dobara,False,2012 | Carlos Catalan | Zindagi Na Milegi Dobara | ,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Screenplay
+2014,Ravi Varman,Goliyon Ki Raasleela Ram-Leela,False,2014 | Ravi Varman | Goliyon Ki Raasleela Ram-Leela | ,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Screenplay
+2015,Sudeep Chatterjee,Bajirao Mastani,False,2015 | Sudeep Chatterjee | Bajirao Mastani | ,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Screenplay
+2017,Aseem Bajaj,Shivaay,False,2017 | Aseem Bajaj | Shivaay | ,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Screenplay
+2018,Jomon T. John,Golmaal Again,False,2018 | Jomon T. John | Golmaal Again | ,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Screenplay
+2019,Pankaj Kumar,Tumbbad,False,2019 | Pankaj Kumar | Tumbbad | ,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Screenplay
+2020,Jay Oza,Gully Boy,False,2020 | Jay Oza | Gully Boy | [ 10 ],https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Screenplay
+2002,Sunny Deol,Gadar: Ek Prem Katha,False,2002 [ 13 ] [ 14 ] [ 15 ] | Sunny Deol | Gadar: Ek Prem Katha,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Screenplay
+2002,Kajol,Kabhi Khushi Kabhie Gham,False,2002 | Kajol | Kabhi Khushi Kabhie Gham,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Screenplay

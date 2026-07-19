@@ -1,0 +1,31 @@
+year,film,person,is_winner,raw_text,source_url
+,Ashutosh Gowariker,,False,3 | Ashutosh Gowariker,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Film
+,"Rakesh Roshan , Sanjay Leela Bhansali , Yash Chopra",,False,"2 | Rakesh Roshan , Sanjay Leela Bhansali , Yash Chopra",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Film
+1995,Hum Aapke Hain Koun...!,Sooraj Barjatya,False,1995 | Hum Aapke Hain Koun...! | Sooraj Barjatya,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Film
+1996,Dilwale Dulhania Le Jayenge,Yash Chopra,False,1996 | Dilwale Dulhania Le Jayenge | Yash Chopra,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Film
+1997,Raja Hindustani,Dharmesh Darshan,False,1997 | Raja Hindustani | Dharmesh Darshan,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Film
+1998,Border,J. P. Dutta,False,1998 | Border | J. P. Dutta,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Film
+1999,Kuch Kuch Hota Hai,Karan Johar,False,1999 | Kuch Kuch Hota Hai | Karan Johar,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Film
+2000,Hum Dil De Chuke Sanam,Sanjay Leela Bhansali,False,2000 | Hum Dil De Chuke Sanam | Sanjay Leela Bhansali,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Film
+2001,Kaho Naa... Pyaar Hai,Rakesh Roshan,False,2001 | Kaho Naa... Pyaar Hai | Rakesh Roshan,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Film
+2002,Lagaan,Ashutosh Gowariker,False,2002 | Lagaan | Ashutosh Gowariker,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Film
+2003,Devdas,Bharat Shah,False,2003 | Devdas | Bharat Shah,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Film
+2004,Koi... Mil Gaya,Rakesh Roshan,False,2004 | Koi... Mil Gaya | Rakesh Roshan,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Film
+2005,Swades,Ashutosh Gowariker,False,2005 | Swades | Ashutosh Gowariker,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Film
+2006,Black,Sanjay Leela Bhansali,False,2006 | Black | Sanjay Leela Bhansali,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Film
+2007,Lage Raho Munna Bhai,Vidhu Vinod Chopra,False,2007 | Lage Raho Munna Bhai | Vidhu Vinod Chopra,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Film
+2008,Chak De! India,Yash Chopra,False,2008 | Chak De! India | Yash Chopra,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Film
+2009,Jodhaa Akbar,Ashutosh Gowariker,False,2009 | Jodhaa Akbar | Ashutosh Gowariker,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Film
+2010,3 Idiots,Vidhu Vinod Chopra,False,2010 | 3 Idiots | Vidhu Vinod Chopra [ 1 ],https://en.wikipedia.org/wiki/Screen_Award_for_Best_Film
+2011,Udaan,Anurag Kashyap,False,2011 | Udaan | Anurag Kashyap [ 2 ] [ 3 ],https://en.wikipedia.org/wiki/Screen_Award_for_Best_Film
+2012,The Dirty Picture,Ekta Kapoor,False,2012 | The Dirty Picture | Ekta Kapoor [ 4 ],https://en.wikipedia.org/wiki/Screen_Award_for_Best_Film
+2012,Farhan Akhtar,,False,Zindagi Na Milegi Dobara | Farhan Akhtar,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Film
+2013,Paan Singh Tomar,Ronnie Screwvala,False,2013 | Paan Singh Tomar | Ronnie Screwvala,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Film
+2014,Bhaag Milkha Bhaag,Rakeysh Omprakash Mehra,False,2014 | Bhaag Milkha Bhaag | Rakeysh Omprakash Mehra,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Film
+2015,Queen,Vikas Bahl,False,2015 | Queen | Vikas Bahl [ 5 ],https://en.wikipedia.org/wiki/Screen_Award_for_Best_Film
+2016,Talvar,Vishal Bhardwaj,False,2016 | Talvar | Vishal Bhardwaj [ 6 ],https://en.wikipedia.org/wiki/Screen_Award_for_Best_Film
+2017,Pink,Pawan Kumar & Rashmi Sharma,False,2017 | Pink | Pawan Kumar & Rashmi Sharma,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Film
+2018,Dangal,Aamir Khan Productions,False,2018 [ 7 ] [ 8 ] | Dangal | Aamir Khan Productions,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Film
+2019,Stree,Dinesh Vijan & Raj Nidimoru and Krishna D.K.,False,2019 | Stree | Dinesh Vijan & Raj Nidimoru and Krishna D.K.,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Film
+2020,Gully Boy,Excel Entertainment,False,2020 | Gully Boy | Excel Entertainment,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Film
+2026,Homebound,Dharma Productions,False,2026 | Homebound | Dharma Productions,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Film

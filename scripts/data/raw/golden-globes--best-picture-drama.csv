@@ -1,0 +1,399 @@
+year,film,person,is_winner,raw_text,source_url
+1943,The Song of Bernadette,Henry King,True,1943 | The Song of Bernadette | Henry King | William Perlberg,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1944,Going My Way,Leo McCarey,True,1944 | Going My Way | Leo McCarey | Leo McCarey,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1945,The Lost Weekend,Billy Wilder,True,1945 | The Lost Weekend | Billy Wilder | Charles Brackett,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1946,The Best Years of Our Lives,William Wyler,True,1946 | The Best Years of Our Lives | William Wyler | Samuel Goldwyn,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1947,Gentleman's Agreement,Elia Kazan,True,1947 | Gentleman's Agreement | Elia Kazan | Darryl F. Zanuck,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1948,Johnny Belinda,Jean Negulesco,True,1948 | Johnny Belinda | Jean Negulesco | Jerry Wald,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1948,John Huston,Henry Blanke,True,The Treasure of the Sierra Madre | John Huston | Henry Blanke,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1949,All the King's Men,Robert Rossen,True,1949 | All the King's Men | Robert Rossen | Robert Rossen,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1949,Henry Koster,Samuel G. Engel,False,Come to the Stable | Henry Koster | Samuel G. Engel,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1950,Sunset Boulevard,Billy Wilder,True,1950 | Sunset Boulevard | Billy Wilder | Charles Brackett,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1950,Joseph L. Mankiewicz,Darryl F. Zanuck,False,All About Eve | Joseph L. Mankiewicz | Darryl F. Zanuck,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1950,George Cukor,S. Sylvan Simon,False,Born Yesterday | George Cukor | S. Sylvan Simon,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1950,Michael Gordon,Stanley Kramer,False,Cyrano de Bergerac | Michael Gordon | Stanley Kramer,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1950,Henry Koster,John Beck,False,Harvey | Henry Koster | John Beck,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1951,A Place in the Sun,George Stevens,True,1951 | A Place in the Sun | George Stevens | George Stevens,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1951,Mark Robson,Robert Buckner,False,Bright Victory | Mark Robson | Robert Buckner,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1951,William Wyler,,False,Detective Story | William Wyler,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1951,Mervyn LeRoy,Sam Zimbalist,False,Quo Vadis | Mervyn LeRoy | Sam Zimbalist,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1951,Elia Kazan,Charles K. Feldman,False,A Streetcar Named Desire | Elia Kazan | Charles K. Feldman,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1952,The Greatest Show on Earth,Cecil B. DeMille,True,1952 | The Greatest Show on Earth | Cecil B. DeMille | Cecil B. DeMille,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1952,Daniel Mann,Hal B. Wallis,False,"Come Back, Little Sheba | Daniel Mann | Hal B. Wallis",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1952,Richard Fleischer,Earl Fenton,False,The Happy Time | Richard Fleischer | Earl Fenton,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1952,Fred Zinnemann,Stanley Kramer,False,High Noon | Fred Zinnemann | Stanley Kramer,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1952,Russell Rouse,Clarence Greene,False,The Thief | Russell Rouse | Clarence Greene,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1953,The Robe,Henry Koster,True,1953 | The Robe | Henry Koster | Frank Ross,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1954,On the Waterfront,Elia Kazan,True,1954 [ 6 ] [ 7 ] | On the Waterfront | Elia Kazan | Sam Spiegel,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1955,East of Eden,Elia Kazan,True,1955 [ 8 ] [ 9 ] | East of Eden | Elia Kazan | Elia Kazan,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1956,Around the World in 80 Days,Michael Anderson,True,1956 | Around the World in 80 Days | Michael Anderson | Kevin McClory,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1956,George Stevens,Henry Ginsberg,False,Giant | George Stevens | Henry Ginsberg,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1956,Vincente Minnelli,John Houseman,False,Lust for Life | Vincente Minnelli | John Houseman,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1956,Joseph Anthony,Hal B. Wallis,False,The Rainmaker | Joseph Anthony | Hal B. Wallis,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1956,King Vidor,Dino De Laurentiis,False,War and Peace | King Vidor | Dino De Laurentiis,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1957,The Bridge on the River Kwai,David Lean,True,1957 | The Bridge on the River Kwai | David Lean | Sam Spiegel,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1957,Sidney Lumet,Henry Fonda,False,12 Angry Men | Sidney Lumet | Henry Fonda,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1957,Joshua Logan,William Goetz,False,Sayonara | Joshua Logan | William Goetz,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1957,George Cukor,Hal B. Wallis,False,Wild Is the Wind | George Cukor | Hal B. Wallis,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1957,Billy Wilder,Arthur Hornblow Jr.,False,Witness for the Prosecution | Billy Wilder | Arthur Hornblow Jr.,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1958,The Defiant Ones,Stanley Kramer,True,1958 | The Defiant Ones | Stanley Kramer | Stanley Kramer,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1958,Richard Brooks,Lawrence Weingarten,False,Cat on a Hot Tin Roof | Richard Brooks | Lawrence Weingarten,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1958,Mervyn LeRoy,Mervyn LeRoy,False,Home Before Dark | Mervyn LeRoy | Mervyn LeRoy,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1958,Robert Wise,Claude Miller,False,I Want to Live! | Robert Wise | Claude Miller,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1958,Delbert Mann,Harold Hecht,False,Separate Tables | Delbert Mann | Harold Hecht,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1959,Ben-Hur,William Wyler,True,1959 | Ben-Hur | William Wyler | Sam Zimbalist,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1959,Otto Preminger,Otto Preminger,False,Anatomy of a Murder | Otto Preminger | Otto Preminger,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1959,George Stevens,,False,The Diary of Anne Frank | George Stevens,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1959,Fred Zinnemann,Henry Blanke,False,The Nun's Story | Fred Zinnemann | Henry Blanke,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1959,Stanley Kramer,Stanley Kramer,False,On the Beach | Stanley Kramer | Stanley Kramer,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1960,Spartacus,Stanley Kubrick,True,1960 | Spartacus | Stanley Kubrick | Kirk Douglas,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1960,Richard Brooks,Bernard Smith,False,Elmer Gantry | Richard Brooks | Bernard Smith,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1960,Stanley Kramer,,False,Inherit the Wind | Stanley Kramer,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1960,Jack Cardiff,Jerry Wald,False,Sons and Lovers | Jack Cardiff | Jerry Wald,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1960,Vincent J. Donehue,Dore Schary,False,Sunrise at Campobello | Vincent J. Donehue | Dore Schary,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1961,The Guns of Navarone,J. Lee Thompson,True,1961 | The Guns of Navarone | J. Lee Thompson | Carl Foreman,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1961,Anthony Mann,Samuel Bronston,False,El Cid | Anthony Mann | Samuel Bronston,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1961,Joshua Logan,Ben Kadish,False,Fanny | Joshua Logan | Ben Kadish,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1961,Stanley Kramer,,False,Judgment at Nuremberg | Stanley Kramer,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1961,Elia Kazan,Elia Kazan,False,Splendor in the Grass | Elia Kazan | Elia Kazan,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1962,Lawrence of Arabia,David Lean,True,1962 | Lawrence of Arabia | David Lean | Sam Spiegel,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1962,George Cukor,Darryl F. Zanuck,False,The Chapman Report | George Cukor | Darryl F. Zanuck,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1962,Blake Edwards,Martin Manulis,False,Days of Wine and Roses | Blake Edwards | Martin Manulis,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1962,John Huston,Wolfgang Reinhardt,False,Freud: The Secret Passion | John Huston | Wolfgang Reinhardt,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1962,Martin Ritt,Jerry Wald,False,Hemingway's Adventures of a Young Man | Martin Ritt | Jerry Wald,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1962,Philip Dunne,Mark Robson,False,Lisa | Philip Dunne | Mark Robson,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1962,Ken Annakin,Darryl F. Zanuck,False,The Longest Day | Ken Annakin | Darryl F. Zanuck,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1962,Arthur Penn,Fred Coe,False,The Miracle Worker | Arthur Penn | Fred Coe,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1962,Lewis Milestone,Aaron Rosenberg,False,Mutiny on the Bounty | Lewis Milestone | Aaron Rosenberg,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1962,Robert Mulligan,Alan J. Pakula,False,To Kill a Mockingbird | Robert Mulligan | Alan J. Pakula,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1963,The Cardinal,Otto Preminger,True,1963 | The Cardinal | Otto Preminger | Martin C. Schute,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1963,Elia Kazan,,False,America America | Elia Kazan,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1963,David Miller,Robert Arthur,False,"Captain Newman, M.D. | David Miller | Robert Arthur",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1963,Hall Bartlett,,False,The Caretakers | Hall Bartlett,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1963,Joseph L. Mankiewicz,Walter Wanger,False,Cleopatra | Joseph L. Mankiewicz | Walter Wanger,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1963,John Sturges,,False,The Great Escape | John Sturges,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1963,Martin Ritt,Irving Ravetch,False,Hud | Martin Ritt | Irving Ravetch,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1963,Ralph Nelson,,False,Lilies of the Field | Ralph Nelson,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1964,Becket,Peter Glenville,True,1964 | Becket | Peter Glenville | Hal B. Wallis,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1964,Ronald Neame,Ross Hunter,False,The Chalk Garden | Ronald Neame | Ross Hunter,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1964,Delbert Mann,Martin Manulis,False,Dear Heart | Delbert Mann | Martin Manulis,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1964,John Huston,,False,The Night of the Iguana | John Huston,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1964,Michael Cacoyannis,,False,Zorba the Greek | Michael Cacoyannis,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1965,Doctor Zhivago,David Lean,True,1965 | Doctor Zhivago | David Lean | Carlo Ponti,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1965,William Wyler,Jud Kinberg,False,The Collector | William Wyler | Jud Kinberg,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1965,Robert Aldrich,,False,The Flight of the Phoenix | Robert Aldrich,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1965,Guy Green,,False,A Patch of Blue | Guy Green,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1965,Stanley Kramer,,False,Ship of Fools | Stanley Kramer,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1966,A Man for All Seasons,Fred Zinnemann,True,1966 | A Man for All Seasons | Fred Zinnemann,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1966,James H. Hill,Sam Jaffe,False,Born Free | James H. Hill | Sam Jaffe,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1966,Richard Brooks,,False,The Professionals | Richard Brooks,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1966,Robert Wise,,False,The Sand Pebbles | Robert Wise,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1966,Mike Nichols,Ernest Lehman,False,Who's Afraid of Virginia Woolf? | Mike Nichols | Ernest Lehman,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1967,In the Heat of the Night,Norman Jewison,True,1967 | In the Heat of the Night | Norman Jewison | Walter Mirisch,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1967,Arthur Penn,Warren Beatty,False,Bonnie and Clyde | Arthur Penn | Warren Beatty,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1967,John Schlesinger,Joseph Janni,False,Far from the Madding Crowd | John Schlesinger | Joseph Janni,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1967,Stanley Kramer,George Glass,False,Guess Who's Coming to Dinner | Stanley Kramer | George Glass,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1967,Richard Brooks,,False,In Cold Blood | Richard Brooks,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1968,The Lion in Winter,Anthony Harvey,True,1968 | The Lion in Winter | Anthony Harvey | Martin Poll,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1968,Ralph Nelson,,False,CHAЯLY | Ralph Nelson,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1968,John Frankenheimer,Edward Lewis,False,The Fixer | John Frankenheimer | Edward Lewis,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1968,Robert Ellis Miller,Joel Freeman,False,The Heart Is a Lonely Hunter | Robert Ellis Miller | Joel Freeman,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1968,Michael Anderson,George Englund,False,The Shoes of the Fisherman | Michael Anderson | George Englund,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1969,Anne of the Thousand Days,Charles Jarrott,True,1969 | Anne of the Thousand Days | Charles Jarrott | Hal B. Wallis,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1969,George Roy Hill,John Foreman,False,Butch Cassidy and the Sundance Kid | George Roy Hill | John Foreman,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1969,John Schlesinger,Jerome Hellman,False,Midnight Cowboy | John Schlesinger | Jerome Hellman,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1969,Ronald Neame,James Cresson,False,The Prime of Miss Jean Brodie | Ronald Neame | James Cresson,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1969,Sydney Pollack,Robert Chartoff,False,"They Shoot Horses, Don't They? | Sydney Pollack | Robert Chartoff",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1970,Love Story,Arthur Hiller,True,1970 | Love Story | Arthur Hiller | Howard G. Minsky,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1970,George Seaton,Ross Hunter,False,Airport | George Seaton | Ross Hunter,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1970,Bob Rafelson,Robert Daley,False,Five Easy Pieces | Bob Rafelson | Robert Daley,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1970,Gilbert Cates,,False,I Never Sang for My Father | Gilbert Cates,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1970,Franklin J. Schaffner,Frank Caffey,False,Patton | Franklin J. Schaffner | Frank Caffey,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1971,The French Connection,William Friedkin,True,1971 | The French Connection | William Friedkin | Philip D'Antoni,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1971,Stanley Kubrick,Si Litvinoff,False,A Clockwork Orange | Stanley Kubrick | Si Litvinoff,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1971,Peter Bogdanovich,Stephen J. Friedman,False,The Last Picture Show | Peter Bogdanovich | Stephen J. Friedman,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1971,Charles Jarrott,Hal B. Wallis,False,"Mary, Queen of Scots | Charles Jarrott | Hal B. Wallis",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1971,Robert Mulligan,Richard A. Roth,False,Summer of ‘42 | Robert Mulligan | Richard A. Roth,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1972,The Godfather,Francis Ford Coppola,True,1972 | The Godfather | Francis Ford Coppola | Albert S. Ruddy,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1972,John Boorman,,False,Deliverance | John Boorman,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1972,Alfred Hitchcock,William Hill,False,Frenzy | Alfred Hitchcock | William Hill,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1972,Ronald Neame,Irwin Allen,False,The Poseidon Adventure | Ronald Neame | Irwin Allen,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1972,Joseph L. Mankiewicz,Morton Gottlieb,False,Sleuth | Joseph L. Mankiewicz | Morton Gottlieb,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1973,The Exorcist,William Friedkin,True,1973 | The Exorcist | William Friedkin | William Peter Blatty,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1973,Mark Rydell,,False,Cinderella Liberty | Mark Rydell,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1973,Fred Zinnemann,John Woolf,False,The Day of the Jackal | Fred Zinnemann | John Woolf,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1973,Bernardo Bertolucci,Alberto Grimaldi,False,Last Tango in Paris | Bernardo Bertolucci | Alberto Grimaldi,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1973,John G. Avildsen,Edward S. Feldman,False,Save the Tiger | John G. Avildsen | Edward S. Feldman,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1973,Sidney Lumet,Dino De Laurentiis,False,Serpico | Sidney Lumet | Dino De Laurentiis,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1974,Chinatown,Roman Polanski,True,1974 | Chinatown | Roman Polanski | Robert Evans,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1974,Francis Ford Coppola,,False,The Conversation | Francis Ford Coppola,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1974,Mark Robson,,False,Earthquake | Mark Robson,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1974,Francis Ford Coppola,,False,The Godfather Part II | Francis Ford Coppola,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1974,John Cassavetes,Sam Shaw,False,A Woman Under the Influence | John Cassavetes | Sam Shaw,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1975,One Flew Over the Cuckoo's Nest,Miloš Forman,True,1975 | One Flew Over the Cuckoo's Nest | Miloš Forman | Michael Douglas,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1975,Stanley Kubrick,,False,Barry Lyndon | Stanley Kubrick,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1975,Sidney Lumet,Martin Bregman,False,Dog Day Afternoon | Sidney Lumet | Martin Bregman,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1975,Steven Spielberg,David Brown,False,Jaws | Steven Spielberg | David Brown,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1975,Robert Altman,,False,Nashville | Robert Altman,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1976,Rocky,John G. Avildsen,True,1976 | Rocky | John G. Avildsen | Robert Chartoff and Irwin Winkler,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1976,Alan J. Pakula,Walter Coblenz,False,All the President's Men | Alan J. Pakula | Walter Coblenz,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1976,Hal Ashby,Robert Blumofe,False,Bound for Glory | Hal Ashby | Robert Blumofe,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1976,Sidney Lumet,Howard Gottfried,False,Network | Sidney Lumet | Howard Gottfried,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1976,Stuart Rosenberg,Robert Fryer,False,Voyage of the Damned | Stuart Rosenberg | Robert Fryer,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1977,The Turning Point,Herbert Ross,True,1977 | The Turning Point | Herbert Ross | Arthur Laurents,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1977,Steven Spielberg,Julia Phillips,False,Close Encounters of the Third Kind | Steven Spielberg | Julia Phillips,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1977,Anthony Page,Daniel H. Blatt,False,I Never Promised You a Rose Garden | Anthony Page | Daniel H. Blatt,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1977,Fred Zinnemann,Richard A. Roth,False,Julia | Fred Zinnemann | Richard A. Roth,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1977,George Lucas,Gary Kurtz,False,Star Wars | George Lucas | Gary Kurtz,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1978,Midnight Express,Alan Parker,True,1978 | Midnight Express | Alan Parker | Alan Marshall,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1978,Hal Ashby,Robert C. Jones,False,Coming Home | Hal Ashby | Robert C. Jones,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1978,Terrence Malick,Bert Schneider,False,Days of Heaven | Terrence Malick | Bert Schneider,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1978,Michael Cimino,Barry Spikings,False,The Deer Hunter | Michael Cimino | Barry Spikings,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1978,Paul Mazursky,,False,An Unmarried Woman | Paul Mazursky,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1979,Kramer vs. Kramer,Robert Benton,True,1979 | Kramer vs. Kramer | Robert Benton | Stanley R. Jaffe,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1979,Francis Ford Coppola,,False,Apocalypse Now | Francis Ford Coppola,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1979,James Bridges,Michael Douglas,False,The China Syndrome | James Bridges | Michael Douglas,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1979,Woody Allen,Charles H. Joffe,False,Manhattan | Woody Allen | Charles H. Joffe,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1979,Martin Ritt,Alexandra Rose,False,Norma Rae | Martin Ritt | Alexandra Rose,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1980,Ordinary People,Robert Redford,True,1980 | Ordinary People | Robert Redford | Ronald L. Schwary,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1980,David Lynch,Jonathan Sanger,False,The Elephant Man | David Lynch | Jonathan Sanger,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1980,William Peter Blatty,,False,The Ninth Configuration | William Peter Blatty,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1980,Martin Scorsese,Robert Chartoff,False,Raging Bull | Martin Scorsese | Robert Chartoff,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1980,Richard Rush,,False,The Stunt Man | Richard Rush,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1981,On Golden Pond,Mark Rydell,True,1981 | On Golden Pond | Mark Rydell | Bruce Gilbert,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1981,Karel Reisz,Leon Clore,False,The French Lieutenant's Woman | Karel Reisz | Leon Clore,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1981,Sidney Lumet,,False,Prince of the City | Sidney Lumet,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1981,Miloš Forman,Dino De Laurentiis,False,Ragtime | Miloš Forman | Dino De Laurentiis,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1981,Warren Beatty,,False,Reds | Warren Beatty,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1982,E.T. the Extra-Terrestrial,Steven Spielberg,True,1982 | E.T. the Extra-Terrestrial | Steven Spielberg | Steven Spielberg,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1982,Costa-Gavras,Edward Lewis,False,Missing | Costa-Gavras | Edward Lewis,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1982,Taylor Hackford,Martin Elfand,False,An Officer and a Gentleman | Taylor Hackford | Martin Elfand,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1982,Alan J. Pakula,,False,Sophie's Choice | Alan J. Pakula,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1982,Sidney Lumet,David Brown,False,The Verdict | Sidney Lumet | David Brown,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1983,Terms of Endearment,James L. Brooks,True,1983 | Terms of Endearment | James L. Brooks | James L. Brooks,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1983,Robert Ellis Miller,Julius J. Epstein,False,"Reuben, Reuben | Robert Ellis Miller | Julius J. Epstein",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1983,Philip Kaufman,Irwin Winkler,False,The Right Stuff | Philip Kaufman | Irwin Winkler,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1983,Mike Nichols,Alice Arlen,False,Silkwood | Mike Nichols | Alice Arlen,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1983,Bruce Beresford,Philip Hobel,False,Tender Mercies | Bruce Beresford | Philip Hobel,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1984,Amadeus,Miloš Forman,True,1984 | Amadeus | Miloš Forman | Saul Zaentz,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1984,Francis Ford Coppola,Robert Evans,False,The Cotton Club | Francis Ford Coppola | Robert Evans,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1984,Roland Joffé,David Puttnam,False,The Killing Fields | Roland Joffé | David Puttnam,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1984,Robert Benton,,False,Places in the Heart | Robert Benton,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1984,Norman Jewison,Norman Jewison,False,A Soldier's Story | Norman Jewison | Norman Jewison,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1985,Out of Africa,Sydney Pollack,True,1985 | Out of Africa | Sydney Pollack | Sydney Pollack,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1985,Steven Spielberg,,False,The Color Purple | Steven Spielberg,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1985,Hector Babenco,David Weisman,False,Kiss of the Spider Woman | Hector Babenco | David Weisman,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1985,Andrei Konchalovsky,Richard Garcia,False,Runaway Train | Andrei Konchalovsky | Richard Garcia,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1985,Peter Weir,Edward S. Feldman,False,Witness | Peter Weir | Edward S. Feldman,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1986,Platoon,Oliver Stone,True,1986 | Platoon | Oliver Stone | Arnold Kopelson,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1986,Randa Haines,Chris Bender,False,Children of a Lesser God | Randa Haines | Chris Bender,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1986,Roland Joffé,Fernando Ghia,False,The Mission | Roland Joffé | Fernando Ghia,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1986,Neil Jordan,Stephen Woolley,False,Mona Lisa | Neil Jordan | Stephen Woolley,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1986,James Ivory,Ismail Merchant,False,A Room with a View | James Ivory | Ismail Merchant,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1986,Rob Reiner,Bruce A. Evans,False,Stand by Me | Rob Reiner | Bruce A. Evans,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1987,The Last Emperor,Bernardo Bertolucci,True,1987 | The Last Emperor | Bernardo Bertolucci | Jeremy Thomas,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1987,Richard Attenborough,,False,Cry Freedom | Richard Attenborough,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1987,Steven Spielberg,Kathleen Kennedy,False,Empire of the Sun | Steven Spielberg | Kathleen Kennedy,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1987,Adrian Lyne,Stanley R. Jaffe,False,Fatal Attraction | Adrian Lyne | Stanley R. Jaffe,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1987,Luis Valdez,Stuart Benjamin,False,La Bamba | Luis Valdez | Stuart Benjamin,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1987,Martin Ritt,Teri Schwartz,False,Nuts | Martin Ritt | Teri Schwartz,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1988,Rain Man,Barry Levinson,True,1988 | Rain Man | Barry Levinson | Mark Johnson,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1988,Lawrence Kasdan,Phyllis Carlyle,False,The Accidental Tourist | Lawrence Kasdan | Phyllis Carlyle,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1988,Fred Schepisi,Yoram Globus,False,A Cry in the Dark | Fred Schepisi | Yoram Globus,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1988,Michael Apted,Peter Guber,False,Gorillas in the Mist | Michael Apted | Peter Guber,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1988,Alan Parker,Robert F. Colesberry,False,Mississippi Burning | Alan Parker | Robert F. Colesberry,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1988,Sidney Lumet,Griffin Dunne,False,Running on Empty | Sidney Lumet | Griffin Dunne,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1988,Philip Kaufman,Bertil Ohlsson,False,The Unbearable Lightness of Being | Philip Kaufman | Bertil Ohlsson,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1989,Born on the Fourth of July,Oliver Stone,True,1989 | Born on the Fourth of July | Oliver Stone | A. Kitman Ho,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1989,Woody Allen,Charles H. Joffe,False,Crimes and Misdemeanors | Woody Allen | Charles H. Joffe,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1989,Peter Weir,Paul Junger Witt,False,Dead Poets Society | Peter Weir | Paul Junger Witt,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1989,Spike Lee,,False,Do the Right Thing | Spike Lee,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1989,Edward Zwick,Freddie Fields,False,Glory | Edward Zwick | Freddie Fields,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1990,Dances with Wolves,Kevin Costner,True,1990 | Dances with Wolves | Kevin Costner | Jim Wilson and Kevin Costner,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1990,Barry Levinson,Mark Johnson,False,Avalon | Barry Levinson | Mark Johnson,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1990,Francis Ford Coppola,,False,The Godfather Part III | Francis Ford Coppola,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1990,Martin Scorsese,Irwin Winkler,False,Goodfellas | Martin Scorsese | Irwin Winkler,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1990,Barbet Schroeder,Edward R. Pressman,False,Reversal of Fortune | Barbet Schroeder | Edward R. Pressman,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1991,Bugsy,Barry Levinson,True,1991 | Bugsy | Barry Levinson | Warren Beatty,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1991,Oliver Stone,Arnon Milchan,False,JFK | Oliver Stone | Arnon Milchan,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1991,Barbra Streisand,Andrew Karsch,False,The Prince of Tides | Barbra Streisand | Andrew Karsch,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1991,Jonathan Demme,Kenneth Utt,False,The Silence of the Lambs | Jonathan Demme | Kenneth Utt,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1991,Ridley Scott,Mimi Polk Gitlin,False,Thelma & Louise | Ridley Scott | Mimi Polk Gitlin,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1992,Scent of a Woman,Martin Brest,True,1992 | Scent of a Woman | Martin Brest,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1992,Neil Jordan,Stephen Woolley,False,The Crying Game | Neil Jordan | Stephen Woolley,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1992,Rob Reiner,David Brown,False,A Few Good Men | Rob Reiner | David Brown,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1992,James Ivory,Ismail Merchant,False,Howards End | James Ivory | Ismail Merchant,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1992,Clint Eastwood,,False,Unforgiven | Clint Eastwood,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1993,Schindler's List,Steven Spielberg,True,1993 | Schindler's List | Steven Spielberg,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1993,Martin Scorsese,Barbara De Fina,False,The Age of Innocence | Martin Scorsese | Barbara De Fina,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1993,Jim Sheridan,,False,In the Name of the Father | Jim Sheridan,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1993,Jane Campion,,False,The Piano | Jane Campion,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1993,James Ivory,Ismail Merchant,False,The Remains of the Day | James Ivory | Ismail Merchant,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1994,Forrest Gump,Robert Zemeckis,True,1994 | Forrest Gump | Robert Zemeckis | Wendy Finerman,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1994,Edward Zwick,Marshall Herskovitz,False,Legends of the Fall | Edward Zwick | Marshall Herskovitz,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1994,Michael Apted,Jodie Foster,False,Nell | Michael Apted | Jodie Foster,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1994,Quentin Tarantino,Lawrence Bender,False,Pulp Fiction | Quentin Tarantino | Lawrence Bender,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1994,Robert Redford,,False,Quiz Show | Robert Redford,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1995,Sense and Sensibility,Ang Lee,True,1995 | Sense and Sensibility | Ang Lee | Lindsay Doran,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1995,Ron Howard,Brian Grazer,False,Apollo 13 | Ron Howard | Brian Grazer,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1995,Mel Gibson,,False,Braveheart | Mel Gibson,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1995,Clint Eastwood,,False,The Bridges of Madison County | Clint Eastwood,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1995,Mike Figgis,Lila Cazès,False,Leaving Las Vegas | Mike Figgis | Lila Cazès,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1996,The English Patient,Anthony Minghella,True,1996 | The English Patient | Anthony Minghella | Saul Zaentz,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1996,Lars von Trier,Peter Aalbæk Jensen,False,Breaking the Waves | Lars von Trier | Peter Aalbæk Jensen,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1996,Miloš Forman,Oliver Stone,False,The People vs. Larry Flynt | Miloš Forman | Oliver Stone,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1996,Mike Leigh,Simon Channing-Williams,False,Secrets & Lies | Mike Leigh | Simon Channing-Williams,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1996,Scott Hicks,Jane Scott,False,Shine | Scott Hicks | Jane Scott,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1997,Titanic,James Cameron,True,1997 | Titanic | James Cameron | James Cameron and Jon Landau,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1997,Steven Spielberg,Debbie Allen,False,Amistad | Steven Spielberg | Debbie Allen,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1997,Jim Sheridan,Arthur Lappin,False,The Boxer | Jim Sheridan | Arthur Lappin,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1997,Gus Van Sant,Lawrence Bender,False,Good Will Hunting | Gus Van Sant | Lawrence Bender,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1997,Curtis Hanson,,False,L.A. Confidential | Curtis Hanson,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1998,Saving Private Ryan,Steven Spielberg,True,1998 | Saving Private Ryan | Steven Spielberg | Steven Spielberg,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1998,Shekhar Kapur,Tim Bevan,False,Elizabeth | Shekhar Kapur | Tim Bevan,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1998,Bill Condon,Paul Colichman,False,Gods and Monsters | Bill Condon | Paul Colichman,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1998,Robert Redford,Patrick Markey,False,The Horse Whisperer | Robert Redford | Patrick Markey,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1998,Peter Weir,Edward S. Feldman,False,The Truman Show | Peter Weir | Edward S. Feldman,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1999,American Beauty,Sam Mendes,True,1999 | American Beauty | Sam Mendes | Bruce Cohen,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1999,Neil Jordan,Neil Jordan,False,The End of the Affair | Neil Jordan | Neil Jordan,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1999,Norman Jewison,Armyan Bernstein,False,The Hurricane | Norman Jewison | Armyan Bernstein,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1999,Michael Mann,Pieter Jan Brugge,False,The Insider | Michael Mann | Pieter Jan Brugge,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+1999,Anthony Minghella,William Horberg,False,The Talented Mr. Ripley | Anthony Minghella | William Horberg,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2000,Gladiator,Ridley Scott,True,2000 [ 10 ] | Gladiator | Ridley Scott | Douglas Wick,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2000,Stephen Daldry,Charles Brand,False,Billy Elliot | Stephen Daldry | Charles Brand,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2000,Steven Soderbergh,Danny DeVito,False,Erin Brockovich | Steven Soderbergh | Danny DeVito,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2000,István Szabó,András Hámori,False,Sunshine | István Szabó | András Hámori,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2000,Steven Soderbergh,Edward Zwick,False,Traffic | Steven Soderbergh | Edward Zwick,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2000,Curtis Hanson,,False,Wonder Boys | Curtis Hanson,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2001,A Beautiful Mind,Ron Howard,True,2001 | A Beautiful Mind | Ron Howard | Brian Grazer,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2001,Todd Field,Todd Field,False,In the Bedroom | Todd Field | Todd Field,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2001,Peter Jackson,"Peter Jackson, Barrie M. Osborne , Fran Walsh",False,"The Lord of the Rings: The Fellowship of the Ring | Peter Jackson | Peter Jackson, Barrie M. Osborne , Fran Walsh",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2001,Joel Coen,Ethan Coen,False,The Man Who Wasn't There | Joel Coen | Ethan Coen,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2001,David Lynch,Pierre Edelman,False,Mulholland Drive | David Lynch | Pierre Edelman,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2002,The Hours,Stephen Daldry,True,2002 | The Hours | Stephen Daldry | Robert Fox and Scott Rudin,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2002,Alexander Payne,Michael Besman,False,About Schmidt | Alexander Payne | Michael Besman,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2002,Martin Scorsese,Alberto Grimaldi,False,Gangs of New York | Martin Scorsese | Alberto Grimaldi,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2002,Peter Jackson,"Peter Jackson, Barrie M. Osborne , Fran Walsh",False,"The Lord of the Rings: The Two Towers | Peter Jackson | Peter Jackson, Barrie M. Osborne , Fran Walsh",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2002,Roman Polanski,,False,The Pianist | Roman Polanski,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2003,The Lord of the Rings: The Return of the King,Peter Jackson,True,"2003 | The Lord of the Rings: The Return of the King | Peter Jackson | Peter Jackson, Barrie M. Osborne , Fran Walsh",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2003,Anthony Minghella,Albert Berger,False,Cold Mountain | Anthony Minghella | Albert Berger,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2003,Peter Weir,,False,Master and Commander: The Far Side of the World | Peter Weir,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2003,Clint Eastwood,Robert Lorenz,False,Mystic River | Clint Eastwood | Robert Lorenz,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2003,Gary Ross,Kathleen Kennedy,False,Seabiscuit | Gary Ross | Kathleen Kennedy,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2004,The Aviator,Martin Scorsese,True,2004 | The Aviator | Martin Scorsese | Michael Mann,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2004,Mike Nichols,Patrick Marber,False,Closer | Mike Nichols | Patrick Marber,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2004,Marc Forster,Richard N. Gladstein,False,Finding Neverland | Marc Forster | Richard N. Gladstein,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2004,Terry George,Terry George,False,Hotel Rwanda | Terry George | Terry George,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2004,Bill Condon,Gail Mutrux,False,Kinsey | Bill Condon | Gail Mutrux,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2004,Clint Eastwood,"Clint Eastwood, Albert S. Ruddy , Tom Rosenberg",False,"Million Dollar Baby | Clint Eastwood | Clint Eastwood, Albert S. Ruddy , Tom Rosenberg",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2005,Brokeback Mountain,Ang Lee,True,2005 | Brokeback Mountain | Ang Lee | Diana Ossana,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2005,Fernando Meirelles,Simon Channing-Williams,False,The Constant Gardener | Fernando Meirelles | Simon Channing-Williams,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2005,George Clooney,Grant Heslov,False,"Good Night, and Good Luck | George Clooney | Grant Heslov",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2005,David Cronenberg,Chris Bender,False,A History of Violence | David Cronenberg | Chris Bender,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2005,Woody Allen,Letty Aronson,False,Match Point | Woody Allen | Letty Aronson,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2006,Babel,Alejandro González Iñárritu,True,2006 | Babel | Alejandro González Iñárritu | Steve Golin,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2006,Emilio Estevez,Anthony Hopkins,False,Bobby | Emilio Estevez | Anthony Hopkins,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2006,Martin Scorsese,Brad Grey,False,The Departed | Martin Scorsese | Brad Grey,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2006,Todd Field,Albert Berger,False,Little Children | Todd Field | Albert Berger,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2006,Stephen Frears,François Ivernel,False,The Queen | Stephen Frears | François Ivernel,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2007,Atonement,Joe Wright,True,2007 | Atonement | Joe Wright | Tim Bevan,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2007,Ridley Scott,Brian Grazer,False,American Gangster | Ridley Scott | Brian Grazer,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2007,David Cronenberg,Paul Webster,False,Eastern Promises | David Cronenberg | Paul Webster,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2007,Denzel Washington,Oprah Winfrey,False,The Great Debaters | Denzel Washington | Oprah Winfrey,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2007,Tony Gilroy,Sydney Pollack,False,Michael Clayton | Tony Gilroy | Sydney Pollack,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2007,Joel and Ethan Coen,"Joel Coen, Ethan Coen, Scott Rudin",False,"No Country for Old Men | Joel and Ethan Coen | Joel Coen, Ethan Coen, Scott Rudin",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2007,Paul Thomas Anderson,,False,There Will Be Blood | Paul Thomas Anderson,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2008,Slumdog Millionaire,Danny Boyle,True,2008 | Slumdog Millionaire | Danny Boyle | Christian Colson,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2008,David Fincher,"Kathleen Kennedy, Frank Marshall , Ray Stark",False,"The Curious Case of Benjamin Button | David Fincher | Kathleen Kennedy, Frank Marshall , Ray Stark",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2008,Ron Howard,"Tim Bevan, Eric Fellner , Brian Grazer , Ron Howard",False,"Frost/Nixon | Ron Howard | Tim Bevan, Eric Fellner , Brian Grazer , Ron Howard",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2008,Stephen Daldry,"Anthony Minghella , Sydney Pollack, Scott Rudin",False,"The Reader | Stephen Daldry | Anthony Minghella , Sydney Pollack, Scott Rudin",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2008,Sam Mendes,"Bobby Cohen , Sam Mendes, Scott Rudin",False,"Revolutionary Road | Sam Mendes | Bobby Cohen , Sam Mendes, Scott Rudin",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2009,Avatar,James Cameron,True,2009 | Avatar | James Cameron | James Cameron and Jon Landau,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2009,Kathryn Bigelow,"Kathryn Bigelow, Mark Boal , Nicolas Chartier , Tony Mark , Donall McCusker, Greg Shapiro",False,"The Hurt Locker | Kathryn Bigelow | Kathryn Bigelow, Mark Boal , Nicolas Chartier , Tony Mark , Donall McCusker, Greg Shapiro",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2009,Quentin Tarantino,Lawrence Bender,False,Inglourious Basterds | Quentin Tarantino | Lawrence Bender,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2009,Lee Daniels,"Lisa Cortes, Sarah Siegel-Magness, Valerie Hoffman , Asger Hussain, Gary Magness, Mark G. Mathis, Berrgen Swason, Simone Sheffield",False,"Precious | Lee Daniels | Lisa Cortes, Sarah Siegel-Magness, Valerie Hoffman , Asger Hussain, Gary Magness, Mark G. Mathis, Berrgen Swason, Simone Sheffield",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2009,Jason Reitman,"Daniel Dubiecki , Jeffrey Clifford, Ivan Reitman , Jason Reitman",False,"Up in the Air | Jason Reitman | Daniel Dubiecki , Jeffrey Clifford, Ivan Reitman , Jason Reitman",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2010,The Social Network,David Fincher,True,"2010 | The Social Network | David Fincher | Scott Rudin , Dana Brunetti , Michael De Luca , Ceán Chaffin",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2010,Darren Aronofsky,"Mike Medavoy , Scott Franklin , Arnold Messer, Brian Oliver",False,"Black Swan | Darren Aronofsky | Mike Medavoy , Scott Franklin , Arnold Messer, Brian Oliver",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2010,David O. Russell,"David Hoberman , Todd Lieberman , Ryan Kavanaugh , Mark Wahlberg , Dorothy Aufiero, Paul Tamasy",False,"The Fighter | David O. Russell | David Hoberman , Todd Lieberman , Ryan Kavanaugh , Mark Wahlberg , Dorothy Aufiero, Paul Tamasy",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2010,Christopher Nolan,Christopher Nolan and Emma Thomas,False,Inception | Christopher Nolan | Christopher Nolan and Emma Thomas,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2010,Tom Hooper,"Iain Canning , Emile Sherman , Gareth Unwin",False,"The King's Speech | Tom Hooper | Iain Canning , Emile Sherman , Gareth Unwin",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2011,The Descendants,Alexander Payne,True,"2011 | The Descendants | Alexander Payne | Jim Burke , Alexander Payne, Jim Taylor",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2011,Tate Taylor,"Chris Columbus , Michael Barnathan , Brunson Green",False,"The Help | Tate Taylor | Chris Columbus , Michael Barnathan , Brunson Green",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2011,Martin Scorsese,"Johnny Depp , Timothy Headington , Graham King , Martin Scorsese",False,"Hugo | Martin Scorsese | Johnny Depp , Timothy Headington , Graham King , Martin Scorsese",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2011,George Clooney,"George Clooney, Grant Heslov , Brian Oliver",False,"The Ides of March | George Clooney | George Clooney, Grant Heslov , Brian Oliver",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2011,Bennett Miller,"Michael De Luca , Rachael Horovitz , Brad Pitt",False,"Moneyball | Bennett Miller | Michael De Luca , Rachael Horovitz , Brad Pitt",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2011,Steven Spielberg,"Steven Spielberg, Kathleen Kennedy",False,"War Horse | Steven Spielberg | Steven Spielberg, Kathleen Kennedy",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2012,Argo,Ben Affleck,True,"2012 [ 11 ] | Argo | Ben Affleck | Ben Affleck, George Clooney , Grant Heslov",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2012,Quentin Tarantino,"Stacey Sher , Reginald Hudlin , Pilar Savone",False,"Django Unchained | Quentin Tarantino | Stacey Sher , Reginald Hudlin , Pilar Savone",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2012,Ang Lee,"Ang Lee, Gil Netter, David Womark",False,"Life of Pi | Ang Lee | Ang Lee, Gil Netter, David Womark",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2012,Steven Spielberg,"Steven Spielberg, Kathleen Kennedy",False,"Lincoln | Steven Spielberg | Steven Spielberg, Kathleen Kennedy",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2012,Kathryn Bigelow,"Kathryn Bigelow, Colin Wilson , Greg Shapiro, Ted Schipper, Megan Ellison",False,"Zero Dark Thirty | Kathryn Bigelow | Kathryn Bigelow, Colin Wilson , Greg Shapiro, Ted Schipper, Megan Ellison",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2013,12 Years a Slave,Steve McQueen,True,"2013 [ 12 ] | 12 Years a Slave | Steve McQueen | Brad Pitt , Dede Gardner , Jeremy Kleiner , Bill Pohlad , Steve McQueen, Arnon Milchan , Anthony Katagas",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2013,Paul Greengrass,"Michael De Luca , Dana Brunetti , Scott Rudin",False,"Captain Phillips | Paul Greengrass | Michael De Luca , Dana Brunetti , Scott Rudin",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2013,Alfonso Cuarón,"Alfonso Cuarón, David Heyman",False,"Gravity | Alfonso Cuarón | Alfonso Cuarón, David Heyman",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2013,Stephen Frears,"Gabrielle Tana , Steve Coogan , Tracey Seaward",False,"Philomena | Stephen Frears | Gabrielle Tana , Steve Coogan , Tracey Seaward",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2013,Ron Howard,"Andrew Eaton , Eric Fellner , Brian Oliver , Peter Morgan , Brian Grazer , Ron Howard",False,"Rush | Ron Howard | Andrew Eaton , Eric Fellner , Brian Oliver , Peter Morgan , Brian Grazer , Ron Howard",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2014,Boyhood,Richard Linklater,True,"2014 [ 13 ] | Boyhood | Richard Linklater | Richard Linklater, Cathleen Sutherland , Jonathan Sehring, John Sloss",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2014,Bennett Miller,"Bennett Miller, Megan Ellison , Jon Kilik, Anthony Bregman",False,"Foxcatcher | Bennett Miller | Bennett Miller, Megan Ellison , Jon Kilik, Anthony Bregman",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2014,Morten Tyldum,"Nora Grossman , Ido Ostrowsky , Teddy Schwarzman",False,"The Imitation Game | Morten Tyldum | Nora Grossman , Ido Ostrowsky , Teddy Schwarzman",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2014,Ava DuVernay,"Dede Gardner , Jeremy Kleiner , Christian Colson , Oprah Winfrey",False,"Selma | Ava DuVernay | Dede Gardner , Jeremy Kleiner , Christian Colson , Oprah Winfrey",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2014,James Marsh,"Tim Bevan , Eric Fellner , Lisa Bruce , Anthony McCarten",False,"The Theory of Everything | James Marsh | Tim Bevan , Eric Fellner , Lisa Bruce , Anthony McCarten",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2015,The Revenant,Alejandro G. Iñárritu,True,"2015 [ 14 ] | The Revenant | Alejandro G. Iñárritu | Steve Golin , Alejandro G. Iñárritu, Arnon Milchan , Mary Parent , Keith Redmon",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2015,Todd Haynes,"Elizabeth Karlsen , Christine Vachon , Stephen Woolley",False,"Carol | Todd Haynes | Elizabeth Karlsen , Christine Vachon , Stephen Woolley",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2015,George Miller,"Doug Mitchell , George Miller, P. J. Voeten",False,"Mad Max: Fury Road | George Miller | Doug Mitchell , George Miller, P. J. Voeten",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2015,Lenny Abrahamson,"Ed Guiney , David Gross",False,"Room | Lenny Abrahamson | Ed Guiney , David Gross",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2015,Tom McCarthy,"Steve Golin , Blye Pagon Faust , Nicole Rocklin , Michael Sugar",False,"Spotlight | Tom McCarthy | Steve Golin , Blye Pagon Faust , Nicole Rocklin , Michael Sugar",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2016,Moonlight,Barry Jenkins,True,"2016 | Moonlight | Barry Jenkins | Dede Gardner , Jeremy Kleiner , Adele Romanski",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2016,Mel Gibson,"Terry Benedict , Paul Currie , Bruce Davey , William D. Johnson, Bill Mechanic , Brian Oliver , David Permut",False,"Hacksaw Ridge | Mel Gibson | Terry Benedict , Paul Currie , Bruce Davey , William D. Johnson, Bill Mechanic , Brian Oliver , David Permut",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2016,David Mackenzie,"Peter Berg , Carla Hacken , Sidney Kimmel , Gigi Pritzker , Rachel Shane, Julie Yorn",False,"Hell or High Water | David Mackenzie | Peter Berg , Carla Hacken , Sidney Kimmel , Gigi Pritzker , Rachel Shane, Julie Yorn",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2016,Garth Davis,"Iain Canning , Angie Fielder , Emile Sherman",False,"Lion | Garth Davis | Iain Canning , Angie Fielder , Emile Sherman",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2016,Kenneth Lonergan,"Lauren Beck , Matt Damon , Chris Moore , Kimberly Steward , Kevin J. Walsh",False,"Manchester by the Sea | Kenneth Lonergan | Lauren Beck , Matt Damon , Chris Moore , Kimberly Steward , Kevin J. Walsh",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2017,"Three Billboards Outside Ebbing, Missouri",Martin McDonagh,True,"2017 | Three Billboards Outside Ebbing, Missouri | Martin McDonagh | Graham Broadbent , Pete Czernin, Martin McDonagh",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2017,Luca Guadagnino,"Peter Spears , Luca Guadagnino, Emilie Georges, Rodrigo Teixeira, Marco Morabito, James Ivory , Howard Rosenman",False,"Call Me by Your Name | Luca Guadagnino | Peter Spears , Luca Guadagnino, Emilie Georges, Rodrigo Teixeira, Marco Morabito, James Ivory , Howard Rosenman",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2017,Christopher Nolan,Christopher Nolan and Emma Thomas,False,Dunkirk | Christopher Nolan | Christopher Nolan and Emma Thomas,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2017,Steven Spielberg,"Steven Spielberg, Kristie Macosko Krieger , Amy Pascal",False,"The Post | Steven Spielberg | Steven Spielberg, Kristie Macosko Krieger , Amy Pascal",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2017,Guillermo del Toro,Guillermo del Toro and J. Miles Dale,False,The Shape of Water | Guillermo del Toro | Guillermo del Toro and J. Miles Dale,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2018,Bohemian Rhapsody,Bryan Singer,True,2018 | Bohemian Rhapsody | Bryan Singer | Graham King and Jim Beach,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2018,Ryan Coogler,Kevin Feige,False,Black Panther | Ryan Coogler | Kevin Feige,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2018,Spike Lee,"Sean McKittrick , Jason Blum , Raymond Mansfield, Shaun Redick, Jordan Peele , Spike Lee",False,"BlacKkKlansman | Spike Lee | Sean McKittrick , Jason Blum , Raymond Mansfield, Shaun Redick, Jordan Peele , Spike Lee",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2018,Barry Jenkins,"Adele Romanski , Sara Murphy , Barry Jenkins, Dede Gardner , Jeremy Kleiner",False,"If Beale Street Could Talk | Barry Jenkins | Adele Romanski , Sara Murphy , Barry Jenkins, Dede Gardner , Jeremy Kleiner",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2018,Bradley Cooper,"Bill Gerber , Bradley Cooper, Lynette Howell Taylor",False,"A Star Is Born | Bradley Cooper | Bill Gerber , Bradley Cooper, Lynette Howell Taylor",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2019,1917,Sam Mendes,True,"2019 | 1917 | Sam Mendes | Sam Mendes, Pippa Harris , Jayne-Ann Tenggren, Callum McDougall, and Brian Oliver",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2019,Martin Scorsese,"Martin Scorsese, Robert De Niro , Jane Rosenthal , Emma Tillinger Koskoff , Irwin Winkler , Gerald Chamales , Gastón Pavlovich , Randall Emmett , Gabriele Israilovici",False,"The Irishman | Martin Scorsese | Martin Scorsese, Robert De Niro , Jane Rosenthal , Emma Tillinger Koskoff , Irwin Winkler , Gerald Chamales , Gastón Pavlovich , Randall Emmett , Gabriele Israilovici",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2019,Todd Phillips,"Todd Phillips, Bradley Cooper , Emma Tillinger Koskoff",False,"Joker | Todd Phillips | Todd Phillips, Bradley Cooper , Emma Tillinger Koskoff",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2019,Noah Baumbach,"David Heyman , Noah Baumbach",False,"Marriage Story | Noah Baumbach | David Heyman , Noah Baumbach",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2019,Fernando Meirelles,"Dan Lin , Jonathan Eirich, Tracey Seaward",False,"The Two Popes | Fernando Meirelles | Dan Lin , Jonathan Eirich, Tracey Seaward",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2020,Nomadland,Chloé Zhao,True,"2020 | Nomadland | Chloé Zhao | Frances McDormand , Peter Spears , Mollye Asher , Dan Janvey, Chloé Zhao",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2020,Florian Zeller,"David Parfitt , Jean-Louis Livi , Philippe Carcassonne",False,"The Father | Florian Zeller | David Parfitt , Jean-Louis Livi , Philippe Carcassonne",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2020,David Fincher,"Ceán Chaffin , Eric Roth , Douglas Urbanski",False,"Mank | David Fincher | Ceán Chaffin , Eric Roth , Douglas Urbanski",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2020,Emerald Fennell,"Josey McNamara, Ben Browning, Ashley Fox, Emerald Fennell",False,"Promising Young Woman | Emerald Fennell | Josey McNamara, Ben Browning, Ashley Fox, Emerald Fennell",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2020,Aaron Sorkin,"Stuart M. Besser, Marc Platt",False,"The Trial of the Chicago 7 | Aaron Sorkin | Stuart M. Besser, Marc Platt",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2021,The Power of the Dog,Jane Campion,True,"2021 | The Power of the Dog | Jane Campion | Emile Sherman , Iain Canning , Roger Frappier , Jane Campion, Tanya Seghatchian",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2021,Kenneth Branagh,"Laura Berwick, Kenneth Branagh, Becca Kovacik, Tamar Thomas",False,"Belfast | Kenneth Branagh | Laura Berwick, Kenneth Branagh, Becca Kovacik, Tamar Thomas",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2021,Sian Heder,"Fabrice Gianfermi, Philippe Rousselet, Jerôme Seydoux, Patrick Wachsberger",False,"CODA | Sian Heder | Fabrice Gianfermi, Philippe Rousselet, Jerôme Seydoux, Patrick Wachsberger",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2021,Denis Villeneuve,"Mary Parent , Denis Villeneuve, Cale Boyter, Joe Caracciolo Jr.",False,"Dune | Denis Villeneuve | Mary Parent , Denis Villeneuve, Cale Boyter, Joe Caracciolo Jr.",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2021,Reinaldo Marcus Green,"Tim White, Trevor White, Will Smith",False,"King Richard | Reinaldo Marcus Green | Tim White, Trevor White, Will Smith",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2022,The Fabelmans,Steven Spielberg,True,"2022 | The Fabelmans | Steven Spielberg | Kristie Macosko Krieger , Steven Spielberg, Tony Kushner",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2022,James Cameron,"James Cameron, Jon Landau",False,"Avatar: The Way of Water | James Cameron | James Cameron, Jon Landau",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2022,Baz Luhrmann,"Baz Luhrmann, Catherine Martin , Gail Berman , Patrick McCormick, Schuyler Weiss",False,"Elvis | Baz Luhrmann | Baz Luhrmann, Catherine Martin , Gail Berman , Patrick McCormick, Schuyler Weiss",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2022,Todd Field,"Todd Field, Alexandra Milchan, Scott Lambert",False,"Tár | Todd Field | Todd Field, Alexandra Milchan, Scott Lambert",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2022,Joseph Kosinski,"Jerry Bruckheimer , Tom Cruise , Christopher McQuarrie , David Ellison",False,"Top Gun: Maverick | Joseph Kosinski | Jerry Bruckheimer , Tom Cruise , Christopher McQuarrie , David Ellison",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2023,Oppenheimer,Christopher Nolan,True,"2023 | Oppenheimer | Christopher Nolan | Emma Thomas , Charles Roven , Christopher Nolan",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2023,Justine Triet,"Marie-Ange Luciani, David Thion",False,"Anatomy of a Fall | Justine Triet | Marie-Ange Luciani, David Thion",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2023,Martin Scorsese,"Dan Friedkin , Bradley Thomas , Martin Scorsese, Daniel Lupi",False,"Killers of the Flower Moon | Martin Scorsese | Dan Friedkin , Bradley Thomas , Martin Scorsese, Daniel Lupi",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2023,Bradley Cooper,"Martin Scorsese , Steven Spielberg , Bradley Cooper, Fred Berner, Amy Durning, Kristie Macosko Krieger",False,"Maestro | Bradley Cooper | Martin Scorsese , Steven Spielberg , Bradley Cooper, Fred Berner, Amy Durning, Kristie Macosko Krieger",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2023,Celine Song,"David Hinojosa, Christine Vachon , Pamela Koffler",False,"Past Lives | Celine Song | David Hinojosa, Christine Vachon , Pamela Koffler",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2023,Jonathan Glazer,"James Wilson, Ewa Puszczyńska",False,"The Zone of Interest | Jonathan Glazer | James Wilson, Ewa Puszczyńska",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2024,The Brutalist,Brady Corbet,True,"2024 [ 15 ] [ 16 ] | The Brutalist | Brady Corbet | Trevor Matthews , Nick Gordon, Brian Young, Andrew Morrison , Andrew Lauren, D.J. Gugenheim, Brady Corbet",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2024,James Mangold,"Fred Berger , James Mangold, Alex Heineman, Bob Bookman, Peter Jaysen, Alan Gasmer, Jeff Rosen, Timothée Chalamet",False,"A Complete Unknown | James Mangold | Fred Berger , James Mangold, Alex Heineman, Bob Bookman, Peter Jaysen, Alan Gasmer, Jeff Rosen, Timothée Chalamet",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2024,Edward Berger,"Tessa Ross , Juliette Howell, Michael Jackman, Alice Dawson, Robert Harris",False,"Conclave | Edward Berger | Tessa Ross , Juliette Howell, Michael Jackman, Alice Dawson, Robert Harris",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2024,Denis Villeneuve,"Mary Parent , Cale Boyter , Patrick McCormick, Tanya Lapointe , Denis Villeneuve",False,"Dune: Part Two | Denis Villeneuve | Mary Parent , Cale Boyter , Patrick McCormick, Tanya Lapointe , Denis Villeneuve",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2024,RaMell Ross,"Dede Gardner , Jeremy Kleiner , David Levine, Joslyn Barnes",False,"Nickel Boys | RaMell Ross | Dede Gardner , Jeremy Kleiner , David Levine, Joslyn Barnes",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2024,Tim Fehlbaum,"Philipp Trauer, Thomas Wöbke, Tim Fehlbaum, Sean Penn , John Ira Palmer , John Wildermuth",False,"September 5 | Tim Fehlbaum | Philipp Trauer, Thomas Wöbke, Tim Fehlbaum, Sean Penn , John Ira Palmer , John Wildermuth",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2025,Hamnet,Chloé Zhao,True,"2025 [ 17 ] [ 18 ] | Hamnet | Chloé Zhao | Liza Marshall, Pippa Harris , Nicolas Gonda, Steven Spielberg & Sam Mendes",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2025,Guillermo del Toro,"Guillermo del Toro, J. Miles Dale & Scott Stuber",False,"Frankenstein | Guillermo del Toro | Guillermo del Toro, J. Miles Dale & Scott Stuber",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2025,Jafar Panahi,Jafar Panahi & Philippe Martin,False,It Was Just an Accident | Jafar Panahi | Jafar Panahi & Philippe Martin,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2025,Kleber Mendonça Filho,Emilie Lesclaux & Kleber Mendonça Filho,False,The Secret Agent | Kleber Mendonça Filho | Emilie Lesclaux & Kleber Mendonça Filho,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2025,Joachim Trier,Maria Ekerhovd & Andrea Berentsen Ottmar,False,Sentimental Value | Joachim Trier | Maria Ekerhovd & Andrea Berentsen Ottmar,https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama
+2025,Ryan Coogler,"Zinzi Coogler, Sev Ohanian & Ryan Coogler",False,"Sinners | Ryan Coogler | Zinzi Coogler, Sev Ohanian & Ryan Coogler",https://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_%E2%80%93_Drama

@@ -1,0 +1,451 @@
+export type AwardCeremony = {
+  name: string;
+  slug: string;
+  founded: number;
+  country: string;
+};
+
+export type CinemaIndustry = {
+  name: string;
+  slug: string;
+  language: string;
+  flag: string;
+  ceremonies: AwardCeremony[];
+};
+
+export type SuperCategory = {
+  id: string;
+  label: string;
+  slug: string;
+  color: string;
+  description: string;
+  industries: CinemaIndustry[];
+};
+
+export const NAV_DATA: SuperCategory[] = [
+  {
+    id: "south-asian",
+    label: "South Asian",
+    slug: "south-asian-cinema",
+    color: "#E91E8C",
+    description: "From Bollywood to Lollywood — the world's most prolific film region",
+    industries: [
+      {
+        name: "Bollywood",
+        slug: "bollywood",
+        language: "Hindi",
+        flag: "🇮🇳",
+        ceremonies: [
+          { name: "Filmfare Awards", slug: "filmfare-awards", founded: 1954, country: "India" },
+          { name: "IIFA Awards", slug: "iifa-awards", founded: 2000, country: "India" },
+          { name: "National Film Awards India", slug: "national-film-awards-india", founded: 1954, country: "India" },
+          { name: "Screen Awards", slug: "screen-awards", founded: 1994, country: "India" },
+          { name: "Zee Cine Awards", slug: "zee-cine-awards", founded: 1998, country: "India" },
+          { name: "Stardust Awards", slug: "stardust-awards", founded: 1970, country: "India" },
+          { name: "Producers Guild Film Awards", slug: "producers-guild-film-awards", founded: 2004, country: "India" },
+          { name: "Apsara Film Awards", slug: "apsara-film-awards", founded: 2007, country: "India" },
+        ],
+      },
+      {
+        name: "Lollywood",
+        slug: "lollywood",
+        language: "Urdu",
+        flag: "🇵🇰",
+        ceremonies: [
+          { name: "Nigar Awards", slug: "nigar-awards", founded: 1958, country: "Pakistan" },
+          { name: "Lux Style Awards", slug: "lux-style-awards", founded: 2002, country: "Pakistan" },
+          { name: "ARY Film Awards", slug: "ary-film-awards", founded: 2014, country: "Pakistan" },
+          { name: "IPPA Awards", slug: "ippa-awards", founded: 2017, country: "Pakistan" },
+          { name: "PISA Awards", slug: "pisa-awards", founded: 2020, country: "Pakistan" },
+          { name: "Hum Style Awards", slug: "hum-style-awards", founded: 2013, country: "Pakistan" },
+        ],
+      },
+      {
+        name: "Tollywood",
+        slug: "tollywood",
+        language: "Telugu",
+        flag: "🇮🇳",
+        ceremonies: [
+          { name: "Filmfare Awards South", slug: "filmfare-awards-south", founded: 1972, country: "India" },
+          { name: "SIIMA Awards", slug: "siima-awards-telugu", founded: 2012, country: "India" },
+          { name: "Nandi Awards", slug: "nandi-awards", founded: 1964, country: "India" },
+          { name: "CineMAA Awards", slug: "cinemaa-awards", founded: 2004, country: "India" },
+          { name: "Santosham Film Awards", slug: "santosham-awards", founded: 2003, country: "India" },
+        ],
+      },
+      {
+        name: "Kollywood",
+        slug: "kollywood",
+        language: "Tamil",
+        flag: "🇮🇳",
+        ceremonies: [
+          { name: "Vijay Awards", slug: "vijay-awards", founded: 2006, country: "India" },
+          { name: "SIIMA Awards Tamil", slug: "siima-awards-tamil", founded: 2012, country: "India" },
+          { name: "Sun Kudumbam Virudhugal", slug: "sun-kudumbam-virudhugal", founded: 2009, country: "India" },
+          { name: "Ananda Vikatan Cinema Awards", slug: "ananda-vikatan-awards", founded: 2002, country: "India" },
+          { name: "Tamil Nadu State Film Awards", slug: "tamil-nadu-state-film-awards", founded: 1967, country: "India" },
+        ],
+      },
+      {
+        name: "Mollywood",
+        slug: "mollywood",
+        language: "Malayalam",
+        flag: "🇮🇳",
+        ceremonies: [
+          { name: "Kerala State Film Awards", slug: "kerala-state-film-awards", founded: 1969, country: "India" },
+          { name: "Filmfare Awards South Malayalam", slug: "filmfare-awards-south-malayalam", founded: 1972, country: "India" },
+          { name: "Asianet Film Awards", slug: "asianet-film-awards", founded: 2009, country: "India" },
+          { name: "Vanitha Film Awards", slug: "vanitha-film-awards", founded: 2010, country: "India" },
+          { name: "SIIMA Awards Malayalam", slug: "siima-awards-malayalam", founded: 2012, country: "India" },
+        ],
+      },
+      {
+        name: "Sandalwood",
+        slug: "sandalwood",
+        language: "Kannada",
+        flag: "🇮🇳",
+        ceremonies: [
+          { name: "Karnataka State Film Awards", slug: "karnataka-state-film-awards", founded: 1967, country: "India" },
+          { name: "SIIMA Awards Kannada", slug: "siima-awards-kannada", founded: 2012, country: "India" },
+          { name: "Filmfare Awards South Kannada", slug: "filmfare-awards-south-kannada", founded: 1972, country: "India" },
+          { name: "Suvarna Film Awards", slug: "suvarna-film-awards", founded: 2007, country: "India" },
+        ],
+      },
+      {
+        name: "Bangladeshi Cinema",
+        slug: "bangladeshi-cinema",
+        language: "Bengali",
+        flag: "🇧🇩",
+        ceremonies: [
+          { name: "Bangladesh National Film Awards", slug: "bangladesh-national-film-awards", founded: 1975, country: "Bangladesh" },
+          { name: "Meril Prothom Alo Awards", slug: "meril-prothom-alo-awards", founded: 1997, country: "Bangladesh" },
+          { name: "BFJA Awards", slug: "bfja-awards", founded: 1980, country: "Bangladesh" },
+        ],
+      },
+    ],
+  },
+  {
+    id: "east-asian",
+    label: "East Asian",
+    slug: "east-asian-cinema",
+    color: "#3A7BD5",
+    description: "Korean Hallyu, Japanese masters, Chinese epics — Asia's cinematic powerhouses",
+    industries: [
+      {
+        name: "Korean Cinema",
+        slug: "korean-cinema",
+        language: "Korean",
+        flag: "🇰🇷",
+        ceremonies: [
+          { name: "Baeksang Arts Awards", slug: "baeksang-arts-awards", founded: 1965, country: "South Korea" },
+          { name: "Grand Bell Awards", slug: "grand-bell-awards", founded: 1962, country: "South Korea" },
+          { name: "Blue Dragon Film Awards", slug: "blue-dragon-film-awards", founded: 1963, country: "South Korea" },
+          { name: "Busan International Film Festival Awards", slug: "biff-awards", founded: 1996, country: "South Korea" },
+          { name: "Chunsa Film Art Awards", slug: "chunsa-film-art-awards", founded: 1967, country: "South Korea" },
+          { name: "Korean Association of Film Critics Awards", slug: "kafc-awards", founded: 1977, country: "South Korea" },
+        ],
+      },
+      {
+        name: "Japanese Cinema",
+        slug: "japanese-cinema",
+        language: "Japanese",
+        flag: "🇯🇵",
+        ceremonies: [
+          { name: "Japan Academy Film Prize", slug: "japan-academy-film-prize", founded: 1978, country: "Japan" },
+          { name: "Blue Ribbon Awards Japan", slug: "blue-ribbon-awards", founded: 1950, country: "Japan" },
+          { name: "Kinema Junpo Awards", slug: "kinema-junpo-awards", founded: 1924, country: "Japan" },
+          { name: "Mainichi Film Awards", slug: "mainichi-film-awards", founded: 1947, country: "Japan" },
+          { name: "Hochi Film Awards", slug: "hochi-film-awards", founded: 1950, country: "Japan" },
+        ],
+      },
+      {
+        name: "Chinese Cinema",
+        slug: "chinese-cinema",
+        language: "Mandarin",
+        flag: "🇨🇳",
+        ceremonies: [
+          { name: "Golden Rooster Awards", slug: "golden-rooster-awards", founded: 1981, country: "China" },
+          { name: "Hundred Flowers Awards", slug: "hundred-flowers-awards", founded: 1962, country: "China" },
+          { name: "China Film Critics Awards", slug: "china-film-critics-awards", founded: 2003, country: "China" },
+          { name: "Beijing IFF Tiantan Awards", slug: "beijing-iff-tiantan-awards", founded: 2011, country: "China" },
+        ],
+      },
+      {
+        name: "Taiwanese Cinema",
+        slug: "taiwanese-cinema",
+        language: "Mandarin",
+        flag: "🇹🇼",
+        ceremonies: [
+          { name: "Golden Horse Awards", slug: "golden-horse-awards", founded: 1962, country: "Taiwan" },
+          { name: "Taipei Film Awards", slug: "taipei-film-awards", founded: 1994, country: "Taiwan" },
+        ],
+      },
+      {
+        name: "Hong Kong Cinema",
+        slug: "hong-kong-cinema",
+        language: "Cantonese",
+        flag: "🇭🇰",
+        ceremonies: [
+          { name: "Hong Kong Film Awards", slug: "hong-kong-film-awards", founded: 1982, country: "Hong Kong" },
+          { name: "Hong Kong Film Critics Society Awards", slug: "hkfcs-awards", founded: 1995, country: "Hong Kong" },
+          { name: "Golden Bauhinia Awards", slug: "golden-bauhinia-awards", founded: 1996, country: "Hong Kong" },
+        ],
+      },
+    ],
+  },
+  {
+    id: "african",
+    label: "African",
+    slug: "african-cinema",
+    color: "#27AE60",
+    description: "Nollywood, FESPACO, and the rising voice of African storytelling",
+    industries: [
+      {
+        name: "Nollywood",
+        slug: "nollywood",
+        language: "English/Yoruba/Igbo",
+        flag: "🇳🇬",
+        ceremonies: [
+          { name: "African Movie Academy Awards", slug: "amaa", founded: 2005, country: "Nigeria" },
+          { name: "Africa Magic Viewers Choice Awards", slug: "amvca", founded: 2013, country: "Nigeria" },
+          { name: "Best of Nollywood Awards", slug: "best-of-nollywood-awards", founded: 2006, country: "Nigeria" },
+          { name: "Nigeria Entertainment Awards", slug: "nea", founded: 2002, country: "Nigeria" },
+          { name: "City People Movie Awards", slug: "city-people-movie-awards", founded: 2007, country: "Nigeria" },
+          { name: "Africa International Film Festival", slug: "afriff", founded: 2010, country: "Nigeria" },
+        ],
+      },
+      {
+        name: "Pan-African Cinema",
+        slug: "pan-african-cinema",
+        language: "Multiple",
+        flag: "🌍",
+        ceremonies: [
+          { name: "FESPACO Etalon d'Or", slug: "fespaco", founded: 1969, country: "Burkina Faso" },
+          { name: "Carthage Film Festival Awards", slug: "carthage-film-festival", founded: 1966, country: "Tunisia" },
+          { name: "Zanzibar IFF Awards", slug: "ziff-awards", founded: 1998, country: "Tanzania" },
+          { name: "African Cinematography Awards", slug: "african-cinematography-awards", founded: 2015, country: "Pan-African" },
+          { name: "El Gouna Film Festival Awards", slug: "el-gouna-film-festival", founded: 2017, country: "Egypt" },
+        ],
+      },
+      {
+        name: "Ghallywood",
+        slug: "ghallywood",
+        language: "English/Twi",
+        flag: "🇬🇭",
+        ceremonies: [
+          { name: "Ghana Movie Awards", slug: "ghana-movie-awards", founded: 2004, country: "Ghana" },
+          { name: "Ghana Entertainment Awards", slug: "ghana-entertainment-awards", founded: 1999, country: "Ghana" },
+          { name: "Western Africa Film Festival Awards", slug: "waff-awards", founded: 2010, country: "Ghana" },
+        ],
+      },
+      {
+        name: "South African Cinema",
+        slug: "south-african-cinema",
+        language: "Multiple",
+        flag: "🇿🇦",
+        ceremonies: [
+          { name: "South African Film and Television Awards", slug: "safta", founded: 2006, country: "South Africa" },
+          { name: "Durban International Film Festival Awards", slug: "diff-awards", founded: 1978, country: "South Africa" },
+          { name: "African Film Festival Cologne Awards", slug: "affc-awards", founded: 1992, country: "South Africa" },
+        ],
+      },
+      {
+        name: "East African Cinema",
+        slug: "east-african-cinema",
+        language: "Swahili/English",
+        flag: "🌍",
+        ceremonies: [
+          { name: "Kalasha Film and TV Awards", slug: "kalasha-awards", founded: 2008, country: "Kenya" },
+          { name: "Tanzania Film Festival Awards", slug: "tanzania-film-festival", founded: 2005, country: "Tanzania" },
+          { name: "Uganda Film Festival Awards", slug: "uganda-film-festival", founded: 2012, country: "Uganda" },
+        ],
+      },
+    ],
+  },
+  {
+    id: "western-european",
+    label: "Western & European",
+    slug: "western-european-cinema",
+    color: "#D4A843",
+    description: "Hollywood, BAFTA, César — the ceremonies that defined modern cinema",
+    industries: [
+      {
+        name: "Hollywood",
+        slug: "hollywood",
+        language: "English",
+        flag: "🇺🇸",
+        ceremonies: [
+          { name: "Academy Awards (Oscars)", slug: "oscars", founded: 1929, country: "USA" },
+          { name: "Golden Globe Awards", slug: "golden-globes", founded: 1944, country: "USA" },
+          { name: "Screen Actors Guild Awards", slug: "sag-awards", founded: 1995, country: "USA" },
+          { name: "Directors Guild of America Awards", slug: "dga-awards", founded: 1948, country: "USA" },
+          { name: "Writers Guild of America Awards", slug: "wga-awards", founded: 1949, country: "USA" },
+          { name: "Producers Guild of America Awards", slug: "pga-awards", founded: 1990, country: "USA" },
+          { name: "Independent Spirit Awards", slug: "independent-spirit-awards", founded: 1986, country: "USA" },
+          { name: "Critics Choice Awards", slug: "critics-choice-awards", founded: 1995, country: "USA" },
+          { name: "Saturn Awards", slug: "saturn-awards", founded: 1972, country: "USA" },
+          { name: "Annie Awards", slug: "annie-awards", founded: 1972, country: "USA" },
+        ],
+      },
+      {
+        name: "British Cinema",
+        slug: "british-cinema",
+        language: "English",
+        flag: "🇬🇧",
+        ceremonies: [
+          { name: "BAFTA Film Awards", slug: "bafta", founded: 1948, country: "UK" },
+          { name: "British Independent Film Awards", slug: "bifa", founded: 1998, country: "UK" },
+          { name: "London Film Critics Circle Awards", slug: "lfcc-awards", founded: 1975, country: "UK" },
+          { name: "Evening Standard British Film Awards", slug: "evening-standard-awards", founded: 1987, country: "UK" },
+        ],
+      },
+      {
+        name: "French Cinema",
+        slug: "french-cinema",
+        language: "French",
+        flag: "🇫🇷",
+        ceremonies: [
+          { name: "César Awards", slug: "cesar-awards", founded: 1976, country: "France" },
+          { name: "Lumières Awards", slug: "lumieres-awards", founded: 1996, country: "France" },
+          { name: "Cannes Film Festival Palme d'Or", slug: "cannes", founded: 1946, country: "France" },
+          { name: "Prix Louis-Delluc", slug: "prix-louis-delluc", founded: 1937, country: "France" },
+        ],
+      },
+      {
+        name: "Italian Cinema",
+        slug: "italian-cinema",
+        language: "Italian",
+        flag: "🇮🇹",
+        ceremonies: [
+          { name: "David di Donatello Awards", slug: "david-di-donatello", founded: 1956, country: "Italy" },
+          { name: "Nastri d'Argento Awards", slug: "nastri-dargento", founded: 1946, country: "Italy" },
+          { name: "Venice Film Festival Golden Lion", slug: "venice-film-festival", founded: 1932, country: "Italy" },
+        ],
+      },
+      {
+        name: "German Cinema",
+        slug: "german-cinema",
+        language: "German",
+        flag: "🇩🇪",
+        ceremonies: [
+          { name: "German Film Awards Lola", slug: "german-film-awards", founded: 1951, country: "Germany" },
+          { name: "Bavarian Film Awards", slug: "bavarian-film-awards", founded: 1979, country: "Germany" },
+          { name: "Berlin IFF Golden Bear", slug: "berlin-iff", founded: 1951, country: "Germany" },
+        ],
+      },
+      {
+        name: "Spanish Cinema",
+        slug: "spanish-cinema",
+        language: "Spanish",
+        flag: "🇪🇸",
+        ceremonies: [
+          { name: "Goya Awards", slug: "goya-awards", founded: 1987, country: "Spain" },
+          { name: "Forqué Awards", slug: "forque-awards", founded: 1994, country: "Spain" },
+          { name: "San Sebastián IFF Awards", slug: "san-sebastian-iff", founded: 1953, country: "Spain" },
+        ],
+      },
+      {
+        name: "Scandinavian Cinema",
+        slug: "scandinavian-cinema",
+        language: "Multiple",
+        flag: "🏔️",
+        ceremonies: [
+          { name: "Nordic Council Film Prize", slug: "nordic-council-film-prize", founded: 2002, country: "Nordic" },
+          { name: "Guldbagge Awards Sweden", slug: "guldbagge-awards", founded: 1964, country: "Sweden" },
+          { name: "Robert Awards Denmark", slug: "robert-awards", founded: 1984, country: "Denmark" },
+          { name: "Amanda Awards Norway", slug: "amanda-awards", founded: 1985, country: "Norway" },
+        ],
+      },
+    ],
+  },
+  {
+    id: "latin-middle-east",
+    label: "Latin & Middle East",
+    slug: "latin-middle-eastern-cinema",
+    color: "#E67E22",
+    description: "From Mexico City to Tehran — bold cinema from two of the world's most creative regions",
+    industries: [
+      {
+        name: "Mexican Cinema",
+        slug: "mexican-cinema",
+        language: "Spanish",
+        flag: "🇲🇽",
+        ceremonies: [
+          { name: "Ariel Awards", slug: "ariel-awards", founded: 1947, country: "Mexico" },
+          { name: "Diosa de Plata Awards", slug: "diosa-de-plata", founded: 1953, country: "Mexico" },
+          { name: "Guadalajara IFF Awards", slug: "guadalajara-iff", founded: 1987, country: "Mexico" },
+          { name: "Mexican Cinema Journalists Awards", slug: "mexican-cinema-journalists", founded: 1952, country: "Mexico" },
+        ],
+      },
+      {
+        name: "Brazilian Cinema",
+        slug: "brazilian-cinema",
+        language: "Portuguese",
+        flag: "🇧🇷",
+        ceremonies: [
+          { name: "Grande Otelo Awards", slug: "grande-otelo-awards", founded: 2001, country: "Brazil" },
+          { name: "Gramado Film Festival Awards", slug: "gramado-film-festival", founded: 1973, country: "Brazil" },
+          { name: "Rio de Janeiro IFF Awards", slug: "rio-iff-awards", founded: 1999, country: "Brazil" },
+          { name: "Brazilian Cinema Awards", slug: "brazilian-cinema-awards", founded: 2009, country: "Brazil" },
+        ],
+      },
+      {
+        name: "Argentine Cinema",
+        slug: "argentine-cinema",
+        language: "Spanish",
+        flag: "🇦🇷",
+        ceremonies: [
+          { name: "Cóndor de Plata Awards", slug: "condor-de-plata", founded: 1943, country: "Argentina" },
+          { name: "Sur Awards", slug: "sur-awards", founded: 1990, country: "Argentina" },
+          { name: "BAFICI Awards", slug: "bafici-awards", founded: 1999, country: "Argentina" },
+        ],
+      },
+      {
+        name: "Iranian Cinema",
+        slug: "iranian-cinema",
+        language: "Farsi",
+        flag: "🇮🇷",
+        ceremonies: [
+          { name: "Crystal Simorgh Awards", slug: "crystal-simorgh-awards", founded: 1982, country: "Iran" },
+          { name: "Iran Cinema Celebration Awards", slug: "iran-cinema-celebration", founded: 2006, country: "Iran" },
+          { name: "House of Cinema Awards", slug: "house-of-cinema-awards", founded: 2000, country: "Iran" },
+        ],
+      },
+      {
+        name: "Turkish Cinema",
+        slug: "turkish-cinema",
+        language: "Turkish",
+        flag: "🇹🇷",
+        ceremonies: [
+          { name: "Antalya Golden Orange Film Awards", slug: "antalya-golden-orange", founded: 1963, country: "Turkey" },
+          { name: "Golden Tulip Awards", slug: "golden-tulip-awards", founded: 2003, country: "Turkey" },
+          { name: "Sadri Alışık Awards", slug: "sadri-alisik-awards", founded: 1970, country: "Turkey" },
+        ],
+      },
+      {
+        name: "Arabic Cinema",
+        slug: "arabic-cinema",
+        language: "Arabic",
+        flag: "🌙",
+        ceremonies: [
+          { name: "Arab Cinema Awards", slug: "arab-cinema-awards", founded: 2013, country: "Pan-Arab" },
+          { name: "Cairo International Film Festival Awards", slug: "cairo-iff", founded: 1976, country: "Egypt" },
+          { name: "Dubai International Film Festival Awards", slug: "diff", founded: 2004, country: "UAE" },
+          { name: "El Gouna Film Festival Awards", slug: "el-gouna-iff", founded: 2017, country: "Egypt" },
+          { name: "Marrakech IFF Awards", slug: "marrakech-iff", founded: 2001, country: "Morocco" },
+        ],
+      },
+      {
+        name: "Israeli Cinema",
+        slug: "israeli-cinema",
+        language: "Hebrew",
+        flag: "🇮🇱",
+        ceremonies: [
+          { name: "Israeli Film Academy Awards", slug: "ophir-awards", founded: 1990, country: "Israel" },
+          { name: "Jerusalem Film Festival Awards", slug: "jerusalem-film-festival", founded: 1984, country: "Israel" },
+          { name: "Haifa International Film Festival Awards", slug: "haifa-iff", founded: 1983, country: "Israel" },
+        ],
+      },
+    ],
+  },
+];

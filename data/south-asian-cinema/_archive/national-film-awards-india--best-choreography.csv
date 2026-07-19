@@ -1,0 +1,40 @@
+year,film,person,is_winner,raw_text,source_url
+,Recipient,Song,False,Year | Recipient(s) | Song(s) | Film(s) | Language(s) | Refs.,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Choreography
+1991,No Award,,False,1991 (39th) | No Award | [ 1 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Choreography
+1992,Laxmibai Kolhapurkar,,False,1992 (40th) | Laxmibai Kolhapurkar | – | Ek Hota Vidushak | Marathi | [ 2 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Choreography
+1993,Sundaram,,False,1993 (41st) | Sundaram | – | Thiruda Thiruda | Tamil | [ 3 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Choreography
+1994,Subethra Sivakumar,,False,1994 (42nd) | Subethra Sivakumar | – | Hum Aapke Hain Koun..! | Hindi | [ 4 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Choreography
+1995,Ileana Citaristi,,False,1995 (43rd) | Ileana Citaristi | – | Yugant | Bengali | [ 5 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Choreography
+1996,Prabhu Deva,"• ""Strawberry Kannae"" • ""Vennilavae Vennilavae",False,"1996 (44th) | Prabhu Deva | • ""Strawberry Kannae"" • ""Vennilavae Vennilavae"" | Minsara Kanavu | Tamil | [ 6 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Choreography
+1997,Shiamak Davar,"• ""Le Gayi"" • ”Koi Ladki Hai"" • ”The Dance of Envy",False,"1997 (45th) | Shiamak Davar | • ""Le Gayi"" • ”Koi Ladki Hai"" • ”The Dance of Envy"" | Dil To Pagal Hai | Hindi | [ 7 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Choreography
+1998,Brinda,Swargam Thedi Vannore,False,"1998 (46th) | Brinda | ""Swargam Thedi Vannore"" | Daya | Malayalam | [ 8 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Choreography
+1999,Arsh Tanna,Dholi Taro,False,"1999 (47th) | Arsh Tanna | ""Dholi Taro"" | Hum Dil De Chuke Sanam | Hindi | [ 9 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Choreography
+1999,Sameer Tanna,,False,Sameer Tanna,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Choreography
+1999,Vaibhavi Merchant,,False,Vaibhavi Merchant,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Choreography
+2000,Kala,,False,2000 (48th) | Kala | – | Kochu Kochu Santhoshangal | Malayalam | [ 10 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Choreography
+2001,Raju Khan,Ghanan Ghanan,False,"2001 (49th) | Raju Khan | ""Ghanan Ghanan"" | Lagaan | Hindi | [ 11 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Choreography
+2002,Saroj Khan,Dola Re Dola,False,"2002 (50th) | Saroj Khan | "" Dola Re Dola "" | Devdas | Hindi | [ 12 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Choreography
+2003,Farah Khan,Idhar Chala Main Udhar Chala,False,"2003 (51st) | Farah Khan | ""Idhar Chala Main Udhar Chala"" | Koi... Mil Gaya | Hindi | [ 13 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Choreography
+2004,Prabhu Deva,Main Aisa Kyu Hoon,False,"2004 (52nd) | Prabhu Deva | "" Main Aisa Kyu Hoon "" | Lakshya | Hindi | [ 14 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Choreography
+2005,Saroj Khan,,False,2005 (53rd) | Saroj Khan | – | Sringaram | Tamil | [ 15 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Choreography
+2006,Madhu Samudra,,False,2006 (54th) | Madhu Samudra | – | Rathri Mazha | Malayalam | [ 16 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Choreography
+2006,Sajeev Samudra,,False,Sajeev Samudra,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Choreography
+2007,Saroj Khan,Yeh Ishq Haaye,False,"2007 (55th) | Saroj Khan | ""Yeh Ishq Haaye"" | Jab We Met | Hindi | [ 17 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Choreography
+2008,Chinni Prakash,Azeem-o-Shaan Shahenshah,False,"2008 (56th) | Chinni Prakash | ""Azeem-o-Shaan Shahenshah"" | Jodhaa Akbar | Hindi | [ 18 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Choreography
+2008,Rekha Prakash,,False,Rekha Prakash,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Choreography
+2009,K. Sivasankar,Dheera Dheera Dheera,False,"2009 (57th) | K. Sivasankar | ""Dheera Dheera Dheera"" | Magadheera | Telugu | [ 19 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Choreography
+2010,Dinesh,Otha Sollaala,False,"2010 (58th) | Dinesh | ""Otha Sollaala"" | Aadukalam | Tamil | [ 20 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Choreography
+2011,Bosco-Caesar,Senorita,False,"2011 (59th) | Bosco-Caesar | "" Senorita "" | Zindagi Na Milegi Dobara | Hindi | [ 21 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Choreography
+2012,Birju Maharaj,Unnai Kaanadhu Naan,False,"2012 (60th) | Birju Maharaj | ""Unnai Kaanadhu Naan"" | Vishwaroopam | Tamil | [ 22 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Choreography
+2013,Ganesh Acharya,Maston Ka Jhund,False,"2013 (61st) | Ganesh Acharya | ""Maston Ka Jhund"" | Bhaag Milkha Bhaag | Hindi | [ 23 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Choreography
+2014,Sudesh Adhana,Bismil,False,"2014 (62nd) | Sudesh Adhana | ""Bismil"" | Haider | Hindi | [ 24 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Choreography
+2015,Remo D'Souza,Deewani Mastani,False,"2015 (63rd) | Remo D'Souza | "" Deewani Mastani "" | Bajirao Mastani | Hindi | [ 25 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Choreography
+2016,Raju Sundaram,Pranaamam,False,"2016 (64th) | Raju Sundaram | ""Pranaamam"" | Janatha Garage | Telugu | [ 26 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Choreography
+2017,Ganesh Acharya,Gori Tu Latth Maar,False,"2017 (65th) | Ganesh Acharya | ""Gori Tu Latth Maar"" | Toilet: Ek Prem Katha | Hindi | ",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Choreography
+2018,Jyothi D. Tomar,Ghoomar,False,"2018 (66th) | Jyothi D. Tomar | "" Ghoomar "" | Padmaavat | Hindi | [ 27 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Choreography
+2018,Kruti Mahesh,,False,Kruti Mahesh,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Choreography
+2019,Raju Sundaram,Everest Anchuna,False,"2019 (67th) | Raju Sundaram | "" Everest Anchuna "" | Maharshi | Telugu | [ 28 ] [ 29 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Choreography
+2020,Sandhya Raju,Kadambari,False,"2020 (68th) | Sandhya Raju | ""Kadambari"" | Natyam | Telugu | [ 30 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Choreography
+2021,Prem Rakshith,Naatu Naatu,False,"2021 (69th) | Prem Rakshith | "" Naatu Naatu "" | RRR | Telugu | [ 31 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Choreography
+2022,Sathish Krishnan,Megam Karukkatha,False,"2022 (70th) | Sathish Krishnan [ a ] | ""Megam Karukkatha"" | Thiruchitrambalam | Tamil | [ 33 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Choreography
+2023,Vaibhavi Merchant,Dhindhora Baje Re,False,"2023 (71st) | Vaibhavi Merchant | ""Dhindhora Baje Re"" | Rocky Aur Rani Kii Prem Kahaani | Hindi | [ 34 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Choreography

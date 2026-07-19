@@ -1,0 +1,209 @@
+year,film,person,is_winner,raw_text,source_url
+,Not awarded,,True,1983 1 | Not awarded | [ 1 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Khosrow Sinai,The Inner Beast,True,1984 2 | Khosrow Sinai [ a ] [ b ] | The Inner Beast [ fa ] | [ 3 ] [ 4 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Yadollah Samadi,The Man Who Knew Too Much,True,1985 3 | Yadollah Samadi [ a ] [ b ] | The Man Who Knew Too Much [ fa ] | [ 5 ] [ 6 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Kianoush Ayari,The Monster,True,1986 4 | Kianoush Ayari [ a ] [ b ] | The Monster [ fa ] | [ 7 ] [ 8 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Abbas Kiarostami,Where Is the Friend's Home?,True,1987 5 | Abbas Kiarostami [ b ] | Where Is the Friend's Home? | [ 9 ] [ 10 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Captain Khorshid,,False,Nasser Taghvai | Captain Khorshid,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Lodgers,,False,Dariush Mehrjui | The Lodgers,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Key,,False,Ebrahim Forouzesh | The Key,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Stony Lion,,False,Masoud Jafari Jozani | The Stony Lion [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Kianoush Ayari,Beyond the Fire,True,1988 6 | Kianoush Ayari [ b ] | Beyond the Fire [ fa ] | [ 11 ] [ 12 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Little Bird of Happiness,,False,Pouran Derakhshandeh | Little Bird of Happiness,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,A Dowry for Robab,,False,Siamak Shayeghi | A Dowry for Robab [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Awaiting Home,,False,Manouchehr Asgarinasab [ fa ] | The Awaiting Home [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Shirak,,False,Dariush Mehrjui | Shirak [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Mohsen Makhmalbaf,The Cyclist,True,1989 7 | Mohsen Makhmalbaf | The Cyclist | [ 13 ] [ 14 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Marriage of the Blessed,,False,Mohsen Makhmalbaf | The Marriage of the Blessed,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Eye of the Hurricane,,False,Masoud Jafari Jozani | Eye of the Hurricane ‡,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Hey Joe,,False,Manouchehr Asgarinasab [ fa ] | Hey Joe [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Dariush Mehrjui,Hamoun,True,1990 8 | Dariush Mehrjui | Hamoun | [ 15 ] [ 16 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Immigrant,,False,Ebrahim Hatamikia | The Immigrant ‡,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Close-Up,,False,Abbas Kiarostami | Close-Up,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Savalan,,False,Yadollah Samadi | Savalan [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Seeker,,False,Mohammad Motevaselani [ fa ] | The Seeker [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Varuzh Karim-Masihi,The Last Act,True,1991 9 | Varuzh Karim-Masihi | The Last Act [ fa ] | [ 17 ] [ 18 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Bride,,False,Behrouz Afkhami | The Bride [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Apartment No.13,,False,Yadollah Samadi | Apartment No.13 ‡,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,"One Ticket, Two Movies!",,False,"Dariush Farhang | One Ticket, Two Movies! [ fa ]",https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Rakhshan Bani-Etemad,Nargess,True,1992 10 | Rakhshan Bani-Etemad | Nargess | [ 19 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Travellers,,False,Bahram Beyzai | Travellers [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,"Once Upon a Time, Cinema",,False,"Mohsen Makhmalbaf | Once Upon a Time, Cinema",https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Need,,False,Alireza Davoodnejad | The Need [ fa ] ‡,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Quiet Home,,False,Mehdi Sabbaghzadeh [ fa ] | The Quiet Home [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Sirus Alvand,Once for Ever,True,1993 11 | Sirus Alvand | Once for Ever [ fa ] | [ 20 ] [ 21 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,From Karkheh to Rhein,,False,Ebrahim Hatamikia | From Karkheh to Rhein ‡,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Sara,,False,Dariush Mehrjui | Sara,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Actor,,False,Mohsen Makhmalbaf | Actor,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Mohammad Bozorgnia,Tanker War,True,1994 12 | Mohammad Bozorgnia [ fa ] | Tanker War [ fa ] | [ 22 ] [ 23 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Green Ashes,,False,Ebrahim Hatamikia | The Green Ashes [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Devil's Eye,,False,Hassan Hedayat [ fa ] | The Devil's Eye [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Epic of Majnun,,False,Jamal Shurjeh [ fa ] | The Epic of Majnun [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Zero Heights,,False,Hossein-Ali Layalestani [ fa ] | Zero Heights [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Dariush Mehrjui,Pari,True,1995 13 | Dariush Mehrjui | Pari | [ 24 ] [ 25 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Fateful Day,,False,Shahram Assadi [ fa ] | The Fateful Day ‡,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Kimia,,False,Ahmad-Reza Darvish | Kimia [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Blue-Veiled,,False,Rakhshan Bani-Etemad | The Blue-Veiled,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Kiumars Pourahmad,Strange Sisters,True,1996 14 | Kiumars Pourahmad | Strange Sisters | [ 26 ] [ 27 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Father,,False,Majid Majidi | The Father ‡,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Journey to Chazabeh,,False,Rasoul Mollagholipour | Journey to Chazabeh,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Gabbeh,,False,Mohsen Makhmalbaf | Gabbeh,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Majid Majidi,Children of Heaven,True,1997 15 | Majid Majidi | Children of Heaven ‡ | [ 28 ] [ 29 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Land of the Sun,,False,Ahmad-Reza Darvish | Land of the Sun [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Leila,,False,Dariush Mehrjui | Leila,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Traveller from the South,,False,Parviz Shahbazi | The Traveller from the South [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Ebrahim Hatamikia,The Glass Agency,True,1998 16 | Ebrahim Hatamikia | The Glass Agency ‡ | [ 30 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Tree of Life,,False,Farhad Mehranfar [ fa ] | The Tree of Life [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Pear Tree,,False,Dariush Mehrjui | The Pear Tree,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The May Lady,,False,Rakhshan Bani-Etemad | The May Lady [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Birth of A Butterfly,,False,Mojtaba Ra'i [ fa ] | Birth of A Butterfly [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Rasoul Mollagholipour,Heeva,True,1999 17 | Rasoul Mollagholipour | Heeva [ fa ] ‡ | [ 31 ] [ 32 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Red Ribbon,,False,Ebrahim Hatamikia | The Red Ribbon,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Two Women,,False,Tahmineh Milani | Two Women,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Color of Paradise,,False,Majid Majidi | The Color of Paradise,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Sweet Agony,,False,Alireza Davoodnejad | Sweet Agony [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Bahman Farmanara,"Smell of Camphor, Scent of Jasmine",True,"2000 18 | Bahman Farmanara | Smell of Camphor, Scent of Jasmine ‡ | [ 33 ] [ 34 ]",https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Protest,,False,Masoud Kimiai | Protest [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Mix,,False,Dariush Mehrjui | The Mix,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Maturity,,False,Masoud Jafari Jozani | Maturity [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Child and the Soldier,,False,Reza Mirkarimi | The Child and the Soldier [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Majid Majidi,Baran,True,2001 19 | Majid Majidi | Baran ‡ | [ 35 ] [ 36 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,End of the Game,,False,Homayoun Ass'adian [ fa ] | End of the Game [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Killing Mad Dogs,,False,Bahram Beyzai | Killing Mad Dogs,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Paradise for you,,False,Alireza Davoodnejad | Paradise for you [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Under the Moonlight,,False,Reza Mirkarimi | Under the Moonlight,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Rasul Sadr Ameli,"I'm Taraneh, 15",True,"2002 20 | Rasul Sadr Ameli | I'm Taraneh, 15 | [ 37 ] [ 38 ]",https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Unruled Paper,,False,Nasser Taghvai | Unruled Paper,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Low Heights,,False,Ebrahim Hatamikia | Low Heights,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,To Stay Alive,,False,Dariush Mehrjui | To Stay Alive,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Deserted Station,,False,Alireza Raisian [ fa ] | The Deserted Station,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Exam,,False,Nasser Refaei [ fa ] | The Exam [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Reza Mirkarimi,"Here, A Shining Light",True,"2003 21 | Reza Mirkarimi | Here, A Shining Light [ fa ] | [ 39 ]",https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Look at the Sky Sometimes,,False,Kamal Tabrizi | Look at the Sky Sometimes [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Deep Breath,,False,Parviz Shahbazi | Deep Breath,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Dancing in the Dust,,False,Asghar Farhadi | Dancing in the Dust,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Insane Flew Away,,False,Ahmad-Reza Mo'tamedi [ fa ] | The Insane Flew Away [ fa ] ‡,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Ahmad-Reza Darvish,Duel,True,2004 22 | Ahmad-Reza Darvish | Duel | [ 40 ] [ 41 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Mum's Guest,,False,Dariush Mehrjui | Mum's Guest ‡,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Beautiful City,,False,Asghar Farhadi | The Beautiful City,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Winning Card,,False,Sirus Alvand | The Winning Card [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Ghadamgah,,False,Mohammad-Mehdi Asgarpour [ fa ] | Ghadamgah [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Majid Majidi,The Willow Tree,True,2005 23 | Majid Majidi | The Willow Tree | [ 42 ] [ 43 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,A Place to Live,,False,Mohammad Bozorgnia [ fa ] | A Place to Live [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,"So Close, So Far",,False,"Reza Mirkarimi | So Close, So Far ‡",https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Café Transit,,False,Kambuzia Partovi | Café Transit,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Behind the Curtain of Fog,,False,Parviz Sheikhtadi [ fa ] | Behind the Curtain of Fog [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,We Are All Fine,,False,Bijan Mirbagheri [ fa ] | We Are All Fine [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Asghar Farhadi,Fireworks Wednesday,True,2006 24 | Asghar Farhadi | Fireworks Wednesday | [ 44 ] [ 45 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,In the Name of the Father,,False,Ebrahim Hatamikia | In the Name of the Father ‡,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Incident,,False,Abolhassan Davoudi [ fa ] | The Incident [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Somewhere Far Away,,False,Khosrow Ma'sumi [ fa ] | Somewhere Far Away [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Friday Evening,,False,Mona Zandi Haghighi | Friday Evening [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Mohammad-Hossein Latifi,The Third Day,True,2007 25 | Mohammad-Hossein Latifi [ fa ] | The Third Day ‡ | [ 46 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Colors of Memory,,True,Amir-Shahab Razavian | Colors of Memory,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Night Bus,,False,Kiumars Pourahmad | The Night Bus,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Eghlima,,False,Mohammad-Mehdi Asgarpour [ fa ] | Eghlima [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Barefoot in Paradise,,False,Bahram Tavakoli | Barefoot in Paradise [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Majid Majidi,The Song of Sparrows,True,2008 26 | Majid Majidi | The Song of Sparrows | [ 47 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Wind Blows in the Meadow,,False,Khosrow Ma'sumi [ fa ] | Wind Blows in the Meadow [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,As Simple as That,,False,Reza Mirkarimi | As Simple as That ‡,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Wall,,False,Mohammad-Ali Talebi [ fa ] | The Wall [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Asghar Farhadi,About Elly,True,2009 27 | Asghar Farhadi | About Elly | [ 48 ] [ 49 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Twenty,,False,Abdolreza Kahani | Twenty [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Postman Doesn't Knock 3 Times,,False,Hassan Fathi | The Postman Doesn't Knock 3 Times [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Doubt,,False,Varuzh Karim-Masihi | Doubt ‡,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Superstar,,False,Tahmineh Milani | Superstar,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,When We're All Asleep,,False,Bahram Beyzai | When We're All Asleep [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Ebrahim Hatamikia,In Amethyst Color,True,2010 28 | Ebrahim Hatamikia | In Amethyst Color ‡ | [ 50 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Seven Minutes to Fall,,False,Alireza Amini [ fa ] | Seven Minutes to Fall [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Forty Years Old,,False,Alireza Raisian [ fa ] | Forty Years Old,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Gold and Copper,,False,Homayoun Ass'adian [ fa ] | Gold and Copper,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Kingdom of Solomon,,False,Shahriar Bahrani | The Kingdom of Solomon,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Fateful Night,,False,Shahram Assadi [ fa ] | The Fateful Night [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Asghar Farhadi,A Separation,True,2011 29 | Asghar Farhadi | A Separation | [ 51 ] [ 52 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Crime,,False,Masoud Kimiai | Crime [ fa ] ‡,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Beloved Sky,,False,Dariush Mehrjui | Beloved Sky,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Alzheimer,,False,Ahmad-Reza Mo'tamedi [ fa ] | Alzheimer,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Maritime Silk Road,,False,Mohammad Bozorgnia [ fa ] | The Maritime Silk Road,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Parviz Sheikhtadi,Days of Life,True,2012 30 | Parviz Sheikhtadi [ fa ] | Days of Life [ fa ] | [ 53 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Orange Suit,,False,Dariush Mehrjui | Orange Suit,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Queen,,False,Mohammad-Ali Bashe-Ahangar | The Queen,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Kissing the Moon-Like Face,,False,Homayoun Ass'adian [ fa ] | Kissing the Moon-Like Face [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Modest Reception,,False,Mani Haghighi | Modest Reception,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Parviz Shahbazi,Trapped,True,2013 31 | Parviz Shahbazi | Trapped | [ 54 ] [ 55 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Actors Studio,,False,Alireza Davoodnejad | Actors Studio [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Bending the Rules,,False,Behnam Behzadi | Bending the Rules,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Corridor,,False,Behrouz Shoeibi [ fa ] | The Corridor,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Give Back,,False,Ali Ghafari [ fa ] | Give Back [ fa ] ‡,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Ahmad-Reza Darvish,Hussein Who Said No,True,2014 32 | Ahmad-Reza Darvish | Hussein Who Said No ‡ | [ 56 ] [ 57 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Hard Makeup,,False,Hamid Nematollah [ fa ] | Hard Makeup [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,"Azar, Shahdokht, Parviz and Others",,False,"Behrouz Afkhami | Azar, Shahdokht, Parviz and Others [ fa ] ‡",https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Che,,False,Ebrahim Hatamikia | Che,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,We Have A Guest,,False,Mohammad-Mehdi Asgarpour [ fa ] | We Have A Guest [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Abolhassan Davoudi,Crazy Rook,True,2015 33 | Abolhassan Davoudi [ fa ] | Crazy Rook ‡ | [ 58 ] [ 59 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,I Am Diego Maradona,,False,Bahram Tavakoli | I Am Diego Maradona,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Long Farewell,,False,Farzad Motamen | The Long Farewell [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Time to Love,,False,Alireza Raisian [ fa ] | Time to Love [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Ice Age,,False,Mostafa Kiayee [ fa ] | Ice Age [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Mazar Sharif,,False,Abdolhassan Barzideh [ fa ] | Mazar Sharif [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Saeed Roustayi,Life and a Day,True,2016 34 | Saeed Roustayi | Life and a Day | [ 60 ] [ 61 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Standing in the Dust,,False,Mohammad-Hossein Mahdavian | Standing in the Dust ‡,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Daughter,,False,Reza Mirkarimi | Daughter,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Mina's Choice,,False,Kamal Tabrizi | Mina's Choice [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,When Did You See Sahar Last Time?,,False,Farzad Motamen | When Did You See Sahar Last Time? [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Vahid Jalilvand,"No Date, No Signature",True,"2017 35 | Vahid Jalilvand | No Date, No Signature | [ 62 ]",https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Ferrari,,False,Alireza Davoodnejad | Ferrari [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Searing Summer,,False,Ebrahim Irajzad [ fa ] | Searing Summer [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Under the Smokey Roof,,False,Pouran Derakhshandeh | Under the Smokey Roof,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Midday Adventures,,False,Mohammad-Hossein Mahdavian | Midday Adventures ‡,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Negar,,False,Rambod Javan | Negar,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Bahram Tavakoli,The Lost Strait,True,2018 36 | Bahram Tavakoli | The Lost Strait ‡ | [ 63 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Damascus Time,,True,Ebrahim Hatamikia | Damascus Time,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Axing,,False,Behrouz Shoeibi [ fa ] | Axing [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Under Water Cypress,,False,Mohammad-Ali Bashe-Ahangar | Under Water Cypress [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Truck,,False,Kambuzia Partovi | Truck [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Sheeple,,False,Houman Seyyedi | Sheeple [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Narges Abyar,When the Moon Was Full,True,2019 37 | Narges Abyar | When the Moon Was Full ‡ | [ 64 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Warden,,False,Nima Javidi | The Warden,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Gholamreza Takhti,,False,Bahram Tavakoli | Gholamreza Takhti,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Just 6.5,,False,Saeed Roustayi | Just 6.5,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Castle of Dreams,,False,Reza Mirkarimi | Castle of Dreams,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Midday Adventures: Trace of Blood,,False,Mohammad-Hossein Mahdavian | Midday Adventures: Trace of Blood,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Mohammad-Hossein Mahdavian,Walnut Tree,True,2020 38 | Mohammad-Hossein Mahdavian | Walnut Tree | [ 65 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Day Zero,,False,Saeid Malekan | Day Zero,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Atabai,,False,Niki Karimi | Atabai,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Tooman,,False,Morteza Farshbaf | Tooman,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Sun,,False,Majid Majidi | The Sun ‡,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Butterfly Stroke,,False,Mohammad Kart | Butterfly Stroke,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Mehdi Jafari,Yadoo,True,2021 39 | Mehdi Jafari | Yadoo [ fa ] ‡ | [ 66 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Piebald,,False,Narges Abyar | Piebald,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Zalava,,False,Arsalan Amiri | Zalava,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Without Everything,,False,Mohsen Gharaie | Without Everything,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Reza Mirkarimi,The Night Guardian,True,2022 40 | Reza Mirkarimi | The Night Guardian | [ 67 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Situation of Mehdi,,False,Hadi Hejazifar | The Situation of Mehdi,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Last Snow,,False,Amir Hossein Asgari | The Last Snow,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Grassland,,False,Kazem Daneshi | Grassland,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,No Prior Appointment,,False,Behrouz Shoeibi | No Prior Appointment,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Mohammad Ali Bashe Ahangar,Metropol Cinema,True,2023 41 | Mohammad Ali Bashe Ahangar | Metropol Cinema | [ 68 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Leather Jacket Man,,False,Hossein Mirzamohammadi | The Leather Jacket Man,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Mud Room,,False,Mohammad Asgari | Mud Room,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Smart Kid,,False,Hadi Mohammadian Behnoud Nekouie Mohammad-Javad Jannati | Smart Kid,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,In the Arms of the Tree,,False,Babak Khajeh Pasha | In the Arms of the Tree,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Number Ten,,False,Hamid Zargarnejad | Number Ten,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,The Stranger,,False,Mohammad-Hossien Latifi | The Stranger,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Behrouz Afkhami,The Morning of The Execution,True,2024 42 | Behrouz Afkhami | The Morning of The Execution | [ 69 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Parviz Khan,,False,Ali Saghafi | Parviz Khan,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Paradise of Criminals,,False,Masoud Jafari Jozani | Paradise of Criminals,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Majnoon,,False,Mehdi Shamohammadi | Majnoon,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Aligator Blood,,False,Javad Ezzati | Aligator Blood,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Summer Time,,False,Mahmoud Kalari | Summer Time,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Dariush Mehrjui,,False,12 | Dariush Mehrjui,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Ebrahim Hatamikia,,False,10 | Ebrahim Hatamikia,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Reza Mirkarimi,,False,8 | Reza Mirkarimi,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Majid Majidi,,False,7 | Majid Majidi,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Mohsen Makhmalbaf,,False,5 | Mohsen Makhmalbaf,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Ahmad-Reza Darvish,,False,4 | Ahmad-Reza Darvish,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Yadollah Samadi,,False,3 | Yadollah Samadi,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Majid Majidi,,False,4 | Majid Majidi,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Ebrahim Hatamikia,,False,3 | Ebrahim Hatamikia,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director
+,Dariush Mehrjui,,False,2 | Dariush Mehrjui,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Director

@@ -1,0 +1,242 @@
+year,film,person,is_winner,raw_text,source_url
+1947,Domingo Soler,La Barraca,False,1947 (1st) | Domingo Soler ‡ | La Barraca | [ 8 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1947,Las Abandonadas,,False,Pedro Armendáriz | Las Abandonadas,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1947,La Selva de Fuego,,False,Arturo de Córdova | La Selva de Fuego,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1947,David Silva,Campeón Sin Corona,False,1947 (2nd) | David Silva ‡ | Campeón Sin Corona | [ 9 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1947,Enamorada,,False,Pedro Armendáriz | Enamorada,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1947,Cantaclaro,,False,Antonio Badú | Cantaclaro,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1948,Pedro Armendáriz,La Perla,False,1948 (3rd) | Pedro Armendáriz ‡ | La Perla | [ 10 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1948,Cuando Lloran los Valientes,,False,Pedro Infante | Cuando Lloran los Valientes,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1948,El Secreto de Juan Palomo,,False,Julián Soler | El Secreto de Juan Palomo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1949,Carlos López Moctezuma,Río Escondido,False,1949 (4th) | Carlos López Moctezuma ‡ | Río Escondido | [ 11 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1949,Los Tres Huastecos,,False,Pedro Infante | Los Tres Huastecos,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1949,¡Esquina Bajan!,,False,David Silva | ¡Esquina Bajan!,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1950,Roberto Cañedo,Pueblerina,False,1950 (5th) | Roberto Cañedo ‡ | Pueblerina | [ 12 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1950,Medianoche,,False,Arturo de Córdova | Medianoche,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1950,La Oveja Negra,,False,Pedro Infante | La Oveja Negra,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1951,Fernando Soler,No Desearás a La Mujer de Tu Hijo,False,1951 (6th) | Fernando Soler ‡ | No Desearás a La Mujer de Tu Hijo | [ 13 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1951,Rosauro Castro,,False,Pedro Armendáriz | Rosauro Castro,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1951,El Hombre Sin Rostro,,False,Arturo de Córdova | El Hombre Sin Rostro,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1952,Arturo de Córdova,En La Palma de Tu Mano,False,1952 (7th) | Arturo de Córdova ‡ | En La Palma de Tu Mano | [ 14 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1952,Crimen y Castigo,,False,Roberto Cañedo | Crimen y Castigo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1952,El Grito de la Carne,,False,Fernando Soler | El Grito de la Carne,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1953,Pedro Armendáriz,El Rebozo de Soledad,False,1953 (8th) | Pedro Armendáriz ‡ | El Rebozo de Soledad | [ 15 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1953,Mi Esposa y la Otra,,False,Arturo de Cordova | Mi Esposa y la Otra,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1953,Un Rincón Cerca del Cielo,,False,Pedro Infante | Un Rincón Cerca del Cielo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1954,Arturo de Córdova,Las Tres Perfectas Casadas,False,1954 (9th) | Arturo de Córdova ‡ | Las Tres Perfectas Casadas | [ 16 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1954,Eugenia Grandet,,False,Julio Villarreal | Eugenia Grandet,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1954,Pepe El Toro,,False,Pedro Infante | Pepe El Toro,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1955,Víctor Parra,Los Fernández de Peralvillo,False,1955 (10th) | Víctor Parra ‡ | Los Fernández de Peralvillo | [ 17 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1955,La Rebelión de los Colgados,,False,Pedro Armendáriz | La Rebelión de los Colgados,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1955,El Gran Autor,,False,Pedro López Lagar | El Gran Autor,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1956,Pedro Infante,La Vida No Vale Nada,False,1956 (11th) | Pedro Infante ‡ | La Vida No Vale Nada | [ 18 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1956,Ensayo de un Crimen,,False,Ernesto Alonso | Ensayo de un Crimen,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1956,Espaldas Mojadas,,False,David Silva | Espaldas Mojadas,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1957,Víctor Manuel Mendoza,Talpa,False,1957 (12th) | Víctor Manuel Mendoza ‡ | Talpa | [ 19 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1957,Adán y Eva,,False,Carlos Baena | Adán y Eva,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1957,El Rey de Mexico,,False,Adalberto Martínez | El Rey de Mexico,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1958,Arturo de Córdova,"Feliz Año, Amor Mío",False,"1958 (13th) | Arturo de Córdova ‡ | Feliz Año, Amor Mío | [ 20 ]",https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1958,Tizoc,,False,Pedro Infante | Tizoc,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1958,Bambalinas,,False,Carlos Montalbán | Bambalinas,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1959,Not awarded,,True,1959 — 1971 | Not awarded | [ 1 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1973,Ignacio López Tarso,Rosa Blanca,False,1973 (15th) | Ignacio López Tarso ‡ | Rosa Blanca | [ 21 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1973,El Rincón de las Vírgenes,,False,Alfonso Arau | El Rincón de las Vírgenes,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1973,Los Días del Amor,,False,Jorge Martínez de Hoyos | Los Días del Amor,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1974,Pancho Córdova,Caridad,False,"1974 (16th) | Pancho Córdova ‡ | ""Caridad"" (episode from Fe, Esperanza y Caridad ) | [ 22 ]",https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1974,El Cambio,,False,Sergio Jiménez | El Cambio,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1974,El Profeta Mimí,,False,Ignacio López Tarso | El Profeta Mimí,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1975,Héctor Bonilla,Meridiano 100,False,1975 (17th) | Héctor Bonilla ‡ | Meridiano 100 | [ 23 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1975,Rapiña,,False,Ignacio López Tarso | Rapiña,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1975,La Venida del Rey Olmos,,False,Jorge Martínez de Hoyos | La Venida del Rey Olmos,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1976,Jorge Russek,De Todos Modos Juan Te Llamas,False,1976 (18th) | Jorge Russek ‡ | De Todos Modos Juan Te Llamas | [ 24 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1976,De Todos Modos Juan Te Llamas,,False,Juan Ferrara | De Todos Modos Juan Te Llamas,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1976,Canoa,,False,Enrique Lucero | Canoa,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1977,"Pedro Armendáriz, Jr.","Mina, Viento de Libertad",False,"1977 (19th) | Pedro Armendáriz, Jr. ‡ | Mina, Viento de Libertad | [ 25 ]",https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1977,Cuartelazo,,False,Héctor Ortega | Cuartelazo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1977,Cuartelazo,,False,Bruno Rey | Cuartelazo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1978,Roberto Cobo,En el Lugar Sin Limites,False,1978 (20th) | Roberto Cobo ‡ | En el Lugar Sin Limites | [ 26 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1978,Los Pequeños Privilegios,,False,"Pedro Armendáriz, Jr. | Los Pequeños Privilegios",https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1978,Matinée,,False,Héctor Bonilla | Matinée,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1979,José Alonso,En La Trampa,False,1979 (21st) | José Alonso ‡ | En La Trampa | [ 27 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1979,Bloody Marlene,,False,Héctor Bonilla | Bloody Marlene,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1979,El Recurso del Método,,False,Nelson Villagra | El Recurso del Método,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1980,Manuel Ojeda,El Infierno de Todos Tan Temido,False,1980 (22nd) | Manuel Ojeda ‡ | El Infierno de Todos Tan Temido | [ 28 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1980,Fuego en el Mar,,False,Manuel Ojeda | Fuego en el Mar,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1980,Perro Callejero,,False,Valentín Trujillo | Perro Callejero,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1981,Juan Ferrara,Misterio,False,1981 (23rd) | Juan Ferrara ‡ | Misterio | [ 29 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1981,Las Grandes Aguas,,False,Eric del Castillo | Las Grandes Aguas,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1981,En la Tormenta,,False,Carlos Riquelme | En la Tormenta,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1982,Alejandro Parodi,Llámenme Mike,False,1982 (24th) | Alejandro Parodi ‡ | Llámenme Mike | [ 30 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1982,Rastro de Muerte,,False,"Pedro Armendáriz, Jr. | Rastro de Muerte",https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1982,¡Ora Sí Tenemos Que Ganar!,,False,Manuel Ojeda | ¡Ora Sí Tenemos Que Ganar!,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1983,Ernesto Gómez Cruz,La Víspera,False,1983 (25th) | Ernesto Gómez Cruz ‡ | La Víspera | [ 31 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1983,La Pachanga,,False,Sergio Jiménez | La Pachanga,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1983,La Pachanga,,False,Noé Murayama | La Pachanga,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1984,Humberto Zurita,Bajo la Metralla,False,1984 (26th) | Humberto Zurita ‡ | Bajo la Metralla | [ 32 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1984,La Viuda Negra,,False,Mario Almada | La Viuda Negra,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1984,El Tonto Que Hacía Milagros,,False,Miguel Ángel Ferriz | El Tonto Que Hacía Milagros,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1985,José Carlos Ruiz,Vidas Errantes,False,1985 (27th) | José Carlos Ruiz ‡ | Vidas Errantes | [ 33 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1985,Vidas Errantes,,False,Ignacio Guadalupe | Vidas Errantes,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1985,El Otro,,False,Rafael Sánchez Navarro | El Otro,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1986,Claudio Brook,Memoriales Perdidos,False,1986 (28th) | Claudio Brook ‡ | Memoriales Perdidos | [ 34 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1986,Los Motivos de Luz,,False,Alonso Echánove | Los Motivos de Luz,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1986,Redondo,,False,Alfredo Sevilla | Redondo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1987,Ernesto Gómez Cruz,El Imperio de la Fortuna,False,1987 (29th) | Ernesto Gómez Cruz ‡ | El Imperio de la Fortuna | [ 35 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1987,"Chido Guan, El Tacos de Oro",,False,"Fernando Arau | Chido Guan, El Tacos de Oro",https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1987,"Chido Guan, El Tacos de Oro",,False,"Mario Almada | Chido Guan, El Tacos de Oro",https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1988,Gonzalo Vega,Lo Que Importa es Vivir,False,1988 (30th) | Gonzalo Vega ‡ | Lo Que Importa es Vivir | [ 36 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1988,Días Dificiles,,False,Fernando Balzaretti | Días Dificiles,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1988,Muelle Rojo,,False,Manuel Ojeda | Muelle Rojo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1989,Alonso Echánove,Mentiras Piadosas,False,1989 (31st) | Alonso Echánove ‡ | Mentiras Piadosas | [ 37 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1989,¿Nos Traicionará el Presidente?,,False,Alberto Pedret | ¿Nos Traicionará el Presidente?,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1989,El Jinete de la Divina Providencia,,False,Bruno Rey | El Jinete de la Divina Providencia,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1990,José Carlos Ruiz,"Goitia, Un Dios Para Sí Mismo",False,"1990 (32nd) | José Carlos Ruiz ‡ | Goitia, Un Dios Para Sí Mismo | [ 38 ]",https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1990,Sabadazo,,False,"Roberto ""Flaco"" Guzmán | Sabadazo",https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1990,El Otro Crimen,,False,Enrique Rocha | El Otro Crimen,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1991,Héctor Bonilla,Rojo Amanecer,False,1991 (33rd) | Héctor Bonilla ‡ | Rojo Amanecer | [ 39 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1992,Mario Iván Martínez,Como Agua Para Chocolate,False,1992 (34th) | Mario Iván Martínez ‡ | Como Agua Para Chocolate | [ 40 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1992,La Tarea,,False,José Alonso | La Tarea,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1992,La Mujer de Benjamín,,False,Eduardo López Rojas | La Mujer de Benjamín,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1993,Alonso Echánove,Modelo Antiguo,False,1993 (35th) | Alonso Echánove ‡ | Modelo Antiguo | [ 41 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1993,Bartolomé de las Casas,,False,José Alonso | Bartolomé de las Casas (La Leyenda Negra),https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1993,Ángel de Fuego,,False,Roberto Sosa | Ángel de Fuego,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1994,Bruno Bichir,Principio y Fin,False,1994 (36th) | Bruno Bichir ‡ | Principio y Fin | [ 42 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1994,Kino,,False,Rodolfo de Anda | Kino,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1994,La Vida Conyugal,,False,Alonso Echánove | La Vida Conyugal,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1994,Desiertos Mares,,False,Arturo Ríos | Desiertos Mares,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1994,La Última Batalla,,False,Jorge Russek | La Última Batalla,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1994,Lolo,,False,Roberto Sosa | Lolo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1995,Demián Bichir,Hasta Morir,False,1995 (37th) | Demián Bichir ‡ | Hasta Morir | [ 43 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1995,Dos Crimenes,,False,Damián Alcázar | Dos Crimenes,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1995,El Jardín del Edén,,False,Bruno Bichir | El Jardín del Edén,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1995,El Callejón de los Milagros,,False,Ernesto Gómez Cruz | El Callejón de los Milagros,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1995,Bienvenido — Welcome,,False,Luis Felipe Tovar | Bienvenido — Welcome,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1996,Fernando Torre Lapham,Sin Remitente,False,1996 (38th) | Fernando Torre Lapham ‡ | Sin Remitente | [ 44 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1996,Mujeres Insumisas,,False,José Alonso | Mujeres Insumisas,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1996,El Anzuelo,,False,Bruno Bichir | El Anzuelo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1996,Dulces Compañías,,False,Roberto Cobo | Dulces Compañías,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1996,Dulces Compañías,,False,Ramiro Huerta | Dulces Compañías,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1997,Daniel Giménez Cacho,Profundo Carmesí,False,1997 (39th) | Daniel Giménez Cacho ‡ | Profundo Carmesí | [ 45 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1997,Cilantro y Perejil,,False,Demián Bichir | Cilantro y Perejil,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1997,Luces de la Noche,,False,Héctor Bonilla | Luces de la Noche,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1997,Santo Luzbel,,False,Rafael Cortés | Santo Luzbel,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1998,Jorge Galván,Por Si No Te Vuelvo a Ver,False,1998 (40th) | Jorge Galván ‡ | Por Si No Te Vuelvo a Ver | [ 46 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1998,Libre de Culpas,,False,Martín Altomaro | Libre de Culpas,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1998,"De Noche Vienes, Esmeralda",,False,"Claudio Obregón | De Noche Vienes, Esmeralda",https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1999,Damián Alcázar,"Bajo California, el Limite del Tiempo",False,"1999 (41st) | Damián Alcázar ‡ | Bajo California, el Limite del Tiempo | [ 47 ]",https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1999,Un Embrujo,,False,Daniel Acuña | Un Embrujo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+1999,Fibra Óptica,,False,Roberto Sosa | Fibra Óptica,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2000,Damián Alcázar,La Ley de Herodes,False,2000 (42nd) | Damián Alcázar ‡ | La Ley de Herodes | [ 48 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2000,"Sexo, Pudor y Lágrimas",,False,"Demián Bichir | Sexo, Pudor y Lágrimas",https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2000,Rito Terminal,,False,Guillermo Larrea | Rito Terminal,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2001,Gael García Bernal,Amores Perros,False,2001 (43rd) | Gael García Bernal ‡ | Amores Perros | [ 49 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2001,Crónica de un Desayuno,,False,Bruno Bichir | Crónica de un Desayuno,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2001,Su Alteza Serenísima,,False,Alejandro Parodi | Su Alteza Serenísima,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2002,Arturo Ríos,Cuento de Hadas Para Dormir Cocodrilos,False,2002 (44th) | Arturo Ríos ‡ | Cuento de Hadas Para Dormir Cocodrilos | [ 50 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2002,De la Calle,,False,Luis Fernando Peña | De la Calle,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2002,"Pachito Rex, Me Voy Pero No del Todo",,False,"Jorge Zárate | Pachito Rex, Me Voy Pero No del Todo",https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2003,Daniel Giménez Cacho,Aro Tolbukhin: En la Mente del Asesino,False,2003 (45th) | Daniel Giménez Cacho ‡ | Aro Tolbukhin: En la Mente del Asesino | [ 51 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2003,eXXXorcismos,,False,Alberto Estrella | eXXXorcismos,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2003,Amar te duele,,False,Luis Fernando Peña | Amar te duele,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2004,Rafael Inclán,Nicotina,False,2004 (46th) | Rafael Inclán ‡ | Nicotina | [ 52 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2004,Japón,,False,Alejandro Ferretis | Japón,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2004,El Misterio del Trinidad,,False,Eduardo Palomo | El Misterio del Trinidad,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2005,Enrique Arreola,Temporada de Patos,False,2005 (47th) | Enrique Arreola ‡ | Temporada de Patos | [ 53 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2005,Manos Libres,,False,Alejandro Calva | Manos Libres (Nadie te Habla),https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2005,Cero y Van Cuatro,,False,Silverio Palacios | Cero y Van Cuatro,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2006,Damián Alcázar,Las Vueltas del Citrillo,False,2006 (48th) | Damián Alcázar ‡ | Las Vueltas del Citrillo | [ 54 ] [ 55 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2006,Noticias Lejanas,,False,David Aarón Estrada | Noticias Lejanas,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2006,Mezcal,,False,Dagoberto Gama | Mezcal,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2007,Damián Alcázar,Crónicas,False,2007 (49th) | Damián Alcázar ‡ | Crónicas | [ 56 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2007,Fuera del Cielo,,False,Armando Hernández | Fuera del Cielo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2007,La Niña en la Piedra,,False,Gabino Rodríguez | La Niña en la Piedra,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2008,Jorge Zárate,Dos Abrazos,False,2008 (50th) | Jorge Zárate ‡ | Dos Abrazos | [ 57 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2008,Párpados Azules,,False,Enrique Arreola | Párpados Azules,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2008,Partes Usadas,,False,Alan Chávez | Partes Usadas,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2008,Cobrador: In God We Trust,,False,Lázaro Ramos | Cobrador: In God We Trust,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2009,Mario Zaragoza,Desierto Adentro,False,2009 (51st) | Mario Zaragoza ‡ | Desierto Adentro | [ 58 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2009,I'm Gonna Explode,,False,Juan Pablo de Santiago | I'm Gonna Explode,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2009,Rudo y Cursi,,False,Diego Luna | Rudo y Cursi,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2010,Fernando Luján,Cinco Días Sin Nora,False,2010 (52nd) | Fernando Luján ‡ | Cinco Días Sin Nora | [ 59 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2010,Conozca la Cabeza de Juan Pérez,,False,Silverio Palacios | Conozca la Cabeza de Juan Pérez,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2010,Norteado,,False,Harold Torres | Norteado,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2011,Damián Alcázar,El Infierno,False,2011 (53rd) | Damián Alcázar ‡ | El Infierno | [ 60 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2011,Biutiful,,False,Javier Bardem | Biutiful,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2011,Hidalgo: La Historia Jamás Contada,,False,Demián Bichir | Hidalgo: La Historia Jamás Contada,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2011,La Mitad del Mundo,,False,Hansel Ramírez | La Mitad del Mundo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2012,Tenoch Huerta,Días de Gracia,False,2012 (54th) | Tenoch Huerta ‡ | Días de Gracia | [ 61 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2012,Pastorela,,False,Joaquín Cosío | Pastorela,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2012,Miss Bala,,False,Noé Hernández | Miss Bala,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2013,Roberto Sosa,El Fantástico Mundo de Juan Orol,False,2013 (55th) | Roberto Sosa ‡ | El Fantástico Mundo de Juan Orol | [ 62 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2013,Entre la Noche y el Día,,False,Francisco Cruz | Entre la Noche y el Día,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2013,Despues de Lucía,,False,Hernán Mendoza | Despues de Lucía,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2013,La Demora,,False,Carlos Vallarino | La Demora,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2014,Brandon López,La Jaula de Oro,False,2014 (56th) | Brandon López ‡ | La Jaula de Oro | [ 63 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2014,Heli,,False,Armando Espitia | Heli,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2014,Nosotros Los Nobles,,False,Luis Gerardo Méndez | Nosotros Los Nobles,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2014,Workers,,False,Jesús Padilla | Workers,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2014,La cebra,,False,Harold Torres | La cebra,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2015,Juan Manuel Bernal,Obediencia Perfecta,False,2015 (57th) | Juan Manuel Bernal ‡ | Obediencia Perfecta | [ 64 ] [ 65 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2015,"Guten Tag, Ramón",,False,"Kristyan Ferrer | Guten Tag, Ramón",https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2015,Güeros,,False,Tenoch Huerta | Güeros,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2015,Cantinflas,,False,Óscar Jaenada | Cantinflas,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2015,González,,False,Harold Torres | González,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2016,Marco Pérez,Gloria,False,2016 (58th) | Marco Pérez ‡ | Gloria | [ 66 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2016,La Delgada Línea Amarilla,,False,Damián Alcázar | La Delgada Línea Amarilla,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2016,600 Millas,,False,Kristyan Ferrer | 600 Millas,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2016,Mexican Gangster: La Leyenda del Charro Misterioso,,False,Tenoch Huerta | Mexican Gangster: La Leyenda del Charro Misterioso,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2016,600 Millas,,False,Tim Roth | 600 Millas,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2017,Adrián Ladrón,La 4ª Compañía,False,2017 (59th) | Adrián Ladrón ‡ | La 4ª Compañía | [ 67 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2017,Almacenados,,True,José Carlos Ruiz ‡ | Almacenados,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2017,Me Estás Matando Susana,,False,Gael García Bernal | Me Estás Matando Susana,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2017,Mr. Pig,,False,Danny Glover | Mr. Pig,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2017,Tenemos la Carne,,False,Noé Hernández | Tenemos la Carne,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2018,Eligio Meléndez,Sueño en Otro Idioma,False,2018 (60th) | Eligio Meléndez ‡ | Sueño en Otro Idioma | [ 68 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2018,El Vigilante,,False,Leonardo Alonso | El Vigilante,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2018,Oso Polar,,False,Humberto Busto | Oso Polar,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2018,Los Adioses,,False,Daniel Giménez Cacho | Los Adioses,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2018,Los Crímenes de Mar del Norte,,False,Gabino Rodríguez | Los Crímenes de Mar del Norte,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2019,Noé Hernández,Ocho de Cada Diez,False,2019 (61st) | Noé Hernández ‡ | Ocho de Cada Diez | [ 69 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2019,De la Infancia,,False,Damián Alcázar | De la Infancia,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2019,Mente Revólver,,False,Baltimore Beltrán | Mente Revólver,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2019,Museo,,False,Gael García Bernal | Museo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2019,Bayoneta,,False,Luis Gerardo Méndez | Bayoneta,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2020,Luis Alberti,Workforce,False,2020 (62nd) | Luis Alberti ‡ | Workforce (Mano de obra) | [ 70 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2020,Chicuarotes,,False,Benny Emmanuel | Chicuarotes,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2020,La Paloma y el Lobo,,False,Armando Hernández | La Paloma y el Lobo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2020,Esto no es Berlín,,False,Xabiani Ponce de León | Esto no es Berlín,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2020,Polvo,,False,José María Yazpik | Polvo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2021,Alfonso Herrera,El baile de los 41,False,2021 (63rd) | Alfonso Herrera ‡ | El baile de los 41 | [ 71 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2021,Te Llevo Conmigo,,False,Armando Espitia | Te Llevo Conmigo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2021,Danyka,,False,Demián Bichir | Danyka,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2021,Nuevo Orden,,False,Fernando Cuautle | Nuevo Orden,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2021,El club de los idealistas,,False,Juan Pablo Medina | El club de los idealistas,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2021,Fauna,,False,Gabino Rodríguez | Fauna,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2022,Raúl Briones,Una Película de Policías,False,2022 (64th) | Raúl Briones ‡ | Una Película de Policías | [ 72 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2022,El Diablo Entre las Piernas,,False,Alejandro Suárez | El Diablo Entre las Piernas,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2022,Cosas Imposibles,,False,Benny Emmanuel | Cosas Imposibles,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2022,Los Minutos Negros,,False,Leonardo Ortizgris | Los Minutos Negros,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2022,Nudo Mixteco,,False,Noé Hernández | Nudo Mixteco,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2023,Daniel Giménez Cacho,"Bardo, falsa crónica de unas cuantas verdades",False,"2023 (65th) | Daniel Giménez Cacho ‡ | Bardo, falsa crónica de unas cuantas verdades | [ 73 ]",https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2023,La civil,,False,Álvaro Guerrero | La civil,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2023,Finlandia,,False,Cuauhtlí Jiménez | Finlandia,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2023,La caja,,False,Hernán Mendoza | La caja,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2023,El Norte Sobre el Vacío,,False,Gerardo Trejoluna | El Norte Sobre el Vacío,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2024,Noé Hernández,Kokoloko,False,2024 (66th) | Noé Hernández ‡ | Kokoloko | [ 74 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2024,Recursos humanos,,False,Pedro de Tavira | Recursos humanos,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2024,Familia,,False,Daniel Giménez Cacho | Familia,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2024,Perdidos en la Noche,,False,Juan Daniel García Treviño | Perdidos en la Noche,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2024,Desparecer por completo,,False,Harold Torres | Desparecer por completo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2025,Raúl Briones,La Cocina,False,2025 (67th) | Raúl Briones | La Cocina | [ 75 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2025,Un Actor Malo,,False,Alfonso Dosal | Un Actor Malo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2025,Pedro Páramo,,False,Manuel García Rulfo | Pedro Páramo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2025,Vergüenza,,False,Juan Ramón López | Vergüenza,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+2025,Sujo,,False,Juan Jesús Varela | Sujo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+,Damián Alcázar,,False,5 | Damián Alcázar,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+,Arturo de Córdova,,False,3 | Arturo de Córdova,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+,Pedro Armendáriz,,False,2 | Pedro Armendáriz,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+,Damián Alcázar,,False,8 | Damián Alcázar,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+,Arturo de Córdova,,False,7 | Arturo de Córdova,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+,Pedro Armendáriz,,False,6 | Pedro Armendáriz,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+,Demián Bichir,,False,5 | Demián Bichir,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor
+,José Alonso,,False,4 | José Alonso,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actor

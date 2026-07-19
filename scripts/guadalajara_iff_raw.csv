@@ -1,0 +1,518 @@
+year,ceremony,category,nominee,film,won
+2000,Guadalajara IFF Awards,Premios Mayahuel - Mejor película,Salvador Aguirre,De ida y vuelta,1
+2001,Guadalajara IFF Awards,Premios Mayahuel - Mejor película,Gerardo Tort,De la calle,1
+2002,Guadalajara IFF Awards,Premios Mayahuel - Mejor película,Juan Carlos Martín,Gabriel Orozco,1
+2003,Guadalajara IFF Awards,Premios Mayahuel - Mejor película,"Marcela Arteaga & La pasión de María Elena, de Mercedes Moncada",Recuerdos,1
+2004,Guadalajara IFF Awards,Premios Mayahuel - Mejor película,Fernando Eimbcke,Temporada de patos,1
+2005,Guadalajara IFF Awards,Premios Mayahuel - Mejor película,Jaime Aparicio,El mago,1
+2006,Guadalajara IFF Awards,Premios Mayahuel - Mejor película,Maryse Sistach,La niña en la piedra,1
+2007,Guadalajara IFF Awards,Premios Mayahuel - Mejor película,Simón Bross,Malos hábitos,1
+2008,Guadalajara IFF Awards,Premios Mayahuel - Mejor película,Rodrigo Plá,Desierto adentro,1
+2009,Guadalajara IFF Awards,Premios Mayahuel - Mejor película,Gerardo Tort,Viaje redondo,1
+2010,Guadalajara IFF Awards,Premios Mayahuel - Mejor película,Nicolás Pereda,Perpetuum mobile,1
+2011,Guadalajara IFF Awards,Premios Mayahuel - Mejor película,Paula Markovitch,El premio,1
+2012,Guadalajara IFF Awards,Premios Mayahuel - Mejor película,Tom Gustafson,El mariachi gringo,1
+2000,Guadalajara IFF Awards,Premios Mayahuel - Mejor director,Benjamín Cann,Crónica de un desayuno,1
+2001,Guadalajara IFF Awards,Premios Mayahuel - Mejor filmmaker,Laura Mañá,Sexo por compasión,1
+2002,Guadalajara IFF Awards,Premios Mayahuel - Mejor filmmaker,Juan Carlos Martín,Gabriel Orozco,1
+2003,Guadalajara IFF Awards,Premios Mayahuel - Mejor director,Julián Hernández,"Mil nubes de paz cercan el cielo, amor, jamás acabarás de ser amor",1
+2004,Guadalajara IFF Awards,Premios Mayahuel - Mejor filmmaker,Fernando Eimbcke,Temporada de patos,1
+2005,Guadalajara IFF Awards,Premios Mayahuel - Mejor helmer,Ricardo Benet,Noticias lejanas,1
+2006,Guadalajara IFF Awards,Premios Mayahuel - Mejor director,Javier Patrón,Fuera del cielo,1
+2007,Guadalajara IFF Awards,Premios Mayahuel - Mejor helmer,Enrique Begne,Dos abrazos,1
+2008,Guadalajara IFF Awards,Premios Mayahuel - Mejor filmmaker,Fernando Eimbcke,Lake Tahoe,1
+2009,Guadalajara IFF Awards,Premios Mayahuel - Mejor filmmaker,Alberto Cortés,Corazón del tiempo,1
+2010,Guadalajara IFF Awards,Premios Mayahuel - Mejor filmmaker,Carlos Carrera,De la infancia,1
+2011,Guadalajara IFF Awards,Premios Mayahuel - Mejor director,Odin Salazar,Burros,1
+2012,Guadalajara IFF Awards,Premios Mayahuel - Mejor helmer,Everardo Gout,Días de gracia,1
+2000,Guadalajara IFF Awards,Premios Mayahuel - Mejor actor,Fernando Luján,En el país de no pasa nada,1
+2001,Guadalajara IFF Awards,Premios Mayahuel - Mejor actor,Luis Fernando Peña,De la calle,1
+2002,Guadalajara IFF Awards,Premios Mayahuel - Mejor actor,Bruno Bichir,Ciudades oscuras,1
+2003,Guadalajara IFF Awards,Premios Mayahuel - Mejor actor,Damián Alcázar,El crimen del padre Amaro,1
+2004,Guadalajara IFF Awards,Premios Mayahuel - Mejor actor,Enrique Arreola,"Temporada de patos & Roberto Espejo, por Puños rosas",1
+2005,Guadalajara IFF Awards,Premios Mayahuel - Mejor actor,Erando González,El mago,1
+2008,Guadalajara IFF Awards,Premios Mayahuel - Mejor actor,Mario Zaragoza,Desierto adentro,1
+2009,Guadalajara IFF Awards,Premios Mayahuel - Mejor actor,Patricio Castillo,Crónicas chilangas,1
+2010,Guadalajara IFF Awards,Premios Mayahuel - Mejor actor,Damián Alcázar,"De la infancia & Unax Ugalde, por Cefalópodo",1
+2011,Guadalajara IFF Awards,Premios Mayahuel - Mejor actor,Jesús Ochoa,Aquí entre nos,1
+2012,Guadalajara IFF Awards,Premios Mayahuel - Mejor actor,Kuno Becker,Espacio interior,1
+2000,Guadalajara IFF Awards,Premios Mayahuel - Mejor actriz,Julieta Egurrola,En el país de no pasa nada,1
+2001,Guadalajara IFF Awards,Premios Mayahuel - Mejor actriz,Karina Gidi,"Demasiado amor & Ximena Ayala, por Perfume de violetas",1
+2002,Guadalajara IFF Awards,Premios Mayahuel - Mejor actriz,Gabriela Canudas,La mujer del pueblo,1
+2003,Guadalajara IFF Awards,Premios Mayahuel - Mejor actriz,Katy Jurado,Un secreto de Esperanza,1
+2004,Guadalajara IFF Awards,Premios Mayahuel - Mejor actriz,Danny Perea,Temporada de patos,1
+2005,Guadalajara IFF Awards,Premios Mayahuel - Mejor actriz,Maya Zapata,El mago,1
+2008,Guadalajara IFF Awards,Premios Mayahuel - Mejor actriz,Dolores Heredia,"Enemigos íntimos, Conozca la cabeza de Juan Pérez y Desierto adentro",1
+2009,Guadalajara IFF Awards,Premios Mayahuel - Mejor actriz,Teresa Ruiz,Viaje redondo,1
+2010,Guadalajara IFF Awards,Premios Mayahuel - Mejor actriz,Úrsula Pruneda,Las buenas hierbas,1
+2011,Guadalajara IFF Awards,Premios Mayahuel - Mejor actriz,Paula Galinelli Hertzog,El premio,1
+2012,Guadalajara IFF Awards,Premios Mayahuel - Mejor actriz,Martha Higareda,El mariachi gringo,1
+2003,Guadalajara IFF Awards,Premios Mayahuel - Mejor guion,Carlos Reygadas,Japón,1
+2004,Guadalajara IFF Awards,Premios Mayahuel - Mejor guion,Fernando Eimbcke,Temporada de patos,1
+2005,Guadalajara IFF Awards,Premios Mayahuel - Mejor guion,Marcel Sisniega,El baile de la iguana,1
+2008,Guadalajara IFF Awards,Premios Mayahuel - Mejor guion,Rodrigo Plá y Laura Santullo,Desierto adentro,1
+2009,Guadalajara IFF Awards,Premios Mayahuel - Mejor guion,Carlos Enderle,Crónicas chilangas,1
+2010,Guadalajara IFF Awards,Premios Mayahuel - Mejor guion,María Novaro,Las buenas hierbas,1
+2011,Guadalajara IFF Awards,Premios Mayahuel - Mejor guion,Jesús Magaña,Abolición de la propiedad,1
+2012,Guadalajara IFF Awards,Premios Mayahuel - Mejor guion,Miguel Bonilla,Diente por diente,1
+2002,Guadalajara IFF Awards,Premios Mayahuel - Mejor fotografía,"Ángel Goded, El gavilán de la sierra","Ángel Goded, El gavilán de la sierra",1
+2003,Guadalajara IFF Awards,Premios Mayahuel - Mejor fotografía,Everardo González,La canción del pulque,1
+2004,Guadalajara IFF Awards,Premios Mayahuel - Mejor fotografía,Ciro Cabello y Alejandro Cantú,Adán y Eva,1
+2005,Guadalajara IFF Awards,Premios Mayahuel - Mejor fotografía,Martín Boege,Noticias lejanas,1
+2008,Guadalajara IFF Awards,Premios Mayahuel - Mejor fotografía,Serguei Saldívar Tanaka,Desierto adentro,1
+2009,Guadalajara IFF Awards,Premios Mayahuel - Mejor fotografía,Tobias Dantum,Voy a explotar,1
+2010,Guadalajara IFF Awards,Premios Mayahuel - Mejor fotografía,Gerardo Barroso,Las buenas hierbas,1
+2011,Guadalajara IFF Awards,Premios Mayahuel - Mejor fotografía,Alejandro Cantú,Burros,1
+2012,Guadalajara IFF Awards,Premios Mayahuel - Mejor fotografía,Jerónimo Rodríguez,Todo mundo tiene a alguien menos yo,1
+2002,Guadalajara IFF Awards,Premios Mayahuel - Mejor dirección artística,Gloria Carrasco,Cuentos de hadas para dormir cocodrilos,1
+2003,Guadalajara IFF Awards,Premios Mayahuel - Mejor dirección artística,Alejandro Reygadas,Japón,1
+2004,Guadalajara IFF Awards,Premios Mayahuel - Mejor dirección artística,Hania Robledo,Puños rosas,1
+2002,Guadalajara IFF Awards,Premios Mayahuel - Mejor música,Eduardo Gamboa,Ciudades oscuras,1
+2003,Guadalajara IFF Awards,Premios Mayahuel - Mejor música,Rosino Serrano,El crimen del padre Amaro,1
+2004,Guadalajara IFF Awards,Premios Mayahuel - Mejor música,Alejandro Rosso,Temporada de patos,1
+2002,Guadalajara IFF Awards,Premios Mayahuel - Mejor sonido,Antonio Isordia y Christian Manzuto,Gabriel Orozco,1
+2003,Guadalajara IFF Awards,Premios Mayahuel - Mejor sonido,Aurora Ojeda,"Mil nubes de paz cercan el cielo, amor, jamás acabarás de ser amor",1
+2004,Guadalajara IFF Awards,Premios Mayahuel - Mejor sonido,Lena Esquenazi,Temporada de patos,1
+2002,Guadalajara IFF Awards,Premios Mayahuel - Mejor edición,Roberto Bolado,Ciudades oscuras,1
+2003,Guadalajara IFF Awards,Premios Mayahuel - Mejor edición,Juan Manuel Figueroa,La canción del pulque,1
+2004,Guadalajara IFF Awards,Premios Mayahuel - Mejor edición,Daniel A. Fort,Un día sin mexicanos,1
+2004,Guadalajara IFF Awards,Premios Mayahuel - Mejor ópera prima,Iván Ávila Dueñas,Adán y Eva,1
+2006,Guadalajara IFF Awards,Premios Mayahuel - Mejor ópera prima,Andrés León Becker y Javier Solar,Más que a nada en el mundo,1
+2007,Guadalajara IFF Awards,Premios Mayahuel - Mejor ópera prima,Aarón Fernández,Partes usadas,1
+2008,Guadalajara IFF Awards,Premios Mayahuel - Mejor ópera prima,Emilio Portes,Conozca la cabeza de Juan Pérez,1
+2009,Guadalajara IFF Awards,Premios Mayahuel - Mejor ópera prima,Carlos Enderle,Crónicas chilangas,1
+2010,Guadalajara IFF Awards,Premios Mayahuel - Mejor ópera prima,Rubén Imaz,Cefalópodo,1
+2011,Guadalajara IFF Awards,Premios Mayahuel - Mejor ópera prima,Iria Gómez Concheiro,Asalto al cine,1
+2012,Guadalajara IFF Awards,Premios Mayahuel - Mejor ópera prima,Sebastián del Amo,El fantástico mundo de Juan Orol,1
+2007,Guadalajara IFF Awards,Premios Mezcal - Mejor película mexicana,Ernesto Contreras,Párpados azules,1
+2008,Guadalajara IFF Awards,Premios Mezcal - Mejor película mexicana,Rodrigo Plá,Desierto adentro,1
+2009,Guadalajara IFF Awards,Premios Mezcal - Mejor película mexicana,Gerardo Naranjo,Voy a explotar,1
+2010,Guadalajara IFF Awards,Premios Mezcal - Mejor película mexicana,María Novaro,Las buenas hierbas,1
+2011,Guadalajara IFF Awards,Premios Mezcal - Mejor película mexicana,"Paula MarkovitchMención especial: Burros, de Odín Salazar",El premio,1
+2012,Guadalajara IFF Awards,Premios Mezcal - Mejor película mexicana,Gabriel Mariño,Un mundo secreto,1
+2013,Guadalajara IFF Awards,Premios Mezcal - Mejor película mexicana,"Roberto FiescoMención especial: Afuera, en la oscuridad, de Michael Mayer",Quebranto,1
+2014,Guadalajara IFF Awards,Premios Mezcal - Mejor película mexicana,Nicolás Echevarría,Eco de la montaña,1
+2015,Guadalajara IFF Awards,Premios Mezcal - Mejor película mexicana,"Gabriel RipsteinMención especial: El tiempo suspendido, de Natalia Bruschtein & Shih, de Bruno Zaffora y Rafael Ortega Velderrain",600 millas,1
+2016,Guadalajara IFF Awards,Premios Mezcal - Mejor película mexicana,"Joaquín del PasoMención especial: Margarita, de Bruno Santamaría Razo",Maquinaria Panamericana,1
+2017,Guadalajara IFF Awards,Premios Mezcal - Mejor película mexicana,Everardo González,La libertad del diablo,1
+2018,Guadalajara IFF Awards,Premios Mezcal - Mejor película mexicana,Restos de viento de Jimena Montemayor Loyo,Restos de viento de Jimena Montemayor Loyo,1
+2019,Guadalajara IFF Awards,Premios Mezcal - Mejor película mexicana,"Familia de medianoche de Luke LorentzenMención especial: Oblatos, el vuelo que surcó la noche de Acelo Ruiz Villanueva","Familia de medianoche de Luke LorentzenMención especial: Oblatos, el vuelo que surcó la noche de Acelo Ruiz Villanueva",1
+2020,Guadalajara IFF Awards,Premios Mezcal - Mejor película mexicana,Kokoloko de Gerardo Naranjo,Kokoloko de Gerardo Naranjo,1
+2021,Guadalajara IFF Awards,Premios Mezcal - Mejor película mexicana,El comediante de Rodrigo Guardiola y Gabriel Nuncio,El comediante de Rodrigo Guardiola y Gabriel Nuncio,1
+2022,Guadalajara IFF Awards,Premios Mezcal - Mejor película mexicana,El reino de Dios de Claudia Sainte–Luce,El reino de Dios de Claudia Sainte–Luce,1
+2023,Guadalajara IFF Awards,Premios Mezcal - Mejor película mexicana,Heroico de David ZonanaMención especial: Una jauría llamada Ernesto de Everardo González,Heroico de David ZonanaMención especial: Una jauría llamada Ernesto de Everardo González,1
+2024,Guadalajara IFF Awards,Premios Mezcal - Mejor película mexicana,Pierre Saint-Martin,No nos moverán,1
+2025,Guadalajara IFF Awards,Premios Mezcal - Mejor película mexicana,Llamarse Olimpia de Indira Cato Mención especial: Boca vieja de Yovegami Ascona Mora,Llamarse Olimpia de Indira Cato Mención especial: Boca vieja de Yovegami Ascona Mora,1
+2017,Guadalajara IFF Awards,Premios Mezcal - Mejor dirección,Sofía Gómez Córdova,Los Años Azules,1
+2018,Guadalajara IFF Awards,Premios Mezcal - Mejor dirección,Jimena Montemayor Loyo,Restos de viento,1
+2019,Guadalajara IFF Awards,Premios Mezcal - Mejor dirección,Luke Lorentzen,Familia de medianoche,1
+2021,Guadalajara IFF Awards,Premios Mezcal - Mejor dirección,Antonio Hernández,Nos Hicieron Noche,1
+2022,Guadalajara IFF Awards,Premios Mezcal - Mejor dirección,Claudia Sainte–Luce,El reino de Dios,1
+2023,Guadalajara IFF Awards,Premios Mezcal - Mejor dirección,Gisela Delgadillo,Kenya,1
+2024,Guadalajara IFF Awards,Premios Mezcal - Mejor dirección,Isabel Cristina Fregoso,La arriera,1
+2025,Guadalajara IFF Awards,Premios Mezcal - Mejor dirección,Victoria Franco,Doce lunas,1
+2017,Guadalajara IFF Awards,Premios Mezcal - Mejor actor,José Manuel Poncelis y Eligio Meléndez,Sueño en otro idioma,1
+2018,Guadalajara IFF Awards,Premios Mezcal - Mejor actor,Noé Hernández,Ocho de cada diez,1
+2019,Guadalajara IFF Awards,Premios Mezcal - Mejor actor,Benny Emmanuel,Detrás de la montaña,1
+2020,Guadalajara IFF Awards,Premios Mezcal - Mejor actor,Alfredo Castro,Tengo miedo torero,1
+2021,Guadalajara IFF Awards,Premios Mezcal - Mejor actor,Fernando Xavier de Casta,Plaza Catedral,1
+2022,Guadalajara IFF Awards,Premios Mezcal - Mejor actor,Diego Armando Lara Lagunas,El reino de Dios,1
+2023,Guadalajara IFF Awards,Premios Mezcal - Mejor actor,Fernando Cuautle,Heroico,1
+2017,Guadalajara IFF Awards,Premios Mezcal - Mejor actriz,Paloma Domínguez,Los Años Azules,1
+2018,Guadalajara IFF Awards,Premios Mezcal - Mejor actriz,Daniela Schmidt,Ocho de cada diez,1
+2019,Guadalajara IFF Awards,Premios Mezcal - Mejor actriz,Diana Sedano,Yo Necesito Amor,1
+2020,Guadalajara IFF Awards,Premios Mezcal - Mejor actriz,Martha Reyes,Los lobos,1
+2021,Guadalajara IFF Awards,Premios Mezcal - Mejor actriz,Ilse Salas,Plaza Catedral,1
+2022,Guadalajara IFF Awards,Premios Mezcal - Mejor actriz,Marta Aura,Coraje,1
+2023,Guadalajara IFF Awards,Premios Mezcal - Mejor actriz,Rocío de la Mañana,Adolfo,1
+2024,Guadalajara IFF Awards,Premios Mezcal - Mejor interpretación,Juan Ramón López,Vergüenza,1
+2025,Guadalajara IFF Awards,Premios Mezcal - Mejor interpretación,Emiliano Zurita,"Autos, mota y rocanrol",1
+2017,Guadalajara IFF Awards,Premios Mezcal - Mejor fotografía,María Secco,La libertad del diablo,1
+2018,Guadalajara IFF Awards,Premios Mezcal - Mejor fotografía,César Gutiérrez Miranda,La negrada,1
+2019,Guadalajara IFF Awards,Premios Mezcal - Mejor fotografía,César Gutiérrez Miranda,Yo necesito amor,1
+2020,Guadalajara IFF Awards,Premios Mezcal - Mejor fotografía,Sofía Oggioni,Selva trágica,1
+2021,Guadalajara IFF Awards,Premios Mezcal - Mejor fotografía,María Secco,El comediante,1
+2022,Guadalajara IFF Awards,Premios Mezcal - Mejor fotografía,Carlos Correa,El reino de Dios,1
+2023,Guadalajara IFF Awards,Premios Mezcal - Mejor fotografía,Santiago Sánchez,Mujeres del alba,1
+2024,Guadalajara IFF Awards,Premios Mezcal - Mejor fotografía,María Sarasvati Hererra,La arriera,1
+2025,Guadalajara IFF Awards,Premios Mezcal - Mejor fotografía,Sergio Armstrong,Doce lunas,1
+2002,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor película,Luiz Fernando Carvalho,A la izquierda del padre,1
+2003,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor película,Pablo Trapero,El bonaerense,1
+2004,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor película,Icíar Bollaín,Te doy mis ojos,1
+2005,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor película,Sebastián Cordero,Crónicas,1
+2006,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor película,"Rodrigo Moreno & Cinema, aspirinas e Urubus, de Marcelo Gomes",El custodio,1
+2007,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor película,Ernesto Contreras,Párpados azules,1
+2008,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor película,"Gerardo Olivares Mención Especial del jurado: El camino, de Ishtar Yasin Gutiérrez",14 kilómetros,1
+2009,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor película,Claudia Llosa,La teta asustada,1
+2010,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor película,Carlos Gaviria,Retratos en un mar de mentiras,1
+2011,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor película,Pablo Larraín,Post mostem,1
+2012,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor película,Milagros Mumenthaler,Abrir puertas y ventanas,1
+2013,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor película,José Luis Valle González,Workers,1
+2014,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor película,Matías Lucchesi,Ciencias naturales,1
+2015,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor película,Jayro Bustamante,Ixcanul,1
+2016,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor película,Felipe Guerrero,Oscuro animal,1
+2017,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor película,Carlos Lechuga,Santa y Andrés,1
+2018,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor película,Matar a Jesús de Laura Mora Ortega,Matar a Jesús de Laura Mora Ortega,1
+2019,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor película,Petra de Jaime Rosales,Petra de Jaime Rosales,1
+2020,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor película,Araña de Andres Wood,Araña de Andres Wood,1
+2021,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor película,Claudia Huaiquimilla,Mis hermanos sueñan despiertos,1
+2022,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor película,Silvina Schnicer y Ulises Porras,Carajita,1
+2023,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor película,Valentina Maurel,Tengo sueños eléctricos,1
+2024,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor película,Carolina Markowicz,Pedágio,1
+2025,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor película,O último azul de Gabriel Mascaro,O último azul de Gabriel Mascaro,1
+2007,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Premio especial del jurado,Alice de Chico Teixeira,La casa de Alicia,1
+2008,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Premio especial del jurado,Luis Filipe Rocha,La otra orilla,1
+2009,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Premio especial del jurado,Miguel Gomes,Aquel querido mes de agosto,1
+2010,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Premio especial del jurado,Juan Carlos Valdivia,Zona sur,1
+2011,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Premio especial del jurado,Laura Amelia Guzmán e Israel Cárdenas,Jean Gentil,1
+2012,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Premio especial del jurado,Isaki Lacuesta,Los pasos dobles,1
+2013,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Premio especial del jurado,"Roberto Fiesco & Xingu, de Cao Hamburger",Quebranto,1
+2014,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Premio especial del jurado,Marcelo Gomes y Cao Guimarães,O Homem das Multidões,1
+2015,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Premio especial del jurado,Celso García,La delgada línea amarilla,1
+2016,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Premio especial del jurado,Amir Galván Cervera y Mitzi Vanessa Arreola,La 4ª Compañía,1
+2017,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Premio especial del jurado,José María Cabral,Carpinteros,1
+2018,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Premio especial del jurado,Jo Sol,Vivir y otras ficciones,1
+2019,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Premio especial del jurado,Lucía Garibaldi,Los tiburones,1
+2020,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Premio especial del jurado,Samuel Kishi,Los lobos,1
+2021,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Premio especial del jurado,No otorgado,No otorgado,1
+2022,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Premio especial del jurado,No otorgado,No otorgado,1
+2023,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Premio especial del jurado,Kattia González,Las hijas,1
+2002,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor dirección,Luiz Fernando Carvalho,A la izquierda del padre,1
+2003,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor dirección,Pablo Trapero,El bonaerense,1
+2004,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor dirección,Daniel Burman,El abrazo partido,1
+2006,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor dirección,Isabel Coixet,La vida secreta de las palabras,1
+2007,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor dirección,Paulo Caldas,Desierto feliz,1
+2008,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor dirección,Eliseo Subiela,No mires para abajo,1
+2009,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor dirección,Chus Gutiérrez,Retorno a Hansala,1
+2010,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor dirección,Sebastián Cordero,Rabia,1
+2011,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor dirección,Fernando León de Aranoa,Amador,1
+2012,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor dirección,Sebastián Cordero,Pescador,1
+2013,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor dirección,Fernando Coimbra,O lobo atrás da Porta,1
+2014,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor dirección,No otorgado,No otorgado,1
+2015,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor dirección,Jayro Bustamante,Ixcanul,1
+2016,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor dirección,Felipe Guerrero,Oscuro animal,1
+2017,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor dirección,Joel Calero,La última tarde,1
+2018,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor dirección,Anahí Berneri,Alanis,1
+2019,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor dirección,Jaime Rosales,Petra,1
+2020,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor dirección,Juan Pablo Félix,Karnawal,1
+2021,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor dirección,Nicolás Postiglione,Inmersión,1
+2022,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor dirección,Silvina Schnicer y Ulises Porras,Carajita,1
+2023,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor dirección,Estibaliz Urresola Solaguren,20.000 especies de abejas,1
+2024,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor dirección,Maju de Paiva y Bernando Florim,Avenida Beira-Mar,1
+2025,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor dirección,Eva Libertad,Sorda,1
+2005,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor actor,Damián Alcázar,Crónicas,1
+2006,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor actor,Joao Miguel,"Cinema, aspirinas e Urubus",1
+2007,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor actor,Selton Mello,Olor a caño,1
+2008,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor actor,Marlon Moreno,Perro come perro,1
+2009,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor actor,Andrés Parra,La pasión de Gabriel,1
+2010,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor actor,Gustavo Sánchez,"Rabia & Pascual Loayza, por Zona sur",1
+2011,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor actor,Alfredo Castro,Post mostem,1
+2012,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor actor,Andrés Crespo,Pescador,1
+2013,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor actor,Ernesto Alterio,Infancia clandestina,1
+2014,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor actor,Gustavo Sánchez Parra,La tirisia,1
+2015,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor actor,Joaquín Furriel,El patrón: radiografía de un crimen,1
+2016,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor actor,Adrián Ladrón,La 4ª Compañía,1
+2017,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor actor,Jean Jean,Carpinteros,1
+2018,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor actor,Luis Gerardo Méndez,Tiempo compartido & Giovanny Rodríguez por Matar a Jesús,1
+2019,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor actor,Dario Grandinetti,Rojo,1
+2020,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor actor,Luis Tosar de Interperie & Alfredo Castro de Karnawal,Luis Tosar de Interperie & Alfredo Castro de Karnawal,1
+2021,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor actor,Iván Cáceres,Mis hermanos sueñan despiertos,1
+2022,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor actor,Nahuel Pérez Biscayart,"Un año, una noche",1
+2023,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor actor,Reinaldo Amién,Tengo sueños eléctricos,1
+2005,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor actriz,Mirella Pascual,Whisky,1
+2006,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor actriz,Fernanda Montenegro y Fernanda Torres,Casa de arena,1
+2007,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor actriz,Carla Ribas,La casa de Alicia,1
+2008,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor actriz,María D'aires,La otra orilla,1
+2009,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor actriz,Magaly Solier,La teta asustada,1
+2010,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor actriz,Paola Baldión,"Retratos en un mar de mentiras & Alma Blanco, por La Yuma",1
+2011,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor actriz,Magaly Solier,"Amador Mención especial: Itziar Aizpuru, por 80 egunean",1
+2012,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor actriz,"Francisca Gavilán, en Violeta se fue a los cielos","Francisca Gavilán, en Violeta se fue a los cielos",1
+2013,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor actriz,Elenco femenino de Tercera llamada,Elenco femenino de Tercera llamada,1
+2014,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor actriz,Paula Hertzog y Paola Barrientos,Ciencias naturales,1
+2015,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor actriz,"Claudia Muñiz, Marianela Pupo y Maribel García Garzón",Venecia,1
+2016,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor actriz,"Marleyda Soto, Luisa Vides Galiano y Jocelyn Meneses",Oscuro animal,1
+2017,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor actriz,Lola Amores,Santa y Andrés,1
+2018,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor actriz,Sofía Gala Castiglione,Alanis,1
+2019,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor actriz,Romina Bentancur,Los tiburones & Bárbara Lennie por Petra,1
+2020,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor actriz,Greta Fernández,La hija de un ladrón,1
+2021,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor actriz,María Romanillos,Las consecuencias,1
+2022,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor actriz,Magnolia Núñez,Carajita,1
+2023,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor actriz,Beatriz Batarda,Great Yarmouth: Provisional Figures,1
+2024,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor interpretación,Maeve Jinkins,Pedágio,1
+2025,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor interpretación,Shirley Cruz,La mejor madre del mundo,1
+2005,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor guion,Sebastián Cordero,Crónicas,1
+2006,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor guion,Rodrigo Moreno,El custodio,1
+2007,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor guion,Carlos Contreras,Párpados azules,1
+2008,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor guion,Icíar Bollaín y Tatiana Rodríguez,Mataharis,1
+2009,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor guion,Chus Gutiérrez y Juan Carlos Rubio,Retorno a Hansala,1
+2010,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor guion,Juan Carlos Valdivia,Zona sur,1
+2011,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor guion,Héctor Olivera,El mural,1
+2012,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor guion,Jaime Osorio,El páramo,1
+2013,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor guion,Valentí Figueres,"El efecto k, el montador de Stalin",1
+2014,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor guion,Matías Lucchesi y Gonzálo Salaya,Ciencias naturales,1
+2015,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor guion,Celso García for La delgada línea amarilla,Celso García for La delgada línea amarilla,1
+2016,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor guion,Marina Seresesky,La puerta abierta,1
+2017,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor guion,Carlos Lechuga,Santa y Andrés,1
+2018,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor guion,Martín Boulocq,Eugenia,1
+2019,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor guion,Lucía Garibaldi,Los tiburones,1
+2020,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor guion,Diego y Daniel Vega Vidal,La bronca,1
+2021,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor guion,Claudia Huaiquimilla y Pablo Greene,Mis hermanos sueñan despiertos,1
+2022,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor guion,Alejandro Loayza Grisi,Utama,1
+2023,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor guion,Ricardo Adolfo y Marco Martins,Great Yarmouth: Provisional Figures,1
+2024,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor guion,Fernando del Razo y Santiago Lozando Álvares,Yo vi tres luces negras,1
+2025,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor guion,Anna Muylaert,La mejor madre del mundo,1
+2005,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor fotografía,Miguel Joan Littin,La última luna,1
+2006,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor fotografía,Willi Bhenish,Cuatro mujeres descalzas,1
+2007,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor fotografía,Daniel Aranyó,La distancia,1
+2008,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor fotografía,Pedro Farkas,Los desafinados,1
+2009,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor fotografía,Álex Catalán,Camino,1
+2010,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor fotografía,Enrique Chediak,Rabia & Mauro Pinheiro Jr. por Os Famosos E Os Duendes da Morte,1
+2011,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor fotografía,Sergio Armstrong,Post mostem,1
+2012,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor fotografía,Mauro Pinheiro Jr,Sudoeste,1
+2013,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor fotografía,Kiko de la Rica,Blancanieves,1
+2014,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor fotografía,Ivo Lopes Araújo,O Homem das Multidões,1
+2015,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor fotografía,Juan Carlos Gil,¡Que viva la música!,1
+2016,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor fotografía,Fernando Lockett,Oscuro animal,1
+2017,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor fotografía,Daniela Cajías,Las dos Irenes,1
+2018,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor fotografía,Óscar Catacora,Wiñaypacha,1
+2019,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor fotografía,Luis Armando Arteaga,Temblores,1
+2020,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor fotografía,Nicolas Wong,La llorona,1
+2021,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor fotografía,Sergio Armstrong,Inmersión,1
+2022,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor fotografía,Iván Gierasinchuk y Sergio Amstrong,Carajita,1
+2023,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor fotografía,No otorgado,No otorgado,1
+2024,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor fotografía,Juan Velázquez,Yo vi tres luces negras,1
+2025,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor fotografía,Lílis Soares,La mejor madre del mundo,1
+2004,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor ópera prima,Sergio Arau,Un día sin mexicanos,1
+2005,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor ópera prima,Vera Fogwill y Martín Desalvo,Las mantenidas sin sueños,1
+2006,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor ópera prima,Martín Boulocq,Lo más bonito y mis mejores años,1
+2007,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor ópera prima,Javier Rebollo,Lo que sé de Lola,1
+2008,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor ópera prima,César Charlone y Enrique Fernández,El baño del Papa,1
+2009,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor ópera prima,Gerardo Naranjo,Voy a explotar,1
+2010,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor ópera prima,Florence Jaugey,La Yuma,1
+2011,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor ópera prima,Sergio Teubal,El Dedo,1
+2012,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor ópera prima,Eryk Rocha,Transeúnte,1
+2013,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor ópera prima,Ana Guevara y Leticia Jorge,Tanta agua,1
+2014,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor ópera prima,Damian John Harper,Los Ángeles,1
+2015,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor ópera prima,Sebastián Schindel,El patrón: radiografía de un crimen,1
+2016,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor ópera prima,Ángel Manuel Soto,La granja,1
+2017,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor ópera prima,Fabio Meira,Las dos Irenes,1
+2018,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor ópera prima,Óscar Catacora,Wiñaypacha,1
+2019,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor ópera prima,Arantxa Echevarría,Carmen y Lola,1
+2020,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor ópera prima,Luis Alejandro Pérez García,Piola,1
+2021,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor ópera prima,Nicolás Postiglione,Inmersión,1
+2022,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor ópera prima,Alejandro Loayza Grisi,Utama,1
+2023,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor ópera prima,Estibaliz Urresola Solaguren,20.000 especies de abejas,1
+2024,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor ópera prima,Marcos Díaz-Sosa,Fenómenos naturales,1
+2025,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mejor ópera prima,Molt Lluny de Gerard Oms,Molt Lluny de Gerard Oms,1
+2014,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mención especial,Tito Molina,Silencio en la tierra de los sueños,1
+2009,Guadalajara IFF Awards,Largometraje Iberoamericano de Ficción - Mención especial sonido,"Aquel querido mes de agosto, para Vasco Pimentel","Aquel querido mes de agosto, para Vasco Pimentel",1
+2004,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mejor documental iberoamericano,"Julio Medem & De niños, de Joaquim Jordá",La pelota vasca,1
+2005,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mejor documental iberoamericano,"Mercedes Moncada & Soy cuba o el mamut siberian, de Vicente Ferraz",El inmortal,1
+2006,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mejor documental iberoamericano,Juan Carlos Rulfo,En el hoyo,1
+2007,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mejor documental iberoamericano,Cao Guimarães y Pablo Lobato,Accidente,1
+2008,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mejor documental iberoamericano,Gonzalo Arijón,Vengo de un avión que cayó en las montañas,1
+2009,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mejor documental iberoamericano,Alejo Hoijman,Unidad 25,1
+2010,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mejor documental iberoamericano,Luciana Burlamaqui,Entre la luz y la sombra,1
+2011,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mejor documental iberoamericano,Patricio Guzmán,Nostalgia de la luz,1
+2012,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mejor documental iberoamericano,Viktor Kossakovski,¡Vivan las antípodas!,1
+2013,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mejor documental iberoamericano,Ignacio Agüero,El otra día,1
+2014,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mejor documental iberoamericano,Catalina Vergara y Cristian Soto,La última estación,1
+2015,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mejor documental iberoamericano,Maite Alberdi,La once,1
+2016,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mejor documental iberoamericano,José Villalobos Romero,El charro de Toluquilla,1
+2017,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mejor documental iberoamericano,Everardo González,La libertad del diablo,1
+2018,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mejor documental iberoamericano,La línea de la sombra de Nicolás Combarro,La línea de la sombra de Nicolás Combarro,1
+2019,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mejor documental iberoamericano,Cine Moroccos de Ricardo Calil,Cine Moroccos de Ricardo Calil,1
+2020,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mejor documental iberoamericano,El canto de las mariposas de Núria Frigola,El canto de las mariposas de Núria Frigola,1
+2021,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mejor documental iberoamericano,Francina Carbonell,El cielo está rojo,1
+2022,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mejor documental iberoamericano,Clare Weiskopf y Nicolás Van Hemelryck,Alis,1
+2023,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mejor documental iberoamericano,Vinícius Girnys,Samuel y luz,1
+2025,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mejor documental iberoamericano,Tardes de soledad de Albert Serra,Tardes de soledad de Albert Serra,1
+2013,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mención especial,Petra Costa,Elena,1
+2014,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mención especial,Nicolás Echevarría,Eco de la montaña,1
+2015,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mención especial,Karina García Casanova,Juanicas,1
+2016,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mención especial,Jorge Caballero,Paciente,1
+2017,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mención especial,Lissette Orozco,El pacto de Adriana,1
+2018,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mención especial,El espanto de Pablo Aparo y Martín Bechimol,El espanto de Pablo Aparo y Martín Bechimol,1
+2021,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mención especial,Tatiana Fernández Geara,Vals de Santo Domingo,1
+2022,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mención especial,Iván Mora Manzano,La playa de los enchaquirados,1
+2023,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mención especial,No otorgado,No otorgado,1
+2007,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mejor documental mexicano,Everardo González,Los ladrones viejos,1
+2008,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mejor documental mexicano,Christiane Bukhard,Trazando Aleida,1
+2009,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mejor documental mexicano,Carlos Hagerman y Juan Carlos Rulfo,Los que se quedan,1
+2010,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mejor documental mexicano,Roberto Hernández y Geoffrey Smith,Presunto culpable,1
+2011,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mejor documental mexicano,Jacaranda Correa,Morir de pie,1
+2012,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mejor documental mexicano,Everardo González,Cuates de Australia,1
+2021,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mejor dirección,Luiz Bolognesi,A Última Floresta,1
+2022,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mejor dirección,Marc Sempere-Moya y Leire Apellaniz López,Canto cósmico. Niño de elche,1
+2023,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mejor dirección,Pau Faus,Fauna,1
+2025,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mejor dirección,Misha Vallejo Prut,Eco de Luz,1
+2021,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mejor fotografía,Eryk Rocha y Jorge Chechile,Edna,1
+2022,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mejor fotografía,Víctor Mares,Para su tranquilidad haga su propio museo,1
+2023,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mejor fotografía,Nico Miranda y Fernando Lorenzale,El castillo,1
+2025,Guadalajara IFF Awards,Largometraje Iberoamericano Documental - Mejor fotografía,"Oriol Barcelona, Nauzet Gaspar, Àlvar Riu, Diego Trenas y Arnau Valls Colomer",La guitarra flamenca de Yerai Cortés,1
+1996,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mejor cortometraje mexicano,Rodrigo Plá,Novia mía,1
+1997,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mejor cortometraje mexicano,Diego Muñoz,Rastros,1
+1998,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mejor cortometraje mexicano,René Castillo y Antonio Urrutia,Sin sostén,1
+1999,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mejor cortometraje mexicano,Ernestro Contreras,Ondas hertzianas,1
+2000,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mejor cortometraje mexicano,Ernestro Contreras,El milagro,1
+2001,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mejor cortometraje mexicano,René Castillo,Hasta los huesos,1
+2002,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mejor cortometraje mexicano,"Patricia Riggen & ¿Y cómo es el?, de Issa García Ascot",La milpa,1
+2003,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mejor cortometraje mexicano,Jorge Fons,La cumbre,1
+2004,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mejor cortometraje mexicano,Diana Cardozo,La luna de Antonio,1
+2005,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mejor cortometraje mexicano,"Paola Chaurand & La cola entre las patas, de Carlos Sama",El viejo,1
+2006,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mejor cortometraje mexicano,Celso García,La leche y el agua,1
+2007,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mejor cortometraje mexicano,Hari,Tiene la tarde ojos,1
+2008,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mejor cortometraje mexicano,Alonso Ruizpalacios,Café Paraíso,1
+2009,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mejor cortometraje mexicano,Alejandro Cachoúa,El tío Facundo,1
+2010,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mejor cortometraje mexicano,Isabel Muñoz Cota,Si maneja de noche procure ir acompañado,1
+2011,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mejor cortometraje mexicano,Samuel Kishi Leopo,Mari Pepa,1
+2012,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mejor cortometraje mexicano,Mónica Herrera,Lucy vs. Los limites de la voz,1
+2003,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mejor cortometraje iberoamericano,Daniel Henríquez,Los tripulantes,1
+2004,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mejor cortometraje iberoamericano,Daniel Guzmán,Sueños,1
+2005,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mejor cortometraje iberoamericano,No otorgado,No otorgado,1
+2006,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mejor cortometraje iberoamericano,Asier Altuna,Sarean,1
+2007,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mejor cortometraje iberoamericano,Fellipe Gamarano Barbosa,Beijo de sal,1
+2008,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mejor cortometraje iberoamericano,Eivind Holmboe,Diente por ojo,1
+2009,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mejor cortometraje iberoamericano,Marcelo Martinessi,Karai Norte,1
+2010,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mejor cortometraje iberoamericano,Cristina Escoda,Alijuna,1
+2011,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mejor cortometraje iberoamericano,Ricardo Targino,Ensolarado,1
+2012,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mejor cortometraje iberoamericano,Frank Benítez,Minutos 200,1
+2013,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mejor cortometraje iberoamericano,Quico Meirelles,La gallina que burló al sistema,1
+2014,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mejor cortometraje iberoamericano,Leonardo Díaz,Nunca regreses,1
+2015,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mejor cortometraje iberoamericano,Pedro Harres,Castillo y el Armado,1
+2016,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mejor cortometraje iberoamericano,"Miguel de Olaso, Bruno Zacarías",Los Ángeles 1991,1
+2017,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mejor cortometraje iberoamericano,Francesca Canepa Sarmiento,Aya,1
+2018,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mejor cortometraje iberoamericano,El escarabajo al final de la calle de Joan Vives,El escarabajo al final de la calle de Joan Vives,1
+2019,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mejor cortometraje iberoamericano,Bodas de oro de Lorenzo Tocco,Bodas de oro de Lorenzo Tocco,1
+2020,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mejor cortometraje iberoamericano,La Medallita de Martín Aletta,La Medallita de Martín Aletta,1
+2021,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mejor cortometraje iberoamericano,Iker Esteibarlanda,Before I Die,1
+2022,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mejor cortometraje iberoamericano,Joâo Borges,"Adeus, Calon",1
+2023,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mejor cortometraje iberoamericano,Ary Zara,An Avocado Pit,1
+2024,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mejor cortometraje iberoamericano,Sebastian Molina Ruiz,A Rosa Nasce Nas Pedras,1
+2014,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mención honorífica,Pablo Andrés Orta Zamora,Zafo,1
+2015,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mención honorífica,Roberto Fiesco,Trémulo,1
+2016,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mención honorífica,Omar Deneb Juárez Vargas,El ocaso de Juan,1
+2017,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mención honorífica,Katia Lara Pineda,Lucha de Eddie Rubio y Berta Vive,1
+2019,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mención honorífica,Kyoko de Marcos Cabotá y Joan Bover,Kyoko de Marcos Cabotá y Joan Bover,1
+2020,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mención honorífica,Lunas de marte de David Desola,Lunas de marte de David Desola,1
+2021,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mención honorífica,Manchester Acatitla de Selma Cervantes,Manchester Acatitla de Selma Cervantes,1
+2007,Guadalajara IFF Awards,Cortometraje Iberoamericano - Premio Rigo Mora al mejor cortometraje de animación,Emilio Ramos,Niebla,1
+2008,Guadalajara IFF Awards,Cortometraje Iberoamericano - Premio Rigo Mora al mejor cortometraje de animación,Karla Castañeda,Jacinta,1
+2009,Guadalajara IFF Awards,Cortometraje Iberoamericano - Premio Rigo Mora al mejor cortometraje de animación,Juan José Medina,Jaulas,1
+2010,Guadalajara IFF Awards,Cortometraje Iberoamericano - Premio Rigo Mora al mejor cortometraje de animación,Raúl Cárdenas y Rafael Cárdenas,Luna,1
+2011,Guadalajara IFF Awards,Cortometraje Iberoamericano - Premio Rigo Mora al mejor cortometraje de animación,León Fernández,Mutatio,1
+2012,Guadalajara IFF Awards,Cortometraje Iberoamericano - Premio Rigo Mora al mejor cortometraje de animación,Lorenza Manrique,Un ojo,1
+2013,Guadalajara IFF Awards,Cortometraje Iberoamericano - Premio Rigo Mora al mejor cortometraje de animación,Erik de Luna,Electrodoméstico,1
+2014,Guadalajara IFF Awards,Cortometraje Iberoamericano - Premio Rigo Mora al mejor cortometraje de animación,Pablo Ángeles,El modelo de Pickman,1
+2015,Guadalajara IFF Awards,Cortometraje Iberoamericano - Premio Rigo Mora al mejor cortometraje de animación,Juan José Medina y Rita Basulto,Zimbo,1
+2016,Guadalajara IFF Awards,Cortometraje Iberoamericano - Premio Rigo Mora al mejor cortometraje de animación,Alejandro Ríos,Los gatos,1
+2017,Guadalajara IFF Awards,Cortometraje Iberoamericano - Premio Rigo Mora al mejor cortometraje de animación,Sofía Carrillo,Cerulia,1
+2018,Guadalajara IFF Awards,Cortometraje Iberoamericano - Premio Rigo Mora al mejor cortometraje de animación,32-Rbit de Victor Orozco Ramírez,32-Rbit de Victor Orozco Ramírez,1
+2019,Guadalajara IFF Awards,Cortometraje Iberoamericano - Premio Rigo Mora al mejor cortometraje de animación,Guaxuma de Nara Normande,Guaxuma de Nara Normande,1
+2020,Guadalajara IFF Awards,Cortometraje Iberoamericano - Premio Rigo Mora al mejor cortometraje de animación,The Physics of Sorrow de Theodore Ushev,The Physics of Sorrow de Theodore Ushev,1
+2021,Guadalajara IFF Awards,Cortometraje Iberoamericano - Premio Rigo Mora al mejor cortometraje de animación,Hugo Covarrubias,Bestia,1
+2022,Guadalajara IFF Awards,Cortometraje Iberoamericano - Premio Rigo Mora al mejor cortometraje de animación,Joâo Gonzalez,Ice Merchants,1
+2023,Guadalajara IFF Awards,Cortometraje Iberoamericano - Premio Rigo Mora al mejor cortometraje de animación,Patricio Plaza,Carne de Dios,1
+2007,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mención honorífica,"Juan Carlos Villamizar ; Lapsus, de Juan Pablo Zaramella & El viaje de Said, de Coke Riobóo",Juanito bajo el naranjo,1
+2014,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mención honorífica,Vanessa Quintanilla,La última cena,1
+2020,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mención honorífica,Carne de Camila Kater,Carne de Camila Kater,1
+2021,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mención honorífica,Špela Čadež,Steakhouse,1
+2022,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mención honorífica,"Jonatan Schwenk & My love affair with marriage, de Signe Baumane",Zoon,1
+2023,Guadalajara IFF Awards,Cortometraje Iberoamericano - Mención honorífica,Jared Hess y Jerusha Hess,Ninety-five Senses,1
+2014,Guadalajara IFF Awards,Premio Maguey - Mejor película,Xavier Dolan,Tom à la ferme,1
+2015,Guadalajara IFF Awards,Premio Maguey - Mejor película,Ester Martin Bergsmark,Something Must Break,1
+2016,Guadalajara IFF Awards,Premio Maguey - Mejor película,"Oliver Ducastel, Jacques Martineau",Théo et Hugo dans le même bateu,1
+2017,Guadalajara IFF Awards,Premio Maguey - Mejor película,Corpo Elétrico de Marcelo Caetano,Corpo Elétrico de Marcelo Caetano,1
+2018,Guadalajara IFF Awards,Premio Maguey - Mejor película,Tinta Bruta de Filipe Matzembacher y Marcio Reolon,Tinta Bruta de Filipe Matzembacher y Marcio Reolon,1
+2019,Guadalajara IFF Awards,Premio Maguey - Mejor película,One Taxi Ride de Mak C.K,One Taxi Ride de Mak C.K,1
+2020,Guadalajara IFF Awards,Premio Maguey - Mejor película,Port Authority de Daniel Lessovitz,Port Authority de Daniel Lessovitz,1
+2021,Guadalajara IFF Awards,Premio Maguey - Mejor película,Isabelle Solas,Our Bodies are Your Battlefields,1
+2022,Guadalajara IFF Awards,Premio Maguey - Mejor película,Adrián Silvestre,Mi Vacío y yo,1
+2023,Guadalajara IFF Awards,Premio Maguey - Mejor película,Gisela Delgadillo,Kenya,1
+2024,Guadalajara IFF Awards,Premio Maguey - Mejor película,Carolina Marko,Pedágio,1
+2025,Guadalajara IFF Awards,Premio Maguey - Mejor película,Rohan Parashuram Kanawade,Sabar Bonda,1
+2015,Guadalajara IFF Awards,Premio Maguey - Mención especial,Filipe Matzembacher y Marcio Reolon,SeaShore,1
+2016,Guadalajara IFF Awards,Premio Maguey - Mención especial,Gabriel Mascaro,Boi Neon,1
+2017,Guadalajara IFF Awards,Premio Maguey - Mención especial,Carlos Lechuga,Santa y Andrés,1
+2019,Guadalajara IFF Awards,Premio Maguey - Mención especial,Memories of My Body de Garin Nugroho,Memories of My Body de Garin Nugroho,1
+2020,Guadalajara IFF Awards,Premio Maguey - Mención especial,No Hard Feelings de Faraz Shariat,No Hard Feelings de Faraz Shariat,1
+2021,Guadalajara IFF Awards,Premio Maguey - Mención especial,Alexa Bakony,Tobi Színei,1
+2022,Guadalajara IFF Awards,Premio Maguey - Mención especial,Inés Barrionuevo,Camila saldrá esta noche,1
+2023,Guadalajara IFF Awards,Premio Maguey - Mención especial,Tom Hardiman,Medusa Deluxe,1
+2024,Guadalajara IFF Awards,Premio Maguey - Mención especial,Maju de Paiva y Bernardo Florim),Avenida Beira-Mar,1
+2025,Guadalajara IFF Awards,Premio Maguey - Mención especial,Gerard Oms,Muy lejos,1
+2017,Guadalajara IFF Awards,Premio Maguey - Mejor interpretación,Jella Haase,Looping,1
+2018,Guadalajara IFF Awards,Premio Maguey - Mejor interpretación,Elliot Page,My Days of Mercy,1
+2019,Guadalajara IFF Awards,Premio Maguey - Mejor interpretación,Valerie Pachner,The Ground Beneath My Feet,1
+2020,Guadalajara IFF Awards,Premio Maguey - Mejor interpretación,Alfredo Castro,Tengo miedo torero,1
+2021,Guadalajara IFF Awards,Premio Maguey - Mejor interpretación,Medusa,Lara Tremouroux,1
+2022,Guadalajara IFF Awards,Premio Maguey - Mejor interpretación,Todo el ensamble de Beautiful Beings,Todo el ensamble de Beautiful Beings,1
+2023,Guadalajara IFF Awards,Premio Maguey - Mejor interpretación,Todo el ensamble de 20.000 especies de abejas,Todo el ensamble de 20.000 especies de abejas,1
+2025,Guadalajara IFF Awards,Premio Maguey - Mejor interpretación,Denise Weinberg,O último azul,1
+2004,Guadalajara IFF Awards,Premio Maguey - Premio del público,"Un Dia sin Mexicanos"" de Sergio Arau","Un Dia sin Mexicanos"" de Sergio Arau",1
+2018,Guadalajara IFF Awards,Premio Maguey - Premio del público,"Miss Rosewood"" de Helle Jansen","Miss Rosewood"" de Helle Jansen",1
+2019,Guadalajara IFF Awards,Largometraje Internacional de Animación - Mejor largometraje internacional de animación,Mirai no mirai de Mamoru Hosoda,Mirai no mirai de Mamoru Hosoda,1
+2020,Guadalajara IFF Awards,Largometraje Internacional de Animación - Mejor largometraje internacional de animación,Josep de Aurel,Josep de Aurel,1
+2021,Guadalajara IFF Awards,Largometraje Internacional de Animación - Mejor largometraje internacional de animación,Michaela Pavlátová,My Sunny Maad,1
+2022,Guadalajara IFF Awards,Largometraje Internacional de Animación - Mejor largometraje internacional de animación,José Miguel Ribeiro,Nayola,1
+2023,Guadalajara IFF Awards,Largometraje Internacional de Animación - Mejor largometraje internacional de animación,Sébastien Laudenbach y Chiara Malta,Chicken for Linda!,1
+2024,Guadalajara IFF Awards,Largometraje Internacional de Animación - Mejor largometraje internacional de animación,Gints Zilbalodis,Flow,1
+2025,Guadalajara IFF Awards,Largometraje Internacional de Animación - Mejor largometraje internacional de animación,Tomás Pichardo Espaillat,Olivia & las nubes,1
+2020,Guadalajara IFF Awards,Largometraje Internacional de Animación - Mención especial,El gran cuento de los osos de Lorenzo Mattotti,El gran cuento de los osos de Lorenzo Mattotti,1
+2021,Guadalajara IFF Awards,Largometraje Internacional de Animación - Mención especial,César Cabral,Bob Cuspe - Nós Não Gostamos de Gente,1
+2022,Guadalajara IFF Awards,Largometraje Internacional de Animación - Mención especial,No otorgado,No otorgado,1
+2023,Guadalajara IFF Awards,Largometraje Internacional de Animación - Mención especial,Alain Ughetto,No Dogs or Italians Allowed,1
+2025,Guadalajara IFF Awards,Largometraje Internacional de Animación - Mención especial,Endless cookie de Seth Scriver y Peter Scriver,Endless cookie de Seth Scriver y Peter Scriver,1
+2020,Guadalajara IFF Awards,Hecho en Jalisco - Mejor película,Samuel Kishi,Los lobos,1
+2021,Guadalajara IFF Awards,Hecho en Jalisco - Mejor película,Raúl López Echeverría,Domingo,1
+2022,Guadalajara IFF Awards,Hecho en Jalisco - Mejor película,Carlos Matsuo y Cristian Franco,Escocia no es un banco,1
+2023,Guadalajara IFF Awards,Hecho en Jalisco - Mejor película,Lorena Padilla,Martínez,1
+2024,Guadalajara IFF Awards,Hecho en Jalisco - Mejor película,Urzula Barba Hopfner,Corina,1
+2025,Guadalajara IFF Awards,Hecho en Jalisco - Mejor película,Diego Toussaint,"No, gracias, ya no fumo",1
+2021,Guadalajara IFF Awards,Hecho en Jalisco - Mención honorífica,Ofelia Medina,La Llevada y la Traída,1
+2022,Guadalajara IFF Awards,Hecho en Jalisco - Mención honorífica,No otorgado,No otorgado,1
+2023,Guadalajara IFF Awards,Hecho en Jalisco - Mención honorífica,Pablo Márquez,Un territorio sin nosotrxs,1
+2024,Guadalajara IFF Awards,Hecho en Jalisco - Mención honorífica,No otorgado,No otorgado,1
+2025,Guadalajara IFF Awards,Hecho en Jalisco - Mención honorífica,José Camacho Cabrera,Las hijas del viento,1
+2023,Guadalajara IFF Awards,Hecho en Jalisco - Mejor cortometraje,Gabriel Esdras,"Él, detrás del arma",1
+2024,Guadalajara IFF Awards,Hecho en Jalisco - Mejor cortometraje,Alexis Gómez,Bumbumpapá,1
+2025,Guadalajara IFF Awards,Hecho en Jalisco - Mejor cortometraje,Mar Novo,La mosca en la pared,1
+2021,Guadalajara IFF Awards,Premio Mezcal Joven - Mejor película,Carlos Alfonso Corral,Dirty Feathers,1
+2022,Guadalajara IFF Awards,Premio Mezcal Joven - Mejor película,Claudia Sainte-Luce,El reino de dios,1
+2023,Guadalajara IFF Awards,Premio Mezcal Joven - Mejor película,David Zonona,Heroico,1
+2021,Guadalajara IFF Awards,Premio Mezcal Joven - Mención especial,José Pablo Escamilla,Mostro,1
+2023,Guadalajara IFF Awards,Premio Mezcal Joven - Mención especial,Gisela Delgadillo,Kenya,1
+1991,Guadalajara IFF Awards,Premios especiales - Premio del público,Carlos Carrera,La mujer de Benjamín,1
+1992,Guadalajara IFF Awards,Premios especiales - Premio del público,Alfonso Arau,Como agua para chocolate,1
+1993,Guadalajara IFF Awards,Premios especiales - Premio del público,Guita Schyfter,Novia que te vea,1
+1994,Guadalajara IFF Awards,Premios especiales - Premio del público,Fernando Sariñana,Hasta morir,1
+1995,Guadalajara IFF Awards,Premios especiales - Premio del público,Jorge Fons,El callejón de los milagros,1
+1996,Guadalajara IFF Awards,Premios especiales - Premio del público,Sabina Berman e Isabel Tardan,Entre Pancho Villa y una mujer desnuda,1
+1997,Guadalajara IFF Awards,Premios especiales - Premio del público,Juan Antonio de la Riva,Elisa antes del fin del mundo,1
+1998,Guadalajara IFF Awards,Premios especiales - Premio del público,Jaime Humberto Hermosillo,"De noche vienes, Esmeralda",1
+1999,Guadalajara IFF Awards,Premios especiales - Premio del público,Antonio Serrano,"Sexo, pudor y lágrimas",1
+2000,Guadalajara IFF Awards,Premios especiales - Premio del público,Sergio Olhovich,En un claroscuro de luna,1
+2001,Guadalajara IFF Awards,Premios especiales - Premio del público,"María Novaro & Sexo por compasión, de Laura Mañá",Sin dejar huella,1
+2002,Guadalajara IFF Awards,Premios especiales - Premio del público,Beto Gómez,El sueño del caimán,1
+2003,Guadalajara IFF Awards,Premios especiales - Premio del público,Carlos Sama,Sin ton ni Sonia,1
+2004,Guadalajara IFF Awards,Premios especiales - Premio del público,"Sergio Arau & Te doy mis ojos, de Icíar Bollaín",Un día sin mexicanos,1
+2005,Guadalajara IFF Awards,Premios especiales - Premio del público,Agustín Oso Tapia,Club eutanasia,1
+2007,Guadalajara IFF Awards,Premios especiales - Premio del público,"Pancho Rodríguez, Héctor Rodríguez y Rodolfo Guzmán","De Ángeles, flores y fuentes",1
+2008,Guadalajara IFF Awards,Premios especiales - Premio del público,Rodrigo Plá,Desierto adentro,1
+2011,Guadalajara IFF Awards,Premios especiales - Premio del público,"Jorge Ramírez Suárez, Javier Colinas, Marco Polo Constandse y Sergio Tovar",Los inadaptados,1
+2016,Guadalajara IFF Awards,Premios especiales - Premio del público,José Villalobos Romero,El charro de Toluquilla,1
+2017,Guadalajara IFF Awards,Premios especiales - Premio del público,José Ramón Chávez Delgado,Ayúdame a Pasar la Noche,1
+2018,Guadalajara IFF Awards,Premios especiales - Premio del público,Enrique García Meza,"Ayotzinapa, el paso de la tortuga",1
+2019,Guadalajara IFF Awards,Premios especiales - Premio del público,"Oblatos, el vuelo que surcó la noche de Acelo Ruiz Villanueva","Oblatos, el vuelo que surcó la noche de Acelo Ruiz Villanueva",1
+2020,Guadalajara IFF Awards,Premios especiales - Premio del público,Los lobos de Samuel Kishi,Los lobos de Samuel Kishi,1
+2021,Guadalajara IFF Awards,Premios especiales - Premio del público,Raúl Ramón,Poderoso Victoria,1
+2022,Guadalajara IFF Awards,Premios especiales - Premio del público,Pablo Orta,Goya,1
+2023,Guadalajara IFF Awards,Premios especiales - Premio del público,Gisela Delgadillo,Kenya,1
+2022,Guadalajara IFF Awards,Premios especiales - Premio de Cine Socioambiental,Liesbeth de Ceulaer,Holgut,1
+2023,Guadalajara IFF Awards,Premios especiales - Premio de Cine Socioambiental,Paola Rodas,Ciudad a la espalda,1
+2024,Guadalajara IFF Awards,Premios especiales - Premio de Cine Socioambiental,"Daphne Matziaraki y Peter Murimi Menciones honoríficas: Salvaxe, Salvaxe, de Emilio Fonseca , y Tongo Saa, de Nelson Makengo",The battle for Laikipia,1
+1991,Guadalajara IFF Awards,Premios especiales - Premios de organizaciones,Nicolás Echevarría,Cabeza de Vaca,1
+1992,Guadalajara IFF Awards,Premios especiales - Premios de organizaciones,Dana Rotberg,Ángel de fuego,1
+1993,Guadalajara IFF Awards,Premios especiales - Premios de organizaciones,Guillermo del Toro,Cronos,1
+1994,Guadalajara IFF Awards,Premios especiales - Premios de organizaciones,Arturo Ripstein,Principio y fin,1
+2003,Guadalajara IFF Awards,Premios especiales - Sección infantil,Rosanna Manfredi,"Micaela, una película mágica",1

@@ -1,0 +1,208 @@
+year,film,person,is_winner,raw_text,source_url
+,Doe Ching,Les Belles,True,1962 ( 1st ) | Doe Ching | Les Belles | 千嬌百媚,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Li Han-hsiang,The Love Eterne,True,1963 ( 2nd ) | Li Han-hsiang | The Love Eterne | 梁山伯與祝英台,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Li Hsing,Beautiful Duckling,True,1965 ( 3rd ) | Li Hsing | Beautiful Duckling | 養鴨人家,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Li Han-hsiang,Hsi Shih: Beauty of Beauties,True,1966 ( 4th ) | Li Han-hsiang | Hsi Shih: Beauty of Beauties | 西施,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Lee Chia,Orchids and My Love,True,1967 ( 5th ) | Lee Chia | Orchids and My Love | 我女若蘭,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Pai Ching-jui,Lonely Seventeen,True,1968 ( 6th ) | Pai Ching-jui | Lonely Seventeen | 寂寞的十七歲,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Pai Ching-jui,The Bride and I,True,1969 ( 7th ) | Pai Ching-jui | The Bride and I | 新娘與我,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Chang Tseng-chai,From the Highway,True,1970 ( 8th ) | Chang Tseng-chai | From the Highway | 路客與刀客,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Ting Shan-hsi,The Ammunition Hunter,True,1971 ( 9th ) | Ting Shan-hsi | The Ammunition Hunter | 落鷹峽,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Li Hsing,Execution in Autumn,True,1972 ( 10th ) | Li Hsing | Execution in Autumn | 秋決,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Cheng Kang,The 14 Amazons,True,1973 ( 11th ) | Cheng Kang | The 14 Amazons | 十四女英豪,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Liu Yi,Long Way from Home,True,1975 ( 12th ) | Liu Yi | Long Way from Home | 長情萬縷,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Chang Pei-cheng,The Venturer,True,1976 ( 13th ) | Chang Pei-cheng | The Venturer | 狼牙口,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Chang Tseng-chai,Heroes in the Eastern Sky,True,1977 ( 14th ) | Chang Tseng-chai | Heroes in the Eastern Sky | 筧橋英烈傳,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Li Hsing,He Never Gives Up,True,1978 ( 15th ) | Li Hsing | He Never Gives Up | 汪洋中的一條船,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,The Diary of Di Di,蒂蒂日記,False,Chen Yao-chi | The Diary of Di Di | 蒂蒂日記,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,The Contract,賣身契,False,Michael Hui | The Contract | 賣身契,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,King Hu,Legend of the Mountain,True,1979 ( 16th ) | King Hu | Legend of the Mountain | 山中傳奇,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,The Story of a Small Town,小城故事,False,Li Hsing | The Story of a Small Town | 小城故事,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,A Special Smile,歡顏,False,Tu Chung-hsun | A Special Smile | 歡顏,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Wang Chu-chin,The Legend of the Six Dynasty,True,1980 ( 17th ) | Wang Chu-chin | The Legend of the Six Dynasty | 六朝怪談,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,The Secret,瘋劫,False,Ann Hui | The Secret | 瘋劫,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Magnificent 72,碧血黃花,False,Ting Shan-hsi | Magnificent 72 | 碧血黃花,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Tsui Hark,All the Wrong Clues for the Right Solution,True,1981 ( 18th ) | Tsui Hark | All the Wrong Clues for the Right Solution | 夜來香,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Tong Ban Tong Xue,同班同學,False,Lin Jing-jie | Tong Ban Tong Xue | 同班同學,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Love Massacre,愛殺,False,Patrick Tam | Love Massacre | 愛殺,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Alex Cheung,Man on the Brink,True,1982 ( 19th ) | Alex Cheung | Man on the Brink | 邊緣人,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,"The Green, Green Grass of Home",在那河畔青草青,False,"Hou Hsiao-hsien | The Green, Green Grass of Home | 在那河畔青草青",https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Life After Life,再生人,False,Peter Yung | Life After Life | 再生人,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Chen Kun-hou,Growing Up,True,1983 ( 20th ) | Chen Kun-hou | Growing Up | 小畢的故事,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,"Hong Kong, Hong Kong",男與女,False,"Choi Kai-kwong | Hong Kong, Hong Kong | 男與女",https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,"That Day, on the Beach",海灘的一天,False,"Edward Yang | That Day, on the Beach | 海灘的一天",https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Johnny Mak,Long Arm of the Law,True,1984 ( 21st ) | Johnny Mak | Long Arm of the Law | 省港旗兵,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Jade Love,玉卿嫂,False,Chang Yi | Jade Love | 玉卿嫂,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,The Boys from Fengkuei,風櫃來的人,False,Hou Hsiao-hsien | The Boys from Fengkuei | 風櫃來的人,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Chang Yi,"Kuei-Mei, a Woman",True,"1985 ( 22nd ) | Chang Yi | Kuei-Mei, a Woman | 我這樣過了一生",https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,His Matrimony,結婚,False,Chen Kun-hou | His Matrimony | 結婚,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,The Time to Live and the Time to Die,童年往事,False,Hou Hsiao-hsien | The Time to Live and the Time to Die | 童年往事,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,John Woo,A Better Tomorrow,True,1986 ( 23rd ) | John Woo | A Better Tomorrow | 英雄本色,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Passion,最愛,False,Sylvia Chang | Passion | 最愛,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,The Heroic Pioneers,唐山過台灣,False,Li Hsing | The Heroic Pioneers | 唐山過台灣,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Wang Toon,Strawman,True,1987 ( 24th ) | Wang Toon | Strawman | 稻草人,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Project A Part II,A計劃續集,False,Jackie Chan | Project A Part II | A計劃續集,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,An Autumn's Tale,流氓大亨,False,Mabel Cheung | An Autumn's Tale | 流氓大亨,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Alex Law,Painted Faces,True,1988 ( 25th ) | Alex Law | Painted Faces | 七小福,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Starry is the Night,今夜星光燦爛,False,Ann Hui | Starry is the Night | 今夜星光燦爛,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,As Tears Go By,熱血男兒,False,Wong Kar-wai | As Tears Go By | 熱血男兒,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Hou Hsiao-hsien,A City of Sadness,True,1989 ( 26th ) | Hou Hsiao-hsien | A City of Sadness | 悲情城市,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Full Moon in New York,三個女人的故事,False,Stanley Kwan | Full Moon in New York | 三個女人的故事,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,The Dull-Ice Flower,魯冰花,False,Yang Li-kuo | The Dull-Ice Flower | 魯冰花,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Yim Ho,Red Dust,True,1990 ( 27th ) | Yim Ho | Red Dust | 滾滾紅塵,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,"Farewell, China",愛在他鄉的季節,False,"Clara Law | Farewell, China | 愛在他鄉的季節",https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,The Story of a Gangster,刀瘟,False,Yeh Hung-wei | The Story of a Gangster | 刀瘟,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Wong Kar-wai,Days of Being Wild,True,1991 ( 28th ) | Wong Kar-wai | Days of Being Wild | 阿飛正傳,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Centre Stage,阮玲玉,False,Stanley Kwan | Centre Stage | 阮玲玉,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Pushing Hands,推手,False,Ang Lee | Pushing Hands | 推手,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,A Brighter Summer Day,牯嶺街少年殺人事件,False,Edward Yang | A Brighter Summer Day | 牯嶺街少年殺人事件,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Wang Toon,Hill of No Return,True,1992 ( 29th ) | Wang Toon | Hill of No Return | 無言的山丘,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,To Liv,浮世戀曲,False,Evans Chan | To Liv(e) | 浮世戀曲,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,The Noblest Way to Die,黃金稻田,False,Chou Tan | The Noblest Way to Die | 黃金稻田,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Rebels of the Neon God,青少年哪吒,False,Tsai Ming-liang | Rebels of the Neon God | 青少年哪吒,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Ang Lee,The Wedding Banquet,True,1993 ( 30th ) | Ang Lee | The Wedding Banquet | 喜宴,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Autumn Moon,秋月,False,Clara Law | Autumn Moon | 秋月,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Cageman,籠民,False,Jacob Cheung | Cageman | 籠民,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,"C'est la vie, mon chéri",新不了情,False,"Derek Yee | C'est la vie, mon chéri | 新不了情",https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Tsai Ming-liang,Vive L'Amour,True,1994 ( 31st ) | Tsai Ming-liang | Vive L'Amour | 愛情萬歲,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,"Red Rose, White Rose",紅玫瑰白玫瑰,False,"Stanley Kwan | Red Rose, White Rose | 紅玫瑰白玫瑰",https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Chungking Express,重慶森林,False,Wong Kar-wai | Chungking Express | 重慶森林,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,A Confucian Confusion,獨立時代,False,Edward Yang | A Confucian Confusion | 獨立時代,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Hou Hsiao-hsien,"Good Men, Good Women",True,"1995 ( 32nd ) | Hou Hsiao-hsien | Good Men, Good Women | 好男好女",https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Summer Snow,女人四十,False,Ann Hui | Summer Snow | 女人四十,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Tropical Fish,熱帶魚,False,Chen Yu-hsun | Tropical Fish | 熱帶魚,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Super Citizen Ko,超級大國民,False,Wan Jen | Super Citizen Ko | 超級大國民,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Jiang Wen,In the Heat of the Sun,True,1996 ( 33rd ) | Jiang Wen | In the Heat of the Sun | 阳光灿烂的日子,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Floating Life,浮生,False,Clara Law | Floating Life | 浮生,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Red Persimmon,紅柿子,False,Wang Toon | Red Persimmon | 紅柿子,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Viva Erotica,色情男女,False,"Derek Yee , Law Chi-leung | Viva Erotica | 色情男女",https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Fruit Chan,Made in Hong Kong,True,1997 ( 34th ) | Fruit Chan | Made in Hong Kong | 香港製造,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Happy Together,春光乍洩,False,Wong Kar-wai | Happy Together | 春光乍洩,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Wolves Cry Under the Moon,國道封閉,False,Ho Ping | Wolves Cry Under the Moon | 國道封閉,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,The Mad Phoenix,南海十三郎,False,Clifton Ko | The Mad Phoenix | 南海十三郎,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Joan Chen,Xiu Xiu: The Sent Down Girl,True,1998 ( 35th ) | Joan Chen | Xiu Xiu: The Sent Down Girl | 天浴,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Flowers of Shanghai,海上花,False,Hou Hsiao-hsien | Flowers of Shanghai | 海上花,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,The Personals,徵婚啟事,False,Chen Kuo-fu | The Personals | 徵婚啟事,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,City of Glass,玻璃之城,False,Mabel Cheung | City of Glass | 玻璃之城,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Ann Hui,Ordinary Heroes,True,1999 ( 36th ) | Ann Hui | Ordinary Heroes | 千言萬語,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Purple Storm,紫雨風暴,False,Teddy Chan | Purple Storm | 紫雨風暴,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Victim,目露兇光,False,Ringo Lam | Victim | 目露兇光,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Darkness and Light,黑暗之光,False,Chang Tso-chi | Darkness and Light | 黑暗之光,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Johnnie To,The Mission,True,2000 ( 37th ) | Johnnie To | The Mission | 鎗火,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,"Crouching Tiger, Hidden Dragon",臥虎藏龍,False,"Ang Lee | Crouching Tiger, Hidden Dragon | 臥虎藏龍",https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,In the Mood for Love,花樣年華,False,Wong Kar-wai | In the Mood for Love | 花樣年華,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Shadow Magic,西洋镜,False,Ann Hu | Shadow Magic | 西洋镜,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Stanley Kwan,Lan Yu,True,2001 ( 38th ) | Stanley Kwan | Lan Yu | 藍宇,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Durian Durian,榴槤飄飄,False,Fruit Chan | Durian Durian | 榴槤飄飄,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,What Time Is It There?,你那邊幾點,False,Tsai Ming-liang | What Time Is It There? | 你那邊幾點,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Beijing Bicycle,十七岁的单车,False,Wang Xiaoshuai | Beijing Bicycle | 十七岁的单车,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Fruit Chan,Hollywood Hong Kong,True,2002 ( 39th ) | Fruit Chan | Hollywood Hong Kong | 香港有個荷里活,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Three: Going Home,三更之回家,False,Peter Chan | Three: Going Home | 三更之回家,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,The Runaway Pistol,走火槍,False,Lam Wah-tsuen | The Runaway Pistol | 走火槍,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,The Best of Times,美麗時光,False,Chang Tso-chi | The Best of Times | 美麗時光,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,"Andrew Lau , Alan Mak",Infernal Affairs,True,"2003 ( 40th ) | Andrew Lau , Alan Mak | Infernal Affairs | 無間道",https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Men Suddenly in Black,大丈夫,False,Pang Ho-cheung | Men Suddenly in Black | 大丈夫,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,PTU,,False,Johnnie To | PTU,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,"Goodbye, Dragon Inn",不散,False,"Tsai Ming-liang | Goodbye, Dragon Inn | 不散",https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Johnnie To,Breaking News,True,2004 ( 41st ) | Johnnie To | Breaking News | 大事件,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Dumplings,餃子,False,Fruit Chan | Dumplings | 餃子,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,One Nite in Mongkok,旺角黑夜,False,Derek Yee | One Nite in Mongkok | 旺角黑夜,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Mountain Patrol: Kekexili,可可西里,False,Lu Chuan | Mountain Patrol: Kekexili | 可可西里,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Stephen Chow,Kung Fu Hustle,True,2005 ( 42nd ) | Stephen Chow | Kung Fu Hustle | 功夫,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Three Times,最好的時光,False,Hou Hsiao-hsien | Three Times | 最好的時光,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Election,黑社會,False,Johnnie To | Election | 黑社會,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,The Wayward Cloud,天邊一朵雲,False,Tsai Ming-liang | The Wayward Cloud | 天邊一朵雲,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Peter Chan,Perhaps Love,True,2006 ( 43rd ) | Peter Chan | Perhaps Love | 如果·愛,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Exiled,放‧逐,False,Johnnie To | Exiled | 放‧逐,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Silk,詭絲,False,Su Chao-pin | Silk | 詭絲,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Crazy Stone,疯狂的石头,False,Ning Hao | Crazy Stone | 疯狂的石头,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Ang Lee,"Lust, Caution",True,"2007 ( 44th ) | Ang Lee | Lust, Caution | 色，戒",https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Protégé,門徒,False,Derek Yee | Protégé | 門徒,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Eye in the Sky,跟蹤,False,Yau Nai-hoi | Eye in the Sky | 跟蹤,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,The Sun Also Rises,太阳照常升起,False,Jiang Wen | The Sun Also Rises | 太阳照常升起,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Peter Chan,The Warlords,True,2008 ( 45th ) | Peter Chan | The Warlords | 投名狀,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Run Papa Run,一個好爸爸,False,Sylvia Chang | Run Papa Run | 一個好爸爸,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Trivial Matters,破事儿,False,Pang Ho-cheung | Trivial Matters | 破事儿,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Cape No. 7,海角七號,False,Wei Te-sheng | Cape No. 7 | 海角七號,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Leon Dai,Cannot Live Without You,True,2009 ( 46th ) | Leon Dai | Cannot Live Without You | 不能没有你,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Like a Dream,如夢,False,Clara Law | Like a Dream | 如夢,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Face,臉,False,Tsai Ming-liang | Face | 臉,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Cow,斗牛,False,Guan Hu | Cow | 斗牛,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Chung Mong-hong,The Fourth Portrait,True,2010 ( 47th ) | Chung Mong-hong | The Fourth Portrait | 第四張畫,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Bodyguards and Assassins,十月圍城,False,Teddy Chan | Bodyguards and Assassins | 十月圍城,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Judge,透析,False,Liu Jie | Judge | 透析,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,When Love Comes,當愛來的時候,False,Chang Tso-chi | When Love Comes | 當愛來的時候,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Ann Hui,A Simple Life,True,2011 ( 48th ) | Ann Hui | A Simple Life | 桃姐,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Let the Bullets Fly,让子弹飞,False,Jiang Wen | Let the Bullets Fly | 让子弹飞,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Warriors of the Rainbow: Seediq Bale,賽德克·巴萊,False,Wei Te-sheng | Warriors of the Rainbow: Seediq Bale | 賽德克·巴萊,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,The Piano in a Factory,钢的琴,False,Zhang Meng | The Piano in a Factory | 钢的琴,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Johnnie To,Life Without Principle,True,2012 ( 49th ) | Johnnie To | Life Without Principle | 奪命金,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Mystery,浮城謎事,False,Lou Ye | Mystery | 浮城謎事,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,"Girlfriend, Boyfriend",女朋友。男朋友,False,"Yang Ya-che | Girlfriend, Boyfriend | 女朋友。男朋友",https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Beijing Blues,神探亨特张,False,Gao Qunshu | Beijing Blues | 神探亨特张,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Love,愛,False,Doze Niu | Love | 愛,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Tsai Ming-liang,Stray Dogs,True,2013 ( 50th ) | Tsai Ming-liang | Stray Dogs | 郊遊,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,A Touch of Sin,天注定,False,Jia Zhangke | A Touch of Sin | 天注定,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,The Grandmaster,一代宗师,False,Wong Kar-wai | The Grandmaster | 一代宗师,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Drug War,毒戰,False,Johnnie To | Drug War | 毒戰,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Soul,失魂,False,Chung Mong-hong | Soul | 失魂,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Ann Hui,The Golden Era,True,2014 ( 51st ) | Ann Hui | The Golden Era | 黄金时代,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Blind Massage,推拿,False,Lou Ye | Blind Massage | 推拿,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,"Black Coal, Thin Ice",白日焰火,False,"Diao Yinan | Black Coal, Thin Ice | 白日焰火",https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Ice Poison,冰毒,False,Midi Z | Ice Poison | 冰毒,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Red Amnesia,闯入者,False,Wang Xiaoshuai | Red Amnesia | 闯入者,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Hou Hsiao-hsien,The Assassin,True,2015 ( 52nd ) | Hou Hsiao-hsien | The Assassin | 刺客聶隱娘,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Mountains May Depart,山河故人,False,Jia Zhangke | Mountains May Depart | 山河故人,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Tharlo,塔洛,False,Pema Tseden | Tharlo | 塔洛,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,The Taking of Tiger Mountain,智取威虎山,False,Tsui Hark | The Taking of Tiger Mountain | 智取威虎山,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,"Thanatos, Drunk",醉.生夢死,False,"Chang Tso-chi | Thanatos, Drunk | 醉.生夢死",https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Feng Xiaogang,I Am Not Madame Bovary,True,2016 ( 53rd ) | Feng Xiaogang | I Am Not Madame Bovary | 我不是潘金莲,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Soul Mate,七月与安生,False,Derek Tsang | Soul Mate | 七月与安生,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Three,三人行,False,Johnnie To | Three | 三人行,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Godspeed,一路順風,False,Chung Mong-hong | Godspeed | 一路順風,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,The Road to Mandalay,再見瓦城,False,Midi Z | The Road to Mandalay | 再見瓦城,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Vivian Qu,Angels Wear White,True,2017 ( 54th ) | Vivian Qu | Angels Wear White | 嘉年华,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Free and Easy,轻松+愉快,False,Geng Jun | Free and Easy | 轻松+愉快,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Love Education,相愛相親,False,Sylvia Chang | Love Education | 相愛相親,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Our Time Will Come,明月幾時有,False,Ann Hui | Our Time Will Come | 明月幾時有,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,"The Bold, the Corrupt, and the Beautiful",血觀音,False,"Yang Ya-che | The Bold, the Corrupt, and the Beautiful | 血觀音",https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Zhang Yimou,Shadow,True,2018 ( 55th ) | Zhang Yimou | Shadow | 影,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,A Rain Cloud in the Sky,风中有朵雨做的云,False,Lou Ye | A Rain Cloud in the Sky | 风中有朵雨做的云,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Long Day's Journey into Night,地球最后的夜晚,False,Bi Gan | Long Day's Journey into Night | 地球最后的夜晚,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Jinpa,撞死了一只羊,False,Pema Tseden | Jinpa | 撞死了一只羊,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Hidden Man,邪不压正,False,Jiang Wen | Hidden Man | 邪不压正,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Chung Mong-hong,A Sun,True,2019 ( 56th ) | Chung Mong-hong | A Sun | 陽光普照,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Wet Season,熱帶雨,False,Anthony Chen | Wet Season | 熱帶雨,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,The Garden of Evening Mists,夕霧花園,False,Tom Lin Shu-yu | The Garden of Evening Mists | 夕霧花園,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Nina Wu,灼人秘密,False,Midi Z | Nina Wu | 灼人秘密,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Synapses,那個我最親愛的陌生人,False,Chang Tso-chi | Synapses | 那個我最親愛的陌生人,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Chen Yu-hsun,My Missing Valentine,True,2020 ( 57th ) | Chen Yu-hsun | My Missing Valentine | 消失的情人節 | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Days,日子,False,Tsai Ming-liang | Days | 日子,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Classmates Minus,同學麥娜絲,False,Huang Hsin-yao | Classmates Minus | 同學麥娜絲,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Dear Tenant,親愛的房客,False,Cheng Yu-chieh | Dear Tenant | 親愛的房客,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,The Abortionist,墮胎師,False,Fruit Chan | The Abortionist | 墮胎師,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Clara Law,Drifting Petals,True,2021 ( 58th ) | Clara Law | Drifting Petals | 花果飄零 | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,The Soul,緝魂,False,Cheng Wei-hao | The Soul | 緝魂,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,The Falls,瀑布,False,Chung Mong-hong | The Falls | 瀑布,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Drifting,濁水漂流,False,Jun Li | Drifting | 濁水漂流,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Terrorizers,青春弒戀,False,"Ho Wi-ding , Hu Chih-hsin | Terrorizers | 青春弒戀",https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Laha Mebow,Gaga,True,2022 ( 59th ) | Laha Mebow | Gaga | 哈勇家 | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Limbo,智齒,False,Cheang Pou-soi | Limbo | 智齒,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Incantation,咒,False,Kevin Ko | Incantation | 咒,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Flotsam and Jetsam,夏日天空的那匹紅馬,False,Chang Tso-chi | Flotsam and Jetsam | 夏日天空的那匹紅馬,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Coo-Coo 043,一家子兒咕咕叫,False,Chan Ching-lin | Coo-Coo 043 | 一家子兒咕咕叫,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Hsiao Ya-chuan,Old Fox,True,2023 ( 60th ) | Hsiao Ya-chuan | Old Fox | 老狐狸 | [ 1 ],https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Stonewalling,石門,False,"Huang Ji, Ryuji Otsuka | Stonewalling | 石門",https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Marry My Dead Body,關於我和鬼變成家人的那件事,False,Cheng Wei-hao | Marry My Dead Body | 關於我和鬼變成家人的那件事,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Snow in Midsummer,五月雪,False,Chong Keat Aun | Snow in Midsummer | 五月雪,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,"The Pig, The Snake and The Pigeon",周處除三害,False,"Wong Ching-po | The Pig, The Snake and The Pigeon | 周處除三害",https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Lou Ye,An Unfinished Film,True,2024 ( 61st ) | Lou Ye | An Unfinished Film | 一部未完成的電影 | [ 2 ],https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Bel Ami,漂亮朋友,False,Geng Jun | Bel Ami | 漂亮朋友,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Stranger Eyes,默視錄,False,Yeo Siew Hua | Stranger Eyes | 默視錄,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,All Shall Be Well,從今以後,False,Ray Yeung | All Shall Be Well | 從今以後,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Dead Talents Society,鬼才之道,False,John Hsu | Dead Talents Society | 鬼才之道,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Jun Li,Queerpanorama,True,2025 ( 62nd ) | Jun Li | Queerpanorama | 眾生相 | [ 3 ],https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,A Foggy Tale,大濛,False,Chen Yu-hsun | A Foggy Tale | 大濛,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Before the Bright Day,南方時光,False,Tsao Shih-han | Before the Bright Day | 南方時光,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,The Waves Will Carry Us,人生海海,False,Lau Kek-huat | The Waves Will Carry Us | 人生海海,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director
+,Mother Bhumi,地母,False,Chong Keat Aun | Mother Bhumi | 地母,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Director

@@ -1,0 +1,30 @@
+year,film,person,is_winner,raw_text,source_url
+,"Shah Rukh Khan , Hrithik Roshan , Ranveer Singh , Amitabh Bachchan",,False,"4 | Shah Rukh Khan , Hrithik Roshan , Ranveer Singh , Amitabh Bachchan",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actor
+,"Ajay Devgan , Ranbir Kapoor , Irrfan Khan",,False,"2 | Ajay Devgan , Ranbir Kapoor , Irrfan Khan",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actor
+1995,Nana Patekar,Krantiveer,False,1995 | Nana Patekar | Krantiveer | Pratap Narayan Tilak,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actor
+1996,Shah Rukh Khan,Dilwale Dulhania Le Jayenge,False,1996 | Shah Rukh Khan | Dilwale Dulhania Le Jayenge | Raj Malhotra,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actor
+1997,Aamir Khan,Raja Hindustani,False,1997 | Aamir Khan | Raja Hindustani | Raja Hindustani,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actor
+1998,Anil Kapoor,Virasat,False,1998 | Anil Kapoor | Virasat | Shakti Thakur,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actor
+1999,Ajay Devgan,Zakhm,False,1999 | Ajay Devgan | Zakhm | Ajay R. Desai,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actor
+2000,Sanjay Dutt,Vaastav,False,2000 | Sanjay Dutt | Vaastav | Raghunath Namdev Shivalkar,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actor
+2001,Hrithik Roshan,Kaho Naa... Pyaar Hai,False,2001 | Hrithik Roshan | Kaho Naa... Pyaar Hai | Rohit/Raj Chopra,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actor
+2002,Sunny Deol,Gadar: Ek Prem Katha,False,2002 | Sunny Deol | Gadar: Ek Prem Katha | Tara Singh,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actor
+2003,• Ajay Devgan • Shah Rukh Khan,• Company • Devdas,False,2003 | • Ajay Devgan • Shah Rukh Khan | • Company • Devdas | • Malik • Devdas Mukherjee,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actor
+2004,Hrithik Roshan,Koi... Mil Gaya,False,2004 | Hrithik Roshan | Koi... Mil Gaya | Rohit Mehra,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actor
+2005,Shah Rukh Khan,Veer-Zaara,False,2005 | Shah Rukh Khan | Veer-Zaara | Veer Pratap Singh,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actor
+2006,Amitabh Bachchan,Black,False,2006 | Amitabh Bachchan | Black | Debraj Sahai,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actor
+2007,Hrithik Roshan,Krrish,False,2007 | Hrithik Roshan | Krrish | Krishna Mehra/Rohit Mehra,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actor
+2008,Shah Rukh Khan,Chak De India,False,2008 | Shah Rukh Khan | Chak De India | Kabir Khan,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actor
+2009,Hrithik Roshan,Jodhaa Akbar,False,2009 | Hrithik Roshan | Jodhaa Akbar | Akbar,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actor
+2010,Amitabh Bachchan,Paa,False,2010 | Amitabh Bachchan | Paa | Auro Arte,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actor
+2011,Salman Khan,Dabangg,False,2011 | Salman Khan | Dabangg | Chulbul Pandey [ 1 ] [ 2 ],https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actor
+2012,Ranbir Kapoor,Rockstar,False,2012 | Ranbir Kapoor | Rockstar | Janardhan Jakhar,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actor
+2013,• Irrfan Khan • Ranbir Kapoor,• Paan Singh Tomar • Barfi!,False,"2013 | • Irrfan Khan • Ranbir Kapoor | • Paan Singh Tomar • Barfi! | • Paan Singh Tomar • Murphy ""Barfi"" Johnson",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actor
+2014,Farhan Akhtar,Bhaag Milkha Bhaag,False,2014 | Farhan Akhtar | Bhaag Milkha Bhaag | Milkha Singh,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actor
+2015,Shahid Kapoor,Haider,False,2015 | Shahid Kapoor | Haider | Haider Meer [ 3 ],https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actor
+2016,• Amitabh Bachchan • Ranveer Singh,• Piku • Bajirao Mastani,False,2016 | • Amitabh Bachchan • Ranveer Singh | • Piku [ 4 ] • Bajirao Mastani [ 4 ] | • Bhashkor Banerjee • Bajirao,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actor
+2017,Amitabh Bachchan,Pink,False,2017 | Amitabh Bachchan | Pink | Deepak Sehgal,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actor
+2018,Irrfan Khan,Hindi Medium,False,2018 | Irrfan Khan | Hindi Medium [ 5 ] | Raj Batra,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actor
+2019,• Rajkummar Rao • Ranveer Singh,• Stree • Padmaavat,False,2019 | • Rajkummar Rao • Ranveer Singh | • Stree • Padmaavat | • Vicky • Alauddin Khalji,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actor
+2020,Ranveer Singh,Gully Boy,False,2020 | Ranveer Singh | Gully Boy | Murad Ahmed,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actor
+2026,Dhurandhar,Hamza Ali Mazari/Jaskirat Singh Rangi,False,2026 | Dhurandhar | Hamza Ali Mazari/Jaskirat Singh Rangi [ 6 ],https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actor

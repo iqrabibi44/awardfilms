@@ -1,0 +1,158 @@
+year,film,person,is_winner,raw_text,source_url
+,Vidya Balan,5,False,Actress with most awards | Vidya Balan | 5,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+,4,,False,Actress with most consecutive awards | 4,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+,Kajol Aishwarya Rai,9,False,Actress with most nominations | Kajol Aishwarya Rai | 9,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+,"Karisma Kapoor , Preity Zinta , Kangana Ranaut",5,False,"Actress with most nominations without ever winning | Karisma Kapoor , Preity Zinta , Kangana Ranaut | 5",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+,"Kajol , Aishwarya Rai , Priyanka Chopra , Vidya Balan , Deepika Padukone Alia Bhatt , Anushka Sharma",2,False,"Actress with most nominations in a single year | Kajol (1999) , Aishwarya Rai (2000) , Priyanka Chopra (2010) , Vidya Balan (2012) , Deepika Padukone (2014) Alia Bhatt (2017) , Anushka Sharma (2017) | 2",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+,Vidya Balan,38,False,Eldest winner | Vidya Balan | 38,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+,Sharmila Tagore,61,False,Eldest nominee | Sharmila Tagore | 61,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+,Alia Bhatt,23,False,Youngest winner | Alia Bhatt | 23,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+,"Kajol, Ayesha Takia",20,False,"Youngest nominee | Kajol, Ayesha Takia | 20",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+1995,Hum Aapke Hain Koun...!,Nisha Choudhury,True,Madhuri Dixit † | Hum Aapke Hain Koun...! | Nisha Choudhury,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+1995,Yeh Dillagi,Sapna Bannerjee,False,Kajol ‡ | Yeh Dillagi | Sapna Bannerjee,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+1996,1996,,True,1996,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+1996,Raja,Madhu Garewal,True,Madhuri Dixit | Raja | Madhu Garewal,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+1996,Dilwale Dulhania Le Jayenge,Simran Singh,False,Kajol † | Dilwale Dulhania Le Jayenge | Simran Singh,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+1997,Khamoshi: The Musical,Annie J. Braganza,True,Manisha Koirala ‡ | Khamoshi: The Musical | Annie J. Braganza,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+1997,Daraar,Priya Bhatia,False,Juhi Chawla ‡ | Daraar | Priya Bhatia,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+1997,Raja Hindustani,Aarti Sehgal,False,Karisma Kapoor † | Raja Hindustani | Aarti Sehgal,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+1998,Mrityudand,Ketki,True,Madhuri Dixit | Mrityudand | Ketki,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+1998,Yes Boss,Seema Kapoor,False,Juhi Chawla ‡ | Yes Boss | Seema Kapoor,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+1998,Aastha,Mansi,False,Rekha | Aastha | Mansi,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+1998,Judaai,Kaajal Verma,False,Sridevi ‡ | Judaai | Kaajal Verma,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+1998,Virasat,Gehna,False,Tabu ‡ | Virasat | Gehna,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+1999,Dushman,Sonia / Naina Saigal,True,Kajol ‡ | Dushman | Sonia / Naina Saigal,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+1999,Kuch Kuch Hota Hai,Anjali Sharma,False,Kajol † | Kuch Kuch Hota Hai | Anjali Sharma,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+1999,Dil Se..,Meghna,False,Manisha Koirala ‡ | Dil Se.. | Meghna,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+1999,Zakhm,Mrs. Desai,False,Pooja Bhatt | Zakhm | Mrs. Desai,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+1999,Ghulam,Alisha,False,Rani Mukerji | Ghulam | Alisha,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2000,Hum Dil De Chuke Sanam,Nandini Durbar,True,Aishwarya Rai † | Hum Dil De Chuke Sanam | Nandini Durbar,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2000,Taal,Mansi Shankar,False,Aishwarya Rai ‡ | Taal | Mansi Shankar,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2000,Hum Aapke Dil Mein Rehte Hain,Megha,False,Kajol ‡ | Hum Aapke Dil Mein Rehte Hain | Megha,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2000,Biwi No.1,Pooja Mehra,False,Karisma Kapoor ‡ | Biwi No.1 | Pooja Mehra,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2000,Godmother,Rambhi,False,Shabana Azmi | Godmother | Rambhi,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2000,Hu Tu Tu,Paana Barve,False,Tabu ‡ | Hu Tu Tu | Paana Barve,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2001,Astitva,Aditi Pandit,True,Tabu ‡ | Astitva | Aditi Pandit,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2001,Hamara Dil Aapke Paas Hai,Preeti Vyas,False,Aishwarya Rai ‡ | Hamara Dil Aapke Paas Hai | Preeti Vyas,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2001,Fiza,Fiza Ikramullah,False,Karisma Kapoor † | Fiza | Fiza Ikramullah,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2001,Pukar,Anjali,False,Madhuri Dixit ‡ | Pukar | Anjali,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2001,Kya Kehna,Priya Bakshi,False,Preity Zinta ‡ | Kya Kehna | Priya Bakshi,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2002,Kabhi Khushi Kabhie Gham,Anjali Sharma,True,Kajol † | Kabhi Khushi Kabhie Gham | Anjali Sharma,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2002,Gadar: Ek Prem Katha,Sakina,False,Amisha Patel ‡ | Gadar: Ek Prem Katha | Sakina,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2002,Zubeidaa,Zubeida Begum,False,Karisma Kapoor ‡ | Zubeidaa | Zubeida Begum,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2002,Chandni Bar,Mumtaz Ali Ansari,False,Tabu ‡ | Chandni Bar | Mumtaz Ali Ansari,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2002,Pyaar Tune Kya Kiya,Ria Jaiswal,False,Urmila Matondkar | Pyaar Tune Kya Kiya | Ria Jaiswal,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2003,Devdas,"Parvati ""Paro"" Chakraborty",True,"Aishwarya Rai † | Devdas | Parvati ""Paro"" Chakraborty",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2003,Shakti – The Power,Nandini,False,Karisma Kapoor ‡ | Shakti – The Power | Nandini,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2003,Dil Hai Tumhaara,Shalu,False,Preity Zinta | Dil Hai Tumhaara | Shalu,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2003,Saathiya,Suhani Sharma,False,Rani Mukerji ‡ | Saathiya | Suhani Sharma,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2003,Filhaal...,Rewa Singh,False,Tabu | Filhaal... | Rewa Singh,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2004,Bhoot,Swati,True,Urmila Matondkar ‡ | Bhoot | Swati,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2004,Tere Naam,Nirjara Bharadwaj,False,Bhoomika Chawla ‡ | Tere Naam | Nirjara Bharadwaj,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2004,Baghban,Pooja Malhotra,False,Hema Malini ‡ | Baghban | Pooja Malhotra,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2004,Kal Ho Naa Ho,Naina Catherine Kapur,False,Preity Zinta † | Kal Ho Naa Ho | Naina Catherine Kapur,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2004,Chalte Chalte,Priya Chopra,False,Rani Mukerji ‡ | Chalte Chalte | Priya Chopra,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2004,Satta,Anuradha Sehgal,False,Raveena Tandon | Satta | Anuradha Sehgal,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2004,Samay: When Time Strikes,ACP Malvika Chauhan,False,Sushmita Sen | Samay: When Time Strikes | ACP Malvika Chauhan,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2005,Hum Tum,Rhea Prakash,True,Rani Mukerji † | Hum Tum | Rhea Prakash,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2005,Raincoat,Neerja,False,Aishwarya Rai ‡ | Raincoat | Neerja,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2005,Dev,Aaliya,False,Kareena Kapoor | Dev | Aaliya,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2005,Veer-Zaara,Zaara Hayaat Khan,False,Preity Zinta ‡ | Veer-Zaara | Zaara Hayaat Khan,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2005,Phir Milenge,Tamanna Sahni,False,Shilpa Shetty ‡ | Phir Milenge | Tamanna Sahni,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2005,Ek Hasina Thi,Sarika Vartak,False,Urmila Matondkar ‡ | Ek Hasina Thi | Sarika Vartak,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2006,2006,,True,2006,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2006,Black,Michelle McNally,True,Rani Mukerji † | Black | Michelle McNally,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2006,My Brother Nikhil,Anamika,False,Juhi Chawla | My Brother Nikhil | Anamika,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2006,Page 3,Madhvi Sharma,False,Konkona Sen Sharma | Page 3 | Madhvi Sharma,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2006,Salaam Namaste,"Ambar ""Amby"" Malhotra",False,"Preity Zinta ‡ | Salaam Namaste | Ambar ""Amby"" Malhotra",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2006,Viruddh... Family Comes First,Sumitra V. Patwardhan,False,Sharmila Tagore ‡ | Viruddh... Family Comes First | Sumitra V. Patwardhan,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2007,Omkara,Dolly Mishra,True,Kareena Kapoor ‡ | Omkara | Dolly Mishra,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2007,Dhoom 2,Sunehri,False,Aishwarya Rai ‡ | Dhoom 2 | Sunehri,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2007,Vivah,Poonam,False,Amrita Rao | Vivah | Poonam,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2007,Dor,Meera,False,Ayesha Takia | Dor | Meera,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2007,Corporate,Nishiganda 'Nishi' Dasgupta,False,Bipasha Basu ‡ | Corporate | Nishiganda 'Nishi' Dasgupta,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2007,Fanaa,Zooni Ali Beg\Qadri,False,Kajol † | Fanaa | Zooni Ali Beg\Qadri,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2008,2008,,True,2008,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2008,Jab We Met,Geet Dhillon,True,Kareena Kapoor † | Jab We Met | Geet Dhillon,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2008,Guru,Sujata Desai,False,Aishwarya Rai ‡ | Guru | Sujata Desai,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2008,Cheeni Kum,Nina Verma,False,Tabu | Cheeni Kum | Nina Verma,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2009,Fashion,Meghna Mathur,True,Priyanka Chopra † | Fashion | Meghna Mathur,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2009,Jodhaa Akbar,Jodhaa Bai,False,Aishwarya Rai Bachchan ‡ | Jodhaa Akbar | Jodhaa Bai,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2009,Ghajini,Kalpana Shetty,False,Asin ‡ | Ghajini | Kalpana Shetty,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2009,Jaane Tu... Ya Jaane Na,Aditi Mahant,False,Genelia D'souza | Jaane Tu... Ya Jaane Na | Aditi Mahant,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2009,U Me Aur Hum,Piya Saxena/Malhotra,False,Kajol ‡ | U Me Aur Hum | Piya Saxena/Malhotra,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2010,Paa,Vidya,True,Vidya Balan † | Paa | Vidya,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2010,Love Aaj Kal,Meera Pandit,False,Deepika Padukone ‡ | Love Aaj Kal | Meera Pandit,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2010,3 Idiots,Pia Sahastrabudhhe,False,Kareena Kapoor ‡ | 3 Idiots | Pia Sahastrabudhhe,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2010,New York,Maya Shaikh,False,Katrina Kaif ‡ | New York | Maya Shaikh,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2010,Kaminey,Sweety Shekhar Bhope,False,Priyanka Chopra ‡ | Kaminey | Sweety Shekhar Bhope,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2010,What's Your Raashee?,12 characters,False,Priyanka Chopra | What's Your Raashee? | 12 characters,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2011,2011,,True,2011,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2011,Ishqiya,Krishna Varma,True,Vidya Balan ‡ | Ishqiya | Krishna Varma,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2011,Guzaarish,Sofia D'Souza,False,Aishwarya Rai Bachchan ‡ | Guzaarish | Sofia D'Souza,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2011,Band Baaja Baaraat,Shruti Kakkar,False,Anushka Sharma ‡ | Band Baaja Baaraat | Shruti Kakkar,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2011,My Name Is Khan,Mandira Khan,False,Kajol † | My Name Is Khan | Mandira Khan,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2011,Do Dooni Chaar,Kusum Duggal,False,Neetu Singh | Do Dooni Chaar | Kusum Duggal,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2012,2012,,True,2012,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2012,The Dirty Picture,Silk / Reshma,True,Vidya Balan † | The Dirty Picture | Silk / Reshma,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2012,Shaitan,Amrita Jayshankar,False,Kalki Koechlin | Shaitan | Amrita Jayshankar,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2012,Tanu Weds Manu,"Tanuja ""Tanu"" Trivedi",False,"Kangana Ranaut | Tanu Weds Manu | Tanuja ""Tanu"" Trivedi",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2012,7 Khoon Maaf,Susanna Anna-Marie Johannes,False,Priyanka Chopra ‡ | 7 Khoon Maaf | Susanna Anna-Marie Johannes,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2012,No One Killed Jessica,Meera Gaity,False,Rani Mukerji † won Filmfare Award for Best Supporting Actress | No One Killed Jessica | Meera Gaity,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2012,Sabrina Lal,,False,Vidya Balan ‡ | Sabrina Lal,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2013,2013,,True,2013,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2013,Kahaani,Vidya Bagchi,True,Vidya Balan † | Kahaani | Vidya Bagchi,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2013,Cocktail,Veronica Malaney,False,Deepika Padukone ‡ | Cocktail | Veronica Malaney,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2013,Heroine,Mahi Arora,False,Kareena Kapoor ‡ | Heroine | Mahi Arora,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2013,Ishaqzaade,Zoya Qureshi,False,Parineeti Chopra ‡ | Ishaqzaade | Zoya Qureshi,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2013,Barfi!,Jhilmil Chatterjee,False,Priyanka Chopra ‡ | Barfi! | Jhilmil Chatterjee,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2013,English Vinglish,Shashi Godbole,False,Sridevi ‡ | English Vinglish | Shashi Godbole,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2014,Goliyon Ki Raasleela Ram-Leela,Leela Sanera,True,Deepika Padukone † | Goliyon Ki Raasleela Ram-Leela | Leela Sanera,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2014,Chennai Express,Meenalochini Azhagu Sundaram,True,Deepika Padukone ‡ | Chennai Express | Meenalochini Azhagu Sundaram,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2014,Inkaar,Maya Luthra,False,Chitrangada Singh | Inkaar | Maya Luthra,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2014,The Lunchbox,Ila,False,Nimrat Kaur | The Lunchbox | Ila,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2014,Shuddh Desi Romance,Gayatri,False,Parineeti Chopra ‡ | Shuddh Desi Romance | Gayatri,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2014,Aashiqui 2,Aarohi Keshav Shirke,False,Shraddha Kapoor ‡ | Aashiqui 2 | Aarohi Keshav Shirke,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2014,Lootera,Pakhi Roy Choudhary,False,Sonakshi Sinha ‡ | Lootera | Pakhi Roy Choudhary,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2015,Mary Kom,Mary Kom,True,Priyanka Chopra ‡ | Mary Kom | Mary Kom,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2015,Highway,Veera Tripathi,False,Alia Bhatt ‡ | Highway | Veera Tripathi,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2015,Finding Fanny,Angelina 'Angie,False,Deepika Padukone | Finding Fanny | Angelina 'Angie',https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2015,Queen,Rani Mehra,False,Kangana Ranaut † | Queen | Rani Mehra,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2015,Hasee Toh Phasee,Dr. Meeta Solanki,False,Parineeti Chopra | Hasee Toh Phasee | Dr. Meeta Solanki,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2015,Mardaani,Shivani Shivaji Roy,False,Rani Mukerji ‡ | Mardaani | Shivani Shivaji Roy,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2016,Piku,Piku Banerjee,True,Deepika Padukone † | Piku | Piku Banerjee,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2016,NH10,Meera,False,Anushka Sharma ‡ | NH10 | Meera,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2016,Margarita with a Straw,Laila,False,Kalki Koechlin | Margarita with a Straw | Laila,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2016,Tanu Weds Manu Returns,"Tanuja ""Tanu"" Trivedi / Kumari ""Kusum"" Sangwan",False,"Kangana Ranaut ‡ | Tanu Weds Manu Returns | Tanuja ""Tanu"" Trivedi / Kumari ""Kusum"" Sangwan (Datto)",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2016,Dil Dhadakne Do,Ayesha Mehra/Sangha,False,Priyanka Chopra | Dil Dhadakne Do | Ayesha Mehra/Sangha,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2016,Dolly Ki Doli,Dolly,False,Sonam Kapoor ‡ | Dolly Ki Doli | Dolly,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2017,Udta Punjab,Bauria/ Mary Jane,True,Alia Bhatt † | Udta Punjab | Bauria/ Mary Jane,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2017,Dear Zindagi,Kaira,False,Alia Bhatt ‡ | Dear Zindagi | Kaira,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2017,Ae Dil Hai Mushkil,Alizeh Khan,False,Anushka Sharma ‡ | Ae Dil Hai Mushkil | Alizeh Khan,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2017,Sultan,Aarfa Ali Khan,False,Anushka Sharma | Sultan | Aarfa Ali Khan,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2017,Neerja,Neerja Bhanot,False,Sonam Kapoor ‡ | Neerja | Neerja Bhanot,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2017,Pink,Meenal Arora,False,Taapsee Pannu | Pink | Meenal Arora,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2018,Tumhari Sulu,Sulochana/Sulu,True,Vidya Balan † | Tumhari Sulu | Sulochana/Sulu,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2018,Badrinath Ki Dulhania,Vaidehi Trivedi,False,Alia Bhatt ‡ | Badrinath Ki Dulhania | Vaidehi Trivedi,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2018,Shubh Mangal Saavdhan,Sugandha,False,Bhumi Pednekar ‡ | Shubh Mangal Saavdhan | Sugandha,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2018,Dangal,Geeta Phogat,False,Fatima Sana Shaikh | Dangal | Geeta Phogat,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2018,Simran,Praful Patel / Simran,False,Kangana Ranaut | Simran | Praful Patel / Simran,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2018,Bareilly Ki Barfi,Bitti Mishra,False,Kriti Sanon | Bareilly Ki Barfi | Bitti Mishra,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2018,Mom,Devki Sabarwal,False,Sridevi ‡ | Mom | Devki Sabarwal,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2019,Raazi,Sehmat Khan,True,Alia Bhatt † | Raazi | Sehmat Khan,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2019,Padmaavat,Rani Padmani,False,Deepika Padukone ‡ | Padmaavat | Rani Padmani,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2019,Hichki,Ms. Naina Mathur,False,Rani Mukerji ‡ | Hichki | Ms. Naina Mathur,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2019,Manmarziyaan,Rumi Bagga,False,Taapsee Pannu | Manmarziyaan | Rumi Bagga,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2019,Andhadhun,Simi,False,Tabu ‡ | Andhadhun | Simi,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2020,Gully Boy,Safeena Firdausi,True,Alia Bhatt † | Gully Boy | Safeena Firdausi,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2020,Manikarnika: The Queen of Jhansi,Rani Lakshmi Bai,False,Kangana Ranaut ‡ | Manikarnika: The Queen of Jhansi | Rani Lakshmi Bai,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2020,Bharat,Kumud Raina,False,Katrina Kaif | Bharat | Kumud Raina,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2020,Badla,Naina Sethi,False,Taapsee Pannu | Badla | Naina Sethi,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2020,Mission Mangal,Tara Shinde,False,Vidya Balan ‡ | Mission Mangal | Tara Shinde,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2026,Haq,Shazia Bano,True,Yami Gautam | Haq | Shazia Bano,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2026,Dhadak 2,Vidhi Bharadwaj,False,Triptii Dimri | Dhadak 2 | Vidhi Bharadwaj,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2026,Tere Ishk Mein,Mukti Beniwal,False,Kriti Sanon | Tere Ishk Mein | Mukti Beniwal,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2026,Humans in the Loop,Nehma,False,Sonal Madhushankar | Humans in the Loop | Nehma,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2026,Metro… In Dino,Kajol Ghosh Sisodiya,False,Konkona Sen Sharma | Metro… In Dino | Kajol Ghosh Sisodiya,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2026,Nishaanchi,Manjari,False,Monika Panwar | Nishaanchi | Manjari,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress
+2026,Sister Midnight,Uma,False,Radhika Apte | Sister Midnight | Uma,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Actress

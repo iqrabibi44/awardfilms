@@ -1,0 +1,54 @@
+year,film,person,is_winner,raw_text,source_url
+,Mani Kaul,1971,False,Uski Roti | Mani Kaul | 1971,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+1972,1972,,False,1972,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+1972,Kumar Shahani,1973,False,Maya Darpan | Kumar Shahani | 1973,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+1972,Mani Kaul,1974,False,Duvidha | Mani Kaul | 1974,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+1972,Basu Chatterjee,1975,False,Rajnigandha | Basu Chatterjee | 1975,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+1972,Gulzar,1976,False,Aandhi | Gulzar | 1976,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+1972,Mrinal Sen,1977,False,Mrigayaa | Mrinal Sen | 1977,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+1972,Satyajit Ray,1978,False,Shatranj Ke Khilari | Satyajit Ray | 1978,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+1972,Saeed Akhtar Mirza,1979,False,Arvind Desai Ki Ajeeb Dastaan | Saeed Akhtar Mirza | 1979,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+,Basu Chatterjee,1980,False,Jeena Yahan | Basu Chatterjee | 1980,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+,Saeed Akhtar Mirza,1981,False,Albert Pinto Ko Gussa Kyon Aata Hai | Saeed Akhtar Mirza | 1981,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+,Ashok Ahuja,1982,False,Aadharshila | Ashok Ahuja | 1982,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+,Shekhar Kapur,1983,False,Masoom | Shekhar Kapur | 1983,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+,M.S. Sathyu,1984,False,Sookha | M.S. Sathyu | 1984,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+,Prakash Jha,1985,False,Damul | Prakash Jha | 1985,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+,Govind Nihalani,1986,False,Aghaat | Govind Nihalani | 1986,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+,Kamal Swaroop,1989,False,Om-Dar-Ba-Dar | Kamal Swaroop | 1989,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+,Kumar Shahani,1990,False,Khayal Gatha | Kumar Shahani | 1990,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+,Kumar Shahani,1991,False,Kasba | Kumar Shahani | 1991,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+,Arun Kaul,1992,False,Diksha | Arun Kaul | 1992,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+,Mani Kaul,1993,False,Idiot | Mani Kaul | 1993,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+,Kundan Shah,1994,False,Kabhi Haan Kabhi Naa | Kundan Shah | 1994,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+,Shekhar Kapur,1995,False,Bandit Queen | Shekhar Kapur | 1995,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+,Mani Ratnam,1996,False,Bombay | Mani Ratnam (the only dubbed film to win the award) | 1996,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+,Sanjay Leela Bhansali,1997,False,Khamoshi: The Musical | Sanjay Leela Bhansali | 1997,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+,Priyadarshan,1998,False,Virasat | Priyadarshan | 1998,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+,Ram Gopal Varma,1999,False,Satya | Ram Gopal Varma | 1999,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+,John Matthew Matthan,2000,False,Sarfarosh | John Matthew Matthan | 2000,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+,Santosh Sivan,2001,False,Halo | Santosh Sivan | 2001,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+,Farhan Akhtar,2002,False,Dil Chahta Hai | Farhan Akhtar | 2002,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+,Rajkumar Santoshi,2003,False,The Legend of Bhagat Singh | Rajkumar Santoshi | 2003,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+,Rajkumar Hirani,2004,False,Munna Bhai M.B.B.S. | Rajkumar Hirani | 2004,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+,Mani Ratnam & Govind Nihalani,2005,False,Yuva & Dev | Mani Ratnam & Govind Nihalani | 2005,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+,Sanjay Leela Bhansali,2006,False,Black | Sanjay Leela Bhansali | 2006,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+,Rajkumar Hirani,2007,False,Lage Raho Munna Bhai | Rajkumar Hirani | 2007,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+,Shimit Amin,2008,False,Chak De! India | Shimit Amin | 2008,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+,Nishikant Kamat,2009,False,Mumbai Meri Jaan | Nishikant Kamat | 2009,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+2010,Firaaq,Nandita Das,True,2010 | Firaaq | Nandita Das,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+2011,Udaan,Vikramaditya Motwane,True,2011 | Udaan | Vikramaditya Motwane,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+2012,Zindagi Na Milegi Dobara,Zoya Akhtar,True,2012 | Zindagi Na Milegi Dobara | Zoya Akhtar,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+2013,Gangs of Wasseypur,Anurag Kashyap,True,2013 | Gangs of Wasseypur | Anurag Kashyap,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+2014,The Lunchbox,Ritesh Batra,True,2014 | The Lunchbox | Ritesh Batra,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+2015,Ankhon Dekhi,Rajat Kapoor,True,2015 | Ankhon Dekhi | Rajat Kapoor [ 2 ],https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+2016,Piku,Shoojit Sircar,True,2016 | Piku | Shoojit Sircar,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+2017,Neerja,Ram Madhvani,True,2017 | Neerja | Ram Madhvani [ 3 ],https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+2018,Newton,Amit V. Masurkar,True,2018 | Newton | Amit V. Masurkar,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+2019,Andhadhun,Sriram Raghavan,True,2019 | Andhadhun | Sriram Raghavan,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+2020,Article 15 & Sonchiriya,Anubhav Sinha & Abhishek Chaubey,True,2020 | Article 15 & Sonchiriya | Anubhav Sinha & Abhishek Chaubey,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+2021,Eeb Allay Ooo!,Prateek Vats,True,2021 | Eeb Allay Ooo! | Prateek Vats [ 4 ],https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+2022,Sardar Udham,Shoojit Sircar,True,2022 | Sardar Udham | Shoojit Sircar,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+2023,Badhaai Do,Harshavardhan Kulkarni,True,2023 | Badhaai Do | Harshavardhan Kulkarni,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+2024,Joram,Devashish Makhija,True,2024 | Joram | Devashish Makhija,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film
+2025,I Want to Talk,Shoojit Sircar,True,2025 | I Want to Talk | Shoojit Sircar,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Film

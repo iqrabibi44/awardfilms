@@ -1,0 +1,200 @@
+year,film,person,is_winner,raw_text,source_url
+,"Sun, Moon and Star",星星月亮太陽,True,"1962 ( 1st ) | Sun, Moon and Star | 星星月亮太陽 | Yi Wen | ",https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,一萬四千個證人,Hao Wang,False,"14,000 Witnesses | 一萬四千個證人 | Hao Wang | ",https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,楊貴妃,Li Han-hsiang,False,The Magnificent Concubine | 楊貴妃 | Li Han-hsiang | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,宜室宜家,Yao Chung,False,Under One Roof | 宜室宜家 | Yao Chung | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,The Love Eterne,梁山伯與祝英台,True,1963 ( 2nd ) | The Love Eterne | 梁山伯與祝英台 | Li Han Hsiang | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,Beautiful Duckling,養鴨人家,True,1965 ( 3rd ) | Beautiful Duckling | 養鴨人家 | Li Hsing | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,"Hsi-shih, Beauty of Beauties",西施,True,"1966 ( 4th ) | Hsi-shih, Beauty of Beauties | 西施 | Li Han Hsiang | ",https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,Orchids and My Love,我女若蘭,True,1967 ( 5th ) | Orchids and My Love | 我女若蘭 | Lee Chia | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,The Road,路,True,1968 ( 6th ) | The Road | 路 | Li Hsing | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,Spring in a Small Town,小鎮春回,True,1969 ( 7th ) | Spring in a Small Town | 小鎮春回 | Yang Wen-gan | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,Home Sweet Home,家在臺北,True,1970 ( 8th ) | Home Sweet Home | 家在臺北 | Pai Ching-jui | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,The Story of Ti-Ying,緹縈,True,1971 ( 9th ) | The Story of Ti-Ying | 緹縈 | Li Han Hsiang | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,Execution in Autumn,秋决,True,1972 ( 10th ) | Execution in Autumn | 秋决 | Li Hsing | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,The Escape,忍,True,1973 ( 11th ) | The Escape | 忍 | Yu Fong-jhih | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,Land of the Undaunted,吾土吾民,True,1975 ( 12th ) | Land of the Undaunted | 吾土吾民 | Li Hsing | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,Victory,梅花,True,1976 ( 13th ) | Victory | 梅花 | Liu Jia-Chang | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,Heroes of the Eastern Skies,筧橋英烈傳,True,1977 ( 14th ) | Heroes of the Eastern Skies | 筧橋英烈傳 | Chang Tsung-che | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,He Never Gives Up,汪洋中的一條船,True,1978 ( 15th ) | He Never Gives Up | 汪洋中的一條船 | Li Hsing | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,The Story of a Small Town,小城故事,True,1979 ( 16th ) | The Story of a Small Town | 小城故事 | Li Hsing | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,"Good Morning, Taipei",早安臺北,True,"1980 ( 17th ) | Good Morning, Taipei | 早安臺北 | Li Hsing | ",https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,If I Were for Real,假如我是真的,True,1981 ( 18th ) | If I Were for Real | 假如我是真的 | Wang Toon | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,The Battle for the Republic of China,辛亥雙十,True,1982 ( 19th ) | The Battle for the Republic of China | 辛亥雙十 | Ting Shan-hsi | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,Growing Up,小畢的故事,True,1983 ( 20th ) | Growing Up | 小畢的故事 | Chen Kun-hou | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,Old Mao's Second Spring,老莫的第二個春天,True,1984 ( 21st ) | Old Mao's Second Spring | 老莫的第二個春天 | Lee You-Ning | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,"Kuei-Mei, a Woman",我這樣過了一生,True,"1985 ( 22nd ) | Kuei-Mei, a Woman | 我這樣過了一生 | Chang Yi | ",https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,Terrorizers,恐怖份子,True,1986 ( 23rd ) | Terrorizers | 恐怖份子 | Edward Yang | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,Straw Man,稻草人,True,1987 ( 24th ) | Straw Man | 稻草人 | Wang Tung | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,Painted Faces,七小福,True,1988 ( 25th ) | Painted Faces | 七小福 | Alex Law | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,Full Moon in New York,三個女人的故事,True,1989 ( 26th ) | Full Moon in New York | 三個女人的故事 | Stanley Kwan | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,Red Dust,滾滾紅塵,True,1990 ( 27th ) | Red Dust | 滾滾紅塵 | Yim Ho | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,A Brighter Summer Day,牯嶺街少年殺人事件,True,1991 ( 28th ) | A Brighter Summer Day | 牯嶺街少年殺人事件 | Edward Yang | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,Hill of No Return,無言的山丘,True,1992 ( 29th ) | Hill of No Return | 無言的山丘 | Wang Tung | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,The Wedding Banquet,喜宴,True,1993 ( 30th ) | The Wedding Banquet | 喜宴 | Ang Lee | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,Vive L'Amour,愛情萬歲,True,1994 ( 31st ) | Vive L'Amour | 愛情萬歲 | Tsai Ming-liang | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,飲食男女,Ang Lee,False,Eat Drink Man Woman | 飲食男女 | Ang Lee | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,獨立時代,Edward Yang,False,A Confucian Confusion | 獨立時代 | Edward Yang | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,多桑,Wu Nien-jen,False,A Borrowed Life | 多桑 | Wu Nien-jen | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,紅玫瑰白玫瑰,Stanley Kwan,False,Red Rose White Rose | 紅玫瑰白玫瑰 | Stanley Kwan | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,重慶森林,Wong Kar-wai,False,Chungking Express | 重慶森林 | Wong Kar-wai | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,Summer Snow,女人四十,True,1995 ( 32nd ) | Summer Snow | 女人四十 | Ann Hui | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,好男好女,Hou Hsiao-hsien,False,"Good Men, Good Women | 好男好女 | Hou Hsiao-hsien | ",https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,少女小漁,Sylvia Chang,False,Siao Yu | 少女小漁 | Sylvia Chang | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,阿爸的情人,Steve Wang,False,The Daughter-in-Law | 阿爸的情人 | Steve Wang | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,超級大國民,Wan Jen,False,Super Citizen Ko | 超級大國民 | Wan Jen | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,熱帶魚,Chen Yu-hsun,False,Tropical Fish | 熱帶魚 | Chen Yu-hsun | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,In the Heat of the Sun,陽光燦爛的日子,True,1996 ( 33rd ) | In the Heat of the Sun | 陽光燦爛的日子 | Jiang Wen | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,浮生,Clara Law,False,Floating Life | 浮生 | Clara Law | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,今天不回家,Sylvia Chang,False,Tonight Nobody Goes Home | 今天不回家 | Sylvia Chang | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,月滿英倫,Zeming Zhang,False,Foreign Moon | 月滿英倫 | Zeming Zhang | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,鬼婆婆,Peter Chan,False,The Age of Miracles | 鬼婆婆 | Peter Chan | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,Comrades: Almost a Love Story,甜蜜蜜,True,1997 ( 34th ) | Comrades: Almost a Love Story | 甜蜜蜜 | Peter Chan | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,南海十三郎,Clifton Ko,False,The Mad Phoenix | 南海十三郎 | Clifton Ko | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,一隻鳥仔哮啾啾,Chang Chi-Yung,False,Such a Life | 一隻鳥仔哮啾啾 | Chang Chi-Yung | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,香港製造,Fruit Chan,False,Made in Hong Kong | 香港製造 | Fruit Chan | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,國道封閉,Ho Ping,False,Wolves Cry Under the Moon | 國道封閉 | Ho Ping | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,河流,Tsai Ming-liang,False,The River | 河流 | Tsai Ming-liang | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,Xiu Xiu: The Sent Down Girl,天浴,True,1998 ( 35th ) | Xiu Xiu: The Sent Down Girl | 天浴 | Joan Chen | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,徵婚啟事,Chen Kuo-fu,False,The Personals | 徵婚啟事 | Chen Kuo-fu | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,我是誰,Benny Chan and Jackie Chan,False,Who Am I? | 我是誰 | Benny Chan and Jackie Chan | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,玻璃之城,Mabel Cheung,False,City of Glass | 玻璃之城 | Mabel Cheung | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,每天愛你八小時,James Yuen,False,Your Place or Mine! | 每天愛你八小時 | James Yuen | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,海上花,Hou Hsiao-hsien,False,Flowers of Shanghai | 海上花 | Hou Hsiao-hsien | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,Ordinary Heroes,千言萬語,True,1999 ( 36th ) | Ordinary Heroes | 千言萬語 | Ann Hui | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,心動,Sylvia Chang,False,Tempting Heart | 心動 | Sylvia Chang | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,目露凶光,Ringo Lam,False,Victim | 目露凶光 | Ringo Lam | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,星願,Jingle Ma,False,Fly Me to Polaris | 星願 | Jingle Ma | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,紫雨風暴,Teddy Chan,False,Purple Storm | 紫雨風暴 | Teddy Chan | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,黑暗之光,Chang Tso-chi,False,Darkness and Light | 黑暗之光 | Chang Tso-chi | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,"Crouching Tiger, Hidden Dragon",臥虎藏龍,True,"2000 ( 37th ) | Crouching Tiger, Hidden Dragon | 臥虎藏龍 | Ang Lee | ",https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,花樣年華,Wong Kar-wai,False,In the Mood for Love | 花樣年華 | Wong Kar-wai | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,西洋镜,Ann Hu,False,Shadow Magic | 西洋镜 | Ann Hu | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,鎗火,Johnnie To,False,The Mission | 鎗火 | Johnnie To | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,運轉手之戀,Zhang Huakun and Chen Yiwen,False,The Cabbie | 運轉手之戀 | Zhang Huakun and Chen Yiwen | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,細路祥,Fruit Chan,False,Little Cheung | 細路祥 | Fruit Chan | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,Durian Durian,榴槤飄飄,True,2001 ( 38th ) | Durian Durian | 榴槤飄飄 | Fruit Chan | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,十七歲的單車,Wang Xiaoshuai,False,Beijing Bicycle | 十七歲的單車 | Wang Xiaoshuai | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,你那邊幾點,Tsai Ming-liang,False,What Time Is It There? | 你那邊幾點 | Tsai Ming-liang | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,愛上我吧,Lawrence Ah Mon,False,Gimme Gimme | 愛上我吧 | Lawrence Ah Mon | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,藍宇,Stanley Kwan,False,Lan Yu | 藍宇 | Stanley Kwan | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,The Best of Times,美麗時光,True,2002 ( 39th ) | The Best of Times | 美麗時光 | Chang Tso-chi | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,香港有個荷里活,Fruit Chan,False,Hollywood Hong Kong | 香港有個荷里活 | Fruit Chan | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,男人四十,Ann Hui,False,July Rhapsody | 男人四十 | Ann Hui | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,三更之回家,Peter Chan,False,Three: Going Home | 三更之回家 | Peter Chan | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,走火槍,Lam Wah-Chuen,False,The Runaway Pistol | 走火槍 | Lam Wah-Chuen | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,Infernal Affairs,無間道,True,2003 ( 40th ) | Infernal Affairs | 無間道 | Andrew Lau and Alan Mak | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,不見,Lee Kang-sheng,False,The Missing | 不見 | Lee Kang-sheng | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,不散,Tsai Ming-liang,False,"Goodbye, Dragon Inn | 不散 | Tsai Ming-liang | ",https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,Johnnie To,,False,PTU | Johnnie To | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,盲井,Li Yang,False,Blind Shaft | 盲井 | Li Yang | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,Kekexili: Mountain Patrol,可可西里,True,2004 ( 41st ) | Kekexili: Mountain Patrol | 可可西里 | Lu Chuan | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,大事件,Johnnie To,False,Breaking News | 大事件 | Johnnie To | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+,月光下，我記得,Lin Cheng-sheng,False,The Moon Also Rises | 月光下，我記得 | Lin Cheng-sheng | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,2046,Wong Kar-wai,False,2046 | 2046 | Wong Kar-wai | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,旺角黑夜,Derek Yee,False,One Nite in Mongkok | 旺角黑夜 | Derek Yee | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,Kung Fu Hustle,功夫,True,2005 ( 42nd ) | Kung Fu Hustle | 功夫 | Stephen Chow | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,天下无贼,Feng Xiaogang,False,A World Without Thieves | 天下无贼 | Feng Xiaogang | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,天邊一朵雲,Tsai Ming-liang,False,The Wayward Cloud | 天邊一朵雲 | Tsai Ming-liang | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,黑社會,Johnnie To,False,Election | 黑社會 | Johnnie To | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,最好的時光,Hou Hsiao-hsien,False,Three Times | 最好的時光 | Hou Hsiao-hsien | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,After This Our Exile,父子,True,2006 ( 43rd ) | After This Our Exile | 父子 | Patrick Tam | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,瘋狂的石頭,Ning Hao,False,Crazy Stone | 瘋狂的石頭 | Ning Hao | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,放·逐,Johnnie To,False,Exiled | 放·逐 | Johnnie To | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,詭絲,Su Chao-bin,False,Silk | 詭絲 | Su Chao-bin | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,如果·愛,Peter Chan,False,Perhaps Love | 如果·愛 | Peter Chan | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,"Lust, Caution",色，戒,True,"2007 ( 44th ) [ 1 ] | Lust, Caution | 色，戒 | Ang Lee | ",https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,情非得已之生存之道,Doze Niu,False,What on Earth Have I Done Wrong?! | 情非得已之生存之道 | Doze Niu | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,落葉歸根,Zhang Yang,False,Getting Home | 落葉歸根 | Zhang Yang | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,意,Tony Ayres,False,The Home Song Stories | 意 | Tony Ayres | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,跟蹤,Yau Nai-hoi,False,Eye in the Sky | 跟蹤 | Yau Nai-hoi | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,The Warlords,投名状,True,2008 ( 45th ) | The Warlords | 投名状 | Peter Chan | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,一半海水，一半火焰,Liu Fendou,False,Ocean Flame | 一半海水，一半火焰 | Liu Fendou | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,海角七號,Wei Te-sheng,False,Cape No. 7 | 海角七號 | Wei Te-sheng | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,囧男孩,Yang Ya-che,False,Orz Boyz! | 囧男孩 | Yang Ya-che | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,集结号,Feng Xiaogang,False,Assembly | 集结号 | Feng Xiaogang | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,No Puedo Vivir Sin Ti,不能没有你,True,2009 ( 46th ) [ 2 ] | No Puedo Vivir Sin Ti | 不能没有你 | Leon Dai | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,鬥牛,Guan Hu,False,Cow | 鬥牛 | Guan Hu | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,瘋狂的賽車,Ning Hao,False,Crazy Racer | 瘋狂的賽車 | Ning Hao | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,臉,Tsai Ming-liang,False,Face | 臉 | Tsai Ming-liang | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,如夢,Clara Law,False,Like a Dream | 如夢 | Clara Law | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,When Love Comes,當愛來的時候,True,2010 ( 47th ) [ 3 ] | When Love Comes | 當愛來的時候 | Chang Tso-chi | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,父後七日,Liu Zi-Jie and Wang Yu-Lin,False,7 Days in Heaven | 父後七日 | Liu Zi-Jie and Wang Yu-Lin | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,十月圍城,Teddy Chan,False,Bodyguards and Assassins | 十月圍城 | Teddy Chan | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,透析,Jie Liu,False,Judge | 透析 | Jie Liu | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,第四張畫,Chung Mong-hong,False,The Fourth Portrait | 第四張畫 | Chung Mong-hong | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,Seediq Bale,賽德克‧巴萊,True,2011 ( 48th ) | Seediq Bale | 賽德克‧巴萊 | Wei Te-sheng | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,讓子彈飛,Jiang Wen,False,Let the Bullets Fly | 讓子彈飛 | Jiang Wen | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,桃姐,Ann Hui,False,A Simple Life | 桃姐 | Ann Hui | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,到阜陽六百里,Teng Yung-shin,False,Return Ticket | 到阜陽六百里 | Teng Yung-shin | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,鋼的琴,Zhang Meng,False,The Piano in a Factory | 鋼的琴 | Zhang Meng | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,Beijing Blues,神探亨特張,True,2012 ( 49th ) [ 4 ] | Beijing Blues | 神探亨特張 | Gao Qunshu | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,浮城謎事,Lou Ye,False,Mystery | 浮城謎事 | Lou Ye | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,奪命金,Johnnie To,False,Life Without Principle | 奪命金 | Johnnie To | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,女朋友。男朋友,Yang Ya-che,False,"Girlfriend, Boyfriend | 女朋友。男朋友 | Yang Ya-che | ",https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,消失的子彈,Law Chi-leung,False,The Bullet Vanishes | 消失的子彈 | Law Chi-leung | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,Ilo Ilo,爸媽不在家,True,2013 ( 50th ) | Ilo Ilo | 爸媽不在家 | Anthony Chen | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,天注定,Jia Zhangke,False,A Touch of Sin | 天注定 | Jia Zhangke | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,一代宗師,Wong Kar-wai,False,The Grandmaster | 一代宗師 | Wong Kar-wai | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,郊遊,Tsai Ming-liang,False,Stray Dogs | 郊遊 | Tsai Ming-liang | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,毒戰,Johnnie To,False,Drug War | 毒戰 | Johnnie To | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,Blind Massage,推拿,True,2014 ( 51st ) | Blind Massage | 推拿 | Lou Ye | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,白日焰火,Diao Yinan,False,"Black Coal, Thin Ice | 白日焰火 | Diao Yinan | ",https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,黃金時代,Ann Hui,False,The Golden Era | 黃金時代 | Ann Hui | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,KANO,Umin Boya,False,Kano | KANO | Umin Boya | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,一個勺子,Chen Jianbin,False,A Fool | 一個勺子 | Chen Jianbin | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,The Assassin,刺客聶隱娘,True,2015 ( 52nd ) | The Assassin | 刺客聶隱娘 | Hou Hsiao-hsien | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,醉·生夢死,Chang Tso-chi,False,"Thanatos, Drunk | 醉·生夢死 | Chang Tso-chi | ",https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,踏血尋梅,Philip Yung,False,Port of Call | 踏血尋梅 | Philip Yung | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,塔洛,Pema Tseden,False,Tharlo | 塔洛 | Pema Tseden | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,山河故人,Jia Zhangke,False,Mountains May Depart | 山河故人 | Jia Zhangke | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,The Summer Is Gone,八月,True,2016 ( 53rd ) | The Summer Is Gone | 八月 | Zhang Dalei | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,再見瓦城,Midi Z,False,The Road to Mandalay | 再見瓦城 | Midi Z | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,一路順風,Chung Mong-hong,False,Godspeed | 一路順風 | Chung Mong-hong | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,樹大招風,"Frank Hui, Jevons Au and Vicky Wong",False,"Trivisa | 樹大招風 | Frank Hui, Jevons Au and Vicky Wong | ",https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,我不是潘金蓮,Feng Xiaogang,False,I Am Not Madame Bovary | 我不是潘金蓮 | Feng Xiaogang | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,"The Bold, the Corrupt, and the Beautiful",血觀音,True,"2017 ( 54th ) | The Bold, the Corrupt, and the Beautiful | 血觀音 | Yang Ya-che | ",https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,輕鬆+愉快,Geng Jun,False,Free and Easy | 輕鬆+愉快 | Geng Jun | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,大佛普拉斯,Huang Hsin-yao,False,The Great Buddha + | 大佛普拉斯 | Huang Hsin-yao | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,相愛相親,Sylvia Chang,False,Love Education | 相愛相親 | Sylvia Chang | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,嘉年華,Vivian Qu,False,Angels Wear White | 嘉年華 | Vivian Qu | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,An Elephant Sitting Still,大象席地而坐,True,2018 ( 55th ) | An Elephant Sitting Still | 大象席地而坐 | Hu Bo | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,地球最後的夜晚,Bi Gan,False,Long Day's Journey into Night | 地球最後的夜晚 | Bi Gan | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,誰先愛上他的,"Mag Hsu, Hsu Chih-yen",False,"Dear Ex | 誰先愛上他的 | Mag Hsu, Hsu Chih-yen | ",https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,影,Zhang Yimou,False,Shadow | 影 | Zhang Yimou | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,我不是藥神,Wen Muye,False,Dying to Survive | 我不是藥神 | Wen Muye | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,A Sun,陽光普照,True,2019 ( 56th ) | A Sun | 陽光普照 | Chung Mong-hong | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,叔．叔,Ray Yeung,False,Suk Suk | 叔．叔 | Ray Yeung | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,夕霧花園,Tom Shu-yu Lin,False,The Garden of Evening Mists | 夕霧花園 | Tom Shu-yu Lin | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,熱帶雨,Anthony Chen,False,Wet Season | 熱帶雨 | Anthony Chen | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,返校,John Hsu,False,Detention | 返校 | John Hsu | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,My Missing Valentine,消失的情人節,True,2020 ( 57th ) | My Missing Valentine | 消失的情人節 | Chen Yu-hsun | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,手捲煙,Chan Kin-long,False,Hand Rolled Cigarette | 手捲煙 | Chan Kin-long | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,日子,Tsai Ming-liang,False,Days | 日子 | Tsai Ming-liang | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,同學麥娜絲,Huang Hsin-yao,False,Classmates Minus | 同學麥娜絲 | Huang Hsin-yao | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,親愛的房客,Cheng Yu-chieh,False,Dear Tenant | 親愛的房客 | Cheng Yu-chieh | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,The Falls,瀑布,True,2021 ( 58th ) | The Falls | 瀑布 | Chung Mong-hong | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,濁水漂流,Jun Li,False,Drifting | 濁水漂流 | Jun Li | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,缉魂,Cheng Wei-hao,False,The Soul | 缉魂 | Cheng Wei-hao | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,美國女孩,Fiona Roan Feng-i,False,American Girl | 美國女孩 | Fiona Roan Feng-i | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,月老,Giddens Ko,False,Till We Meet Again | 月老 | Giddens Ko | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,Coo-Coo 043,一家子兒咕咕叫,True,2022 ( 59th ) | Coo-Coo 043 | 一家子兒咕咕叫 | Chan Ching-lin | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,咒,Kevin Ko,False,Incantation | 咒 | Kevin Ko | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,哈勇家,Laha Mebow,False,Gaga | 哈勇家 | Laha Mebow | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,智齒,Cheang Pou-soi,False,Limbo | 智齒 | Cheang Pou-soi | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,白日青春,Lau Kok-rui,False,The Sunny Side of the Street | 白日青春 | Lau Kok-rui | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,Stonewalling,石門,True,"2023 ( 60th ) | Stonewalling | 石門 | Huang Ji, Ryuji Otsuka | ",https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,關於我和鬼變成家人的那件事,Cheng Wei-hao,False,Marry My Dead Body | 關於我和鬼變成家人的那件事 | Cheng Wei-hao | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,年少日記,Nick Cheuk,False,Time Still Turns the Pages | 年少日記 | Nick Cheuk | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,疫起,Lin Chun-yang,False,Eye of the Storm | 疫起 | Lin Chun-yang | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,五月雪,Chong Keat Aun,False,Snow in Midsummer | 五月雪 | Chong Keat Aun | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,An Unfinished Film,一部未完成的电影,True,2024 ( 61st ) | An Unfinished Film | 一部未完成的电影 | Lou Ye | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,從今以後,Ray Yeung,False,All Shall Be Well | 從今以後 | Ray Yeung | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,默視錄,Yeo Siew Hua,False,Stranger Eyes | 默視錄 | Yeo Siew Hua | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,徐漢強,John Hsu,False,Dead Talents Society | 徐漢強 | John Hsu | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,漂亮朋友,Geng Jun,False,Bel Ami | 漂亮朋友 | Geng Jun | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,A Foggy Tale,大濛,True,2025 ( 62nd ) [ 5 ] | A Foggy Tale | 大濛 | Chen Yu-hsun | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,人生海海,Lau Kek-huat,False,The Waves Will Carry Us | 人生海海 | Lau Kek-huat | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,左撇子女孩,Shih-Ching Tsou,False,Left-Handed Girl | 左撇子女孩 | Shih-Ching Tsou | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,眾生相,Jun Li,False,Queerpanorama | 眾生相 | Jun Li | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film
+2046,地母,Chong Keat Aun,False,Mother Bhumi | 地母 | Chong Keat Aun | ,https://en.wikipedia.org/wiki/Golden_Horse_Award_for_Best_Feature_Film

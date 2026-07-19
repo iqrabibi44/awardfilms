@@ -1,0 +1,60 @@
+year,film,person,is_winner,raw_text,source_url
+,Javed Akhtar,,False,4 | Javed Akhtar,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+,"Gulzar , Irshad Kamil",,False,"3 | Gulzar , Irshad Kamil",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+,"Prasoon Joshi , Amitabh Bhattacharya",,False,"2 | Prasoon Joshi , Amitabh Bhattacharya",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+,Anand Bakshi,,False,5 | Anand Bakshi,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+,"Javed Akhtar , Gulzar",,False,"4 | Javed Akhtar , Gulzar",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+,"Prasoon Joshi , Sameer , Manoj Muntashir",,False,"2 | Prasoon Joshi , Sameer , Manoj Muntashir",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+1998,,Javed Akhtar,True,"1998 ( 1 st ) |  | Javed Akhtar † | "" Sandese Aate Hai "" | Border | [ 1 ]",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+1998,Bholi Si Surat,Dil To Pagal Hai,False,"Anand Bakshi ‡ | ""Bholi Si Surat"" | Dil To Pagal Hai",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+1998,Dil To Pagal Hai,,False,"Anand Bakshi | ""Dil To Pagal Hai""",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+1998,I Love My India,Pardes,False,"Anand Bakshi ‡ | ""I Love My India"" | Pardes",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+1998,Sona Kitna Sona Hai,Hero No. 1,False,"Sameer | ""Sona Kitna Sona Hai"" | Hero No. 1",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+1999,,Sameer,True,"1999 ( 2nd) |  | Sameer ‡ | "" Kuch Kuch Hota Hai "" | Kuch Kuch Hota Hai | [ 2 ]",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2000,,Anand Bakshi,True,"2000 ( 3rd ) |  | Anand Bakshi † | "" Ishq Bina "" | Taal | [ 3 ]",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2000,Taal Se Taal,Taal,False,"Anand Bakshi ‡ | ""Taal Se Taal"" | Taal",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2000,Biwi No.1,Biwi No.1,False,"Dev Kohli | ""Biwi No.1"" | Biwi No.1",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2000,Zindagi Maut Na Ban Jaye,Sarfarosh,False,"Israr Ansari ‡ | ""Zindagi Maut Na Ban Jaye"" | Sarfarosh",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2000,Chand Chupa Badal Mein,Hum Dil De Chuke Sanam,False,"Mehboob | ""Chand Chupa Badal Mein"" | Hum Dil De Chuke Sanam",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2001,,Javed Akhtar,True,"2001 ( 4th) |  | Javed Akhtar † | "" Panchhi Nadiya "" | Refugee | [ 4 ]",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2002,Javed Akhtar,Radha Kaise Na Jale,True,"2002 ( 5th) | Javed Akhtar ‡ | "" Radha Kaise Na Jale "" | Lagaan | [ 5 ]",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2003,,Gulzar,True,"2003 ( 6th) |  | Gulzar † | "" Saathiya "" | Saathiya | [ 6 ]",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2004,,Amrita Pritam,True,"2004 ( 7th) |  | Amrita Pritam | "" Charka Chalati Hai "" | Pinjar | [ 7 ]",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2005,,Javed Akhtar,True,"2005 (8th) |  | Javed Akhtar | "" Yeh Jo Des Hai Tera "" | Swades | [ 8 ]",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2006,,Gulzar,True,"2006 ( 9th) |  | Gulzar † | "" Kajra Re "" | Bunty Aur Babli | [ 9 ]",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2007,,Prasoon Joshi,True,"2007 ( 10th ) |  | Prasoon Joshi | "" Masti Ki Paathshaala "" | Rang De Basanti | [ 10 ]",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2007,Beedi Jalaile,Omkara,False,"Gulzar ‡ | ""Beedi Jalaile"" | Omkara",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2007,Mitwa,Kabhi Alvida Naa Kehna,False,"Javed Akhtar ‡ | "" Mitwa "" | Kabhi Alvida Naa Kehna",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2007,Yeh Honsla,Dor,False,"Mir Ali Hussain | ""Yeh Honsla"" | Dor",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2007,Bande Mein Tha Dum,Lage Raho Munna Bhai,False,"Swanand Kirkire | ""Bande Mein Tha Dum"" | Lage Raho Munna Bhai",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2008,Prasoon Joshi,Maa,True,"2008 ( 11th ) | Prasoon Joshi † | "" Maa "" | Taare Zameen Par | [ 11 ]",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2008,Tere Bina,Guru,False,"Gulzar ‡ | "" Tere Bina "" | Guru",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2008,Main Agar Kahoon,Om Shanti Om,False,"Javed Akhtar ‡ | ""Main Agar Kahoon"" | Om Shanti Om",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2008,Jab Se Tere Naina,Saawariya,False,"Sameer Anjaan ‡ | ""Jab Se Tere Naina"" | Saawariya",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2008,In Dino,Life in a... Metro,False,"Sayeed Quadri | ""In Dino"" | Life in a... Metro",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2009,Not Awarded,,True,2009 (12th) | Not Awarded | ,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2010,Not Awarded,,True,2010 ( 13th) | Not Awarded | ,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2011,Not Awarded,,True,2011 ( 14th ) | Not Awarded | ,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2012,,Irshad Kamil,True,"2012 ( 15th ) |  | Irshad Kamil † | "" Jo Bhi Main "" | Rockstar | [ 12 ]",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2013,Not Awarded,,True,2013 ( 16th ) | Not Awarded | ,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2014,,Mithoon,True,"2014 ( 17th) |  | Mithoon † | "" Tum Hi Ho "" | Aashiqui 2 | [ 13 ]",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2015,Not Awarded,,True,2015 ( 18th) | Not Awarded | ,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2016,,Varun Grover,True,"2016 ( 18th) |  | Varun Grover † | "" Moh Moh Ke Dhaage "" | Dum Laga Ke Haisha | [ 14 ]",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2017,,Irshad Kamil,True,"2017 ( 19th) |  | Irshad Kamil † | "" Jag Ghoomeya "" | Sultan | [ 15 ]",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2018,,Amitabh Bhattacharya,True,"2018 ( 20th) |  | Amitabh Bhattacharya † | "" Zaalima "" | Raees | [ 16 ]",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2019,,Gulzar,True,"2019 ( 2 1st ) |  | Gulzar ‡ | "" Dilbaro "" | Raazi | [ 17 ]",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2019,Ek Dil Ek Jaan,Padmaavat,False,"A. M. Turaz | ""Ek Dil Ek Jaan"" | Padmaavat",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2019,Dhadak,Dhadak,False,"Amitabh Bhattacharya | ""Dhadak"" | Dhadak",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2019,Ae Watan,Raazi,False,"Gulzar † | "" Ae Watan "" | Raazi",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2019,Mere Naam Tu,Zero,False,"Irshad Kamil ‡ | ""Mere Naam Tu"" | Zero",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2019,Main Zinda Hoon,Paltan,False,"Javed Akhtar | ""Main Zinda Hoon"" | Paltan",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2020,,Manoj Muntashir,True,"2020 ( 22nd) |  | Manoj Muntashir ‡ | "" Teri Mitti "" | Kesari | [ 18 ]",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2020,Apna Time Aayega,Gully Boy,False,"Divine & Ankur Tewari † | ""Apna Time Aayega"" | Gully Boy",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2020,Ghungroo,War,False,"Kumaar | "" Ghungroo "" | War",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2020,Ve Maahi,Kesari,False,"Manoj Muntashir ‡ | ""Ve Maahi"" | Kesari",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2020,Tujhe Kitna Chahne Lage,Kabir Singh,False,"Mithoon ‡ | "" Tujhe Kitna Chahne Lage "" | Kabir Singh",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2021,Not Awarded,,True,2021 | Not Awarded | ,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2022,Not Awarded,,True,2022 | Not Awarded | ,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2023,,Amitabh Bhattacharya,True,"2023 ( 2 3rd ) |  | Amitabh Bhattacharya † | "" Kesariya "" | Brahmāstra: Part One – Shiva | [ 19 ]",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2024,,Kumaar,True,"2024 (24th ) |  | Kumaar † | ""Chaleya"" | Jawan | ",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist
+2025,,Irshad Kamil,True,"2025 (25th ) |  | Irshad Kamil † | ""Mainu Vida Karo"" | Amar Singh Chamkila | ",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Lyricist

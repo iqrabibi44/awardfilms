@@ -1,0 +1,69 @@
+year,film,person,is_winner,raw_text,source_url
+,"Gulzar , Rajkumar Hirani",,False,"4 | Gulzar , Rajkumar Hirani",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+,"Rahi Masoom Raza , Aditya Chopra , Abhijat Joshi",,False,"3 | Rahi Masoom Raza , Aditya Chopra , Abhijat Joshi",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+,"Wajahat Mirza , Rajinder Singh Bedi , Akhtar ul Iman , Javed Akhtar , Kader Khan",,False,"2 | Wajahat Mirza , Rajinder Singh Bedi , Akhtar ul Iman , Javed Akhtar , Kader Khan",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+2025,Sneha Desai,Laapataa Ladies,False,2025 | Sneha Desai | Laapataa Ladies,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+2024,Ishita Moitra,Rocky Aur Rani Kii Prem Kahaani,False,2024 | Ishita Moitra | Rocky Aur Rani Kii Prem Kahaani,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+2023,Prakash Kapadia & Utkarshini Vashishtha,Gangubai Kathiawadi,False,2023 | Prakash Kapadia & Utkarshini Vashishtha | Gangubai Kathiawadi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+2022,Dibakar Banerjee & Varun Grover,Sandeep aur Pinky Faraar,False,2022 | Dibakar Banerjee & Varun Grover | Sandeep aur Pinky Faraar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+2021,Juhi Chaturvedi,Gulabo Sitabo,False,2021 | Juhi Chaturvedi | Gulabo Sitabo,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+2020,Vijay Maurya,Gully Boy,False,2020 | Vijay Maurya | Gully Boy,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+2019,Akshat Ghildial,Badhaai Ho,False,2019 | Akshat Ghildial | Badhaai Ho,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+2018,Hitesh Kewaliya,Shubh Mangal Saavdhan,False,2018 | Hitesh Kewaliya | Shubh Mangal Saavdhan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+2017,Ritesh Shah,Pink,False,2017 | Ritesh Shah | Pink,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+2016,Himanshu Sharma,Tanu Weds Manu Returns,False,2016 | Himanshu Sharma | Tanu Weds Manu Returns,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+2015,Rajkumar Hirani & Abhijat Joshi,PK,False,2015 | Rajkumar Hirani & Abhijat Joshi | PK,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+2014,Subhash Kapoor,Jolly LLB,False,2014 | Subhash Kapoor | Jolly LLB,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+2013,"Anurag Kashyap , Zeishan Quadri , Abhishek Jaiswal & Sachin Ladia",Gangs of Wasseypur,False,"2013 | Anurag Kashyap , Zeishan Quadri , Abhishek Jaiswal & Sachin Ladia | Gangs of Wasseypur",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+2012,Farhan Akhtar,Zindagi Na Milegi Dobara,False,2012 | Farhan Akhtar | Zindagi Na Milegi Dobara,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+2011,Habib Faisal,Do Dooni Chaar,False,2011 | Habib Faisal | Do Dooni Chaar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+2010,Rajkumar Hirani & Abhijat Joshi,3 Idiots,False,2010 | Rajkumar Hirani & Abhijat Joshi | 3 Idiots,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+2009,Manu Rishi,Oye Lucky! Lucky Oye!,False,2009 | Manu Rishi | Oye Lucky! Lucky Oye!,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+2008,Imtiaz Ali,Jab We Met,False,2008 | Imtiaz Ali | Jab We Met,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+2007,Rajkumar Hirani & Abhijat Joshi,Lage Raho Munnabhai,False,2007 | Rajkumar Hirani & Abhijat Joshi | Lage Raho Munnabhai,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+2006,Prakash Jha,Apaharan,False,2006 | Prakash Jha | Apaharan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+2005,Aditya Chopra,Veer-Zaara,False,2005 | Aditya Chopra | Veer-Zaara,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+2004,Abbas Tyrewala,Munnabhai M.B.B.S.,False,2004 | Abbas Tyrewala | Munnabhai M.B.B.S.,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+2003,Gulzar Jaideep Sahni,Saathiya Company,False,2003 | Gulzar Jaideep Sahni | Saathiya Company,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+2002,Karan Johar,Kabhi Khushi Kabhie Gham,False,2002 | Karan Johar | Kabhi Khushi Kabhie Gham,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+2001,O. P. Dutta,Refugee,False,2001 | O. P. Dutta | Refugee,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+2000,Hriday Lani,Sarfarosh,False,2000 | Hriday Lani | Sarfarosh,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+1999,Rajkumar Santoshi & K.K. Raina,Chinagate,False,1999 | Rajkumar Santoshi & K.K. Raina | Chinagate,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+1998,Aditya Chopra,Dil To Pagal Hai,False,1998 | Aditya Chopra | Dil To Pagal Hai,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+1997,Gulzar,Maachis,False,1997 | Gulzar | Maachis,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+1996,"Aditya Chopra , Javed Siddiqi",Dilwale Dulhania Le Jayenge,False,"1996 | Aditya Chopra , Javed Siddiqi | Dilwale Dulhania Le Jayenge",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+1995,K. K. Singh,Krantiveer,False,1995 | K. K. Singh | Krantiveer,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+1994,Prof. Jay Dixit,Sir,False,1994 | Prof. Jay Dixit | Sir,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+1993,Kader Khan,Angaar,False,1993 | Kader Khan | Angaar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+1992,Rahi Masoom Reza,Lamhe,False,1992 | Rahi Masoom Reza | Lamhe,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+1991,Suraj Sanim,Daddy,False,1991 | Suraj Sanim | Daddy,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+1990,Javed Akhtar,Main Azaad Hoon,False,1990 | Javed Akhtar | Main Azaad Hoon,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+1989,Kamlesh Pandey,Tezaab,False,1989 | Kamlesh Pandey | Tezaab,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+1986,Rahi Masoom Reza,Tawaif,False,1986 | Rahi Masoom Reza | Tawaif,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+1985,Sai Paranjpye,Sparsh,False,1985 | Sai Paranjpye | Sparsh,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+1984,Mahesh Bhatt,Arth,False,1984 | Mahesh Bhatt | Arth,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+1983,Achla Nagar,Nikaah,False,1983 | Achla Nagar | Nikaah,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+1982,Kader Khan,Meri Aawaz Suno,False,1982 | Kader Khan | Meri Aawaz Suno,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+1981,Shabd Kumar,Insaaf Ka Tarazu,False,1981 | Shabd Kumar | Insaaf Ka Tarazu,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+1980,Pt. Satyadev Dubey,Junoon,False,1980 | Pt. Satyadev Dubey | Junoon,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+1979,Rahi Masoom Reza,Main Tulsi Tere Aangan Ki,False,1979 | Rahi Masoom Reza | Main Tulsi Tere Aangan Ki,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+1978,Vrajendra Gaur,Dulhan Wahi Jo Piya Man Bhaye,False,1978 | Vrajendra Gaur | Dulhan Wahi Jo Piya Man Bhaye,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+1977,Sagar Sarhadi,Kabhi Kabhie,False,1977 | Sagar Sarhadi | Kabhi Kabhie,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+1976,Salim–Javed,Deewaar,False,1976 | Salim–Javed | Deewaar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+1975,Kaifi Azmi,Garam Hawa,False,1975 | Kaifi Azmi | Garam Hawa,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+1974,Gulzar,Namak Haraam,False,1974 | Gulzar | Namak Haraam,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+1973,Ramesh Pant,Amar Prem,False,1973 | Ramesh Pant | Amar Prem [ 1 ] [ 2 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+1972,Gulzar,Anand,False,1972 | Gulzar | Anand,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+1971,Rajinder Singh Bedi,Satyakam,False,1971 | Rajinder Singh Bedi | Satyakam,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+1970,Pt. Anand Kumar,Anokhi Raat,False,1970 | Pt. Anand Kumar | Anokhi Raat,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+1969,S. Ali Raza,Saraswatichandra,False,1969 | S. Ali Raza | Saraswatichandra,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+1968,Manoj Kumar,Upkar,False,1968 | Manoj Kumar | Upkar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+1967,Vijay Anand,Guide,False,1967 | Vijay Anand | Guide,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+1966,Akhtar ul Iman,Waqt,False,1966 | Akhtar ul Iman | Waqt,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+1965,Govind Moonis,Dosti,False,1965 | Govind Moonis | Dosti,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+1964,Arjun Dev Rashk,Dil Ek Mandir,False,1964 | Arjun Dev Rashk | Dil Ek Mandir,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+1963,Akhtar ul Iman,Dharmputra,False,1963 | Akhtar ul Iman | Dharmputra,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+1962,Wajahat Mirza,Ganga Jamuna,False,1962 | Wajahat Mirza | Ganga Jamuna,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+1961,"Aman, Kamal Amrohi , Wajahat Mirza , Ehsan Rizvi",Mughal-e-Azam,False,"1961 | Aman, Kamal Amrohi , Wajahat Mirza , Ehsan Rizvi | Mughal-e-Azam",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+1960,Ramanand Sagar,Paigham,False,1960 | Ramanand Sagar | Paigham,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue
+1959,Rajinder Singh Bedi,Madhumati,False,1959 | Rajinder Singh Bedi | Madhumati,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Dialogue

@@ -1,0 +1,58 @@
+year,film,person,is_winner,raw_text,source_url
+,Recipient,Film,False,Year | Recipient(s) | Film(s) | Language(s) | Refs.,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+1979,Jayoo Patwardhan,22 June 1897,False,1979 (27th) | Jayoo Patwardhan | 22 June 1897 | Marathi | [ 3 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+1980,Meera Lakhia,Bhavni Bhavai,False,1980 (28th) | Meera Lakhia | Bhavni Bhavai | Gujarati | [ 4 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+1981,Manzur,Umrao Jaan,False,1981 (29th) | Manzur | Umrao Jaan | Urdu | [ 5 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+1982,Nitish Roy,Kharij,False,1982 (30th) | Nitish Roy | Kharij | Bengali | [ 6 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+1983,Nitish Roy,Mandi,False,1983 (31st) | Nitish Roy | Mandi | Hindi | [ 7 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+1984,Nachiket Patwardhan,Utsav,False,1984 (32nd) | Nachiket Patwardhan | Utsav | Hindi | [ 8 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+1984,Jayoo Patwardhan,,False,Jayoo Patwardhan,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+1985,Sham Bhutker,Rao Saheb,False,1985 (33rd) | Sham Bhutker | Rao Saheb | Hindi | [ 9 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+1986,P. Krishnamoorthy,Madhvacharya,False,1986 (34th) | P. Krishnamoorthy | Madhvacharya | Kannada | [ 10 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+1987,Thota Tharani,Nayakan,False,1987 (35th) | Thota Tharani | Nayakan | Tamil | [ 11 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+1988,Thota Vaikuntam,Daasi,False,1988 (36th) | Thota Vaikuntam | Daasi | Telugu | [ 12 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+1989,P. Krishnamoorthy,Oru Vadakkan Veeragatha,False,1989 (37th) | P. Krishnamoorthy | Oru Vadakkan Veeragatha | Malayalam | [ 13 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+1990,Nitish Roy,Lekin...,False,1990 (38th) | Nitish Roy | Lekin... | Hindi | [ 14 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+1991,Samir Chanda,Rukmavati Ki Haveli,False,1991 (39th) | Samir Chanda | Rukmavati Ki Haveli | Hindi | [ 15 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+1992,Samir Chanda,Rudaali,False,1992 (40th) | Samir Chanda | Rudaali | Hindi | [ 16 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+1993,Suresh Sawant,Muhafiz,False,1993 (41st) | Suresh Sawant | Muhafiz | • Hindi • Urdu | [ 17 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+1994,Sabu Cyril,Thenmavin Kombath,False,1994 (42nd) | Sabu Cyril | Thenmavin Kombath | Malayalam | [ 18 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+1995,Sabu Cyril,Kalapani,False,1995 (43rd) | Sabu Cyril | Kalapani | Malayalam | [ 19 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+1996,Thota Tharani,Indian,False,1996 (44th) | Thota Tharani | Indian | Tamil | [ 20 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+1997,Ramesh Desai,Thaayi Saheba,False,1997 (45th) | Ramesh Desai | Thaayi Saheba | Kannada | [ 21 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+1998,Nitin Chandrakant Desai,Dr. Babasaheb Ambedkar,False,1998 (46th) | Nitin Chandrakant Desai | Dr. Babasaheb Ambedkar | English | [ 22 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+1999,Nitin Chandrakant Desai,Hum Dil De Chuke Sanam,False,1999 (47th) | Nitin Chandrakant Desai | Hum Dil De Chuke Sanam | Hindi | [ 23 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+2000,P. Krishnamoorthy,Bharati,False,2000 (48th) | P. Krishnamoorthy | Bharati | Tamil | [ 24 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+2001,Nitin Chandrakant Desai,Lagaan,False,2001 (49th) | Nitin Chandrakant Desai | Lagaan | Hindi | [ 25 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+2002,Nitin Chandrakant Desai,Devdas,False,2002 (50th) | Nitin Chandrakant Desai | Devdas | Hindi | [ 26 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+2003,Indranil Ghosh,Chokher Bali,False,2003 (51st) | Indranil Ghosh | Chokher Bali | Bengali | [ 27 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+2003,Meenaxi: A Tale of Three Cities,Hindi,False,Sharmishta Roy | Meenaxi: A Tale of Three Cities | Hindi,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+2004,Samir Chanda,Netaji Subhas Chandra Bose: The Forgotten Hero,False,2004 (52nd) | Samir Chanda | Netaji Subhas Chandra Bose: The Forgotten Hero | • English • Hindi | [ 28 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+2005,C. B. More,Taj Mahal: An Eternal Love Story,False,2005 (53rd) | C. B. More | Taj Mahal: An Eternal Love Story | Hindi | [ 29 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+2006,Rashid Rangrez,Waris Shah: Ishq Daa Waaris,False,2006 (54th) | Rashid Rangrez | Waris Shah: Ishq Daa Waaris | Punjabi | [ 30 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+2007,Sabu Cyril,Om Shanti Om,False,2007 (55th) | Sabu Cyril | Om Shanti Om | Hindi | [ 31 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+2008,Gautam Sen,Firaaq,False,2008 (56th) | Gautam Sen | Firaaq | Hindi | [ 1 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+2009,Samir Chanda,Delhi-6,False,2009 (57th) | Samir Chanda | Delhi-6 | Hindi | [ 2 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+2010,Sabu Cyril,Enthiran,False,2010 (58th) | Sabu Cyril | Enthiran | Tamil | [ 32 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+2011,Indranil Ghosh,Noukadubi,False,2011 (59th) | Indranil Ghosh | Noukadubi | Bengali | [ 33 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+2012,Boontawee 'Thor' Taweepasas,Vishwaroopam,False,2012 (60th) | Boontawee 'Thor' Taweepasas | Vishwaroopam | Tamil | [ 34 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+2012,Lalgudi N. Ilayaraja,,False,Lalgudi N. Ilayaraja,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+2013,Ashim Ahluwalia,Miss Lovely,False,2013 (61st) | Ashim Ahluwalia | Miss Lovely | Hindi | [ 35 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+2013,Tabasheer Zutshi,,False,Tabasheer Zutshi,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+2013,Parichit Paralkar,,False,Parichit Paralkar,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+2014,Aparna Raina,Nachom-ia Kumpasar,False,2014 (62nd) | Aparna Raina | Nachom-ia Kumpasar | Konkani | [ 36 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+2015,Shriram Iyengar,Bajirao Mastani,False,2015 (63rd) | Shriram Iyengar | Bajirao Mastani | Hindi | [ 37 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+2015,Saloni Dhatrak,,False,Saloni Dhatrak,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+2015,Sujeet Sawant,,False,Sujeet Sawant,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+2016,Subrata Chakraborthy,24,False,2016 (64th) | Subrata Chakraborthy | 24 | Tamil | [ 38 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+2016,Shreyas Khedekar,,False,Shreyas Khedekar,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+2016,Amit Ray,,False,Amit Ray,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+2017,Santhosh Raman,Take Off,False,2017 (65th) | Santhosh Raman | Take Off | Malayalam | ,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+2018,Vinesh Banglan,Kammara Sambhavam,False,2018 (66th) | Vinesh Banglan | Kammara Sambhavam | Malayalam | [ 39 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+2019,Nilesh Wagh,Anandi Gopal,False,2019 (67th) | Nilesh Wagh | Anandi Gopal | Marathi | [ 40 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+2019,Sunil Nigwekar,,False,Sunil Nigwekar,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+2020,Anees Nadodi,Kappela,False,2020 (68th) | Anees Nadodi | Kappela | Malayalam | [ 41 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+2021,Dmitri Malich-Konkov,Sardar Udham,False,2021 (69th) | Dmitri Malich-Konkov | Sardar Udham | Hindi | [ 42 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+2021,Mansi Dhruv Mehta,,False,Mansi Dhruv Mehta,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+2022,Ananda Addhya,Aparajito,False,2022 (70th) | Ananda Addhya | Aparajito | Bengali | [ 43 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction
+2023,Mohandas,2018,False,2023 (71st) | Mohandas | 2018 | Malayalam | [ 44 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Art_Direction

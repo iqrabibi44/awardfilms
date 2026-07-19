@@ -1,0 +1,60 @@
+year,film,person,is_winner,raw_text,source_url
+,Indicates a joint award for that year,,False,† | Indicates a joint award for that year,https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,Indicates one role with multiple names,,False,/ | Indicates one role with multiple names,https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,Indicates that the winner won the award for double roles,,False,‡ | Indicates that the winner won the award for double roles,https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,Rajkumar,False,1967-68 |  | Rajkumar | Anand | Bangarada Hoovu | ,https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,R. Nagendra Rao,False,1968-69 | – | R. Nagendra Rao | Anantha Raya | Hannele Chiguridaga | ,https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,B. R. Panthulu,False,1969-70 |  | B. R. Panthulu | Thimmarasu / Appaji | Sri Krishnadevaraya | ,https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,Rajkumar,False,1970-71 |  | Rajkumar | • Raja Raghunatha Rao • Ravi / Chandrashekharaiah • Shankar / Anand | Kula Gourava | ,https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,Venkata Rao Thalageri,False,1971-72 | – | Venkata Rao Thalageri | Shrinivasa Shrothri | Vamsha Vriksha | ,https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,Vishnuvardhan,False,1972-73 |  | Vishnuvardhan | Ramachari | Naagarahaavu | ,https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,Lokesh,False,1973-74 | – | Lokesh | Sambayya / Ayyu | Bhootayyana Maga Ayyu | ,https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,Rajkumar,False,1974-75 |  | Rajkumar | Gora Kumbhar | Bhakta Kumbara | ,https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,M. V. Vasudeva Rao,False,1975-76 | – | M. V. Vasudeva Rao | Choma | Chomana Dudi | ,https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,Rajkumar,False,1976-77 ‡ |  | Rajkumar | • Arjuna • Babruvahana | Babruvahana | ,https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,Vishnuvardhan,False,1977-78 |  | Vishnuvardhan | Dr. Nataraj | Hombisilu | ,https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,Lokesh,False,1978-79 |  | Lokesh | Thimma | Parasangada Gendethimma | ,https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,Anant Nag,False,1979-80 |  | Anant Nag | Antony De'Souza | Minchina Ota | ,https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,Srinath,False,1980-81 |  | Srinath | Raghavendra | Shree Raghavendra Vaibhava | ,https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,Rajkumar,False,1981-82 |  | Rajkumar | Ravi | Hosa Belaku | ,https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,Rajkumar,False,1982-83 |  | Rajkumar | Ranga | Haalu Jenu | ,https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,Lokesh,False,1983-84 |  | Lokesh | Malgudi Margayya | Banker Margayya | ,https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,Vishnuvardhan,False,1984-85 |  | Vishnuvardhan | Dr. Harish | Bandhana | ,https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,Anant Nag,False,1985-86 |  | Anant Nag | Krishna Prasad | Hosa Neeru | ,https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,Charuhasan,False,1986-87 | – | Charuhasan | Tabara Shetty | Tabarana Kathe | ,https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,Anant Nag,False,1987-88 |  | Anant Nag | Krishnappa Gowda | Avasthe | ,https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,Rajkumar,False,1988-89 |  | Rajkumar | Krishna Murthy | Devatha Manushya | ,https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,Sridhar,False,1989-90 | – | Sridhar | Shishunala Sharif | Santha Shishunala Sharifa | ,https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,Vishnuvardhan,False,1990-91 ‡ |  | Vishnuvardhan | • Lion Jagapathi Rao • Kumar Raja | Lion Jagapathi Rao | ,https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,Devaraj,False,1991-92 |  | Devaraj | Veerappan | Veerappan | ,https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,Rajkumar,False,1992-93 |  | Rajkumar | Vishwanath | Jeevana Chaitra | ,https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,Rajkumar,False,1993-94 |  | Rajkumar | Ramanna | Odahuttidavaru | ,https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,Anant Nag,False,1994-95 |  | Anant Nag | Raghappa | Gangavva Gangamaayi | ,https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,Shiva Rajkumar,False,1995-96 |  | Shiva Rajkumar | Sathya Murthy / Sathya | Om | ,https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,Ramesh Aravind,False,1996-97 |  | Ramesh Aravind | Surya | America! America!! | ,https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,Vishnuvardhan,False,1997-98 |  | Vishnuvardhan | Swaroop Krishna Kumar | Laali | ,https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,Vishnuvardhan,False,1998-99 † |  | Vishnuvardhan | Veerappa Nayaka | Veerappa Nayaka | ,https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,Ramesh Aravind,Santosh,False, | Ramesh Aravind | Santosh | Hoomale | ,https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,Shiva Rajkumar,False,1999-2000 |  | Shiva Rajkumar | Ravi | Hrudaya Hrudaya | ,https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,H. G. Dattatreya,False,2000-01 |  | H. G. Dattatreya | Hasanabba | Munnudi | ,https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,V. Ravichandran,False,2001-02 ‡ |  | V. Ravichandran | • Raja • Ravi | Ekangi | [ 1 ],https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,Sudeepa,False,2002-03 |  | Sudeepa | Nandi | Nandhi | [ 2 ] [ 3 ] [ 4 ],https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,Shiva Rajkumar,False,2003-04 |  | Shiva Rajkumar | Shankar / Dattanna | Chigurida Kanasu | [ 5 ],https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,Sri Murali,False,2004-05 |  | Sri Murali | Kanthi / Srikanta | Kanthi | [ 6 ],https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,Shiva Rajkumar,False,2005-06 |  | Shiva Rajkumar | Madesha / Jogi | Jogi | [ 7 ],https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,Vijay,False,2006-07 |  | Vijay | Shivalingu | Duniya | [ 8 ],https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,Puneeth Rajkumar,False,2007-08 |  | Puneeth Rajkumar | Akash | Milana | ,https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,Yogesh,False,2008-09 | – | Yogesh | Dhananjaya / Dhanu | Ambari | ,https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,Vishnuvardhan,False,2009-10 ‡ |  | Vishnuvardhan (posthumously) | • Dr. Vijay • Vijaya Rajendra Bahaddur | Aaptha Rakshaka | [ 9 ],https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+,,Puneeth Rajkumar,False,2010-11 |  | Puneeth Rajkumar | Jackie | Jackie | [ 10 ],https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+2011,,Arjun Sarja,False,2011 |  | Arjun Sarja | Shankar | Prasad | [ 11 ],https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+2012,,Darshan,False,2012 |  | Darshan | Sangolli Rayanna | Krantiveera Sangolli Rayanna | [ 12 ],https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+2013,,Nikhil Manjoo,False,2013 | – | Nikhil Manjoo | Altaf | Hajj | [ 13 ],https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+2014,,Sanchari Vijay,False,2014 |  | Sanchari Vijay | Madesha (Vidya) | Naanu Avanalla...Avalu | [ 14 ],https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+2015,,Vijay Raghavendra,False,2015 |  | Vijay Raghavendra | Puttaraj Gawai | Shivayogi Sri Puttayyajja | [ 15 ],https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+2016,,Achyuth Kumar,False,2016 |  | Achyuth Kumar | Shivappa | Amaravathi | [ 16 ],https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+2017,,Vishruth Naik,False,2017 | – | Vishruth Naik | Bhyra | Manjari | [ 17 ],https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+2018,,Raghavendra Rajkumar,False,2018 |  | Raghavendra Rajkumar | Rajeeva | Ammana Mane | [ 18 ] [ 19 ],https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+2019,,Sudeepa,False,2019 |  | Sudeepa | Pailwan Krishna | Pailwaan | [ 20 ],https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+2020,,Prajwal Devaraj,False,2020 |  | Prajwal Devaraj | Bharath | Gentleman | [ 21 ],https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor
+2021,,Rakshit Shetty,False,2021 |  | Rakshit Shetty | Dharma | 777 Charlie | [ 22 ],https://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Actor

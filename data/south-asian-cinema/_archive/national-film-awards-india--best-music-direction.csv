@@ -1,0 +1,74 @@
+year,film,person,is_winner,raw_text,source_url
+,Recipient,Film,False,Year | Recipient(s) | Film(s) | Language | Refs.,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+1967,K. V. Mahadevan,Kandan Karunai,False,1967 (15th) | K. V. Mahadevan | Kandan Karunai | Tamil | [ 9 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+1968,Kalyanji Anandji,Saraswatichandra,False,1968 (16th) | Kalyanji Anandji | Saraswatichandra | Hindi | [ 10 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+1969,S. Mohinder,Nanak Nam Jahaz Hai,False,1969 (17th) | S. Mohinder | Nanak Nam Jahaz Hai | Punjabi | [ 11 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+1970,Madan Mohan,Dastak,False,1970 (18th) | Madan Mohan | Dastak | Hindi | [ 12 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+1971,Jaidev,Reshma Aur Shera,False,1971 (19th) | Jaidev | Reshma Aur Shera | Hindi | ,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+1972,Sachin Dev Burman,Zindagi Zindagi,False,1972 (20th) | Sachin Dev Burman | Zindagi Zindagi | Hindi | [ 13 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+1973,Satyajit Ray,Ashani Sanket,False,1973 (21st) | Satyajit Ray | Ashani Sanket | Bengali | [ 14 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+1974,Ananda Shankar,Chorus,False,1974 (22nd) | Ananda Shankar | Chorus | Bengali | [ 15 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+1975,Bhupen Hazarika,Chameli Memsaab,False,1975 (23rd) | Bhupen Hazarika | Chameli Memsaab | Assamese | [ 16 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+1976,B. V. Karanth,Rishya Shringa,False,1976 (24th) | B. V. Karanth | Rishya Shringa | Kannada | [ 17 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+1977,B. V. Karanth,Ghatashraddha,False,1977 (25th) | B. V. Karanth | Ghatashraddha | Kannada | [ 18 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+1978,Jaidev,Gaman,False,1978 (26th) | Jaidev | Gaman | Hindi | [ 19 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+1979,K. V. Mahadevan,Sankarabharanam,False,1979 (27th) | K. V. Mahadevan | Sankarabharanam | Telugu | [ 20 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+1980,Satyajit Ray,Hirak Rajar Deshe,False,1980 (28th) | Satyajit Ray | Hirak Rajar Deshe | Bengali | [ 21 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+1981,Khayyam,Umrao Jaan,False,1981 (29th) | Khayyam | Umrao Jaan | Hindi | [ 22 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+1982,Ramesh Naidu,Meghasandesam,False,1982 (30th) | Ramesh Naidu | Meghasandesam | Telugu | [ 23 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+1983,Ilaiyaraaja,Saagara Sangamam,False,1983 (31st) | Ilaiyaraaja | Saagara Sangamam | Telugu | [ 24 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+1984,Jaidev,Ankahee,False,1984 (32nd) | Jaidev | Ankahee | Hindi | [ 25 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+1985,Ilaiyaraaja,Sindhu Bhairavi,False,1985 (33rd) | Ilaiyaraaja | Sindhu Bhairavi | Tamil | [ 26 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+1986,M. Balamuralikrishna,Madhvacharya,False,1986 (34th) | M. Balamuralikrishna | Madhvacharya | Kannada | [ 27 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+1987,Vanraj Bhatia,Tamas,False,1987 (35th) | Vanraj Bhatia | Tamas | Hindi | [ 28 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+1988,Ilaiyaraaja,Rudra Veena,False,1988 (36th) | Ilaiyaraaja | Rudra Veena | Telugu | [ 29 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+1989,Sher Choudhury,Wosobipo,False,1989 (37th) | Sher Choudhury | Wosobipo | Karbi | [ 30 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+1990,Hridaynath Mangeshkar,Lekin...,False,1990 (38th) | Hridaynath Mangeshkar | Lekin... | Hindi | [ 31 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+1991,Rajat Dholakia,Dharavi,False,1991 (39th) | Rajat Dholakia | Dharavi | Hindi | [ 32 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+1992,A. R. Rahman,Roja,False,1992 (40th) | A. R. Rahman | Roja [ a ] | Tamil | [ 33 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+1993,Johnson,Ponthan Mada,False,1993 (41st) | Johnson | Ponthan Mada | Malayalam | [ 34 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+1994,Ravi,• Sukrutham • Parinayam,False,1994 (42nd) | Ravi (As Bombay Ravi) | • Sukrutham • Parinayam | Malayalam | [ 35 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+1994,Sukrutham,Malayalam,False,Johnson | Sukrutham | Malayalam,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+1995,Hamsalekha,Sangeetha Sagara Ganayogi Panchakshara Gavai,False,1995 (43rd) | Hamsalekha | Sangeetha Sagara Ganayogi Panchakshara Gavai | Kannada | [ 36 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+1996,A. R. Rahman,Minsara Kanavu,False,1996 (44th) | A. R. Rahman | Minsara Kanavu | Tamil | [ 37 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+1997,M. M. Keeravani,Annamayya,False,1997 (45th) | M. M. Keeravani | Annamayya | Telugu | [ 38 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+1998,Vishal Bhardwaj,Godmother,False,1998 (46th) | Vishal Bhardwaj | Godmother | Hindi | [ 39 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+1999,Ismail Darbar,Hum Dil De Chuke Sanam,False,1999 (47th) | Ismail Darbar | Hum Dil De Chuke Sanam | Hindi | [ 40 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+2000,Anu Malik,Refugee,False,2000 (48th) | Anu Malik | Refugee | Hindi | [ 41 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+2001,A. R. Rahman,Lagaan,False,2001 (49th) | A. R. Rahman | Lagaan | Hindi | [ 42 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+2002,A. R. Rahman,Kannathil Muthamittal,False,2002 (50th) | A. R. Rahman | Kannathil Muthamittal | Tamil | [ 43 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+2003,Shankar–Ehsaan–Loy,Kal Ho Naa Ho,False,2003 (51st) | Shankar–Ehsaan–Loy | Kal Ho Naa Ho | Hindi | [ 44 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+2004,Vidyasagar,Swarabhishekam,False,2004 (52nd) | Vidyasagar | Swarabhishekam | Telugu | [ 45 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+2005,Lalgudi Jayaraman,Sringaram,False,2005 (53rd) | Lalgudi Jayaraman | Sringaram | Tamil | [ 46 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+2006,Ashok Patki,Antarnad,False,2006 (54th) | Ashok Patki | Antarnad | Konkani | [ 47 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+2007,Ouseppachan,Ore Kadal,False,2007 (55th) | Ouseppachan | Ore Kadal | Malayalam | [ 48 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+2008,Ajay–Atul,Jogwa,False,2008 (56th) | Ajay–Atul | Jogwa | Marathi | [ 49 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+2009,Amit Trivedi,Dev.D,False,2009 (57th) | Amit Trivedi | Dev.D | Hindi | [ 50 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+2009,Pazhassi Raja,Malayalam,False,Ilaiyaraaja | Pazhassi Raja | Malayalam,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+2010,Vishal Bhardwaj,Ishqiya,False,2010 (58th) | Vishal Bhardwaj | Ishqiya | Hindi | [ 51 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+2010,Adaminte Makan Abu,Malayalam,False,Isaac Thomas Kottukapally | Adaminte Makan Abu | Malayalam,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+2011,Neel Dutt,Ranjana Ami Ar Ashbona,False,2011 (59th) | Neel Dutt | Ranjana Ami Ar Ashbona | Bengali | [ 52 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+2011,Laptop,Bengali,False,Mayookh Bhaumik | Laptop | Bengali,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+2012,Shailendra Barve,Samhita,False,2012 (60th) | Shailendra Barve | Samhita | Marathi | [ 53 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+2012,Kaliyachan,Malayalam,False,Bijibal | Kaliyachan | Malayalam,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+2013,Kabir Suman,Jaatishwar,False,2013 (61st) | Kabir Suman | Jaatishwar | Bengali | [ 54 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+2013,Naa Bangaaru Talli,Telugu,False,Shantanu Moitra | Naa Bangaaru Talli | Telugu,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+2014,Vishal Bhardwaj,Haider,False,2014 (62nd) | Vishal Bhardwaj | Haider | Hindi | [ 55 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+1983,Malayalam,,False,1983 | Malayalam,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+2015,M. Jayachandran,Ennu Ninte Moideen,False,2015 (63rd) | M. Jayachandran | Ennu Ninte Moideen | Malayalam | [ 56 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+2015,Tharai Thappattai,Tamil,False,Ilaiyaraaja | Tharai Thappattai | Tamil,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+2016,Bapu Padmanabha,Allama,False,2016 (64th) | Bapu Padmanabha | Allama | Kannada | [ 57 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+2017,A. R. Rahman,Kaatru Veliyidai,False,2017 (65th) | A. R. Rahman | Kaatru Veliyidai | Tamil | [ 58 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+2017,Hindi,,False,Mom | Hindi,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+2018,Sanjay Leela Bhansali,Padmaavat,False,2018 (66th) | Sanjay Leela Bhansali | Padmaavat | Hindi | [ 59 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+2018,Uri: The Surgical Strike,Hindi,False,Shashwat Sachdev | Uri: The Surgical Strike | Hindi,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+2019,D. Imman,Viswasam,False,2019 (67th) | D. Imman | Viswasam | Tamil | ,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+2019,Jyeshthoputro,Bengali,False,Prabuddha Banerjee | Jyeshthoputro | Bengali,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+2020,Thaman S,Ala Vaikunthapurramuloo,False,2020 (68th) | Thaman S | Ala Vaikunthapurramuloo | Telugu | [ 60 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+2020,Soorarai Pottru,Tamil,False,G. V. Prakash Kumar | Soorarai Pottru | Tamil,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+2021,Devi Sri Prasad,Pushpa: The Rise,False,2021 (69th) | Devi Sri Prasad | Pushpa: The Rise | Telugu | [ 61 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+2021,RRR,Telugu,False,M. M. Keeravani | RRR | Telugu,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+2022,Pritam,Brahmāstra: Part One – Shiva,False,2022 (70th) | Pritam | Brahmāstra: Part One – Shiva | Hindi | [ 62 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+2022,Ponniyin Selvan: I,Tamil,False,A. R. Rahman | Ponniyin Selvan: I | Tamil,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+2023,G. V. Prakash Kumar,Vaathi,False,2023 (71st) | G. V. Prakash Kumar | Vaathi | Tamil | [ 63 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction
+2023,Animal,Hindi,False,Harshavardhan Rameshwar | Animal | Hindi,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Music_Direction

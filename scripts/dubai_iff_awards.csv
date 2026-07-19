@@ -1,0 +1,65 @@
+edition_year,edition_number,category_name,nominee_text,film_title,country,lang
+2017,14,Best Fiction Feature,Annemarie Jacir,Wajib,Palestine,Arabic
+2017,14,Best Non-Fiction Feature,Ziad Kalthoum,Taste of Cement,Syria,Arabic
+2017,14,Special Jury Prize,Lucien Bourjeily,Heaven Without People,Lebanon,Arabic
+2017,14,Best Director,Sofia Djama,The Blessed,Algeria,French/Arabic
+2017,14,Best Actor,"Mohammad Bakri, Saleh Bakri",Wajib,Palestine,Arabic
+2017,14,Best Actress,Menha El Batrawi,Cactus Flower,Egypt,Arabic
+2016,13,Best Fiction Feature,Hussein Hassan,The Dark Wind,Iraq,Arabic
+2016,13,Best Non-Fiction Feature,Maher Abi Samra,A Maid for Each,Lebanon,Arabic
+2016,13,Special Jury Prize,Vatche Boulghourjian,Tramontane,Lebanon,Arabic
+2016,13,Best Director,Mohammed Hammad,Withered Green,Egypt,Arabic
+2016,13,Best Actor,Ali Sobhi,"Ali, the Goat and Ibrahim",Egypt,Arabic
+2016,13,Best Actress,Julia Kassar,Solitaire,Lebanon,Arabic
+2015,12,Best Fiction Feature,Leyla Bouzid,As I Open My Eyes,Tunisia,Arabic
+2015,12,Best Non-Fiction Feature,Mahmood Soliman,We Have Never Been Kids,Egypt,Arabic
+2015,12,Special Jury Prize,Mir-Jean Bou Chaaya,Very Big Shot,Lebanon,Arabic
+2015,12,Best Director,Hala Khalil,Nawara,Egypt,Arabic
+2015,12,Best Actor,Lotfi Abdelli,Borders of Heaven,Tunisia,Arabic
+2015,12,Best Actress,Ghalia Benali,As I Open My Eyes,Tunisia,Arabic
+2014,11,Best Fiction Feature,Khadija Al-Salami,"I Am Nojoom, Age 10 and Divorced",Yemen,Arabic
+2014,11,Best Non-Fiction Feature,Nujoom Alghanem,Nearby Sky,UAE,Arabic
+2014,11,Special Jury Prize,Ghassan Salhab,The Valley,Lebanon,Arabic
+2014,11,Best Director,Hisham Lasri,The Sea is Behind,Morocco,Arabic
+2014,11,Best Actor,Lyes Salem,The Man from Oran,Algeria,Arabic
+2014,11,Best Actress,Malak Djabali,The Horizon,Algeria,Arabic
+2013,10,Best Fiction Feature,Hany Abu-Assad,Omar,Palestine,Arabic
+2013,10,Best Non-Fiction Feature,Mahmoud Kaabour,Champ of the Camp,UAE,Arabic
+2013,10,Special Jury Prize,Rashid Masharawi,Palestine Stereo,Palestine,Arabic
+2013,10,Best Director,Hany Abu-Assad,Omar,Palestine,Arabic
+2013,10,Best Actor,Hassan Badida,They Are the Dogs,Morocco,Arabic
+2013,10,Best Actress,Yasmin Raeis,Factory Girl,Egypt,Arabic
+2012,9,Best Fiction Feature,Haifaa Al Mansour,Wadjda,Saudi Arabia,Arabic
+2012,9,Best Non-Fiction Feature,Mahmoud Kaabour,"The One, The Only, The Legend",UAE,Arabic
+2012,9,Special Jury Prize,Nadine Khan,"Chaos, Disorder",Egypt,Arabic
+2012,9,Best Director,Kamal El Mahouth,My Father is from Haifa,Palestine,Arabic
+2012,9,Best Actor,Amr Waked,Winter of Discontent,Egypt,Arabic
+2012,9,Best Actress,Waad Mohammed,Wadjda,Saudi Arabia,Arabic
+2011,8,Best Fiction Feature,Susan Youssef,Habibi Rasak Kharban,Palestine,Arabic
+2011,8,Best Non-Fiction Feature,Ghaith Al-Amine,The Sector,Lebanon,Arabic
+2011,8,Special Jury Prize,Yasmin Raafat,Gate of Departure,Egypt,Arabic
+2011,8,Best Director,Susan Youssef,Habibi Rasak Kharban,Palestine,Arabic
+2011,8,Best Actor,Mahmoud Asfa,Transit Cities,Jordan,Arabic
+2011,8,Best Actress,Soufia Baji,The Last Friday,Jordan,Arabic
+2010,7,Best Fiction Feature,Georges Hachem,Stray Bullet,Lebanon,Arabic
+2010,7,Best Non-Fiction Feature,"Marianne Khoury, Mustapha Hasnaoui",Zelal,Egypt,Arabic
+2010,7,Special Jury Prize,Bahij Hojeij,Here Comes the Rain,Lebanon,Arabic
+2010,7,Best Director,Georges Hachem,Stray Bullet,Lebanon,Arabic
+2010,7,Best Actor,Majid El Kedwany,678,Egypt,Arabic
+2010,7,Best Actress,"Bushra, Nelly Karim, Nahed El Sebaï",678,Egypt,Arabic
+2009,6,Best Fiction Feature,Michel Khleifi,Zindeeq,Palestine,Arabic
+2009,6,Best Director,Kamal Aljafari,Port of Memory,Palestine,Arabic
+2009,6,Best Actor,Nadim Sawalha,Everyday is a Holiday,Lebanon,Arabic
+2009,6,Best Actress,Nisreen Faour,Amreeka,Palestine,English/Arabic
+2008,5,Best Fiction Feature,Lyes Salem,Masquerades,Algeria,Arabic
+2008,5,Best Director,Lyes Salem,Masquerades,Algeria,Arabic
+2008,5,Best Actor,Lyes Salem,Masquerades,Algeria,Arabic
+2008,5,Best Actress,Hafsia Herzi,The Secret of the Grain,Tunisia,French
+2007,4,Best Fiction Feature,Philippe Aractingi,Under the Bombs,Lebanon,Arabic
+2007,4,Best Director,Philippe Aractingi,Under the Bombs,Lebanon,Arabic
+2007,4,Best Actor,Georges Khabbaz,Under the Bombs,Lebanon,Arabic
+2007,4,Best Actress,Nada Abou Farhat,Under the Bombs,Lebanon,Arabic
+2006,3,Best Fiction Feature,Djamila Sahraoui,Barakat!,Algeria,French/Arabic
+2006,3,Best Director,Djamila Sahraoui,Barakat!,Algeria,French/Arabic
+2006,3,Best Actor,Toufik Jallab,Barakat!,Algeria,French/Arabic
+2006,3,Best Actress,Bahia Rachedi,Barakat!,Algeria,French/Arabic

@@ -1,0 +1,611 @@
+year,film,person,is_winner,raw_text,source_url
+,1980,Son of Man,False,1 | 1980 | Son of Man | Yu Hyun-mok | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1981,Three Times Each for Short and Long Ways,False,2 | 1981 | Three Times Each for Short and Long Ways | Kim Ho-sun | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1983,People of Kkobang Neighborhood,False,3 | 1983 | People of Kkobang Neighborhood | Bae Chang-ho | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1984,Whale Hunting,False,4 | 1984 | Whale Hunting | Bae Chang-ho | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1985,Deep Blue Night,False,5 | 1985 | Deep Blue Night | Bae Chang-ho | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1986,Mulberry,False,6 | 1986 | Mulberry | Lee Doo-yong | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1987,Ticket,False,7 | 1987 | Ticket | Im Kwon-taek | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1988,"Now, We're Going to Geneva",False,"8 | 1988 | Now, We're Going to Geneva | Song Yeong-su | ",https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1989,Rainbow Over Seoul,False,9 | 1989 | Rainbow Over Seoul | Kim Ho-sun | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1990,Road to Cheongsong Prison,False,10 | 1990 | Road to Cheongsong Prison | Lee Doo-yong | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1991,Black Republic,False,11 | 1991 | Black Republic | Park Kwang-su | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1992,The Road to Racetrack,False,12 | 1992 | The Road to Racetrack | Jang Sun-woo | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1993,Sopyonje,False,13 | 1993 | Sopyonje | Im Kwon-taek | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1994,Hwa-Om-Kyung,False,14 | 1994 | Hwa-Om-Kyung | Jang Sun-woo | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1995,The Eternal Empire,False,15 | 1995 | The Eternal Empire | Park Jong-won | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1996,Festival,False,16 | 1996 | Festival | Im Kwon-taek | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1997,Green Fish,False,17 | 1997 | Green Fish | Lee Chang-dong | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1998,Christmas in August,False,18 | 1998 | Christmas in August | Hur Jin-ho | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1999,Spring in My Hometown,False,19 | 1999 | Spring in My Hometown | Lee Kwang-mo | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2000,Peppermint Candy,False,20 | 2000 | Peppermint Candy | Lee Chang-dong | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2001,One Fine Spring Day,False,21 | 2001 | One Fine Spring Day | Hur Jin-ho | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2002,Oasis,False,22 | 2002 | Oasis | Lee Chang-dong | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2003,Memories of Murder,False,23 | 2003 | Memories of Murder | Bong Joon-ho | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2004,Oldboy,False,24 | 2004 | Oldboy | Park Chan-wook | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2005,Duelist,False,25 | 2005 | Duelist | Lee Myung-se | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2006,Family Ties,False,26 | 2006 | Family Ties | Kim Tae-yong | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2007,The Show Must Go On,False,27 | 2007 | The Show Must Go On | Han Jae-rim | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2008,Night and Day,False,28 | 2008 | Night and Day | Hong Sang-soo | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2009,Mother,False,29 | 2009 | Mother | Bong Joon-ho | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2010,Poetry,False,30 | 2010 | Poetry | Lee Chang-dong | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2011,The Front Line,False,31 | 2011 | The Front Line | Jang Hoon | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2012,Pietà,False,32 | 2012 | Pietà | Kim Ki-duk | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2013,Snowpiercer,False,33 | 2013 | Snowpiercer | Bong Joon-ho | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2014,Hill of Freedom,False,34 | 2014 | Hill of Freedom | Hong Sang-soo | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2015,The Throne,False,35 | 2015 | The Throne | Lee Joon-ik | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2016,The Age of Shadows,False,36 | 2016 | The Age of Shadows | Kim Jee-woon | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2017,The Fortress,False,37 | 2017 | The Fortress | Hwang Dong-hyuk | [ 3 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2018,1987: When the Day Comes,False,38 | 2018 | 1987: When the Day Comes | Jang Joon-hwan | [ 4 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2019,Parasite,False,39 | 2019 | Parasite | Bong Joon-ho | [ 5 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2020,The Man Standing Next,False,40 | 2020 | The Man Standing Next | Woo Min-ho | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2021,The Book of Fish,False,41 | 2021 | The Book of Fish | Lee Jun-ik | [ 6 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2022,Decision to Leave,False,42 | 2022 | Decision to Leave | Park Chan-wook | [ 7 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2023,Next Sohee,False,43 | 2023 | Next Sohee | Jung Ju-ri | [ 8 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2024,A Wild Roomer,False,44 | 2024 | A Wild Roomer | Lee Jeong-hong | [ 9 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2025,The Final Semester,False,45 | 2025 | The Final Semester | Lee Ran-hee | [ 10 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1980,Yu Hyun-mok,False,1 | 1980 | Yu Hyun-mok | Son of Man | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1981,Kim Ho-sun,False,2 | 1981 | Kim Ho-sun | Three Times Each for Short and Long Ways | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1983,Bae Chang-ho,False,3 | 1983 | Bae Chang-ho | People of Kkobang Neighborhood | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1984,Bae Chang-ho,False,4 | 1984 | Bae Chang-ho | Whale Hunting | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1985,Jung Jin-woo,False,5 | 1985 | Jung Jin-woo | Adultery Tree | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1986,Im Kwon-taek,False,6 | 1986 | Im Kwon-taek | Gilsoddeum | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1987,Im Kwon-taek,False,7 | 1987 | Im Kwon-taek | Ticket | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1988,Song Yeong-su,False,"8 | 1988 | Song Yeong-su | Now, We're Going to Geneva | ",https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1989,Kim Ho-sun,False,9 | 1989 | Kim Ho-sun | Rainbow Over Seoul | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1990,Lee Doo-yong,False,10 | 1990 | Lee Doo-yong | Road to Cheongsong Prison | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1991,Park Kwang-su,False,11 | 1991 | Park Kwang-su | Black Republic | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1992,Jang Sun-woo,False,12 | 1992 | Jang Sun-woo | Road to the Racetrack | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1993,Im Kwon-taek,False,13 | 1993 | Im Kwon-taek | Sopyonje | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1994,Jang Sun-woo,False,14 | 1994 | Jang Sun-woo | Hwa-Om-Kyung | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1995,Yu Hyun-mok,False,"15 | 1995 | Yu Hyun-mok | Mommy, Star, and Sea Anemone | ",https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1996,Park Chul-soo,False,16 | 1996 | Park Chul-soo | Farewell My Darling | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1997,N/a,False,17 | 1997 | — N/a,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1998,Hur Jin-ho,False,18 | 1998 | Hur Jin-ho | Christmas in August | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1999,Lee Kwang-mo,False,19 | 1999 | Lee Kwang-mo | Spring in My Hometown | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2000,Lee Chang-dong,False,20 | 2000 | Lee Chang-dong | Peppermint Candy | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2001,Yim Soon-rye,False,21 | 2001 | Yim Soon-rye | Waikiki Brothers | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2002,Park Chan-wook,False,22 | 2002 | Park Chan-wook | Sympathy for Mr. Vengeance | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2003,Bong Joon-ho,False,23 | 2003 | Bong Joon-ho | Memories of Murder | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2004,Park Chan-wook,False,24 | 2004 | Park Chan-wook | Oldboy | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2005,Lee Myung-se,False,25 | 2005 | Lee Myung-se | Duelist | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2006,Yoo Ha,False,26 | 2006 | Yoo Ha | A Dirty Carnival | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2007,Lee Myung-se,False,27 | 2007 | Lee Myung-se | M | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2008,Kim Ki-duk,False,28 | 2008 | Kim Ki-duk | Dream | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2009,Kim Yong-hwa,False,29 | 2009 | Kim Yong-hwa | Take Off | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2010,Jang Hoon,False,30 | 2010 | Jang Hoon | Secret Reunion | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2011,Jang Hoon,False,31 | 2011 | Jang Hoon | The Front Line | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2012,Kim Ki-duk,False,32 | 2012 | Kim Ki-duk | Pietà | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2013,Bong Joon-ho,False,33 | 2013 | Bong Joon-ho | Snowpiercer | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2014,Zhang Lu,False,34 | 2014 | Zhang Lu | Gyeongju | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2015,Ryoo Seung-wan,False,35 | 2015 | Ryoo Seung-wan | Veteran | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2016,Lee Kyoung-mi,False,36 | 2016 | Lee Kyoung-mi | The Truth Beneath | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2017,Hwang Dong-hyuk,False,37 | 2017 | Hwang Dong-hyuk | The Fortress | [ 3 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2018,Yoon Jong-bin,False,38 | 2018 | Yoon Jong-bin | The Spy Gone North | [ 4 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2019,Bong Joon-ho,False,39 | 2019 | Bong Joon-ho | Parasite | [ 5 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2020,Lim Dae-hyung,False,40 | 2020 | Lim Dae-hyung | Moonlit Winter | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2021,Ryoo Seung-wan,False,41 | 2021 | Ryoo Seung-wan | Escape from Mogadishu | [ 6 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2022,Park Chan-wook,False,42 | 2022 | Park Chan-wook | Decision to Leave | [ 7 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2023,Ka Sung-moon,False,43 | 2023 | Ka Sung-moon | Dream Palace | [ 8 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2024,Kim Sung-su,False,44 | 2024 | Kim Sung-su | 12.12: The Day | [ 9 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2025,Jang Byung-ki,False,45 | 2025 | Jang Byung-ki | When This Summer is Over | [ 10 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1980,Choi Bool-am,False,1 | 1980 | Choi Bool-am | The Last Witness | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1981,Jeon Moo-song,False,2 | 1981 | Jeon Moo-song | Mandala | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1983,Ahn Sung-ki,False,3 | 1983 | Ahn Sung-ki | Polluted Ones | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1984,Ahn Sung-ki,False,4 | 1984 | Ahn Sung-ki | Village in the Mist | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1985,Hah Myung-joong,False,5 | 1985 | Hah Myung-joong | Blazing Sun | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1986,Lee Dae-geun,False,6 | 1986 | Lee Dae-geun | Mulberry | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1987,Shin Seong-il,False,7 | 1987 | Shin Seong-il | Lethe's Love Song | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1988,Yu In-chon,False,8 | 1988 | Yu In-chon | Diary of King Yeonsan | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1989,Park Joong-hoon,False,9 | 1989 | Park Joong-hoon | Chilsu and Mansu | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1990,Park Joong-hoon,False,10 | 1990 | Park Joong-hoon | The Lovers of Woomook-baemi | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1991,Lee Young-ha,False,11 | 1991 | Lee Young-ha | Only Because You Are a Woman | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1992,Moon Sung-keun,False,12 | 1992 | Moon Sung-keun | Road to the Racetrack | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1993,Kim Myung-gon,False,13 | 1993 | Kim Myung-gon | Sopyonje | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1994,Ahn Sung-ki,False,14 | 1994 | Ahn Sung-ki | Two Cops | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1995,Ahn Sung-ki,False,15 | 1995 | Ahn Sung-ki | The Eternal Empire | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1996,Ahn Sung-ki,False,16 | 1996 | Ahn Sung-ki | Festival | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1997,Han Suk-kyu,False,17 | 1997 | Han Suk-kyu | Green Fish | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1998,Song Kang-ho,False,18 | 1998 | Song Kang-ho | No. 3 | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1999,Lee Jung-jae,False,19 | 1999 | Lee Jung-jae | City of the Rising Sun | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2000,Park Joong-hoon,False,20 | 2000 | Park Joong-hoon | Nowhere to Hide | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2001,Choi Min-sik,False,21 | 2001 | Choi Min-sik | Failan | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2002,Sul Kyung-gu,False,22 | 2002 | Sul Kyung-gu | Oasis | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2003,Song Kang-ho,False,23 | 2003 | Song Kang-ho | Memories of Murder | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2004,Choi Min-sik,False,24 | 2004 | Choi Min-sik | Oldboy | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2005,Lee Byung-hun,False,25 | 2005 | Lee Byung-hun | A Bittersweet Life | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2006,Ahn Sung-ki,False,26 | 2006 | Ahn Sung-ki | Radio Star | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2007,Song Kang-ho,False,27 | 2007 | Song Kang-ho | The Show Must Go On | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2008,So Ji-sub,False,28 | 2008 | So Ji-sub | Rough Cut | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2009,Lee Beom-soo,False,29 | 2009 | Lee Beom-soo | Lifting King Kong | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2010,Gang Dong-won,False,30 | 2010 | Gang Dong-won | Secret Reunion | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2011,Ha Jung-woo,False,31 | 2011 | Ha Jung-woo | The Yellow Sea | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2012,Ahn Sung-ki,False,32 | 2012 | Ahn Sung-ki | Unbowed | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2013,Song Kang-ho,False,33 | 2013 | Song Kang-ho | The Face Reader | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2014,Choi Min-sik,False,34 | 2014 | Choi Min-sik | The Admiral: Roaring Currents | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2015,Jung Jae-young,False,"35 | 2015 | Jung Jae-young | Right Now, Wrong Then | ",https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2016,Lee Byung-hun,False,36 | 2016 | Lee Byung-hun | Inside Men | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2017,Sul Kyung-gu,False,37 | 2017 | Sul Kyung-gu | The Merciless | [ 3 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2018,Lee Sung-min,False,38 | 2018 | Lee Sung-min | The Spy Gone North | [ 4 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2019,Shin Ha-kyun,False,39 | 2019 | Shin Ha-kyun | Inseparable Bros | [ 5 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2020,Lee Byung-hun,False,40 | 2020 | Lee Byung-hun | The Man Standing Next | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2021,Sul Kyung-gu,False,41 | 2021 | Sul Kyung-gu | The Book of Fish | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2022,Jung Woo-sung,False,42 | 2022 | Jung Woo-sung | Hunt | [ 7 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2023,Ryu Jun-yeol,False,43 | 2023 | Ryu Jun-yeol | The Night Owl | [ 8 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2024,Lee Hee-joon,False,44 | 2024 | Lee Hee-joon | Handsome Guys | [ 9 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2025,Park Jeong-min,False,45 | 2025 | Park Jeong-min | The Ugly | [ 10 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1980,Chang Mi-hee,False,1 | 1980 | Chang Mi-hee | Neumi | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1981,Woo Yeon-jeong,False,2 | 1981 | Woo Yeon-jeong | I Will Stand in Front of You Again | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1983,Na Young-hee,False,"3 | 1983 | Na Young-hee | Sea Gull, Don't Fly Away | ",https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1984,Won Mi-kyung,False,4 | 1984 | Won Mi-kyung | Mulleya Mulleya | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1985,Lee Mi-sook,False,5 | 1985 | Lee Mi-sook | The Winter That Year Was Warm | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1986,Lee Mi-sook,False,6 | 1986 | Lee Mi-sook | Mulberry | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1987,Kim Ji-mee,False,7 | 1987 | Kim Ji-mee | Ticket | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1988,Lee Bo-hee,False,8 | 1988 | Lee Bo-hee | You My Rose Mellow | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1989,Kang Soo-yeon,False,9 | 1989 | Kang Soo-yeon | Come Come Come Upward | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1990,Kang Soo-yeon,False,10 | 1990 | Kang Soo-yeon | All That Falls Has Wings | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1991,Lee Hye-sook,False,11 | 1991 | Lee Hye-sook | Silver Stallion | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1992,Yoon Jeong-hee,False,12 | 1992 | Yoon Jeong-hee | Flower in Snow | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1993,Shim Hye-jin,False,13 | 1993 | Shim Hye-jin | Marriage Story | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1994,Kim Seo-ra,False,14 | 1994 | Kim Seo-ra | The Story of Two Women | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1995,Choi Myung-gil,False,15 | 1995 | Choi Myung-gil | Rosy Life | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1996,Bang Eun-jin,False,"16 | 1996 | Bang Eun-jin | 301, 302 | ",https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1997,Kim Seon-jae,False,17 | 1997 | Kim Seon-jae | Time Lasts | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1998,Shim Eun-ha,False,18 | 1998 | Shim Eun-ha | Christmas in August | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1999,Lee Mi-sook,False,19 | 1999 | Lee Mi-sook | An Affair | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2000,Jeon Do-yeon,False,20 | 2000 | Jeon Do-yeon | Happy End | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2001,Bae Doona,False,21 | 2001 | Bae Doona | Take Care of My Cat | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2002,Moon So-ri,False,22 | 2002 | Moon So-ri | Oasis | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2003,Lee Mi-sook,False,23 | 2003 | Lee Mi-sook | Untold Scandal | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2004,Yum Jung-ah,False,24 | 2004 | Yum Jung-ah | The Big Swindle | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2005,Jeon Do-yeon,False,25 | 2005 | Jeon Do-yeon | You Are My Sunshine | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2006,Jang Jin-young,False,26 | 2006 | Jang Jin-young | Blue Swallow | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2007,Jeon Do-yeon,False,27 | 2007 | Jeon Do-yeon | Secret Sunshine | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2008,Soo Ae,False,28 | 2008 | Soo Ae | Sunny | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2009,Kim Hye-ja,False,29 | 2009 | Kim Hye-ja | Mother | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2010,Seo Young-hee,False,30 | 2010 | Seo Young-hee | Bedevilled | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2011,Tang Wei,False,31 | 2011 | Tang Wei | Late Autumn | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2012,Jo Min-su,False,32 | 2012 | Jo Min-su | Pietà | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2013,Uhm Ji-won,False,33 | 2013 | Uhm Ji-won | Hope | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2014,Chun Woo-hee,False,34 | 2014 | Chun Woo-hee | Han Gong-ju | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2015,Kim Hye-soo,False,35 | 2015 | Kim Hye-soo | Coin Locker Girl | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2016,Son Ye-jin,False,36 | 2016 | Son Ye-jin | The Truth Beneath | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2017,Na Moon-hee,False,37 | 2017 | Na Moon-hee | I Can Speak | [ 3 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2018,Han Ji-min,False,38 | 2018 | Han Ji-min | Miss Baek | [ 4 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2019,Kim Hyang-gi,False,39 | 2019 | Kim Hyang-gi | Innocent Witness | [ 5 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2020,Jung Yu-mi,False,40 | 2020 | Jung Yu-mi | Kim Ji-young: Born 1982 | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2021,Moon So-ri,False,41 | 2021 | Moon So-ri | Three Sisters | [ 6 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2022,Tang Wei,False,42 | 2022 | Tang Wei | Decision to Leave | [ 7 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2023,Kim Seo-hyung,False,43 | 2023 | Kim Seo-hyung | Green House | [ 8 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2024,Kim Jae-hwa,False,44 | 2024 | Kim Jae-hwa | Blesser | [ 9 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2025,Jang Sun,False,45 | 2025 | Jang Sun | Red Nails | [ 10 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2013,Jo Jung-suk,False,33 | 2013 | Jo Jung-suk | The Face Reader | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2014,Kwak Do-won,False,34 | 2014 | Kwak Do-won | The Attorney | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2017,Yoo Hae-jin,False,37 | 2017 | Yoo Hae-jin | A Taxi Driver | [ 3 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2018,Ju Ji-hoon,False,38 | 2018 | Ju Ji-hoon | The Spy Gone North | [ 4 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2019,Jin Seon-kyu,False,39 | 2019 | Jin Seon-kyu | Extreme Job | [ 5 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2020,Park Jeong-min,False,40 | 2020 | Park Jeong-min | Deliver Us from Evil | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2021,Huh Joon-ho,False,41 | 2021 | Huh Joon-ho | Escape from Mogadishu | [ 6 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2022,Jo Woo-jin,False,42 | 2022 | Jo Woo-jin | Kingmaker | [ 7 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2023,Kim Jong-su,False,43 | 2023 | Kim Jong-su | Smugglers | [ 8 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2024,Hyun Bong-sik,False,44 | 2024 | Hyun Bong-sik | Victory | [ 9 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2025,Park Hee-soon,False,45 | 2025 | Park Hee-soon | No Other Choice | [ 10 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2013,Park Shin-hye,False,33 | 2013 | Park Shin-hye | Miracle in Cell No. 7 | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2014,Jo Yeo-jeong,False,34 | 2014 | Jo Yeo-jeong | Obsessed | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2017,Jeon Hye-jin,False,37 | 2017 | Jeon Hye-jin | The Merciless | [ 3 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2018,Kwon So-hyun,False,38 | 2018 | Kwon So-hyun | Miss Baek | [ 4 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2019,Kim Sae-byuk,False,39 | 2019 | Kim Sae-byuk | House of Hummingbird | [ 5 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2020,Kim Mi-kyung,False,40 | 2020 | Kim Mi-kyung | Kim Ji-young: Born 1982 | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2021,Kim Sun-young,False,41 | 2021 | Kim Sun-young | Three Sisters | [ 6 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2022,Jeon Hye-jin,False,42 | 2022 | Jeon Hye-jin | Hunt | [ 7 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2023,Lee Yoon-ji,False,43 | 2023 | Lee Yoon-ji | Dream Palace | [ 8 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2024,Yeom Hye-ran,False,44 | 2024 | Yeom Hye-ran | Citizen of a Kind | [ 9 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2025,Kim Geum-soon,False,45 | 2025 | Kim Geum-soon | Yadang: The Snitch | [ 10 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1986,Kwak Ji-kyoon,False,6 | 1986 | Kwak Ji-kyoon | Winter Wanderer | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1987,N/a,False,7 | 1987 | — N/a,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1988,Lee Kyu-hyung,False,8 | 1988 | Lee Kyu-hyung |  | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1989,Park Kwang-su,False,9 | 1989 | Park Kwang-su | Chilsu and Mansu | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1990,Kang Woo-suk,False,10 | 1990 | Kang Woo-suk | Happiness Does Not Come In Grades | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1991,Hwang Qu-duk,False,11 | 1991 | Hwang Qu-duk | Our Class Accepts Anyone Regardless of Grade | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1992,Kim Young-bin,False,12 | 1992 | Kim Young-bin | Kim's War | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1993,Hong Ki-seon,False,"13 | 1993 | Hong Ki-seon | Sorrow, Like a Withdrawn Dagger, Left My Heart | ",https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1994,Lee Jung-gook,False,14 | 1994 | Lee Jung-gook | The Story of Two Women | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1995,Kim Hong-joon,False,15 | 1995 | Kim Hong-joon | Rosy Life | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1996,Hong Sang-soo,False,16 | 1996 | Hong Sang-soo | The Day a Pig Fell into the Well | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1997,Lee Chang-dong,False,17 | 1997 | Lee Chang-dong | Green Fish | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1998,Chang Yoon-hyun,False,18 | 1998 | Chang Yoon-hyun | The Contact | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1999,Lee Jeong-hyang,False,19 | 1999 | Lee Jeong-hyang | Art Museum by the Zoo | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2000,Jung Ji-woo,False,20 | 2000 | Jung Ji-woo | Happy End | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2001,Song Il-gon,False,21 | 2001 | Song Il-gon | Flower Island | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2002,Kim In-shik,False,22 | 2002 | Kim In-shik | Road Movie | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2003,Jang Joon-hwan,False,23 | 2003 | Jang Joon-hwan | Save the Green Planet! | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2004,Choi Dong-hoon,False,24 | 2004 | Choi Dong-hoon | The Big Swindle | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2005,Bang Eun-jin,False,25 | 2005 | Bang Eun-jin | Princess Aurora | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2006,Kim Dae-woo,False,26 | 2006 | Kim Dae-woo | Forbidden Quest | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2007,"Jung Sik, Jung Beom-sik",False,"27 | 2007 | Jung Sik, Jung Beom-sik | Epitaph | ",https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2008,Jang Hoon,False,28 | 2008 | Jang Hoon | Rough Cut | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2009,Kang Hyeong-cheol,False,29 | 2009 | Kang Hyeong-cheol | Scandal Makers | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2010,Jang Cheol-soo,False,30 | 2010 | Jang Cheol-soo | Bedevilled | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2011,Park Jung-bum,False,31 | 2011 | Park Jung-bum | The Journals of Musan | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2012,"Shin A-ga, Lee Sang-cheol",False,"32 | 2012 | Shin A-ga, Lee Sang-cheol | Jesus Hospital | ",https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2013,Huh Jung,False,33 | 2013 | Huh Jung | Hide and Seek | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2014,Yang Woo-suk,False,34 | 2014 | Yang Woo-suk | The Attorney | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2015,Kim Tae-yong,False,35 | 2015 | Kim Tae-yong | Set Me Free | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2016,Yoon Ga-eun,False,36 | 2016 | Yoon Ga-eun | The World of Us | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2017,Kang Yoon-sung,False,37 | 2017 | Kang Yoon-sung | The Outlaws | [ 3 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2018,Jeon Go-woon,False,38 | 2018 | Jeon Go-woon | Microhabitat | [ 4 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2019,Kim Bora,False,39 | 2019 | Kim Bora | House of Hummingbird | [ 5 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2020,Yoon Dan-bi,False,40 | 2020 | Yoon Dan-bi | Moving On | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2021,Hong Eui-jeong,False,41 | 2021 | Hong Eui-jeong | Voice of Silence | [ 6 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2022,Lee Jung-jae,False,42 | 2022 | Lee Jung-jae | Hunt | [ 7 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2023,Ahn Tae-jin,False,43 | 2023 | Ahn Tae-jin | The Night Owl | [ 8 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2024,Cho Hyun-chul,False,44 | 2024 | Cho Hyun-chul | The Dream Songs | [ 9 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2025,Park Joon-ho,False,45 | 2025 | Park Joon-ho | 3670 | [ 10 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1980,Jung Han-yong,False,1 | 1980 | Jung Han-yong | Outsiders | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1981,N/a,False,2 | 1981 | — N/a,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1983,N/a,False,3 | 1983 | — N/a,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1984,N/a,False,4 | 1984 | — N/a,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1985,N/a,False,5 | 1985 | — N/a,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1986,N/a,False,6 | 1986 | — N/a,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1987,N/a,False,7 | 1987 | — N/a,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1988,N/a,False,8 | 1988 | — N/a,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1989,N/a,False,9 | 1989 | — N/a,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1990,Lee Geung-young,False,10 | 1990 | Lee Geung-young | Kuro Arirang | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1991,N/a,False,11 | 1991 | — N/a,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1992,N/a,False,12 | 1992 | — N/a,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1993,N/a,False,13 | 1993 | — N/a,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1994,Kim Byung-se,False,14 | 1994 | Kim Byung-se | Rosy Days | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1995,Lee Jung-jae,False,15 | 1995 | Lee Jung-jae | The Young Man | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1996,N/a,False,16 | 1996 | — N/a,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1997,Jung Woo-sung,False,17 | 1997 | Jung Woo-sung | Beat | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1998,Park Shin-yang,False,18 | 1998 | Park Shin-yang | The Letter | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1999,Lee Sung-jae,False,19 | 1999 | Lee Sung-jae | Art Museum by the Zoo | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2000,Sul Kyung-gu,False,20 | 2000 | Sul Kyung-gu | Peppermint Candy | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2001,Yang Dong-geun,False,21 | 2001 | Yang Dong-geun | Address Unknown | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2002,Hwang Jung-min,False,22 | 2002 | Hwang Jung-min | Road Movie | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2003,Park Hae-il,False,23 | 2003 | Park Hae-il | Jealousy Is My Middle Name | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2004,Gang Dong-won,False,24 | 2004 | Gang Dong-won | Temptation of Wolves | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2005,Ha Jung-woo,False,25 | 2005 | Ha Jung-woo | The Unforgiven | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2006,Lee Yeong-hoon,False,26 | 2006 | Lee Yeong-hoon | No Regret | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2007,Daniel Henney,False,27 | 2007 | Daniel Henney | My Father | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2008,Kang Ji-hwan,False,28 | 2008 | Kang Ji-hwan | Rough Cut | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2009,Choi Jae-woong,False,29 | 2009 | Choi Jae-woong | The Sword with No Name | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2010,Song Sae-byeok,False,30 | 2010 | Song Sae-byeok | The Servant | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2011,Lee Je-hoon,False,31 | 2011 | Lee Je-hoon | The Front Line | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2012,Kim Sung-kyun,False,32 | 2012 | Kim Sung-kyun | The Neighbor | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2013,Yeo Jin-goo,False,33 | 2013 | Yeo Jin-goo | Hwayi: A Monster Boy | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2014,Park Yoochun,False,34 | 2014 | Park Yoochun | Haemoo | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2015,Choi Woo-shik,False,35 | 2015 | Choi Woo-shik | Set Me Free | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2016,N/a,False,36 | 2016 | — N/a,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2017,Park Seo-joon,False,37 | 2017 | Park Seo-joon | Midnight Runners | [ 3 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2018,Nam Joo-hyuk,False,38 | 2018 | Nam Joo-hyuk | The Great Battle | [ 4 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2019,Park Hyung-sik,False,39 | 2019 | Park Hyung-sik | Juror 8 | [ 5 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2020,Kwak Min-gyu,False,40 | 2020 | Kwak Min-gyu | Move The Grave | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2021,Lee Hong-nae,False,41 | 2021 | Lee Hong-nae | Made on the Rooftop | [ 6 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2022,Son Suk-ku,False,42 | 2022 | Son Suk-ku | The Roundup | [ 7 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2023,Park Jin-young,False,43 | 2023 | Park Jin-young | A Christmas Carol | [ 8 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2024,Lee Do-hyun,False,44 | 2024 | Lee Do-hyun | Exhuma | [ 9 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2025,Cho You-hyun,False,45 | 2025 | Cho You-hyun | 3670 | [ 10 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1980,N/a,False,1 | 1980 | — N/a,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1981,Na Young-hee,False,2 | 1981 | Na Young-hee | Children of Darkness | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1983,N/a,False,3 | 1983 | — N/a,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1984,Lee Bo-hee,False,4 | 1984 | Lee Bo-hee | Declaration of Fools | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1985,N/a,False,5 | 1985 | — N/a,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1986,N/a,False,6 | 1986 | — N/a,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1987,N/a,False,7 | 1987 | — N/a,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1988,N/a,False,8 | 1988 | — N/a,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1989,Jin Yeong-mi,False,9 | 1989 | Jin Yeong-mi | Come Come Come Upward | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1990,Lee Mi-yeon,False,10 | 1990 | Lee Mi-yeon | Happiness Does Not Come In Grades | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1991,Choi Jin-sil,False,"11 | 1991 | Choi Jin-sil | My Love, My Bride | ",https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1992,Lee A-ro,False,12 | 1992 | Lee A-ro | Stairway to Heaven | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1993,Oh Jeong-hae,False,13 | 1993 | Oh Jeong-hae | Sopyonje | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1994,Park Sun-young,False,14 | 1994 | Park Sun-young | The Man with Breasts | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1995,Lee Ji-eun,False,15 | 1995 | Lee Ji-eun | My Dear Keum-hong | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1996,Lee Jung-hyun,False,16 | 1996 | Lee Jung-hyun | A Petal | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1997,Lee Hye-eun,False,17 | 1997 | Lee Hye-eun | Corset | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1998,Jeon Do-yeon,False,18 | 1998 | Jeon Do-yeon | The Contact | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1999,Yunjin Kim,False,19 | 1999 | Yunjin Kim | Shiri | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2000,"Kim Min-sun , Park Ye-jin , Lee Young-jin",False,"20 | 2000 | Kim Min-sun , Park Ye-jin , Lee Young-jin | Memento Mori | ",https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2001,Seo Joo-hee,False,21 | 2001 | Seo Joo-hee | Flower Island | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2002,Son Ye-jin,False,22 | 2002 | Son Ye-jin | Lovers' Concerto | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2003,Im Soo-jung,False,23 | 2003 | Im Soo-jung | A Tale of Two Sisters | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2004,Kang Hye-jung,False,24 | 2004 | Kang Hye-jung | Oldboy | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2005,Jung Yu-mi,False,25 | 2005 | Jung Yu-mi | Blossom Again | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2006,Han Hyo-joo,False,26 | 2006 | Han Hyo-joo | Ad-lib Night | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2007,Park Si-yeon,False,27 | 2007 | Park Si-yeon | A Love | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2008,Seo Woo,False,28 | 2008 | Seo Woo | Crush and Blush | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2009,Park Bo-young,False,29 | 2009 | Park Bo-young | Scandal Makers | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2010,Lee Min-jung,False,30 | 2010 | Lee Min-jung | White Night | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2011,Yoo Da-in,False,31 | 2011 | Yoo Da-in | Re-encounter | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2012,Kim Go-eun,False,32 | 2012 | Kim Go-eun | A Muse | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2013,Jung Eun-chae,False,33 | 2013 | Jung Eun-chae | Nobody's Daughter Haewon | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2014,Lim Ji-yeon,False,34 | 2014 | Lim Ji-yeon | Obsessed | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2015,Kwon So-hyun,False,35 | 2015 | Kwon So-hyun | Madonna | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2016,Jeong Ha-dam,False,36 | 2016 | Jeong Ha-dam | Steel Flower | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2017,Choi Hee-seo,False,37 | 2017 | Choi Hee-seo | Anarchist from Colony | [ 3 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2018,Kim Ga-hee,False,38 | 2018 | Kim Ga-hee | Park Hwayoung | [ 4 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2019,Park Ji-hu,False,39 | 2019 | Park Ji-hu | House of Hummingbird | [ 5 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2020,Kang Mal-geum,False,40 | 2020 | Kang Mal-geum | Lucky Chan-sil,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2021,Gong Seung-yeon,False,41 | 2021 | Gong Seung-yeon | Aloners | [ 6 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2022,Lee Ji-eun,False,42 | 2022 | Lee Ji-eun | Broker | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2023,Kim Si-eun,False,43 | 2023 | Kim Si-eun | Next Sohee | [ 8 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2024,Kim Hyeong-seo,False,44 | 2024 | Kim Hyeong-seo | Hopeless | [ 9 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2025,Na Ae-jin,False,45 | 2025 | Na Ae-jin | Silver Apricot | [ 10 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1980,N/a,False,1 | 1980 | — N/a,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1981,Yoon Sam-yook,False,2 | 1981 | Yoon Sam-yook | The Hut | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1983,Song Kil-han,False,"3 | 1983 | Song Kil-han | Sea Gull, Don't Fly Away | ",https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1984,Im Choong,False,4 | 1984 | Im Choong | Mulleya Mulleya | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1985,"Yoon Sam-yook , Heo Jin",False,"5 | 1985 | Yoon Sam-yook , Heo Jin | The King's Poison | ",https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1986,Song Kil-han,False,6 | 1986 | Song Kil-han | Gilsoddeum | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1987,Choi Geum-dong,False,7 | 1987 | Choi Geum-dong | Jung-kwang's Nonsense | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1988,Bae Chang-ho,False,8 | 1988 | Bae Chang-ho | Our Joyful Young Days | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1989,Jang Sun-woo,False,9 | 1989 | Jang Sun-woo | The Age of Success | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1990,Kwon Jae-woo,False,10 | 1990 | Kwon Jae-woo | The Rooster | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1991,Lee Myung-se,False,"11 | 1991 | Lee Myung-se | My Love, My Bride | ",https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1992,Park Kwang-su,False,12 | 1992 | Park Kwang-su | Berlin Report | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1993,Hong Ki-seon,False,"13 | 1993 | Hong Ki-seon | Sorrow, Like a Withdrawn Dagger, Left My Heart | ",https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1994,Yoon Sam-yook,False,14 | 1994 | Yoon Sam-yook | I Will Survive | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1995,Yook Sang-hyo,False,15 | 1995 | Yook Sang-hyo | Rosy Life | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1996,Bae Chang-ho,False,16 | 1996 | Bae Chang-ho | Love Story | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1997,Lee Chang-dong,False,17 | 1997 | Lee Chang-dong | Green Fish | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1998,N/a,False,18 | 1998 | — N/a,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1999,Kang Je-gyu,False,19 | 1999 | Kang Je-gyu | Shiri | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2000,Lee Chang-dong,False,20 | 2000 | Lee Chang-dong | Peppermint Candy | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2001,Kim Ki-duk,False,21 | 2001 | Kim Ki-duk | Address Unknown | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2002,Park Chan-wook,False,22 | 2002 | Park Chan-wook | Sympathy for Mr. Vengeance | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2003,Im Sang-soo,False,23 | 2003 | Im Sang-soo | A Good Lawyer's Wife | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2004,Kim Ki-duk,False,24 | 2004 | Kim Ki-duk | 3-Iron | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2005,"Lee Won-jae, Kim Seong-je",False,"25 | 2005 | Lee Won-jae, Kim Seong-je | Blood Rain | ",https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2006,Kim Dae-woo,False,26 | 2006 | Kim Dae-woo | Forbidden Quest | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2007,Hur Jin-ho,False,27 | 2007 | Hur Jin-ho | Happiness | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2008,Hong Sang-soo,False,28 | 2008 | Hong Sang-soo | Night and Day | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2009,"Park Eun-kyo, Bong Joon-ho",False,"29 | 2009 | Park Eun-kyo, Bong Joon-ho | Mother | ",https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2010,Lee Chang-dong,False,30 | 2010 | Lee Chang-dong | Poetry | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2011,Park Sang-yeon,False,31 | 2011 | Park Sang-yeon | The Front Line | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2012,Yoon Jong-bin,False,32 | 2012 | Yoon Jong-bin | Nameless Gangster: Rules of the Time | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2013,Shin Yeon-shick,False,33 | 2013 | Shin Yeon-shick | The Russian Novel | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2014,Lee Su-jin,False,34 | 2014 | Lee Su-jin | Han Gong-ju | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2015,"Cho Chul-hyun, Oh Seung-hyeon, Lee Song-won",False,"35 | 2015 | Cho Chul-hyun, Oh Seung-hyeon, Lee Song-won | The Throne | ",https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2016,Shin Yeon-shick,False,36 | 2016 | Shin Yeon-shick | Dongju: The Portrait of a Poet | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2017,Hwang Seong-gu,False,37 | 2017 | Hwang Seong-gu | Anarchist from Colony | [ 3 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2018,"Kwak Kyung-taek , Kim Tae-gyun",False,"38 | 2018 | Kwak Kyung-taek , Kim Tae-gyun | Dark Figure of Crime | [ 4 ]",https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2019,Yook Sang-hyo,False,39 | 2019 | Yook Sang-hyo | Inseparable Bros | [ 5 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2020,Lim Dae-hyung,False,40 | 2020 | Lim Dae-hyung | Moonlit Winter | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2021,Kim Se-gyeom,False,41 | 2021 | Kim Se-gyeom | The Book of Fish | [ 6 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2022,"Park Chan-wook , Jeong Seo-kyeong",False,"42 | 2022 | Park Chan-wook , Jeong Seo-kyeong | Decision to Leave | [ 7 ]",https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2023,Kim Hyun-jung,False,43 | 2023 | Kim Hyun-jung | Flow | [ 8 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2024,Kim Da-min,False,44 | 2024 | Kim Da-min | FAQ | [ 9 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2025,The Final Semester,False,45 | 2025 | The Final Semester | Lee Ran-hee | [ 10 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1980,Jung Il-sung,False,1 | 1980 | Jung Il-sung |  | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1981,Jung Il-sung,False,2 | 1981 | Jung Il-sung | Mandala | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1983,Jeong Kwang-seok,False,3 | 1983 | Jeong Kwang-seok | People of Kkobang Neighborhood | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1984,Lee Seong-chun,False,4 | 1984 | Lee Seong-chun | Mulleya Mulleya | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1985,N/a,False,5 | 1985 | — N/a,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1986,N/a,False,6 | 1986 | — N/a,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1987,Koo Joong-mo,False,7 | 1987 | Koo Joong-mo | The Surrogate Woman | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1988,Park Seung-bae,False,8 | 1988 | Park Seung-bae | The Man with Three Coffins | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1989,Seo Jeong-min,False,9 | 1989 | Seo Jeong-min | Rainbow Over Seoul | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1990,Yoo Young-gil,False,10 | 1990 | Yoo Young-gil | The Lovers of Woomook-baemi | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1991,Yoo Young-gil,False,11 | 1991 | Yoo Young-gil | Black Republic | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1992,Jung Il-sung,False,12 | 1992 | Jung Il-sung | Road to the Racetrack | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1993,Jung Il-sung,False,13 | 1993 | Jung Il-sung | Sopyonje | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1994,Yoo Young-gil,False,14 | 1994 | Yoo Young-gil | Hwa-Om-Kyung | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1995,Chun Jo-myoung,False,15 | 1995 | Chun Jo-myoung | The Eternal Empire | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1996,Yoo Young-gil,False,16 | 1996 | Yoo Young-gil | A Petal | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,The Gingko Bed,,False,Park Hee-ju | The Gingko Bed | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1997,Kim Hyung-koo,False,17 | 1997 | Kim Hyung-koo | Beat | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1998,Yoo Young-gil,False,18 | 1998 | Yoo Young-gil | Christmas in August | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1999,Kim Hyung-koo,False,19 | 1999 | Kim Hyung-koo | Spring in My Hometown | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2000,Jung Il-sung,False,20 | 2000 | Jung Il-sung | Chunhyang | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2001,Kim Hyung-koo,False,21 | 2001 | Kim Hyung-koo | One Fine Spring Day | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2002,Jung Il-sung,False,22 | 2002 | Jung Il-sung | Chi-hwa-seon | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2003,Lee Mo-gae,False,23 | 2003 | Lee Mo-gae | A Tale of Two Sisters | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2004,Hong Kyung-pyo,False,24 | 2004 | Hong Kyung-pyo | Taegukgi | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2005,Choi Young-hwan,False,25 | 2005 | Choi Young-hwan | Blood Rain | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2006,Yoon Hong-sik,False,26 | 2006 | Yoon Hong-sik | Blue Swallow | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2007,Lee Du-nam,False,27 | 2007 | Lee Du-nam | May 18 | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2008,Byun Hee-sung,False,28 | 2008 | Byun Hee-sung | The Divine Weapon | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2009,Kim Young-ho,False,29 | 2009 | Kim Young-ho | Haeundae | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2010,Choi Young-hwan,False,30 | 2010 | Choi Young-hwan | Jeon Woo-chi: The Taoist Wizard | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2011,"Kim Tae-seong, Park Jong-chul",False,"31 | 2011 | Kim Tae-seong, Park Jong-chul | War of the Arrows | ",https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2012,Choi Young-hwan,False,32 | 2012 | Choi Young-hwan | The Thieves | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2013,Hong Kyung-pyo,False,33 | 2013 | Hong Kyung-pyo | Snowpiercer | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2014,Choi Chan-min,False,34 | 2014 | Choi Chan-min | Kundo: Age of the Rampant | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2015,Kim Woo-hyung,False,35 | 2015 | Kim Woo-hyung | Assassination | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2016,Chung Chung-hoon,False,36 | 2016 | Chung Chung-hoon | The Handmaiden | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2017,Kim Jee-yong,False,37 | 2017 | Kim Jee-yong | The Fortress | [ 3 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2018,Hong Kyung-pyo,False,38 | 2018 | Hong Kyung-pyo | Burning | [ 4 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2019,Hong Kyung-pyo,False,39 | 2019 | Hong Kyung-pyo | Parasite | [ 5 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2020,Lee Hyung-deok,False,40 | 2020 | Lee Hyung-deok | Peninsula | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2021,Choi Young-hwan,False,41 | 2021 | Choi Young-hwan | Escape from Mogadishu | [ 6 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2022,Kim Ji-yong,False,42 | 2022 | Kim Ji-yong | Decision to Leave | [ 7 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2023,Kim Tae-kyung,False,43 | 2023 | Kim Tae-kyung | The Night Owl | [ 8 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2024,Rodrigo Seh Park,False,44 | 2024 | Rodrigo Seh Park | Ms. Apocalypse | [ 9 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1980,Han Seong-ki,False,1 | 1980 | Han Seong-ki |  | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1981,N/a,False,2 | 1981 | — N/a,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1983,Kim Young-dong,False,3 | 1983 | Kim Young-dong | Polluted Ones | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1984,N/a,False,4 | 1984 | — N/a,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1985,N/a,False,5 | 1985 | — N/a,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1986,N/a,False,6 | 1986 | — N/a,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1987,Jung Sung-jo,False,7 | 1987 | Jung Sung-jo | Lethe's Love Story | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1988,Shin Byung-ha,False,8 | 1988 | Shin Byung-ha | You My Rose Mellow | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1989,Kim Jeong-ki,False,9 | 1989 | Kim Jeong-ki | Come Come Come Upward | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1990,Kang In-won,False,10 | 1990 | Kang In-won | Watercolor Painting in a Rainy Day | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1991,Kim Soo-chul,False,11 | 1991 | Kim Soo-chul | Black Republic | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1992,Jang Il-nam,False,12 | 1992 | Jang Il-nam | Blood and Fire | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1993,Kim Soo-chul,False,13 | 1993 | Kim Soo-chul | Sopyonje | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1994,Lee Jong-gu,False,14 | 1994 | Lee Jong-gu | Hwa-Om-Kyung | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1995,Hwang Byungki,False,15 | 1995 | Hwang Byungki | The Eternal Empire | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1996,Ok Kil-sung,False,16 | 1996 | Ok Kil-sung | The Day a Pig Fell into the Well | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1997,N/a,False,17 | 1997 | — N/a,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1998,"Choi Man-sik, Jo Yeong-wook",False,"18 | 1998 | Choi Man-sik, Jo Yeong-wook | The Contact | ",https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1999,Won Il,False,19 | 1999 | Won Il | Spring in My Hometown | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2000,Jo Seong-woo,False,20 | 2000 | Jo Seong-woo | Nowhere to Hide | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2001,Choi Kyung-shik,False,21 | 2001 | Choi Kyung-shik | The Last Witness | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2002,"Kim Dae-hong, Kim Yang-hee",False,"22 | 2002 | Kim Dae-hong, Kim Yang-hee | The Way Home | ",https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2003,Lee Byung-woo,False,23 | 2003 | Lee Byung-woo | Untold Scandal | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2004,Jo Yeong-wook,False,24 | 2004 | Jo Yeong-wook | Oldboy | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2005,"Jang Young-gyu, Dalpalan",False,"25 | 2005 | Jang Young-gyu, Dalpalan | A Bittersweet Life | ",https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2006,Bang Jun-seok,False,26 | 2006 | Bang Jun-seok | Radio Star | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2007,Kunihiko Ryo,False,27 | 2007 | Kunihiko Ryo | Beyond the Years | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2008,Kim Tae-seong,False,28 | 2008 | Kim Tae-seong | Crossing | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2009,Lee Jae-hak,False,29 | 2009 | Lee Jae-hak | Take Off | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2010,Kim Hong-jib,False,30 | 2010 | Kim Hong-jib | The Housemaid | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2011,"Jo Seong-woo, Choi Yeong-rok",False,"31 | 2011 | Jo Seong-woo, Choi Yeong-rok | Late Autumn | ",https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2012,Lee Ji-soo,False,32 | 2012 | Lee Ji-soo | Architecture 101 | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2013,Lee Byung-woo,False,33 | 2013 | Lee Byung-woo | The Face Reader | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2014,Jo Yeong-wook,False,34 | 2014 | Jo Yeong-wook | Kundo: Age of the Rampant | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2015,Bang Jun-seok,False,35 | 2015 | Bang Jun-seok | The Throne | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2016,Mowg,False,36 | 2016 | Mowg | The Age of Shadows | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2017,Ryuichi Sakamoto,False,37 | 2017 | Ryuichi Sakamoto | The Fortress | [ 3 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2018,Kim Tae-sung,False,38 | 2018 | Kim Tae-sung | 1987: When the Day Comes | [ 4 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2019,Kim Jun-suk,False,39 | 2019 | Kim Jun-suk | Swing Kids | [ 5 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2020,Kim Hae-won,False,40 | 2020 | Kim Hae-won | Moonlit Winter | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2021,Bang Jun-seok,False,41 | 2021 | Bang Jun-seok | Escape from Mogadishu | [ 6 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2022,Jo Yeong-wook,False,42 | 2022 | Jo Yeong-wook | Decision to Leave | [ 7 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2023,Chang Kiha,False,43 | 2023 | Chang Kiha | Smugglers | [ 8 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2024,Dalpalan,False,44 | 2024 | Dalpalan | Escape | [ 9 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1980,Go Hye-jin,False,1 | 1980 | Go Hye-jin |  | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1981,Lee Kyung-ja,False,2 | 1981 | Lee Kyung-ja (editing) | The Hut | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1983,N/a,False,3 | 1983 | — N/a,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1984,N/a,False,4 | 1984 | — N/a,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1985,N/a,False,5 | 1985 | — N/a,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1986,Kang Kwang-hee,False,6 | 1986 | Kang Kwang-hee (lighting) | Into the Heat of the Night | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1987,N/a,False,7 | 1987 | — N/a,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1988,N/a,False,8 | 1988 | — N/a,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1989,Kim Byeong-su,False,9 | 1989 | Kim Byeong-su (sound) | Come Come Come Upward | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1990,Yang Dae-ho,False,10 | 1990 | Yang Dae-ho (sound effects) | Korean Connection | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1991,Do Yong-woo,False,11 | 1991 | Do Yong-woo (art direction) | The General's Son | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1992,Hyeon Dong-chun,False,12 | 1992 | Hyeon Dong-chun (editing) | Death Song | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1993,Cho Young-sam,False,13 | 1993 | Cho Young-sam (art direction) | First Love | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1994,Cha Jung-nam,False,14 | 1994 | Cha Jung-nam (lighting) | Rosy Days | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1995,Kim Hyeon,False,15 | 1995 | Kim Hyeon (editing) | The Rules of the Game | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1996,Shin Cine Graphics,False,16 | 1996 | Shin Cine Graphics (visual effects) | The Gingko Bed | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1997,Lee Kang-san,False,17 | 1997 | Lee Kang-san | Beat | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1998,Yoon Woong-won,False,18 | 1998 | Yoon Woong-won (art direction) | The Quiet Family | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,The Contact,,False,Im Jae-young (lighting) | The Contact | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1999,Park Gok-ji,False,19 | 1999 | Park Gok-ji (editing) | Shiri | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2000,Yoo Dong-ryeol,False,20 | 2000 | Yoo Dong-ryeol (visual effects) | Phantom: The Submarine | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2001,Ahn Byeong-geun,False,21 | 2001 | Ahn Byeong-geun (editing) | Die Bad | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2002,"Kang Seung-yong, Oh Sang-man",False,"22 | 2002 | Kang Seung-yong, Oh Sang-man (art direction) | YMCA Baseball Team | ",https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2003,"Jang Geun-young , Kim Kyung-hee",False,"23 | 2003 | Jang Geun-young (art direction), Kim Kyung-hee (costume design) | Save the Green Planet! | ",https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2004,Jeong Do-an,False,24 | 2004 | Jeong Do-an (special effects) | Taegukgi | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2005,N/a,False,25 | 2005 | — N/a | Blood Rain | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2006,Cho Geun-hyun,False,26 | 2006 | Cho Geun-hyun (art direction) | Forbidden Quest | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2007,"Yoon Sang-yoon, Yoo Joo-ho",False,"27 | 2007 | Yoon Sang-yoon, Yoo Joo-ho (art direction) | M | ",https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2008,Jo Sang-gyeong,False,28 | 2008 | Jo Sang-gyeong (art direction) | Modern Boy | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2009,Jeong Seong-jin,False,29 | 2009 | Jeong Seong-jin (visual effects) | Take Off | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2010,Park Il-hyun,False,30 | 2010 | Park Il-hyun (art direction) | The Servant | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2011,Han Young-woo,False,31 | 2011 | Han Young-woo (visual effects) | War of the Arrows | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2012,Oh Heung-seok,False,32 | 2012 | Oh Heung-seok (art direction) | Masquerade | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2013,Jeong Seong-jin,False,33 | 2013 | Jeong Seong-jin (visual effects) | Mr. Go | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2014,Jang Choon-seob,False,34 | 2014 | Jang Choon-seob (art direction) | The Admiral: Roaring Currents | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2015,Ryu Seong-hee,False,35 | 2015 | Ryu Seong-hee (art direction) | Assassination | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2016,N/a,False,36 | 2016 | — N/a | Train to Busan | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2017,Lee Hwo-kyoung,False,37 | 2017 | Lee Hwo-kyoung (art direction) | The Battleship Island | [ 3 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2018,Jin Jong-hyun,False,38 | 2018 | Jin Jong-hyun (visual effects) | Along with the Gods: The Two Worlds | [ 4 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2019,Park Il-hyun,False,39 | 2019 | Park Il-hyun (art direction) | Swing Kids | [ 5 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2020,Jeong Do-an,False,40 | 2020 | Jeong Do-an (special effects) | Peninsula | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2021,"Jeong Seong-jin, Jeong Chol-min",False,"41 | 2021 | Jeong Seong-jin, Jeong Chol-min (VFX) | Space Sweepers | [ 6 ]",https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2022,"Jeong Seong-jin, Jeong Chol-min",False,"42 | 2022 | Jeong Seong-jin, Jeong Chol-min (VFX) | Hansan: Rising Dragon | [ 7 ]",https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2023,Lee Hoo-kyung,False,43 | 2023 | Lee Hoo-kyung | Smugglers | [ 8 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2024,Jeong I-jin,False,44 | 2024 | Jeong I-jin (art direction) | Cobweb | [ 9 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2014,Futureless Things,False,34 | 2014 | Futureless Things | Kim Kyung-mook | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2016,Tour of Duty,False,"36 | 2016 | Tour of Duty | Kim Dong-ryung, Park Kyoung-tae | ",https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2017,Troublers,False,37 | 2017 | Troublers | Lee Young | [ 3 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,Cho Hyun-hoon,,False,Jane | Cho Hyun-hoon | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2018,Kim Il-ran,False,38 | 2018 | Kim Il-ran | Lee Hyuk-sang | [ 4 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2019,House of Hummingbird,False,39 | 2019 | House of Hummingbird | Kim Bora | [ 5 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,Kang Sang-woo,,False,Kim-Gun | Kang Sang-woo,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2020,Han Ka-ram,False,40 | 2020 | Han Ka-ram | Our Body | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,East Asia Anti-Japan Armed Front,,False,Kim Mi-re | East Asia Anti-Japan Armed Front | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2021,Park Yun-jin,False,41 | 2021 | Park Yun-jin | People in Elancia | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,Gull,,False,Kim Mi-jo | Gull | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2022,"Kim Dong-ryeong, Park Gyeong-tae",False,"42 | 2022 | Kim Dong-ryeong, Park Gyeong-tae | The Pregnant Tree And The Goblin | [ 7 ]",https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,I am More,,False,Lee Il-ha | I am More,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2023,Kim Sae-in,False,43 | 2023 | Kim Sae-in (Feature Film Category) | The Apartment with Two Women | [ 8 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,Soup and Ideology,,False,Yang Young-hee (Documentary Category) | Soup and Ideology,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2024,Jeong Ji-hye,False,44 | 2024 | Jeong Ji-hye (Feature Film Category) | Jeong-Sun | [ 9 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,FC Sukhavati,,False,"Sun Seon-bin, Nabaru (Documentary Category) | FC Sukhavati",https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2006,Grain in Ear,False,26 | 2006 | Grain in Ear | Zhang Lu | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2008,My Dear Enemy,False,28 | 2008 | My Dear Enemy | Lee Yoon-ki | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2009,Breathless,False,29 | 2009 | Breathless | Yang Ik-june | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2010,A Brand New Life,False,30 | 2010 | A Brand New Life | Ounie Lecomte | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2011,Poongsan,False,31 | 2011 | Poongsan | Juhn Jai-hong | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2012,Pietà,False,32 | 2012 | Pietà | Kim Ki-duk | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2013,Jiseul,False,33 | 2013 | Jiseul | O Muel | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2014,The Fake,False,34 | 2014 | The Fake | Yeon Sang-ho | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2015,A Midsummer's Fantasia,False,35 | 2015 | A Midsummer's Fantasia | Jang Kun-jae | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2017,Okja,False,37 | 2017 | Okja | Bong Joon-ho | [ 3 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2018,Burning,False,38 | 2018 | Burning | Lee Chang-dong | [ 4 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2019,House of Hummingbird,False,39 | 2019 | House of Hummingbird | Kim Bora | [ 5 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2020,The Woman Who Ran,False,40 | 2020 | The Woman Who Ran | Hong Sang-soo | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2021,The Book of Fish,False,41 | 2021 | The Book of Fish | Lee Joon-ik | [ 6 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2022,Cassiopeia,False,42 | 2022 | Cassiopeia (Domestic) | Shin Yeon-shick | [ 7 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,Kogonada,,False,After Yang (Foreign) | Kogonada,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,Justin Chon,,False,Blue Bayou (Foreign) | Justin Chon,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2023,The Hill of Secrets,False,43 | 2023 | The Hill of Secrets (Domestic) | Lee Ji-eun | [ 11 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,Anthony Shim,,False,Riceboy Sleeps (Foreign) | Anthony Shim,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2024,Concerning My Daughter,False,44 | 2024 | Concerning My Daughter (Domestic) | Lee Mi-rang | [ 9 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,Julie Ha and Eugene Yi,,False,Free Chol Soo Lee (Foreign) | Julie Ha and Eugene Yi,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2025,No Other Choice,False,45 | 2025 | No Other Choice (Domestic) | Park Chan-wook | [ 10 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,Maggie Kang and Chris Appelhans,,False,KPop Demon Hunters (Foreign) | Maggie Kang and Chris Appelhans,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1980,Jung Jin-woo,False,1 | 1980 | Jung Jin-woo |  | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1986,Hwang Gi-seong,False,6 | 1986 | Hwang Gi-seong | Mother | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1987,Kang Dae-jin,False,7 | 1987 | Kang Dae-jin |  | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1988,Lee Tae-won,False,8 | 1988 | Lee Tae-won (Taehung Pictures) |  | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1989,Kim So-dong,False,9 | 1989 | Kim So-dong |  | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1990,Lee Tae-won,False,10 | 1990 | Lee Tae-won |  | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,Why Has Bodhi-Dharma Left for the East?,,False,— N/a | Why Has Bodhi-Dharma Left for the East? | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1993,Do Dong-hwan,False,13 | 1993 | Do Dong-hwan |  | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1997,Kim Soo-jung,False,17 | 1997 | Kim Soo-jung (animation) |  | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1999,"Kang Je-gyu , Byeon Mu-rim",False,"19 | 1999 | Kang Je-gyu , Byeon Mu-rim | Shiri | ",https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2000,Byun Young-joo,False,20 | 2000 | Byun Young-joo | My Own Breathing | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2001,N/a,False,21 | 2001 | — N/a | Friend | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2002,Jung So-young,False,22 | 2002 | Jung So-young | Love Me Once Again | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2004,Kim Dong-won,False,24 | 2004 | Kim Dong-won | Repatriation | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2011,Shim Jae-myung,False,"31 | 2011 | Shim Jae-myung | Leafie, A Hen into the Wild | ",https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2012,Oh Heung-seok,False,32 | 2012 | Oh Heung-seok (art direction) | Masquerade | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2013,Park Chul-soo,False,33 | 2013 | Park Chul-soo |  | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2018,Hong Ki-seon,False,38 | 2018 | Hong Ki-seon | The Discloser | [ 4 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1983,Seok Geum-seong,False,"3 | 1983 | Seok Geum-seong ( Sea Gull, Don't Fly Away ) | ",https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1991,Shin Seong-il,False,11 | 1991 | Shin Seong-il | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1992,Lee Woo-seok,False,12 | 1992 | Lee Woo-seok (Dong-A Export Co.) | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1994,Chung Ji-young,False,14 | 1994 | Chung Ji-young | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1995,Lee Chang-geun,False,15 | 1995 | Lee Chang-geun | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1996,Boim,False,16 | 1996 | Boim ( The Murmuring ) | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1998,Kim Ki-young,False,18 | 1998 | Kim Ki-young | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2000,Kim Ji-mee,False,20 | 2000 | Kim Ji-mee | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2005,Kim Jong-won,False,25 | 2005 | Kim Jong-won | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2006,Lee Kyung-ja,False,26 | 2006 | Lee Kyung-ja | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2008,Choi Eun-hee,False,28 | 2008 | Choi Eun-hee | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2014,Jung Il-sung,False,34 | 2014 | Jung Il-sung (cinematographer) | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2015,Jung Jin-woo,False,35 | 2015 | Jung Jin-woo (director) | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2018,Yoon Jeong-hee,False,38 | 2018 | Yoon Jeong-hee (actress) | [ 4 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2019,Um Aing-ran,False,39 | 2019 | Um Aing-ran (actress) | [ 5 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2020,Kim Jong-won,False,40 | 2020 | Kim Jong-won (critic) | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2021,Yoon Il-bong,False,41 | 2021 | Yoon Il-bong | [ 6 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2007,Yu Hyun-mok,False,27 | 2007 | Yu Hyun-mok | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2009,Kim Soo-yong,False,29 | 2009 | Kim Soo-yong | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2010,Shin Young-kyun,False,30 | 2010 | Shin Young-kyun | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2011,Jeong Chang-hwa,False,31 | 2011 | Jeong Chang-hwa | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2012,Hwang Jeong-sun,False,32 | 2012 | Hwang Jeong-sun | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2013,Shin Seong-il,False,33 | 2013 | Shin Seong-il | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2016,Im Kwon-taek,False,36 | 2016 | Im Kwon-taek | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2013,CJ CGV Star Award,False,"33 | 2013 | CJ CGV Star Award | Lee Jung-jae | The Face Reader , New World | ",https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2015,Special Appreciation Plaque,False,35 | 2015 | Special Appreciation Plaque | Ahn Sung-ki |  | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2022,Korean Association of Film 10 selections of Kim Hyun-seung,False,42 | 2022 | Korean Association of Film 10 selections of Kim Hyun-seung |  | Hansan: Rising Dragon | [ 12 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2009,Ahn Seung-beom,False,29 | 2009 | Ahn Seung-beom | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2010,Lee Ji-hyun,False,30 | 2010 | Lee Ji-hyun | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2011,Yoon Sung-eun,False,31 | 2011 | Yoon Sung-eun | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2012,Lee Dae-yeon,False,32 | 2012 | Lee Dae-yeon | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2013,Sung Jin-soo,False,33 | 2013 | Sung Jin-soo | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2014,Song A-reum,False,34 | 2014 | Song A-reum | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2015,Moon Sung-hoon,False,35 | 2015 | Moon Sung-hoon | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2018,Cho Han-ki,False,38 | 2018 | Cho Han-ki | [ 4 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2021,Jung Woo-sung,False,41 | 2021 | Jung Woo-sung | [ 6 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,2022,Kim Hyun-seung,False,42 | 2022 | Kim Hyun-seung | [ 7 ],https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1980,Kramer vs. Kramer,False,1 | 1980 | Kramer vs. Kramer | Robert Benton | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1981,Tess,False,2 | 1981 | Tess | Roman Polanski | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1983,Close Encounters of the Third Kind,False,3 | 1983 | Close Encounters of the Third Kind | Steven Spielberg | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards
+,1984,The Woman Next Door,False,4 | 1984 | The Woman Next Door | François Truffaut | ,https://en.wikipedia.org/wiki/Korean_Association_of_Film_Critics_Awards

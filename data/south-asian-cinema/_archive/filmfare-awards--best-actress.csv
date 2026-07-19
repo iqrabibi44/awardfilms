@@ -1,0 +1,334 @@
+year,film,person,is_winner,raw_text,source_url
+,Alia Bhatt,,False,6 | Alia Bhatt,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+,Nutan Kajol,,False,5 | Nutan Kajol,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+,Meena Kumari Madhuri Dixit Vidya Balan,,False,4 | Meena Kumari Madhuri Dixit Vidya Balan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+,Vyjayanthimala Jaya Bachchan Shabana Azmi,,False,3 | Vyjayanthimala Jaya Bachchan Shabana Azmi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+,Waheeda Rehman Dimple Kapadia Rekha Sridevi Karisma Kapoor Aishwarya Rai Rani Mukerji Deepika Padukone,,False,2 | Waheeda Rehman Dimple Kapadia Rekha Sridevi Karisma Kapoor Aishwarya Rai Rani Mukerji Deepika Padukone,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+,Madhuri Dixit,,False,14 | Madhuri Dixit,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+,Meena Kumari Vidya Balan,,False,12 | Meena Kumari Vidya Balan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+,Hema Malini Kajol Rani Mukerji,,False,11 | Hema Malini Kajol Rani Mukerji,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+,Aishwarya Rai Sridevi Deepika Padukone Kareena Kapoor,,False,10 | Aishwarya Rai Sridevi Deepika Padukone Kareena Kapoor,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+,Meena Kumari,3,False,Nominations full sweep | Meena Kumari (1963) | 3,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+,Shabana Azmi,4,False,Most nominations in a single year | Shabana Azmi (1984) | 4,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+,Alia Bhatt,3,False,Most consecutive wins | Alia Bhatt (2023–2025) | 3,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+,Madhuri Dixit,10,False,Most consecutive nominations | Madhuri Dixit (1989–1996) | 10,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+,Tabu,8,False,Most nominations without ever winning | Tabu | 8,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+,Nutan,age 42,False,Eldest winner | Nutan (1979) | age 42,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+,Sharmila Tagore,age 61,False,Eldest nominee | Sharmila Tagore (2006) | age 61,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+,Dimple Kapadia,age 16,False,Youngest winner | Dimple Kapadia (1973) | age 16,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1954,,Meena Kumari,True,1954 (1st) |  | Meena Kumari ‡ | Gauri | Baiju Bawra | [ 3 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1954,No Other Nominee,,True,No Other Nominee,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1955,Meena Kumari,Lalita,True,1955 (2nd) | Meena Kumari ‡ | Lalita | Parineeta | [ 4 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1955,No Other Nominee,,True,No Other Nominee,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1956,,Kamini Kaushal,True,1956 (3rd) |  | Kamini Kaushal ‡ | Biraj Chakravarty | Biraj Bahu | [ 5 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1956,Kamala,Vachan,False,Geeta Bali | Kamala | Vachan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1956,Shobha,Azaad,False,Meena Kumari | Shobha | Azaad,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1957,,Nutan,True,1957 (4th) |  | Nutan ‡ | Gauri | Seema | [ 6 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1957,No Other Nominee,,True,No Other Nominee,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1958,,Nargis,True,1958 (5th) |  | Nargis ‡ | Radha | Mother India | [ 7 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1958,No Other Nominee,,True,No Other Nominee,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1959,,Vyjayanthimala,True,1959 (6th) |  | Vyjayanthimala ‡ | Champabai / Rajani | Sadhna | [ 8 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1959,Leela,Sahara,False,Meena Kumari | Leela | Sahara,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1959,Madhumati,Madhumati,False,Vyjayanthimala | Madhumati | Madhumati,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1960,,Nutan,True,1960 (7th) |  | Nutan ‡ | Sujata | Sujata | [ 9 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1960,Meena Khosla,Dhool Ka Phool,False,Mala Sinha | Meena Khosla | Dhool Ka Phool,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1960,Ratna,Chirag Kahan Roshni Kahan,False,Meena Kumari | Ratna | Chirag Kahan Roshni Kahan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1961,,Bina Rai,True,1961 (8th) |  | Bina Rai ‡ | Parvati / Jamuna | Ghunghat | [ 10 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1961,Anarkali,Mughal-e-Azam,False,Madhubala | Anarkali | Mughal-e-Azam,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1961,Shanti,Chhalia,False,Nutan | Shanti | Chhalia,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1962,,Vyjayanthimala,True,1962 (9th) |  | Vyjayanthimala ‡ | Dhanno | Gunga Jumna | [ 11 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1962,Kammo,Jis Desh Mein Ganga Behti Hai,False,Padmini | Kammo | Jis Desh Mein Ganga Behti Hai,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1962,"Rajkumari ""Raj",Junglee,False,"Saira Banu | Rajkumari ""Raj"" | Junglee",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1963,,Meena Kumari,True,1963 (10th) |  | Meena Kumari ‡ | Chhoti Bahu | Sahib Bibi Aur Ghulam | [ 12 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1963,Aarti Gupta,Aarti,False,Meena Kumari | Aarti Gupta | Aarti,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1963,Main Chup Rahungi,,False,Gayatri Devi | Main Chup Rahungi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1964,,Nutan,True,1964 (11th) |  | Nutan ‡ | Kalyani | Bandini | [ 13 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1964,Padma,Bahurani,False,Mala Sinha | Padma | Bahurani,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1964,Sita,Dil Ek Mandir,False,Meena Kumari | Sita | Dil Ek Mandir,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1965,,Vyjayanthimala,True,1965 (12th) |  | Vyjayanthimala ‡ | Radha Khanna | Sangam | [ 14 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1965,Jahanara Begum Sahib,Jahan Ara,False,Mala Sinha | Jahanara Begum Sahib | Jahan Ara,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1965,Sandhya,Woh Kaun Thi?,False,Sadhna | Sandhya | Woh Kaun Thi?,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1966,,Meena Kumari,True,1966 (13th) |  | Meena Kumari ‡ | Madhavi | Kaajal | [ 15 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1966,Phulwa,Himalay Ki God Mein,False,Mala Sinha | Phulwa | Himalay Ki God Mein,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1966,Meena Mittal,Waqt,False,Sadhana | Meena Mittal | Waqt,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1967,,Waheeda Rehman,True,1967 (14th) |  | Waheeda Rehman ‡ | Rosie Marco | Guide | [ 16 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1967,Shanti,Phool Aur Patthar,False,Meena Kumari | Shanti | Phool Aur Patthar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1967,Devyani / Suparna,Mamta,False,Suchitra Sen | Devyani (Pannabai) / Suparna | Mamta,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1968,,Nutan,True,1968 (15th) |  | Nutan ‡ | Radha R. Rai | Milan | [ 17 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1968,Poonam,Shagird,False,Saira Banu | Poonam | Shagird,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1968,Anjana,Ram Aur Shyam,False,Waheeda Rehman | Anjana | Ram Aur Shyam,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1969,,Waheeda Rehman,True,1969 (16th) |  | Waheeda Rehman ‡ | Rajkumari Neel Kamal / Sita Raichand | Neel Kamal | [ 18 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1969,Mrs. Varuna Verma / Peggy,Raat Aur Din,False,Nargis | Mrs. Varuna Verma / Peggy | Raat Aur Din,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1969,Kamini Gupta,Diwana,False,Saira Banu | Kamini Gupta | Diwana,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1970,,Sharmila Tagore,True,1970 (17th) |  | Sharmila Tagore ‡ | Vandana Tripathi | Aradhana | [ 19 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1970,Asha Chibber,Chirag,False,Asha Parekh | Asha Chibber | Chirag,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1970,Rekha,Ittefaq,False,Nanda | Rekha | Ittefaq,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1971,,Mumtaz,True,1971 (18th) |  | Mumtaz ‡ | Chand | Khilona | [ 20 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1971,Mrs. Neela Shekhar Kapoor,Safar,False,Sharmila Tagore | Mrs. Neela Shekhar Kapoor | Safar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1971,Radha,Khamoshi,False,Waheeda Rehman | Radha | Khamoshi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1972,,Asha Parekh,True,1972 (19th) |  | Asha Parekh ‡ | Madhavi (Madhu) | Kati Patang | [ 21 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1972,Kusum,Guddi,False,Jaya Bachchan | Kusum (Guddi) | Guddi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1972,Uphaar,,False,Meenu | Uphaar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1973,,Hema Malini,True,1973 (20th) |  | Hema Malini ‡ | Seeta / Geeta | Seeta Aur Geeta | [ 22 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1973,Nargis / Sahibjaan,Pakeezah,False,Meena Kumari (posthumous) | Nargis / Sahibjaan | Pakeezah,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1973,Parvati,Aankhon Aankhon Mein,False,Raakhee | Parvati | Aankhon Aankhon Mein,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1974,,Dimple Kapadia,True,1974 (21st) |  | Dimple Kapadia ‡ | Bobby J. Braganza | Bobby | [ 23 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1974,Jaya Bachchan,Uma Kumar,True, | Jaya Bachchan ‡ | Uma Kumar | Abhimaan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1974,Aarti Mathur,Koshish,False,Jaya Bachchan | Aarti Mathur | Koshish,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1974,Shivani,Anuraag,False,Moushumi Chatterjee | Shivani | Anuraag,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1974,Mahjubhi,Saudagar,False,Nutan | Mahjubhi | Saudagar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1975,Jaya Bachchan,Archana Gupta,True,1975 (22nd) | Jaya Bachchan ‡ | Archana Gupta | Kora Kagaz | [ 24 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1975,Sunita,Amir Garib,False,Hema Malini | Sunita (Soni) | Amir Garib,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1975,Prem Nagar,,False,Lata | Prem Nagar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1975,Lalita,Sagina,False,Saira Banu | Lalita | Sagina,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1975,Laxmi,Ankur,False,Shabana Azmi | Laxmi | Ankur,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1976,,Lakshmi,True,1976 (23rd) |  | Lakshmi ‡ | Julie | Julie | [ 25 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1976,Aarti Devi,Aandhi,False,Suchitra Sen | Aarti Devi | Aandhi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1976,Kusum,Khushboo,False,Hema Malini | Kusum | Khushboo,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1976,Sanyasi,,False,Champa | Sanyasi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1976,Mili Khanna,Mili,False,Jaya Bachchan | Mili Khanna | Mili,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1977,,Raakhee,True,1977 (24th) |  | Raakhee ‡ | Indrani (Indu) Sinha | Tapasya | [ 26 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1977,Ratna / Jhumri,Mehbooba,False,Hema Malini | Ratna / Jhumri | Mehbooba,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1977,Pooja Khanna,Kabhie Kabhie,False,Raakhee | Pooja Khanna | Kabhie Kabhie,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1977,Nagin,Nagin,False,Reena Roy | Nagin | Nagin,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1977,Chanda Thapa / Kajli Thapa,Mausam,False,Sharmila Tagore | Chanda Thapa / Kajli Thapa | Mausam,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1978,,Shabana Azmi,True,"1978 (25th) |  | Shabana Azmi ‡ | Saudamini ""Mini"" | Swami | [ 27 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1978,Aarti Sanyal,Kinara,False,Hema Malini | Aarti Sanyal | Kinara,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1978,Nisha,Doosra Aadmi,False,Raakhee | Nisha | Doosra Aadmi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1978,Usha Dalvi,Bhumika,False,Smita Patil | Usha (Urvashi) Dalvi | Bhumika,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1978,Chhaya,Gharonda,False,Zarina Wahab | Chhaya | Gharonda,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1979,,Nutan,True,1979 (26th) |  | Nutan ‡ | Sanjukta Chouhan | Main Tulsi Tere Aangan Ki | [ 28 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1979,Mrs. Aarti Gupta,Trishna,False,Raakhee | Mrs. Aarti Gupta | Trishna,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1979,Lily Fernandes,Ankhiyon Ke Jharokhon Se,False,Ranjeeta Kaur | Lily Fernandes | Ankhiyon Ke Jharokhon Se,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1979,Aarti Chandra,Ghar,False,Rekha | Aarti Chandra | Ghar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1979,Rupa,Satyam Shivam Sundaram,False,Zeenat Aman | Rupa | Satyam Shivam Sundaram,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1980,,Jaya Bachchan,True,1980 (27th) |  | Jaya Bachchan ‡ | Geeta | Nauker | [ 29 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1980,Meera,Meera,False,Hema Malini | Meera | Meera,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1980,Hema Pradhan,Sargam,False,Jaya Prada | Hema Pradhan | Sargam,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1980,Noorie Nabi,Noorie,False,Poonam Dhillon | Noorie Nabi | Noorie,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1980,Rama Sharma,Jurmana,False,Raakhee | Rama Sharma | Jurmana,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1981,,Rekha,True,1981 (28th) |  | Rekha ‡ | Manju Dayal | Khubsoorat | [ 30 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1981,Asha,Asha,False,Reena Roy | Asha | Asha,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1981,Gauri Singh Verma,Judaai,False,Rekha | Gauri Singh Verma | Judaai,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1981,Nima Chaudhary,Thodisi Bewafaii,False,Shabana Azmi | Nima Chaudhary | Thodisi Bewafaii,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1981,Bharti Saxena,Insaaf Ka Tarazu,False,Zeenat Aman | Bharti Saxena | Insaaf Ka Tarazu,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1982,,Smita Patil,True,1982 (29th) |  | Smita Patil ‡ | Amma | Chakra | [ 31 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1982,Asha,Naseeb,False,Hema Malini | Asha | Naseeb,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1982,Shobha Malhotra,Silsila,False,Jaya Bachchan | Shobha Malhotra | Silsila,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1982,Sharda Balraj Kohli,Baseraa,False,Raakhee | Sharda Balraj Kohli | Baseraa,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1982,Sapna,Ek Duuje Ke Liye,False,Rati Agnihotri | Sapna | Ek Duuje Ke Liye,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1982,Amiran / Umrao Jaan,Umrao Jaan,False,Rekha | Amiran / Umrao Jaan | Umrao Jaan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1983,,Padmini Kolhapure,True,"1983 (30th) |  | Padmini Kolhapure ‡ | Manorama ""Rama"" | Prem Rog | [ 32 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1983,Sheetal Kumar,Shakti,False,Raakhee | Sheetal Kumar | Shakti,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1983,Sangeeta Shrivastav,Jeevan Dhaara,False,Rekha | Sangeeta Shrivastav | Jeevan Dhaara,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1983,Nilofer Bano / Habiba Shabnam Rehmani,Nikaah,False,Salma Agha | Nilofer Bano / Habiba Shabnam Rehmani | Nikaah,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1983,Najma,Bazaar,False,Smita Patil | Najma | Bazaar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1984,,Shabana Azmi,True,1984 (31st) |  | Shabana Azmi ‡ | Mrs. Pooja Inder Malhotra | Arth | [ 33 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1984,Radha Kishen,Avtaar,False,Shabana Azmi | Radha Kishen | Avtaar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1984,Mandi,,False,Rukmini Bai | Mandi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1984,Masoom,,False,Indu D. Malhotra | Masoom,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1984,Nehalata Sharma,Sadma,False,Sridevi | Nehalata Sharma | Sadma,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1985,Shabana Azmi,Bhavna Saxena,True,1985 (32nd) | Shabana Azmi ‡ | Bhavna Saxena | Bhavna | [ 34 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1985,Meena,Sharaabi,False,Jaya Prada | Meena | Sharaabi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1985,Parvati Pradhan,Saaransh,False,Rohini Hattangadi | Parvati Pradhan | Saaransh,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1985,Kavita,Sparsh,False,Shabana Azmi | Kavita | Sparsh,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1985,Rajni V. Deshmukh,Aaj Ki Awaaz,False,Smita Patil | Rajni V. Deshmukh | Aaj Ki Awaaz,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1986,,Dimple Kapadia,True,1986 (33rd) |  | Dimple Kapadia ‡ | Mona D'Silva | Saagar | [ 35 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1986,Yashoda / Asha,Sanjog,False,Jaya Prada | Yashoda / Asha | Sanjog,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1986,Ganga Singh,Ram Teri Ganga Maili,False,Mandakini | Ganga Singh | Ram Teri Ganga Maili,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1986,Preeti B. Pratap,Pyaar Jhukta Nahin,False,Padmini Kolhapure | Preeti B. Pratap | Pyaar Jhukta Nahin,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1986,Sultana,Tawaif,False,Rati Agnihotri | Sultana | Tawaif,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1987,NO CEREMONY,,True,1987 | NO CEREMONY,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1988,1988,,False,1988,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1989,,Rekha,True,1989 (34th) |  | Rekha ‡ | Aarti Verma / Jyoti | Khoon Bhari Maang | [ 36 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1989,Rashmi,Qayamat Se Qayamat Tak,False,Juhi Chawla | Rashmi | Qayamat Se Qayamat Tak,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1989,Mohini,Tezaab,False,Madhuri Dixit | Mohini | Tezaab,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1990,,Sridevi,True,1990 (35th) |  | Sridevi ‡ | Anju Das / Manju Das | ChaalBaaz | [ 37 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1990,Suman,Maine Pyaar Kiya,False,Bhagyashree | Suman | Maine Pyaar Kiya,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1990,Lakshmi M. Rao,Prem Pratigyaa,False,Madhuri Dixit | Lakshmi M. Rao | Prem Pratigyaa,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1990,Chandni Mathur,Chandni,False,Sridevi | Chandni Mathur | Chandni,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1990,Lalita,Eeshwar,False,Vijayshanti | Lalita | Eeshwar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1991,,Madhuri Dixit,True,1991 (36th) |  | Madhuri Dixit ‡ | Madhu Mehra | Dil | [ 38 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1991,Taku,Rihaee,False,Hema Malini | Taku | Rihaee,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1991,Shanti,Pratibandh,False,Juhi Chawla | Shanti | Pratibandh,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1991,Meena S. Verma,Jurm,False,Meenakshi Seshadri | Meena S. Verma | Jurm,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1992,,Sridevi,True,1992 (37th) |  | Sridevi ‡ | Pallavi / Pooja Bhatnagar | Lamhe | [ 39 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1992,Reva,Lekin...,False,Dimple Kapadia | Reva | Lekin...,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1992,Pooja Saxena,Saajan,False,Madhuri Dixit | Pooja Saxena | Saajan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1992,Namrata Singh,Phool Bane Angaray,False,Rekha | Namrata Singh | Phool Bane Angaray,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1992,Henna,Henna,False,Zeba Bakhtiar | Henna | Henna,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1993,,Madhuri Dixit,True,1993 (38th) |  | Madhuri Dixit ‡ | Saraswati | Beta | [ 40 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1993,Radha / Rita,Bol Radha Bol,False,Juhi Chawla | Radha / Rita | Bol Radha Bol,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1993,Benazir / Mehndi,Khuda Gawah,False,Sridevi | Benazir / Mehndi | Khuda Gawah,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1994,,Juhi Chawla,True,1994 (39th) |  | Juhi Chawla ‡ | Vaijayanthi Iyer | Hum Hain Rahi Pyar Ke | [ 41 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1994,Shanichari,Rudaali,False,Dimple Kapadia | Shanichari | Rudaali,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1994,"Gangotri ""Ganga"" Singh",Khalnayak,False,"Madhuri Dixit | Gangotri ""Ganga"" Singh | Khalnayak",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1994,Damini Gupta,Damini,False,Meenakshi Seshadri | Damini Gupta | Damini,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1994,Roshni Chadha,Gumrah,False,Sridevi | Roshni Chadha | Gumrah,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1995,,Madhuri Dixit,True,1995 (40th) |  | Madhuri Dixit ‡ | Nisha Chaudhary | Hum Aapke Hain Koun..! | [ 42 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1995,Sapna Banerjee,Yeh Dillagi,False,Kajol | Sapna Banerjee | Yeh Dillagi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1995,Shivani Chopra,Anjaam,False,Madhuri Dixit | Shivani Chopra | Anjaam,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1995,"Rajeshwari ""Rajjo"" Pathak",1942: A Love Story,False,"Manisha Koirala | Rajeshwari ""Rajjo"" Pathak | 1942: A Love Story",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1995,Sheetal Jaitley,Laadla,False,Sridevi | Sheetal Jaitley | Laadla,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1996,,Kajol,True,1996 (41st) |  | Kajol ‡ | Simran Singh | Dilwale Dulhania Le Jayenge | [ 43 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1996,Madhu Garewal,Raja,False,Madhuri Dixit | Madhu Garewal | Raja,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1996,Yaarana,,False,Lalita | Yaarana,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1996,Kiran Kumar,Akele Hum Akele Tum,False,Manisha Koirala | Kiran Kumar | Akele Hum Akele Tum,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1996,Mili Joshi,Rangeela,False,Urmila Matondkar | Mili Joshi | Rangeela,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1997,,Karisma Kapoor,True,1997 (42nd) |  | Karisma Kapoor ‡ | Aarti Sehgal | Raja Hindustani | [ 44 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1997,Priya Bhatia,Daraar,False,Juhi Chawla | Priya Bhatia | Daraar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1997,Annie J. Braganza,Khamoshi: The Musical,False,Manisha Koirala | Annie J. Braganza | Khamoshi: The Musical,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1997,Phoolan Devi,Bandit Queen,False,Seema Biswas | Phoolan Devi | Bandit Queen,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1997,"Virender ""Veeru"" Kaur",Maachis,False,"Tabu | Virender ""Veeru"" Kaur | Maachis",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1998,,Madhuri Dixit,True,1998 (43rd) |  | Madhuri Dixit ‡ | Pooja | Dil To Pagal Hai | [ 45 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1998,Seema Kapoor,Yes Boss,False,Juhi Chawla | Seema Kapoor | Yes Boss,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1998,Kusum Ganga,Pardes,False,Mahima Chaudhry | Kusum Ganga | Pardes,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1998,Kaajal Verma,Judaai,False,Sridevi | Kaajal Verma | Judaai,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1998,Gehna,Virasat,False,Tabu | Gehna | Virasat,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1999,,Kajol,True,1999 (44th) |  | Kajol ‡ | Anjali Sharma | Kuch Kuch Hota Hai | [ 46 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1999,Sonia / Naina Saigal,Dushman,False,Kajol | Sonia / Naina Saigal | Dushman,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1999,Pyaar To Hona Hi Tha,,False,Sanjana | Pyaar To Hona Hi Tha,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1999,Moina alias Meghna,Dil Se...,False,Manisha Koirala | Moina alias Meghna | Dil Se...,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+1999,Vidya,Satya,False,Urmila Matondkar | Vidya | Satya,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2000,,Aishwarya Rai,True,2000 (45th) |  | Aishwarya Rai ‡ | Nandini Darbar | Hum Dil De Chuke Sanam | [ 47 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2000,Mansi Shankar,Taal,False,Aishwarya Rai | Mansi Shankar | Taal,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2000,Megha,Hum Aapke Dil Mein Rehte Hain,False,Kajol | Megha | Hum Aapke Dil Mein Rehte Hain,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2000,Pooja Mehra,Biwi No.1,False,Karisma Kapoor | Pooja Mehra | Biwi No.1,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2000,Panna Barve,Hu Tu Tu,False,Tabu | Panna Barve | Hu Tu Tu,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2001,,Karisma Kapoor,True,2001 (46th) |  | Karisma Kapoor ‡ | Fiza Ikramullah | Fiza | [ 48 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2001,Preeti Vyas,Hamara Dil Aapke Paas Hai,False,Aishwarya Rai | Preeti Vyas | Hamara Dil Aapke Paas Hai,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2001,Anjali,Pukar,False,Madhuri Dixit | Anjali | Pukar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2001,Priya Bakshi,Kya Kehna,False,Preity Zinta | Priya Bakshi | Kya Kehna,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2001,Aditi Pandit,Astitva,False,Tabu | Aditi Pandit | Astitva,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2002,,Kajol,True,2002 (47th) |  | Kajol ‡ | Anjali Sharma Raichand | Kabhi Khushi Kabhie Gham | [ 49 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2002,Sakeena Ali Singh,Gadar: Ek Prem Katha,False,Ameesha Patel | Sakeena Ali Singh | Gadar: Ek Prem Katha,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2002,Kaurwaki,Asoka,False,Kareena Kapoor | Kaurwaki | Asoka,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2002,Zubeidaa,Zubeidaa,False,Karisma Kapoor | Zubeidaa | Zubeidaa,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2002,Mumtaz Ali Ansari,Chandni Bar,False,Tabu | Mumtaz Ali Ansari | Chandni Bar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2003,,Aishwarya Rai,True,2003 (48th) |  | Aishwarya Rai ‡ | Parvati 'Paro' Chakraborty | Devdas | [ 50 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2003,Priya Singhania,Humraaz,False,Ameesha Patel | Priya Singhania | Humraaz,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2003,Sanjana Aditya Dhanraj,Raaz,False,Bipasha Basu | Sanjana Aditya Dhanraj | Raaz,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2003,Nandini,Shakti: The Power,False,Karisma Kapoor | Nandini | Shakti: The Power,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2003,Suhani Sharma,Saathiya,False,Rani Mukerji | Suhani Sharma | Saathiya,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2004,,Preity Zinta,True,2004 (49th) |  | Preity Zinta ‡ | Naina Kapur | Kal Ho Naa Ho | [ 51 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2004,Nirjara Bhardwaj,Tere Naam,False,Bhumika Chawla | Nirjara Bhardwaj | Tere Naam,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2004,Pooja Malhotra,Baghban,False,Hema Malini | Pooja Malhotra | Baghban,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2004,Nisha Mehra,Koi... Mil Gaya,False,Preity Zinta | Nisha Mehra | Koi... Mil Gaya,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2004,Priya Chopra,Chalte Chalte,False,Rani Mukerji | Priya Chopra | Chalte Chalte,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2004,Swati,Bhoot,False,Urmila Matondkar | Swati | Bhoot,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2005,,Rani Mukerji,True,2005 (50th) |  | Rani Mukerji ‡ | Rhea Prakash | Hum Tum | [ 52 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2005,Neerja 'Neeru,Raincoat,False,Aishwarya Rai | Neerja 'Neeru' | Raincoat,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2005,Zaara Hayat Khan,Veer-Zaara,False,Preity Zinta | Zaara Hayat Khan | Veer-Zaara,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2005,Tamanna Sahni,Phir Milenge,False,Shilpa Shetty | Tamanna Sahni | Phir Milenge,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2005,Sarika Vartak,Ek Hasina Thi,False,Urmila Matondkar | Sarika Vartak | Ek Hasina Thi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2006,Rani Mukerji,Michelle McNally,True,2006 (51st) | Rani Mukerji ‡ | Michelle McNally | Black | [ 53 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2006,Ambar 'Amby' Malhotra,Salaam Namaste,False,Preity Zinta | Ambar 'Amby' Malhotra | Salaam Namaste,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2006,Vimmi 'Babli' Saluja,Bunty Aur Babli,False,Rani Mukerji | Vimmi 'Babli' Saluja | Bunty Aur Babli,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2006,Sumitra V. Patwardhan,Viruddh... Family Comes First,False,Sharmila Tagore | Sumitra V. Patwardhan | Viruddh... Family Comes First,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2006,Lalita,Parineeta,False,Vidya Balan | Lalita | Parineeta,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2007,,Kajol,True,2007 (52nd) |  | Kajol ‡ | Zooni Ali Beg | Fanaa | [ 54 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2007,Sunehri,Dhoom 2,False,Aishwarya Rai | Sunehri | Dhoom 2,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2007,Nishiganda 'Nishi' Dasgupta,Corporate,False,Bipasha Basu | Nishiganda 'Nishi' Dasgupta | Corporate,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2007,Dolly Mishra,Omkara,False,Kareena Kapoor | Dolly Mishra | Omkara,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2007,Maya Talwar,Kabhi Alvida Naa Kehna,False,Rani Mukerji | Maya Talwar | Kabhi Alvida Naa Kehna,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2008,,Kareena Kapoor,True,2008 (53rd) |  | Kareena Kapoor ‡ | Geet Dhillon | Jab We Met | [ 55 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2008,Sujata Desai,Guru,False,Aishwarya Rai | Sujata Desai | Guru,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2008,Shantipriya 'Shanti' Kashyap Mehra / Sandhya 'Sandy' Bansal,Om Shanti Om,False,Deepika Padukone | Shantipriya 'Shanti' Kashyap Mehra / Sandhya 'Sandy' Bansal | Om Shanti Om,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2008,Dia Shrivastava,Aaja Nachle,False,Madhuri Dixit | Dia Shrivastava | Aaja Nachle,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2008,Vibhavari 'Badki' Sahay,Laaga Chunari Mein Daag,False,Rani Mukerji | Vibhavari 'Badki' Sahay | Laaga Chunari Mein Daag,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2008,Avni Chatturvedi / Manjulika,Bhool Bhulaiyaa,False,Vidya Balan | Avni Chatturvedi / Manjulika | Bhool Bhulaiyaa,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2009,,Priyanka Chopra,True,2009 (54th) |  | Priyanka Chopra ‡ | Meghna Mathur | Fashion | [ 56 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2009,Jodhaa Bai,Jodhaa Akbar,False,Aishwarya Rai Bachchan | Jodhaa Bai | Jodhaa Akbar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2009,Taani Surinder Sahni,Rab Ne Bana Di Jodi,False,Anushka Sharma | Taani Surinder Sahni | Rab Ne Bana Di Jodi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2009,Kalpana Shetty,Ghajini,False,Asin Thottumkal | Kalpana Shetty | Ghajini,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2009,Piya Thapar Mehra,U Me Aur Hum,False,Kajol | Piya Thapar Mehra | U Me Aur Hum,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2010,,Vidya Balan,True,2010 (55th) |  | Vidya Balan ‡ | Dr. Vidya | Paa | [ 57 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2010,Meera Pandit,Love Aaj Kal,False,Deepika Padukone | Meera Pandit | Love Aaj Kal,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2010,Pia Sahastrabuddhe,3 Idiots,False,Kareena Kapoor | Pia Sahastrabuddhe | 3 Idiots,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2010,Kurbaan,,False,Avantika Ahuja Khan | Kurbaan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2010,Maya Sheikh,New York,False,Katrina Kaif | Maya Sheikh | New York,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2010,Sweety Shekhar Bhope,Kaminey,False,Priyanka Chopra | Sweety Shekhar Bhope | Kaminey,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2011,,Kajol,True,2011 (56th) |  | Kajol ‡ | Mandira Rathore Khan | My Name is Khan | [ 58 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2011,Sofia D'Souza,Guzaarish,False,Aishwarya Rai Bachchan | Sofia D'Souza | Guzaarish,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2011,Shruti Kakkar,Band Baaja Baaraat,False,Anushka Sharma | Shruti Kakkar | Band Baaja Baaraat,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2011,Daboo,Golmaal 3,False,Kareena Kapoor | Daboo | Golmaal 3,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2011,Krishna Verma,Ishqiya,False,Vidya Balan | Krishna Verma | Ishqiya,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2012,,Vidya Balan,True,2012 (57th) |  | Vidya Balan ‡ | Reshma / Silk | The Dirty Picture | [ 59 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2012,Madhavi Devi,"Saheb, Biwi Aur Gangster",False,"Mahi Gill | Madhavi Devi | Saheb, Biwi Aur Gangster",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2012,Dimple Dixit,Mere Brother Ki Dulhan,False,Katrina Kaif | Dimple Dixit | Mere Brother Ki Dulhan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2012,Susanna Anna-Marie Johannes,7 Khoon Maaf,False,Priyanka Chopra | Susanna Anna-Marie Johannes | 7 Khoon Maaf,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2012,Sabrina Lal,No One Killed Jessica,False,Vidya Balan | Sabrina Lal | No One Killed Jessica,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2013,Vidya Balan,Vidya Venkatesan Bagchi,True,2013 (58th) | Vidya Balan ‡ | Vidya Venkatesan Bagchi | Kahaani | [ 60 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2013,Veronica Malaney,Cocktail,False,Deepika Padukone | Veronica Malaney | Cocktail,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2013,Mahi Arora,Heroine,False,Kareena Kapoor | Mahi Arora | Heroine,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2013,Zoya Qureshi,Ishaqzaade,False,Parineeti Chopra | Zoya Qureshi | Ishaqzaade,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2013,Jhilmil Chatterjee,Barfi!,False,Priyanka Chopra | Jhilmil Chatterjee | Barfi!,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2013,Shashi Godbole,English Vinglish,False,Sridevi | Shashi Godbole | English Vinglish,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2014,,Deepika Padukone,True,2014 (59th) |  | Deepika Padukone ‡ | Leela Sanera | Goliyon Ki Raasleela Ram-Leela | [ 61 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2014,Meenalochni 'Meenamma' Azhagusundaram,Chennai Express,False,Deepika Padukone | Meenalochni 'Meenamma' Azhagusundaram | Chennai Express,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2014,Gayatri,Shuddh Desi Romance,False,Parineeti Chopra | Gayatri | Shuddh Desi Romance,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2014,Aarohi Keshav Shirke,Aashiqui 2,False,Shraddha Kapoor | Aarohi Keshav Shirke | Aashiqui 2,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2014,Pakhi Roy Chaudhary,Lootera,False,Sonakshi Sinha | Pakhi Roy Chaudhary | Lootera,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2014,Zoya Haider,Raanjhanaa,False,Sonam Kapoor | Zoya Haider | Raanjhanaa,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2015,,Kangana Ranaut,True,2015 (60th) |  | Kangana Ranaut ‡ | Rani Mehra | Queen | [ 62 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2015,Veera Tripathi,Highway,False,Alia Bhatt | Veera Tripathi | Highway,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2015,Begum Para,Dedh Ishqiya,False,Madhuri Dixit | Begum Para | Dedh Ishqiya,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2015,Mary Kom,Mary Kom,False,Priyanka Chopra | Mary Kom | Mary Kom,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2015,Shivani Shivaji Roy,Mardaani,False,Rani Mukerji | Shivani Shivaji Roy | Mardaani,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2015,Dr. Mrinalini 'Mili' Chakravarty,Khoobsurat,False,Sonam Kapoor | Dr. Mrinalini 'Mili' Chakravarty | Khoobsurat,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2016,,Deepika Padukone,True,2016 (61st) |  | Deepika Padukone ‡ | Piku Banerjee | Piku | [ 63 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2016,Meera,NH10,False,Anushka Sharma | Meera | NH10,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2016,Mastani,Bajirao Mastani,False,Deepika Padukone | Mastani | Bajirao Mastani,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2016,Meera Dev Malik,Dilwale,False,Kajol | Meera Dev Malik | Dilwale,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2016,Tanuja 'Tanu' Trivedi / Kumari 'Kusum' Sangwan,Tanu Weds Manu Returns,False,Kangana Ranaut | Tanuja 'Tanu' Trivedi / Kumari 'Kusum' Sangwan (Datto) | Tanu Weds Manu Returns,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2016,Dolly / Madhuri / Priya / Bhagyashree,Dolly Ki Doli,False,Sonam Kapoor | Dolly / Madhuri / Priya / Bhagyashree | Dolly Ki Doli,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2017,,Alia Bhatt,True,2017 (62nd) |  | Alia Bhatt ‡ | Bauria (Mary Jane) | Udta Punjab | [ 64 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2017,Dalbir Kaur,Sarbjit,False,Aishwarya Rai Bachchan | Dalbir Kaur | Sarbjit,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2017,Kaira,Dear Zindagi,False,Alia Bhatt | Kaira | Dear Zindagi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2017,Alizeh Khan,Ae Dil Hai Mushkil,False,Anushka Sharma | Alizeh Khan | Ae Dil Hai Mushkil,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2017,Neerja Bhanot,Neerja,False,Sonam Kapoor | Neerja Bhanot | Neerja,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2017,Vidya Sinha / Durga Rani Singh,Kahaani 2,False,Vidya Balan | Vidya Sinha / Durga Rani Singh | Kahaani 2,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2018,,Vidya Balan,True,2018 (63rd) |  | Vidya Balan ‡ | Sulochana 'Sulu' Dubey | Tumhari Sulu | [ 65 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2018,Vaidehi Trivedi,Badrinath Ki Dulhania,False,Alia Bhatt | Vaidehi Trivedi | Badrinath Ki Dulhania,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2018,Sugandha Joshi Sharma,Shubh Mangal Saavdhan,False,Bhumi Pednekar | Sugandha Joshi Sharma | Shubh Mangal Saavdhan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2018,Meeta Batra,Hindi Medium,False,Saba Qamar | Meeta Batra | Hindi Medium,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2018,Devki Sabarwal,Mom,False,Sridevi | Devki Sabarwal | Mom,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2018,Insia Malik,Secret Superstar,False,Zaira Wasim | Insia Malik | Secret Superstar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2019,,Alia Bhatt,True,2019 (64th) |  | Alia Bhatt ‡ | Sehmat Khan | Raazi | [ 66 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2019,Rani Padmavati,Padmaavat,False,Deepika Padukone | Rani Padmavati | Padmaavat,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2019,Priyamvada 'Babli' Kaushik,Badhaai Ho,False,Neena Gupta | Priyamvada 'Babli' Kaushik | Badhaai Ho,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2019,Naina Mathur,Hichki,False,Rani Mukerji | Naina Mathur | Hichki,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2019,Simi,Andhadhun,False,Tabu | Simi | Andhadhun,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2020,,Alia Bhatt,True,2020 ( 65th ) |  | Alia Bhatt ‡ | Safeena Firdausi | Gully Boy [ 67 ] | [ 68 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2020,Rani Lakshmibai,Manikarnika: The Queen of Jhansi,False,Kangana Ranaut | Rani Lakshmibai | Manikarnika: The Queen of Jhansi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2020,Deepti Batra,Good Newwz,False,Kareena Kapoor Khan | Deepti Batra | Good Newwz,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2020,Aditi Chaudhary,The Sky Is Pink,False,Priyanka Chopra | Aditi Chaudhary | The Sky Is Pink,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2020,Shivani Roy,Mardaani 2,False,Rani Mukerji | Shivani Roy | Mardaani 2,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2020,Tara Shinde,Mission Mangal,False,Vidya Balan | Tara Shinde | Mission Mangal,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2021,,Taapsee Pannu,True,2021 ( 66th ) |  | Taapsee Pannu ‡ | Amrita Sabharwal | Thappad [ 67 ] | [ 69 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2021,Malti,Chhapaak,False,Deepika Padukone | Malti | Chhapaak,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2021,Gunjan Saxena,Gunjan Saxena: The Kargil Girl,False,Janhvi Kapoor | Gunjan Saxena | Gunjan Saxena: The Kargil Girl,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2021,Jaya Nigam,Panga,False,Kangana Ranaut | Jaya Nigam | Panga,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2021,Shakuntala Devi,Shakuntala Devi,False,Vidya Balan | Shakuntala Devi | Shakuntala Devi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2022,,Kriti Sanon,True,2022 ( 67th ) |  | Kriti Sanon ‡ | Mimi Rathore | Mimi [ 67 ] | [ 70 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2022,Dimple Cheema,Shershaah,False,Kiara Advani | Dimple Cheema | Shershaah,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2022,Sandeep Kaur Walia,Sandeep Aur Pinky Faraar,False,Parineeti Chopra | Sandeep Kaur Walia | Sandeep Aur Pinky Faraar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2022,Rashmi Chibber,Rashmi Rocket,False,Taapsee Pannu | Rashmi Chibber | Rashmi Rocket,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2022,Vidya Vincent,Sherni,False,Vidya Balan | Vidya Vincent | Sherni,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2023,,Alia Bhatt,True,2023 ( 68th ) [ 71 ] |  | Alia Bhatt ‡ | Gangubai Kathiawadi | Gangubai Kathiawadi [ 67 ] | [ 72 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2023,Suman Singh,Badhaai Do,False,Bhumi Pednekar | Suman Singh | Badhaai Do,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2023,Mili Naudiyal,Mili,False,Janhvi Kapoor | Mili Naudiyal | Mili,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2023,Rupa D'Souza,Laal Singh Chaddha,False,Kareena Kapoor Khan | Rupa D'Souza | Laal Singh Chaddha,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2023,Anjulika/Manjulika,Bhool Bhulaiyaa 2,False,Tabu | Anjulika/Manjulika | Bhool Bhulaiyaa 2,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2024,Alia Bhatt,Rani Chatterjee,True,2024 ( 69th ) [ 73 ] | Alia Bhatt ‡ | Rani Chatterjee | Rocky Aur Rani Kii Prem Kahaani [ 67 ] | [ 74 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2024,Kanika Kapoor,Thank You for Coming,False,Bhumi Pednekar | Kanika Kapoor | Thank You for Coming,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2024,Rubina Mohsin,Pathaan,False,Deepika Padukone | Rubina Mohsin | Pathaan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2024,Katha Kapadia,Satyaprem Ki Katha,False,Kiara Advani | Katha Kapadia | Satyaprem Ki Katha,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2024,Debika Chatterjee,Mrs Chatterjee vs Norway,False,Rani Mukerji | Debika Chatterjee | Mrs Chatterjee vs Norway,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2024,Manu Randhawa,Dunki,False,Taapsee Pannu | Manu Randhawa | Dunki,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2025,Alia Bhatt,"Satyabhama ""Satya"" Anand",True,"2025 ( 70th ) | Alia Bhatt ‡ | Satyabhama ""Satya"" Anand | Jigra | [ 75 ] [ 76 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2025,Jasmine Kohli,Crew,False,Kareena Kapoor Khan | Jasmine Kohli | Crew,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2025,Sifra,Teri Baaton Mein Aisa Uljha Jiya,False,Kriti Sanon | Sifra | Teri Baaton Mein Aisa Uljha Jiya,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2025,phantasm with undisclosed name,Stree 2,False,Shraddha Kapoor | phantasm with undisclosed name | Stree 2,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2025,Geeta Sethi,Crew,False,Tabu | Geeta Sethi | Crew,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress
+2025,Zooni Haksar,Article 370,False,Yami Gautam | Zooni Haksar | Article 370,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress

@@ -1,0 +1,28 @@
+year,film,person,is_winner,raw_text,source_url
+,Year,Actor,False,# | Year | Actor | Film (English) | Film (Korean),https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1999,Choi Min-sik,False,36 | 1999 | Choi Min-sik | Shiri | 쉬리,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2000,Choi Min-soo,False,37 | 2000 | Choi Min-soo | Phantom: The Submarine | 유령,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2001,Song Kang-ho,False,38 | 2001 | Song Kang-ho | Joint Security Area | 공동경비구역 JSA,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2002,Sul Kyung-gu,False,39 | 2002 | Sul Kyung-gu | Public Enemy | 공공의 적,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2003,Song Kang-ho,False,40 | 2003 | Song Kang-ho | Memories of Murder | 살인의 추억,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2004,Choi Min-sik,False,41 | 2004 | Choi Min-sik | Oldboy | 올드보이,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2005,Cho Seung-woo,False,42 | 2005 | Cho Seung-woo | Marathon | 말아톤,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2006,Kam Woo-sung,False,43 | 2006 | Kam Woo-sung | King and the Clown | 왕의남자,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2007,Ahn Sung-ki,False,44 | 2007 | Ahn Sung-ki | Radio Star | 라디오 스타,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2008,Kim Yoon-seok,False,45 | 2008 | Kim Yoon-seok | The Chaser | 추격자,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2009,Kim Myung-min,False,46 | 2009 | Kim Myung-min | Closer to Heaven | 내 사랑 내 곁에,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2010,Won Bin,False,47 | 2010 | Won Bin | The Man from Nowhere | 아저씨,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2011,Park Hae-il,False,48 | 2011 | Park Hae-il | War of the Arrows | 최종병기 활,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2012,Lee Byung-hun,False,49 | 2012 | Lee Byung-hun | Masquerade | 광해: 왕이 된 남자,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2013,Ryu Seung-ryong,False,50 | 2013 | Ryu Seung-ryong | Miracle in Cell No. 7 | 7번방의 선물,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,The Face Reader,관상,False,Song Kang-ho | The Face Reader | 관상,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2014,Choi Min-sik,False,51 | 2014 | Choi Min-sik | The Admiral: Roaring Currents | 명량,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2015,Hwang Jung-min,False,52 | 2015 | Hwang Jung-min | Ode to My Father | 국제시장,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2016,Lee Byung-hun,False,53 | 2016 | Lee Byung-hun | Inside Men | 내부자들,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2017,Sul Kyung-gu,False,54 | 2017 | Sul Kyung-gu | The Merciless | 불한당: 나쁜 놈들의 세상,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2018,Hwang Jung-min,False,55 | 2018 | Hwang Jung-min | The Spy Gone North | 공작,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2019,Lee Byung-hun,False,56 | 2019 | Lee Byung-hun | Ashfall | 백두산,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2020,N/a,False,57 | 2020 | — N/a,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+2021,2021,,False,2021,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+2021,2022,Park Hae-il,False,58 | 2022 | Park Hae-il | Decision to Leave | 헤어질 결심,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+2021,2023,Lee Byung-hun,False,59 | 2023 | Lee Byung-hun | Concrete Utopia | 콘크리트 유토피아,https://en.wikipedia.org/wiki/Grand_Bell_Awards

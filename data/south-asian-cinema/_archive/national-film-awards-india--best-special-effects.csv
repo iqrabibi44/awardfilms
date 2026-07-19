@@ -1,0 +1,36 @@
+year,film,person,is_winner,raw_text,source_url
+,Recipient,Film,False,Year | Recipient(s) | Film(s) | Language(s) | Refs.,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Special_Effects
+1991,No Award,,False,1991 (39th) | No Award | [ 2 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Special_Effects
+1992,Shashilal K. Nair,Angaar,False,1992 (40th) | Shashilal K. Nair | Angaar | Hindi | [ 3 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Special_Effects
+1993,Sethu,Thiruda Thiruda,False,1993 (41st) | Sethu | Thiruda Thiruda | Tamil | [ 4 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Special_Effects
+1994,C. Murugesh,Kaadhalan,False,1994 (42nd) | C. Murugesh | Kaadhalan | Tamil | [ 5 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Special_Effects
+1994,S. T. Venki,,False,S. T. Venki,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Special_Effects
+1995,S. T. Venki,Kaalapani,False,1995 (43rd) | S. T. Venki | Kaalapani | Malayalam | [ 6 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Special_Effects
+1996,S. T. Venki,Indian,False,1996 (44th) | S. T. Venki | Indian | Tamil | [ 7 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Special_Effects
+1997,No Award,,False,1997 (45th) | No Award | [ 8 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Special_Effects
+1998,S. T. Venki,Jeans,False,1998 (46th) | S. T. Venki | Jeans | Tamil | [ 9 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Special_Effects
+1999,Mantra,Hey Ram,False,1999 (47th) | Mantra | Hey Ram | Tamil | [ 10 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Special_Effects
+2000,No Award,,False,2000 (48th) | No Award | [ 11 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Special_Effects
+2001,N. Madhusudhanan,Aalavandhan,False,2001 (49th) | N. Madhusudhanan | Aalavandhan | Tamil | [ 12 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Special_Effects
+2002,Indian Artists,Magic Magic,False,2002 (50th) | Indian Artists | Magic Magic | Tamil | [ 13 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Special_Effects
+2003,Bimmini Special Fx Design Studios • James Colmer • Lara Denman,Koi... Mil Gaya,False,2003 (51st) | Bimmini Special Fx Design Studios • James Colmer • Lara Denman | Koi... Mil Gaya | Hindi | [ 14 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Special_Effects
+2003,Digital Art Media • Marc Kolbe • Craig Mumma,,False,Digital Art Media • Marc Kolbe • Craig Mumma,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Special_Effects
+2004,Sanath,Anji,False,2004 (52nd) | Sanath (Firefly Digital) | Anji | Telugu | [ 15 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Special_Effects
+2005,Tata Elxsi,Anniyan,False,2005 (53rd) | Tata Elxsi | Anniyan | Tamil | [ 16 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Special_Effects
+2006,"EFX, Chennai",Krrish,False,"2006 (54th) | EFX, Chennai | Krrish | Hindi | [ 17 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Special_Effects
+2007,Indian Artists,Sivaji,False,2007 (55th) | Indian Artists | Sivaji | Tamil | [ 18 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Special_Effects
+2008,Govardhan,Mumbai Meri Jaan,False,2008 (56th) | Govardhan ( Tata Elxsi ) | Mumbai Meri Jaan | Hindi | [ 19 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Special_Effects
+2009,R. C. Kamal Kannan,Magadheera,False,2009 (57th) | R. C. Kamal Kannan | Magadheera | Telugu | [ 20 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Special_Effects
+2010,V. Srinivas Mohan,Enthiran,False,2010 (58th) | V. Srinivas Mohan | Enthiran | Tamil | [ 21 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Special_Effects
+2011,Red Chillies VFX • Harry Hingorani • Keitan Yadav,Ra.One,False,2011 (59th) | Red Chillies VFX • Harry Hingorani • Keitan Yadav | Ra.One | Hindi | [ 22 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Special_Effects
+2012,Makuta VFX,Eega,False,2012 (60th) | Makuta VFX | Eega | Telugu | [ 23 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Special_Effects
+2013,Intermezzo Studio Alien Sense Films Pvt Ltd,Jal,False,2013 (61st) | Intermezzo Studio Alien Sense Films Pvt Ltd | Jal | Hindi | [ 24 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Special_Effects
+2014,No Award,,False,2014 (62nd) | No Award | [ 25 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Special_Effects
+2015,V. Srinivas Mohan,Baahubali: The Beginning,False,2015 (63rd) | V. Srinivas Mohan | Baahubali: The Beginning | Telugu | [ 26 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Special_Effects
+2016,Naveen Paul,Shivaay,False,2016 (64th) | Naveen Paul | Shivaay | Hindi | [ 27 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Special_Effects
+2017,R. C. Kamal Kannan,Baahubali 2: The Conclusion,False,2017 (65th) | R. C. Kamal Kannan | Baahubali 2: The Conclusion | Telugu | [ 28 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Special_Effects
+2018,Srushti Creative Studio,Awe,False,2018 (66th) | Srushti Creative Studio | Awe | Telugu | ,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Special_Effects
+2018,KGF: Chapter 1,Kannada,False,Unifi Media | KGF: Chapter 1 | Kannada,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Special_Effects
+2019,Siddharth Priyadarshan,Marakkar: Lion of the Arabian Sea,False,2019 (67th) | Siddharth Priyadarshan | Marakkar: Lion of the Arabian Sea | Malayalam | [ 29 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Special_Effects
+2020,No Award,,False,2020 (68th) | No Award | ,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Special_Effects
+2021,V. Srinivas Mohan,RRR,False,2021 (69th) | V. Srinivas Mohan | RRR | Telugu | [ 30 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Special_Effects

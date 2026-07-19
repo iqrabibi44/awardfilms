@@ -1,0 +1,196 @@
+year,film,person,is_winner,raw_text,source_url
+1963,Bloodline,혈맥,True,1963 (1st) | Bloodline ‡ | 혈맥 | Kim Soo-yong,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1964,Extra Human Being,잉여인간,True,1964 (2nd) | Extra Human Being ‡ | 잉여인간 | Yu Hyun-mok,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1965,Sad Story of Self Supporting Child,저 하늘에도 슬픔이,True,1965 (3rd) | Sad Story of Self Supporting Child ‡ | 저 하늘에도 슬픔이 | Kim Soo-yong,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1966,Market,시장,True,"1966
+(4th) | Market ‡ | 시장 | Lee Man-hee",https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1967,Flame in the Valley,산불,True,"1967
+(5th) | Flame in the Valley ‡ | 산불 | Kim Soo-yong",https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1969,Descendents of Cain,카인의 후예,True,1969 (6th) | Descendents of Cain ‡ | 카인의 후예 | Yu Hyun-mok,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1970,The Old Jar Craftsman,독짓는 늙은이,True,1970 (7th) | The Old Jar Craftsman ‡ | 독짓는 늙은이 | Choi Ha-won,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1971,When a Woman Breaks Her Jewel Box,옥합을 깨뜨릴 때,True,1971 (8th) | When a Woman Breaks Her Jewel Box ‡ | 옥합을 깨뜨릴 때 | Kim Soo-yong,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1972,Oyster Village,석화촌,True,1972 (9th) | Oyster Village ‡ | 석화촌 | Jung Jin-woo,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1973,The Three-Day Reign,삼일천하,True,1973 (10th) | The Three-Day Reign ‡ | 삼일천하 | Shin Sang-ok,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1990,Black Republic,그들도 우리처럼,True,1990 (11th) | Black Republic ‡ | 그들도 우리처럼 | Park Kwang-su,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1990,남부군,Chung Ji-young,True,Nambugun: North Korean Partisan in South Korea | 남부군 | Chung Ji-young,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1990,수탉,Shin Seung-soo,False,Rooster | 수탉 | Shin Seung-soo,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1990,장군의 아들,Im Kwon-taek,False,General's Son | 장군의 아들 | Im Kwon-taek,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1991,Death Song,사의 찬미,True,1991 (12th) | Death Song ‡ | 사의 찬미 | Kim Ho-sun,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1991,개벽,Im Kwon-taek,False,Fly High Run Far | 개벽 | Im Kwon-taek,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1991,누가 용의 발톱을 보았는가,Kang Woo-suk,False,Who saw the dragon's toenails? | 누가 용의 발톱을 보았는가 | Kang Woo-suk,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1991,베를린리포트,Park Kwang-su,False,Berlin Report | 베를린리포트 | Park Kwang-su,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1991,은마는 오지 않는다,Jang Kil-su,False,Silver Stallion | 은마는 오지 않는다 | Jang Kil-su,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1992,Our Twisted Hero,우리들의 일그러진 영웅,True,1992 (13th) | Our Twisted Hero ‡ | 우리들의 일그러진 영웅 | Park Jong-won,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1992,결혼 이야기,Kim Ui-seok,False,Marriage Story | 결혼 이야기 | Kim Ui-seok,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1992,경마장 가는 길,Jang Sun-woo,False,The Road to Racetrack | 경마장 가는 길 | Jang Sun-woo,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1992,하얀 전쟁,Chung Ji-young,False,White Badge | 하얀 전쟁 | Chung Ji-young,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1993,Sopyonje,서편제,True,1993 (14th) | Sopyonje ‡ | 서편제 | Im Kwon-taek,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1993,그대 안의 블루,Lee Hyun-seung,False,Blue In You | 그대 안의 블루 | Lee Hyun-seung,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1993,살어리랏다,Yoon Sam-yook,False,I Will Survive | 살어리랏다 | Yoon Sam-yook,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1993,첫사랑,Lee Myung-se,False,First Love | 첫사랑 | Lee Myung-se,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1993,화엄경,Jang Sun-woo,False,Hwa-Om-Kyung | 화엄경 | Jang Sun-woo,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1994,The Taebaek Mountains,태백산맥,True,1994 (15th) | The Taebaek Mountains ‡ | 태백산맥 | Im Kwon-taek,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1994,투캅스,Kang Woo-suk,False,Two Cops | 투캅스 | Kang Woo-suk,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1994,너에게 나를 보낸다,Jang Sun-woo,False,To You from Me | 너에게 나를 보낸다 | Jang Sun-woo,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1994,헐리우드 키드의 생애,Chung Ji-young,False,Life and Death of the Hollywood Kid | 헐리우드 키드의 생애 | Chung Ji-young,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1994,게임의 법칙,Jang Hyun-soo,False,The Rules Of The Game | 게임의 법칙 | Jang Hyun-soo,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1995,A Single Spark,아름다운 청년 전태일,True,1995 (16th) | A Single Spark ‡ | 아름다운 청년 전태일 | Park Kwang-su,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1995,테러리스트,Kim Young-bin,False,The Terrorist | 테러리스트 | Kim Young-bin,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1995,개같은 날의 오후,Lee Min-yong,False,A Hot Roof | 개같은 날의 오후 | Lee Min-yong,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1995,닥터 봉,Lee Kwang-hoon,False,Dr. Bong | 닥터 봉 | Lee Kwang-hoon,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1995,무소의 뿔처럼 혼자서 가라,Oh Byeong-cheol,False,Go Alone Like Musso's Horn | 무소의 뿔처럼 혼자서 가라 | Oh Byeong-cheol,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1996,Festival,축제,True,1996 (17th) | Festival ‡ | 축제 | Im Kwon-taek,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1996,꽃잎,Jang Sun-woo,False,A Petal | 꽃잎 | Jang Sun-woo,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1996,돼지가 우물에 빠진 날,Hong Sang-soo,False,The Day A Pig Fell Into The Well | 돼지가 우물에 빠진 날 | Hong Sang-soo,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1996,은행나무 침대,Kang Je-gyu,False,The Gingko Bed | 은행나무 침대 | Kang Je-gyu,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1996,학생부군신위,Park Chul-soo,False,Farewell My Darling | 학생부군신위 | Park Chul-soo,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1997,Green Fish,초록물고기,True,1997 (18th) | Green Fish ‡ | 초록물고기 | Lee Chang-dong,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1997,고스트 맘마,Han Ji-seung,False,Ghost Mamma | 고스트 맘마 | Han Ji-seung,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1997,비트,Kim Sung-su,False,Beat | 비트 | Kim Sung-su,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1997,접속,Chang Yoon-hyun,False,The Contact | 접속 | Chang Yoon-hyun,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1997,창,Im Kwon-taek,False,Downfall | 창 | Im Kwon-taek,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1998,Christmas in August,8월의 크리스마스,True,1998 (19th) | Christmas in August ‡ | 8월의 크리스마스 | Hur Jin-ho,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1998,강원도의 힘,Hong Sang-soo,False,The Power of Kangwon Province | 강원도의 힘 | Hong Sang-soo,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1998,생과부 위자료 청구 소송,Kang Woo-suk,False,Bedroom And Courtroom | 생과부 위자료 청구 소송 | Kang Woo-suk,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1998,약속,Kim Yoo-jin,False,A Promise | 약속 | Kim Yoo-jin,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1998,정사,E J-yong,False,An Affair | 정사 | E J-yong,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1999,Nowhere to Hide,인정사정 볼 것 없다,True,1999 (20th) | Nowhere to Hide ‡ | 인정사정 볼 것 없다 | Lee Myung-se,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1999,송어,Park Jong-won,False,Rainbow Trout | 송어 | Park Jong-won,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1999,쉬리,Kang Je-gyu,False,Shiri | 쉬리 | Kang Je-gyu,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1999,유령,Min Byung-Chun,False,"Phantom, The Submarine | 유령 | Min Byung-Chun",https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+1999,텔 미 썸딩,Chang Yoon-hyun,False,Tell Me Something | 텔 미 썸딩 | Chang Yoon-hyun,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2000,Joint Security Area,공동경비구역 JSA,True,2000 (21st) | Joint Security Area ‡ | 공동경비구역 JSA | Park Chan-wook,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2000,박하사탕,Lee Chang-dong,False,Peppermint Candy | 박하사탕 | Lee Chang-dong,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2000,반칙왕,Kim Jee-woon,False,The Foul King | 반칙왕 | Kim Jee-woon,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2000,오! 수정,Hong Sang-soo,False,Virgin Stripped Bare by Her Bachelors | 오! 수정 | Hong Sang-soo,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2000,춘향뎐,Im Kwon-taek,False,Chunhyang | 춘향뎐 | Im Kwon-taek,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2001,One Fine Spring Day,봄날은 간다,True,2001 (22nd) | One Fine Spring Day ‡ | 봄날은 간다 | Hur Jin-ho,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2001,무사,Kim Sung-su,False,Musa | 무사 | Kim Sung-su,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2001,번지 점프를 하다,Kim Dae-seung,False,Bungee Jumping of Their Own | 번지 점프를 하다 | Kim Dae-seung,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2001,파이란,Song Hae-sung,False,Failan | 파이란 | Song Hae-sung,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2001,친구,Kwak Kyung-taek,False,Friend | 친구 | Kwak Kyung-taek,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2002,Chi-hwa-seon,취화선,True,2002 (23rd) | Chi-hwa-seon ‡ | 취화선 | Im Kwon-taek,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2002,공공의 적,Kang Woo-suk,False,Public Enemy | 공공의 적 | Kang Woo-suk,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2002,복수는 나의 것,Park Chan-wook,False,Sympathy for Mr. Vengeance | 복수는 나의 것 | Park Chan-wook,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2002,생활의 발견,Hong Sang-soo,False,On the Occasion of Remembering the Turning Gate | 생활의 발견 | Hong Sang-soo,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2002,집으로...,Lee Jeong-hyang,False,The Way Home | 집으로... | Lee Jeong-hyang,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2003,"Spring, Summer, Fall, Winter... and Spring",봄 여름 가을 겨울 그리고 봄,True,"2003 (24th) | Spring, Summer, Fall, Winter... and Spring ‡ | 봄 여름 가을 겨울 그리고 봄 | Kim Ki-duk",https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2003,바람난 가족,Im Sang-soo,False,A Good Lawyer's Wife | 바람난 가족 | Im Sang-soo,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2003,살인의 추억,Bong Joon-ho,False,Memories of Murder | 살인의 추억 | Bong Joon-ho,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2003,스캔들 - 조선남녀상열지사,E J-yong,False,Untold Scandal | 스캔들 - 조선남녀상열지사 | E J-yong,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2003,올드보이,Park Chan-wook,False,Oldboy | 올드보이 | Park Chan-wook,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2004,Silmido,실미도,True,2004 (25th) | Silmido ‡ | 실미도 | Kang Woo-suk,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2004,말죽거리 잔혹사,Yoo Ha,False,Once Upon a Time in High School | 말죽거리 잔혹사 | Yoo Ha,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2004,범죄의 재구성,Choi Dong-hoon,False,The Big Swindle | 범죄의 재구성 | Choi Dong-hoon,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2004,인어 공주,Park Heung-sik,False,"My Mother, the Mermaid | 인어 공주 | Park Heung-sik",https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2004,태극기 휘날리며,Kang Je-gyu,False,Taegukgi | 태극기 휘날리며 | Kang Je-gyu,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2005,Sympathy for Lady Vengeance,친절한 금자씨,True,2005 ( 26th ) | Sympathy for Lady Vengeance ‡ | 친절한 금자씨 | Park Chan-wook,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2005,너는 내 운명,Park Jin-pyo,False,You Are My Sunshine | 너는 내 운명 | Park Jin-pyo,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2005,말아톤,Jeong Yoon-cheol,False,Marathon | 말아톤 | Jeong Yoon-cheol,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2005,웰컴 투 동막골,Park Kwang-hyun,False,Welcome to Dongmakgol | 웰컴 투 동막골 | Park Kwang-hyun,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2005,혈의 누,Kim Dae-seung,False,Blood Rain | 혈의 누 | Kim Dae-seung,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2006,The Host,괴물,True,2006 ( 27th ) | The Host ‡ | 괴물 | Bong Joon-ho,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2006,가족의 탄생,Kim Tae-yong,False,Family Ties | 가족의 탄생 | Kim Tae-yong,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2006,라디오 스타,Lee Joon-ik,False,Radio Star | 라디오 스타 | Lee Joon-ik,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2006,왕의 남자,,False,The King and the Clown | 왕의 남자,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2006,타짜,Choi Dong-hoon,False,Tazza: The High Rollers | 타짜 | Choi Dong-hoon,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2007,The Show Must Go On,우아한 세계,True,2007 ( 28th ) | The Show Must Go On ‡ | 우아한 세계 | Han Jae-rim,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2007,미녀는 괴로워,Kim Yong-hwa,False,200 Pounds Beauty | 미녀는 괴로워 | Kim Yong-hwa,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2007,그놈 목소리,Park Jin-pyo,False,Voice of a Murderer | 그놈 목소리 | Park Jin-pyo,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2007,화려한 휴가,Kim Ji-hoon,False,May 18 | 화려한 휴가 | Kim Ji-hoon,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2007,행복,Hur Jin-ho,False,Happiness | 행복 | Hur Jin-ho,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2008,Forever the Moment,우리 생애 최고의 순간,True,2008 ( 29th ) | Forever the Moment ‡ | 우리 생애 최고의 순간 | Yim Soon-rye,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2008,세븐 데이즈,Won Shin-yun,False,Seven Days | 세븐 데이즈 | Won Shin-yun,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2008,"좋은 놈, 나쁜 놈, 이상한 놈",Kim Jee-woon,False,"The Good, the Bad, the Weird | 좋은 놈, 나쁜 놈, 이상한 놈 | Kim Jee-woon",https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2008,추격자,Na Hong-jin,False,The Chaser | 추격자 | Na Hong-jin,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2008,크로싱,Kim Tae-kyun,False,Crossing | 크로싱 | Kim Tae-kyun,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2009,Mother,마더,True,2009 ( 30th ) | Mother ‡ | 마더 | Bong Joon-ho,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2009,국가대표,Kim Yong-hwa,False,Take Off | 국가대표 | Kim Yong-hwa,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2009,굿모닝 프레지던트,Jang Jin,False,Good Morning President | 굿모닝 프레지던트 | Jang Jin,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2009,박쥐,Park Chan-wook,False,Thirst | 박쥐 | Park Chan-wook,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2009,해운대,Yoon Je-kyoon,False,Tidal Wave | 해운대 | Yoon Je-kyoon,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2010,Secret Reunion,의형제,True,2010 ( 31st ) | Secret Reunion ‡ | 의형제 | Jang Hoon,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2010,아저씨,Lee Jeong-beom,False,The Man from Nowhere | 아저씨 | Lee Jeong-beom,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2010,이끼,Kang Woo-suk,False,Moss | 이끼 | Kang Woo-suk,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2010,전우치,Choi Dong-hoon,False,Jeon Woo-chi: The Taoist Wizard | 전우치 | Choi Dong-hoon,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2010,하녀,Im Sang-soo,False,The Housemaid | 하녀 | Im Sang-soo,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2011,The Unjust,부당거래,True,2011 ( 32nd ) | The Unjust ‡ | 부당거래 | Ryoo Seung-wan,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2011,고지전,Jang Hoon,False,The Front Line | 고지전 | Jang Hoon,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2011,도가니,Hwang Dong-hyuk,False,Silenced | 도가니 | Hwang Dong-hyuk,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2011,써니,Kang Hyeong-cheol,False,Sunny | 써니 | Kang Hyeong-cheol,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2011,최종병기 활,Kim Han-min,False,War of the Arrows | 최종병기 활 | Kim Han-min,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2012,Pietà,피에타,True,2012 ( 33rd ) | Pietà ‡ | 피에타 | Kim Ki-duk,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2012,"광해, 왕이 된 남자",Choo Chang-min,False,"Masquerade | 광해, 왕이 된 남자 | Choo Chang-min",https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2012,도둑들,Choi Dong-hoon,False,The Thieves | 도둑들 | Choi Dong-hoon,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2012,범죄와의 전쟁 : 나쁜놈들 전성시대,Yoon Jong-bin,False,Nameless Gangster: Rules of the Time | 범죄와의 전쟁 : 나쁜놈들 전성시대 | Yoon Jong-bin,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2012,부러진 화살,Chung Ji-young,False,Unbowed | 부러진 화살 | Chung Ji-young,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2013,Hope,소원,True,2013 ( 34th ) | Hope ‡ | 소원 | Lee Joon-ik,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2013,관상,Han Jae-rim,False,The Face Reader | 관상 | Han Jae-rim,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2013,베를린,Ryoo Seung-wan,False,The Berlin File | 베를린 | Ryoo Seung-wan,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2013,설국열차,Bong Joon-ho,False,Snowpiercer | 설국열차 | Bong Joon-ho,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2013,신세계,Park Hoon-jung,False,New World | 신세계 | Park Hoon-jung,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2014,The Attorney,변호인,True,2014 ( 35th ) | The Attorney ‡ | 변호인 | Yang Woo-suk,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2014,수상한 그녀,Hwang Dong-hyuk,False,Miss Granny | 수상한 그녀 | Hwang Dong-hyuk,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2014,끝까지 간다,Kim Seong-hun,False,A Hard Day | 끝까지 간다 | Kim Seong-hun,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2014,명량,Kim Han-min,False,The Admiral: Roaring Currents | 명량 | Kim Han-min,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2014,제보자,Yim Soon-rye,False,Whistle Blower | 제보자 | Yim Soon-rye,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2015,Assassination,암살,True,2015 ( 36th ) | Assassination ‡ | 암살 | Choi Dong-hoon,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2015,국제시장,Yoon Je-kyoon,False,Ode to My Father | 국제시장 | Yoon Je-kyoon,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2015,극비수사,Kwak Kyung-taek,False,The Classified File | 극비수사 | Kwak Kyung-taek,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2015,베테랑,Ryoo Seung-wan,False,Veteran | 베테랑 | Ryoo Seung-wan,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2015,사도,Lee Joon-ik,False,The Throne | 사도 | Lee Joon-ik,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2016,Inside Men,내부자들,True,2016 ( 37th ) | Inside Men ‡ | 내부자들 | Woo Min-ho,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2016,곡성,Na Hong-jin,False,The Wailing | 곡성 | Na Hong-jin,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2016,동주,Lee Joon-ik,False,Dongju: The Portrait of a Poet | 동주 | Lee Joon-ik,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2016,밀정,Kim Jee-woon,False,The Age of Shadows | 밀정 | Kim Jee-woon,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2016,부산행,Yeon Sang-ho,False,Train to Busan | 부산행 | Yeon Sang-ho,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2016,아가씨,Park Chan-wook,False,The Handmaiden | 아가씨 | Park Chan-wook,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2017,A Taxi Driver,택시 운전사,True,2017 ( 38th ) | A Taxi Driver ‡ | 택시 운전사 | Jang Hoon,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2017,남한산성,Hwang Dong-hyuk,False,The Fortress | 남한산성 | Hwang Dong-hyuk,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2017,더 킹,Han Jae-rim,False,The King | 더 킹 | Han Jae-rim,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2017,박열,Lee Joon-ik,False,Anarchist from Colony | 박열 | Lee Joon-ik,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2017,불한당: 나쁜 놈들의 세상,Byun Sung-hyun,False,The Merciless | 불한당: 나쁜 놈들의 세상 | Byun Sung-hyun,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2018,1987: When the Day Comes,1987,True,2018 ( 39th ) [ 2 ] | 1987: When the Day Comes ‡ | 1987 | Jang Joon-hwan,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2018,공작,Yoon Jong-bin,False,The Spy Gone North | 공작 | Yoon Jong-bin,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2018,리틀 포레스트,Yim Soon-rye,False,Little Forest | 리틀 포레스트 | Yim Soon-rye,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2018,신과함께-죄와 벌,Kim Yong-hwa,False,Along with the Gods: The Two Worlds | 신과함께-죄와 벌 | Kim Yong-hwa,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2018,암수살인,Kim Tae-kyun,False,Dark Figure of Crime | 암수살인 | Kim Tae-kyun,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2019,Parasite,기생충,True,2019 ( 40th ) [ 3 ] | Parasite ‡ | 기생충 | Bong Joon-ho,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2019,극한직업,Lee Byeong-heon,False,Extreme Job | 극한직업 | Lee Byeong-heon,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2019,벌새,Kim Bora,False,House of Hummingbird | 벌새 | Kim Bora,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2019,스윙키즈,Kang Hyeong-cheol,False,Swing Kids | 스윙키즈 | Kang Hyeong-cheol,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2019,엑시트,Lee Sang-geun,False,Exit | 엑시트 | Lee Sang-geun,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2020,2020,,False,2020 ( 41st ) [ 4 ] [ 5 ],https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2020,남산의 부장들,Woo Min-ho,True,The Man Standing Next ‡ | 남산의 부장들 | Woo Min-ho,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2020,소리도 없이,Hong Eui-jeong,False,Voice of Silence | 소리도 없이 | Hong Eui-jeong,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2020,남매의 여름밤,Yoon Dan-bi,False,Moving On | 남매의 여름밤 | Yoon Dan-bi,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2020,윤희에게,Lim Dae-hyung,False,Moonlit Winter | 윤희에게 | Lim Dae-hyung,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2020,82년생 김지영,Kim Do-young,False,Kim Ji-young: Born 1982 | 82년생 김지영 | Kim Do-young,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2021,Escape from Mogadishu,모가디슈,True,2021 ( 42nd ) [ 6 ] | Escape from Mogadishu ‡ | 모가디슈 | Ryoo Seung-wan,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2021,내가 죽던 날,Park Ji-wan,False,The Day I Died: Unclosed Case | 내가 죽던 날 | Park Ji-wan,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2021,승리호,Jo Sung-hee,False,Space Sweepers | 승리호 | Jo Sung-hee,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2021,인질,Pil Kam-sung,False,Hostage: Missing Celebrity | 인질 | Pil Kam-sung,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2021,자산어보,Lee Joon-ik,False,The Book of Fish | 자산어보 | Lee Joon-ik,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2022,Decision to Leave,헤어질 결심,True,2022 ( 43rd ) | Decision to Leave ‡ | 헤어질 결심 | Park Chan-wook,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2022,헌트,Lee Jung-jae,False,Hunt | 헌트 | Lee Jung-jae,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2022,킹메이커,Byun Sung-Hyun,False,Kingmaker | 킹메이커 | Byun Sung-Hyun,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2022,한산: 용의 출현,Kim Han-min,False,Hansan: Rising Dragon | 한산: 용의 출현 | Kim Han-min,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2022,브로커,Hirokazu Kore-eda,False,Broker | 브로커 | Hirokazu Kore-eda,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2023,2023,,False,2023 ( 44th ) [ 7 ],https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2023,밀수,Ryoo Seung-wan,True,Smugglers ‡ | 밀수 | Ryoo Seung-wan,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2023,콘크리트 유토피아,Um Tae-hwa,False,Concrete Utopia | 콘크리트 유토피아 | Um Tae-hwa,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2023,다음 소희,Jung Ju-ri,False,Next Sohee | 다음 소희 | Jung Ju-ri,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2023,올빼미,Ahn Tae-jin,False,The Night Owl | 올빼미 | Ahn Tae-jin,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2023,거미집,Kim Jee-woon,False,Cobweb | 거미집 | Kim Jee-woon,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2024,2024,,False,2024 ( 45th ) [ 8 ],https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2024,서울의 봄,Kim Sung-su,True,12.12: The Day ‡ | 서울의 봄 | Kim Sung-su,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2024,베테랑2,Ryoo Seung-wan,False,"I, the Executioner | 베테랑2 | Ryoo Seung-wan",https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2024,파묘,Jang Jae-hyun,False,Exhuma | 파묘 | Jang Jae-hyun,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2024,Celine Song,,False,Past Lives | Celine Song,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2024,핸섬가이즈,Nam Dong-hyeop,False,Handsome Guys | 핸섬가이즈 | Nam Dong-hyeop,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2025,2025,,False,2025 ( 46th ) [ 9 ],https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2025,어쩔수가없다,Park Chan-wook,True,No Other Choice ‡ | 어쩔수가없다 | Park Chan-wook,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2025,얼굴,Yeon Sang-ho,False,The Ugly | 얼굴 | Yeon Sang-ho,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2025,좀비딸,Pil Gam-sung,False,My Daughter is a Zombie | 좀비딸 | Pil Gam-sung,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2025,파과,Min Kyu-dong,False,The Old Woman with the Knife | 파과 | Min Kyu-dong,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film
+2025,하얼빈,Woo Min-ho,False,Harbin | 하얼빈 | Woo Min-ho,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Film

@@ -1,0 +1,56 @@
+year,film,person,is_winner,raw_text,source_url
+1980,The Marriage of Maria Braun,Rainer Werner Fassbinder,False,1980 | The Marriage of Maria Braun | Rainer Werner Fassbinder | West Germany,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+1980,Angi Vera,Pál Gábor,False,1980 | Angi Vera | Pál Gábor | Hungary,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+1981,Man of Iron,Andrzej Wajda,False,1981 | Man of Iron | Andrzej Wajda | Poland,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+1982,Mephisto,István Szabó,False,1982 | Mephisto | István Szabó | Hungary,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+1983,Yol,Yılmaz Güney,False,1983 | Yol | Yılmaz Güney | Turkey,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+1984,A Sunday in the Country,Bertrand Tavernier,False,1984 | A Sunday in the Country | Bertrand Tavernier | France,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+1985,Heimat: A Chronicle of Germany,Edgar Reitz,False,1985 | Heimat: A Chronicle of Germany | Edgar Reitz | West Germany,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+1986,Ran,Akira Kurosawa,False,1986 | Ran | Akira Kurosawa | Japan,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+1987,Jean de Florette,Claude Berri,False,1987 | Jean de Florette | Claude Berri | France,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+1988,Babette's Feast,Gabriel Axel,False,1988 | Babette's Feast | Gabriel Axel | Denmark,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+1989,Au revoir les enfants,Louis Malle,False,1989 | Au revoir les enfants | Louis Malle | France,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+1990,Cinema Paradiso,Giuseppe Tornatore,False,1990 | Cinema Paradiso | Giuseppe Tornatore | Italy,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+1991,Cyrano de Bergerac,Jean-Paul Rappeneau,False,1991 | Cyrano de Bergerac | Jean-Paul Rappeneau | France,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+1992,Raise the Red Lantern,Zhang Yimou,False,1992 | Raise the Red Lantern | Zhang Yimou | China,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+1993,A Heart in Winter,Claude Sautet,False,1993 | A Heart in Winter | Claude Sautet | France,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+1994,Farewell My Concubine,Chen Kaige,False,1994 | Farewell My Concubine | Chen Kaige | China,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+1995,Il Postino: The Postman,Michael Radford,False,1995 | Il Postino: The Postman | Michael Radford | Italy,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+1996,Les Misérables,Claude Lelouch,False,1996 | Les Misérables | Claude Lelouch | France,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+1997,Ridicule,Patrice Leconte,False,1997 | Ridicule | Patrice Leconte | France,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+1998,Shall We Dance?,Masayuki Suo,False,1998 [ 1 ] | Shall We Dance? | Masayuki Suo | Japan,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+1999,All About My Mother,Pedro Almodóvar,False,1999 | All About My Mother | Pedro Almodóvar | Spain,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+2000,"Crouching Tiger, Hidden Dragon",Ang Lee,False,"2000 | Crouching Tiger, Hidden Dragon | Ang Lee | China",https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+2001,Amélie,Jean-Pierre Jeunet,False,2001 | Amélie | Jean-Pierre Jeunet | France,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+2002,Y tu mamá también,Alfonso Cuarón,False,2002 | Y tu mamá también | Alfonso Cuarón | Mexico,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+2003,"Good Bye, Lenin!",Wolfgang Becker,False,"2003 | Good Bye, Lenin! | Wolfgang Becker | Germany",https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+2004,The Motorcycle Diaries,Walter Salles,False,2004 | The Motorcycle Diaries | Walter Salles | Brazil,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+2005,Downfall,Oliver Hirschbiegel,False,2005 | Downfall | Oliver Hirschbiegel | Germany,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+2006,Volver,Pedro Almodóvar,False,2006 | Volver | Pedro Almodóvar (2) | Spain,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+2007,The Lives of Others,Florian Henckel von Donnersmarck,False,2007 | The Lives of Others | Florian Henckel von Donnersmarck | Germany,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+2008,Waltz with Bashir,Ari Folman,False,2008 | Waltz with Bashir | Ari Folman | Israel,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+2009,Let the Right One In,Tomas Alfredson,False,2009 [ 2 ] | Let the Right One In | Tomas Alfredson | Sweden,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+2010,Of Gods and Men,Xavier Beauvois,False,2010 [ 3 ] | Of Gods and Men | Xavier Beauvois | France,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+2011,A Separation,Asghar Farhadi,False,2011 [ 4 ] | A Separation | Asghar Farhadi | Iran,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+2012,Rust and Bone,Jacques Audiard,False,2012 [ 5 ] | Rust and Bone | Jacques Audiard | France,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+2013,Blue Is the Warmest Colour,Abdellatif Kechiche,False,2013 [ 6 ] | Blue Is the Warmest Colour | Abdellatif Kechiche | France,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+2014,Leviathan,Andrey Zvyagintsev,False,2014 [ 7 ] | Leviathan | Andrey Zvyagintsev | Russia,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+2015,The Look of Silence,Joshua Oppenheimer,False,2015 [ 8 ] | The Look of Silence | Joshua Oppenheimer | Denmark,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+2016,Toni Erdmann,Maren Ade,False,2016 [ 9 ] | Toni Erdmann | Maren Ade | Germany,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+2017,Elle,Paul Verhoeven,False,2017 [ 10 ] | Elle | Paul Verhoeven | Netherlands,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+2018,Cold War,Paweł Pawlikowski,False,2018 [ 11 ] | Cold War | Paweł Pawlikowski | Poland,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+2019,Portrait of a Lady on Fire,Céline Sciamma,False,2019 [ 12 ] | Portrait of a Lady on Fire | Céline Sciamma | France,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+2020,Another Round,Thomas Vinterberg,False,2020 [ 13 ] | Another Round | Thomas Vinterberg | Denmark,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+2021,Drive My Car,Ryusuke Hamaguchi,False,2021 [ 14 ] | Drive My Car | Ryusuke Hamaguchi | Japan,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+2022,Decision to Leave,Park Chan-wook,False,2022 [ 15 ] | Decision to Leave | Park Chan-wook | South Korea,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+2022,Colm Bairéad,Ireland,False,The Quiet Girl | Colm Bairéad | Ireland,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+2023,Past Lives,Celine Song,True,2023 [ 16 ] [ 17 ] | Past Lives | Celine Song | South Korea Canada,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+2023,Justine Triet,France,False,Anatomy of a Fall | Justine Triet | France,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+2023,Hayao Miyazaki,Japan,False,The Boy and the Heron | Hayao Miyazaki | Japan,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+2023,Aki Kaurismäki,Finland,False,Fallen Leaves | Aki Kaurismäki | Finland,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+2023,Jonathan Glazer,United Kingdom,False,The Zone of Interest | Jonathan Glazer | United Kingdom,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+2024,All We Imagine as Light,Payal Kapadia,True,2024 [ 18 ] [ 19 ] | All We Imagine as Light | Payal Kapadia | India,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+2024,Alice Rohrwacher,Italy,False,La Chimera | Alice Rohrwacher | Italy,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+2024,Jacques Audiard,France,False,Emilia Pérez | Jacques Audiard | France,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+2024,Walter Salles,Brazil,False,I’m Still Here | Walter Salles | Brazil,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year
+2024,Rich Peppiatt,United Kingdom Ireland,False,Kneecap | Rich Peppiatt | United Kingdom Ireland,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Foreign_Language_Film_of_the_Year

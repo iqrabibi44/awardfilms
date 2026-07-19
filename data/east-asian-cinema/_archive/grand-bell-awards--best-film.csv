@@ -1,0 +1,62 @@
+year,film,person,is_winner,raw_text,source_url
+,Year,Film,False,# | Year | Film (English) | Film (Korean) | Director,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1962,Prince Yeonsan,False,1 | 1962 | Prince Yeonsan | 연산군 | Shin Sang-ok,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1963,The Memorial Gate for Virtuous Women,False,2 | 1963 | The Memorial Gate for Virtuous Women | 열녀문 | Shin Sang-ok,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1964,Kinship,False,3 | 1964 | Kinship | 혈맥 | Kim Soo-yong,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1965,Deaf Sam-yong,False,4 | 1965 | Deaf Sam-yong | 벙어리 삼룡이 | Shin Sang-ok,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1966,The Sea Village,False,5 | 1966 | The Sea Village | 갯마을 | Kim Soo-yong,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1967,Coming Back,False,6 | 1967 | Coming Back | 귀로 | Lee Man-hee,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1968,Prince Daewon,False,7 | 1968 | Prince Daewon | 대원군 | Shin Sang-ok,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1969,N/a,False,8 | 1969 | — N/a,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1970,,False,9 | 1970,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1971,,False,10 | 1971,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1972,Patriotic Martyr An Jung-gun,False,11 | 1972 | Patriotic Martyr An Jung-gun | 의사 안중근 | Joo Dong-jin,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1973,The General in Red Robes,False,12 | 1973 | The General in Red Robes | 홍의 장군 | Lee Doo-yong,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1974,The Land,False,13 | 1974 | The Land | 토지 | Kim Soo-yong,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1975,Flame,False,14 | 1975 | Flame | 불꽃 | Yu Hyun-mok,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1976,Mother,False,15 | 1976 | Mother | 어머니 | Im Won-shik,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1977,Diary of Korean-Japanese War,False,16 | 1977 | Diary of Korean-Japanese War | 난중일기 | Jang Il-ho,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1978,Police Story,False,17 | 1978 | Police Story | 경찰관 | Lee Doo-yong,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1979,The Hidden Hero,False,18 | 1979 | The Hidden Hero | 깃발없는 기수 | Im Kwon-taek,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1980,Son of Man,False,19 | 1980 | Son of Man | 사람의 아들 | Yu Hyun-mok,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1981,Invited People,False,20 | 1981 | Invited People | 초대받은 성웅들 | Choe Ha-won,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1982,Come Unto Down,False,21 | 1982 | Come Unto Down | 낮은 데로 임하소서 | Lee Jang-ho,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1983,Mulleya Mulleya,False,22 | 1983 | Mulleya Mulleya | 여인잔혹사 물레야 물레야 | Lee Doo-yong,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1984,Adultery Tree,False,23 | 1984 | Adultery Tree | 자녀목 | Chong Jin-u,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1985,The Mother,False,24 | 1985 | The Mother | 어미 | Park Chul-soo,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1986,Pillar of Mist,False,25 | 1986 | Pillar of Mist | 안개기둥 | Park Cheol-su,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1987,Diary of King Yeonsan,False,26 | 1987 | Diary of King Yeonsan | 연산일기 | Im Kwon-taek,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1989,Come Come Come Upward,False,27 | 1989 | Come Come Come Upward | 아제아제 바라아제 | Im Kwon-taek,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1990,All That Falls Has Wings,False,28 | 1990 | All That Falls Has Wings | 추락하는 것은 날개가 있다 | Chang Gil-soo,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1991,Passion Portrait,False,29 | 1991 | Passion Portrait | 젊은날의 초상 | Kwak Ji-kyoon,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1992,Fly High Run Far,False,30 | 1992 | Fly High Run Far | 개벽 | Im Kwon-taek,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1993,Sopyonje,False,31 | 1993 | Sopyonje | 서편제 | Im Kwon-taek,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1994,The Story of Two Women,False,32 | 1994 | The Story of Two Women | 두 여자 이야기 | Lee Jung-gook,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1995,The Eternal Empire,False,33 | 1995 | The Eternal Empire | 영원한 제국 | Park Jong-won,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1996,Henequen,False,34 | 1996 | Henequen | 애니깽 | Kim Ho-sun,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1997,The Contact,False,35 | 1997 | The Contact | 접속 | Chang Yoon-hyun,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1999,Spring in My Hometown,False,36 | 1999 | Spring in My Hometown | 아름다운 시절 | Lee Kwang-mo,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2000,Peppermint Candy,False,37 | 2000 | Peppermint Candy | 박하사탕 | Lee Chang-dong,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2001,Joint Security Area,False,38 | 2001 | Joint Security Area | 공동경비구역JSA | Park Chan-wook,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2002,The Way Home,False,39 | 2002 | The Way Home | 집으로 | Lee Jeong-hyang,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2003,Memories of Murder,False,40 | 2003 | Memories of Murder | 살인의 추억 | Bong Joon-ho,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2004,"Spring, Summer, Fall, Winter... and Spring",False,"41 | 2004 | Spring, Summer, Fall, Winter... and Spring | 봄여름가을겨울그리고봄 | Kim Ki-duk",https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2005,Marathon,False,42 | 2005 | Marathon | 말아톤 | Jeong Yoon-chul,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2006,King and the Clown,False,43 | 2006 | King and the Clown | 왕의 남자 | Lee Joon-ik,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2007,Family Ties,False,44 | 2007 | Family Ties | 가족의 탄생 | Kim Tae-yong,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2008,The Chaser,False,45 | 2008 | The Chaser | 추격자 | Na Hong-jin,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2009,The Divine Weapon,False,46 | 2009 | The Divine Weapon | 신기전 | Kim Yoo-jin,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2010,Poetry,False,47 | 2010 | Poetry | 시 | Lee Chang-dong,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2011,The Front Line,False,48 | 2011 | The Front Line | 고지전 | Jang Hoon,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2012,Masquerade,False,49 | 2012 | Masquerade | 광해: 왕이 된 남자 | Choo Chang-min,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2013,The Face Reader,False,50 | 2013 | The Face Reader | 관상 | Han Jae-rim,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2014,The Admiral: Roaring Currents,False,51 | 2014 | The Admiral: Roaring Currents | 명량 | Kim Han-min,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2015,Ode to My Father,False,52 | 2015 | Ode to My Father | 국제시장 | Yoon Je-kyoon,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2016,Inside Men,False,53 | 2016 | Inside Men | 내부자들 | Woo Min-ho,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2017,A Taxi Driver,False,54 | 2017 | A Taxi Driver | 택시운전사 | Jang Hoon,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2018,Burning,False,55 | 2018 | Burning | 버닝 | Lee Chang-dong,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2019,Parasite,False,56 | 2019 | Parasite | 기생충 | Bong Joon-ho,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2020,N/a,False,57 | 2020 | — N/a,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+2021,2021,,False,2021,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+2021,2022,Decision to Leave,False,58 | 2022 | Decision to Leave | 헤어질 결심 | Park Chan-wook,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+2021,2023,Concrete Utopia,False,59 | 2023 | Concrete Utopia | 콘크리트 유토피아 | Um Tae-hwa,https://en.wikipedia.org/wiki/Grand_Bell_Awards

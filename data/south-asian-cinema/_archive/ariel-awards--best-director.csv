@@ -1,0 +1,242 @@
+year,film,person,is_winner,raw_text,source_url
+1947,Roberto Gavaldón,La Barraca,False,1947 (1st) | Roberto Gavaldón ‡ | La Barraca | [ 6 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1947,Crepúsculo,,False,Julio Bracho | Crepúsculo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1947,Las Abandonadas,,False,"Emilio ""El Indio"" Fernández | Las Abandonadas",https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1947,"Emilio ""El Indio"" Fernández",Enamorada,False,"1947 (2nd) | Emilio ""El Indio"" Fernández ‡ | Enamorada | [ 7 ]",https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1947,Cantaclaro,,False,Julio Bracho | Cantaclaro,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1947,La Otra,,False,Roberto Gavaldón | La Otra,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1948,"Emilio ""El Indio"" Fernández",La Perla,False,"1948 (3rd) | Emilio ""El Indio"" Fernández ‡ | La Perla | [ 8 ]",https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1948,El Buen Mozo,,False,Antonio Momplet | El Buen Mozo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1948,Soledad,,False,Miguel Zacarías | Soledad,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1949,"Emilio ""El Indio"" Fernández",Río Escondido,False,"1949 (4th) | Emilio ""El Indio"" Fernández ‡ | Río Escondido | [ 9 ]",https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1949,Rosenda,,False,Julio Bracho | Rosenda,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1949,Los Tres Huastecos,,False,Ismael Rodríguez | Los Tres Huastecos,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1950,Alejandro Galindo,Una Familia de Tantas,False,1950 (5th) | Alejandro Galindo ‡ | Una Familia de Tantas | [ 10 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1950,Pueblerina,,False,"Emilio ""El Indio"" Fernández | Pueblerina",https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1950,El Dolor de los Hijos,,False,Miguel Zacarías | El Dolor de los Hijos,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1951,Luis Buñuel,Los Olvidados,False,1951 (6th) | Luis Buñuel ‡ | Los Olvidados | [ 11 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1951,Otra Primavera,,False,Alfredo B. Crevenna | Otra Primavera,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1951,La Casa Chica,,False,Roberto Gavaldón | La Casa Chica,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1952,Roberto Gavaldón,En La Palma de Tu Mano,False,1952 (7th) | Roberto Gavaldón ‡ | En La Palma de Tu Mano | [ 12 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1952,Paraíso Robado,,False,Julio Bracho | Paraíso Robado,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1952,Doña Perfecta,,False,Alejandro Galindo | Doña Perfecta,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1953,Luis Buñuel,Subida al Cielo,False,1953 (8th) [ a ] | Luis Buñuel | Subida al Cielo | [ 13 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1953,Mi Esposa y la Otra,,False,Alfredo B. Crevenna | Mi Esposa y la Otra,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1953,El Rebozo de Soledad,,False,Roberto Gavaldón | El Rebozo de Soledad,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1954,Roberto Gavaldón,El Niño y la Niebla,False,1954 (9th) | Roberto Gavaldón ‡ | El Niño y la Niebla | [ 14 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1954,Un Divorcio,,False,Emilio Gómez Muriel | Un Divorcio,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1954,Pepe El Toro,,False,Ismael Rodríguez | Pepe El Toro,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1955,Alejandro Galindo,Los Fernández de Peralvillo,False,1955 (10th) | Alejandro Galindo ‡ | Los Fernández de Peralvillo | [ 15 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1955,Orquídeas Para Mi Esposa,,False,Alfredo B. Crevenna | Orquídeas Para Mi Esposa,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1955,Sombra Verde,,False,Roberto Gavaldón | Sombra Verde,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1956,Luis Buñuel,Robinson Crusoe,False,1956 (11th) | Luis Buñuel ‡ | Robinson Crusoe | [ 16 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1956,Ensayo de un Crimen,,False,Luis Buñuel | Ensayo de un Crimen,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1956,Una mujer en la calle,,False,Alfredo B. Crevenna | Una mujer en la calle,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1957,Alfonso Corona Blake,El Camino de la Vida,False,1957 (12th) | Alfonso Corona Blake ‡ | El Camino de la Vida | [ 17 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1957,La Escondida,,False,Roberto Gavaldón | La Escondida,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1957,¿Con Quién Andan Nuestras Hijas?,,False,Emilio Gómez Muriel | ¿Con Quién Andan Nuestras Hijas?,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1958,Tito Davison,La Dulce Enemiga,False,1958 (13th) | Tito Davison ‡ | La Dulce Enemiga | [ 18 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1958,"Feliz Año, Amor Mío",,False,"Tulio Demicheli | Feliz Año, Amor Mío",https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1958,La Culta Dama,,False,Rogelio A. González | La Culta Dama,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1959,Not awarded,,True,1959 — 1971 | Not awarded | [ 1 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1972,Jorge Fons,Nosotros,False,"1972 (14th) | Jorge Fons ‡ | ""Nosotros"" (episode from Tú, Yo, Nosotros ) | [ 19 ]",https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1972,El Águila Descalza,,False,Alfonso Arau | El Águila Descalza,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1972,La Puerta del Paraíso,,False,Salomón Láiter | La Puerta del Paraíso,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1973,Luis Alcoriza,Mecánica Nacional,False,1973 (15th) | Luis Alcoriza ‡ | Mecánica Nacional | [ 20 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1973,"Reed, México Insurgente",,False,"Paul Leduc | Reed, México Insurgente",https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1973,El Castillo de la Pureza,,False,Arturo Ripstein | El Castillo de la Pureza,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1974,Gonzalo Martínez Ortega,El Principio,False,1974 (16th) | Gonzalo Martínez Ortega ‡ | El Principio | [ 21 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1974,Caridad,,False,"Jorge Fons | ""Caridad"" (episode from Fé, Esperanza y Caridad )",https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1974,El Cambio,,False,Alfredo Joskowicz | El Cambio,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1975,"Emilio ""El Indio"" Fernández",La Choca,False,"1975 (17th) | Emilio ""El Indio"" Fernández ‡ | La Choca | [ 22 ]",https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1975,Presagio,,False,Luis Alcoriza | Presagio,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1975,La Otra Virginidad,,False,Juan Manuel Torres | La Otra Virginidad,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1976,Miguel Littín,Actas de Marusia,False,1976 (18th) | Miguel Littín ‡ | Actas de Marusia | [ 23 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1976,Canoa,,False,Felipe Cazals | Canoa,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1976,De Todos Modos Juan Te Llamas,,False,Marcela Fernández Violante | De Todos Modos Juan Te Llamas,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1977,Jaime Humberto Hermosillo,La Pasión Según Berenice,False,1977 (19th) | Jaime Humberto Hermosillo ‡ | La Pasión Según Berenice | [ 24 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1977,Cuartelazo,,False,Alberto Isaac | Cuartelazo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1977,Longitud de Guerra,,False,Gonzalo Martínez Ortega | Longitud de Guerra,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1978,Jaime Humberto Hermosillo,Naufragio,False,1978 (20th) | Jaime Humberto Hermosillo ‡ | Naufragio | [ 25 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1978,Los Pequeños Privilegios,,False,Julián Pastor | Los Pequeños Privilegios,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1978,En el Lugar Sin Limites,,False,Arturo Ripstein | En el Lugar Sin Limites,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1979,Arturo Ripstein,Cadena Perpetua,False,1979 (21st) | Arturo Ripstein ‡ | Cadena Perpetua | [ 26 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1979,Amor Libre,,False,Jaime Humberto Hermosillo | Amor Libre,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1979,El Recurso del Método,,False,Miguel Littín | El Recurso del Método,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1980,Felipe Cazals,El Año de la Peste,False,1980 (22nd) | Felipe Cazals ‡ | El Año de la Peste | [ 27 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1980,Fuego en el Mar,,False,Raúl Araiza | Fuego en el Mar,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1980,El Infierno de Todos Tan Temido,,False,Sergio Olhovich | El Infierno de Todos Tan Temido,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1981,Servando González,Las Grandes Aguas,False,1981 (23rd) | Servando González ‡ | Las Grandes Aguas | [ 28 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1981,Misterio,,False,Marcela Fernández Violante | Misterio,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1981,Morir de Madrugada,,False,Julián Pastor | Morir de Madrugada,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1982,Raúl Kamffer,¡Ora Si Tenemos Que Ganar!,False,1982 (24th) | Raúl Kamffer ‡ | ¡Ora Si Tenemos Que Ganar! | [ 29 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1982,Llámenme Mike,,False,Alfredo Gurrola | Llámenme Mike,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1982,Noche de Carnaval,,False,Mario Hernández | Noche de Carnaval,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1983,José Estrada,La Pachanga,False,1983 (25th) | José Estrada ‡ | La Pachanga | [ 30 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1983,Tiempo de Lobos,,False,Alberto Isaac | Tiempo de Lobos,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1983,Días de Combate,,False,Alfredo Gurrola | Días de Combate,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1984,Felipe Cazals,Bajo la Metralla,False,1984 (26th) | Felipe Cazals ‡ | Bajo la Metralla | [ 31 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1984,La Viuda Negra,,False,Arturo Ripstein | La Viuda Negra,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1984,El Diablo y la Dama,,False,Ariel Zúñiga | El Diablo y la Dama,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1985,Paul Leduc,Frida,False,1985 (27th) | Paul Leduc ‡ | Frida | [ 32 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1985,Vidas Errantes,,False,Juan Antonio de la Riva | Vidas Errantes,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1985,De Veras Me Atrapaste,,False,Gerardo Pardo | De Veras Me Atrapaste,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1986,Carlos Enrique Taboada,Veneno Para Las Hadas,False,1986 (28th) | Carlos Enrique Taboada ‡ | Veneno Para Las Hadas | [ 33 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1986,Los Motivos de Luz,,False,Felipe Cazals | Los Motivos de Luz,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1986,El Escuadrón de la Muerte,,False,Alfredo Gurrola | El Escuadrón de la Muerte,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1987,Arturo Ripstein,El Imperio de la Fortuna,False,1987 (29th) | Arturo Ripstein ‡ | El Imperio de la Fortuna | [ 34 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1987,Amor a la Vuelta de la Esquina,,False,Alberto Cortés | Amor a la Vuelta de la Esquina,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1987,Crónica de Familia,,False,Diego López Rivera | Crónica de Familia,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1988,Alberto Isaac,"Mariana, Mariana",False,"1988 (30th) | Alberto Isaac ‡ | Mariana, Mariana | [ 35 ]",https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1988,Lo Que Importa es Vivir,,False,Luis Alcoriza | Lo Que Importa es Vivir,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1988,Días Dificiles,,False,Alejandro Pelayo Rangel | Días Dificiles,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1989,Sergio Olhovich,Esperanza,False,1989 (31st) | Sergio Olhovich ‡ | Esperanza | [ 36 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1989,¿Nos Traicionará el Presidente?,,False,Juan Fernando Pérez Gavilán | ¿Nos Traicionará el Presidente?,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1989,La Jaula de Oro,,False,Sergio Véjar | La Jaula de Oro,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1990,Diego López Rivera,"Goitia, Un Dios Para Sí Mismo",False,"1990 (32nd) | Diego López Rivera ‡ | Goitia, Un Dios Para Sí Mismo | [ 37 ]",https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1990,Rosa de Dos Aromas,,False,Gilberto Gazcón de Anda | Rosa de Dos Aromas,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1990,El Homicida,,False,Alfonso Rosas Priego | El Homicida,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1991,Jorge Fons,Rojo Amanecer,False,1991 (33rd) | Jorge Fons ‡ | Rojo Amanecer | [ 38 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1991,Pueblo de Madera,,False,Juan Antonio de la Riva | Pueblo de Madera,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1992,Alfonso Arau,Como Agua Para Chocolate,False,1992 (34th) | Alfonso Arau ‡ | Como Agua Para Chocolate | [ 39 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1992,La Mujer de Benjamín,,False,Carlos Carrera | La Mujer de Benjamín,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1992,Danzón,,False,Maria Novaro | Danzón,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1993,Guillermo del Toro,Cronos,False,1993 (35th) | Guillermo del Toro ‡ | Cronos | [ 40 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1993,Tequila,,False,Rubén Gámez | Tequila,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1993,Ángel de Fuego,,False,Dana Rotberg | Ángel de Fuego,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1994,José Luis García Agraz,Desiertos Mares,False,1994 (36th) | José Luis García Agraz ‡ | Desiertos Mares | [ 41 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1994,Lolo,,False,Francisco Athié | Lolo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1994,La Vida Conyugal,,False,Carlos Carrera | La Vida Conyugal,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1994,Kino,,False,Felipe Cazals | Kino,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1994,Novia Que Te Vea,,False,Guita Schyfter | Novia Que Te Vea,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1995,Jorge Fons,El Callejón de los Milagros,False,1995 (37th) | Jorge Fons ‡ | El Callejón de los Milagros | [ 42 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1995,El Jardín del Edén,,False,Maria Novaro | El Jardín del Edén,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1995,Bienvenido — Welcome,,False,Gabriel Retes | Bienvenido — Welcome,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1995,Hasta Morir,,False,Fernando Sariñana | Hasta Morir,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1995,Dos Crimenes,,False,Roberto Sneider | Dos Crimenes,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1996,Carlos Carrera,Sin Remitente,False,1996 (38th) | Carlos Carrera ‡ | Sin Remitente | [ 43 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1996,Dulces Compañías,,False,Oscar Blancarte | Dulces Compañías,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1996,Salón México,,False,José Luis García Agraz | Salón México,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1996,Sobrenatural,,False,Daniel Gruener | Sobrenatural,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1996,Mujeres Insumisas,,False,Alberto Isaac | Mujeres Insumisas,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1997,Rafael Montero,Cilantro y Perejil,False,1997 (39th) | Rafael Montero ‡ | Cilantro y Perejil | [ 44 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1997,De Muerte Natural,,False,Benjamín Cann | De Muerte Natural,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1997,Juego Limpio,,False,Marco Julio Linares | Juego Limpio,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1998,Juan Pablo Villaseñor,Por Si No Te Vuelvo a Ver,False,1998 (40th) | Juan Pablo Villaseñor ‡ | Por Si No Te Vuelvo a Ver | [ 45 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1998,Elisa Antes del Fin del Mundo,,False,Juan Antonio de la Riva | Elisa Antes del Fin del Mundo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1998,"De Noche Vienes, Esmeralda",,False,"Jaime Humberto Hermosillo | De Noche Vienes, Esmeralda",https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1999,Carlos Carrera,Un Embrujo,False,1999 (41st) | Carlos Carrera ‡ | Un Embrujo | [ 46 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1999,"Bajo California, el Limite del Tiempo",,False,"Carlos Bolado | Bajo California, el Limite del Tiempo",https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+1999,El Evangelio de las Maravillas,,False,Arturo Ripstein | El Evangelio de las Maravillas,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2000,Luis Estrada,La Ley de Herodes,False,2000 (42nd) | Luis Estrada ‡ | La Ley de Herodes | [ 47 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2000,Del Olvido al No Me Acuerdo,,False,Juan Carlos Rulfo | Del Olvido al No Me Acuerdo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2000,Rito Terminal,,False,Oscar Urritua Lazo | Rito Terminal,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2001,Alejandro González Iñárritu,Amores Perros,False,2001 (43rd) | Alejandro González Iñárritu ‡ | Amores Perros | [ 48 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2001,Su Alteza Serenísima,,False,Felipe Cazals | Su Alteza Serenísima,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2001,Perfume de Violetas,,False,Maryse Sistach | Perfume de Violetas (Nadie te Oye),https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2002,Ignacio Ortíz Cruz,Cuento de Hadas Para Dormir Cocodrilos,False,2002 (44th) | Ignacio Ortíz Cruz ‡ | Cuento de Hadas Para Dormir Cocodrilos | [ 49 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2002,El Gavilán de la Sierra,,False,Juan Antonio de la Riva | El Gavilán de la Sierra,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2002,De la Calle,,False,Gerardo Tort | De la Calle,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2003,Carlos Carrera,El Crimen del Padre Amaro,False,2003 (45th) | Carlos Carrera ‡ | El Crimen del Padre Amaro | [ 50 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2003,eXXXorcismos,,False,Jaime Humberto Hermosillo | eXXXorcismos,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2003,Aro Tolbukhin: En la Mente del Asesino,,False,Isaac P. Racine | Aro Tolbukhin: En la Mente del Asesino,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2003,Aro Tolbukhin: En la Mente del Asesino,,False,Agustí Villaronga | Aro Tolbukhin: En la Mente del Asesino,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2003,Aro Tolbukhin: En la Mente del Asesino,,False,Lydia Zimmermann | Aro Tolbukhin: En la Mente del Asesino,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2004,José Luis García Agraz,El Misterio del Trinidad,False,2004 (46th) | José Luis García Agraz ‡ | El Misterio del Trinidad | [ 51 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2004,Japón,,False,Carlos Reygadas | Japón,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2004,"Mil Nubes de Paz Cercan el Cielo, Amor, Jamás Acabarás de Ser Amor",,False,"Julián Hernández | Mil Nubes de Paz Cercan el Cielo, Amor, Jamás Acabarás de Ser Amor",https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2005,Fernando Eimbcke,Temporada de Patos,False,2005 (47th) | Fernando Eimbcke ‡ | Temporada de Patos | [ 52 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2005,Manos Libres,,False,José Buil | Manos Libres (Nadie te Habla),https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2005,Voces Inocentes,,False,Luis Mandoki | Voces Inocentes,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2006,Felipe Cazals,Las Vueltas del Citrillo,False,2006 (48th) | Felipe Cazals ‡ | Las Vueltas del Citrillo | [ 53 ] [ 54 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2006,Mezcal,,False,Ignacio Ortíz Cruz | Mezcal,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2006,Noticias Lejanas,,False,Ricardo Benet | Noticias Lejanas,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2007,Guillermo del Toro,El Laberinto del Fauno,False,2007 (49th) | Guillermo del Toro ‡ | El Laberinto del Fauno | [ 55 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2007,Crónicas,,False,Sebastián Cordero | Crónicas,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2007,El Violín,,False,Francisco Vargas Quevedo | El Violín,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2008,Carlos Reygadas,Luz Silenciosa,False,2008 (50th) | Carlos Reygadas ‡ | Luz Silenciosa | [ 56 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2008,Los Ladrones Viejos,,False,Everardo González | Los Ladrones Viejos,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2008,Cobrador: In God We Trust,,False,Paul Leduc | Cobrador: In God We Trust,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2009,Fernando Eimbcke,Lake Tahoe,False,2009 (51st) | Fernando Eimbcke ‡ | Lake Tahoe | [ 57 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2009,Los Herederos,,False,Eugenio Polgovsky | Los Herederos,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2009,I'm Gonna Explode,,False,Gerardo Naranjo | I'm Gonna Explode,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2010,Carlos Carrera,Backyard: El Traspatio,False,2010 (52nd) | Carlos Carrera ‡ | Backyard: El Traspatio | [ 58 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2010,Cinco Días Sin Nora,,False,Mariana Chenillo | Cinco Días Sin Nora,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2010,Corazón del Tiempo,,False,Alberto Cortés | Corazón del Tiempo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2011,Luis Estrada,El Infierno,False,2011 (53rd) | Luis Estrada ‡ | El Infierno | [ 59 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2011,Chicogrande,,False,Felipe Cazals | Chicogrande,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2011,Abel,,False,Diego Luna | Abel,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2012,Emilio Portes,Pastorela,False,2012 (54th) | Emilio Portes ‡ | Pastorela | [ 60 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2012,Días de Gracia,,False,Everardo Gout | Días de Gracia,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2012,Miss Bala,,False,Gerardo Naranjo | Miss Bala,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2013,Rodrigo Plá,La Demora,False,2013 (55th) | Rodrigo Plá ‡ | La Demora | [ 61 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2013,La vida precoz y breve de Sabina Rivas,,False,Luis Mandoki | La vida precoz y breve de Sabina Rivas,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2013,El Premio,,False,Paula Markovitch | El Premio,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2013,Los Últimos Cristeros,,False,Matías Meyer | Los Últimos Cristeros,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2014,Amat Escalante,Heli,False,2014 (56th) | Amat Escalante ‡ | Heli | [ 62 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2014,Club Sandwich,,False,Fernando Eimbcke | Club Sandwich,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2014,Tercera Llamada,,False,Francisco Franco | Tercera Llamada,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2014,La Jaula de Oro,,False,Diego Quemada-Diez | La Jaula de Oro,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2014,Los Insólitos Peces Gato,,False,Claudia Sainte-Luce | Los Insólitos Peces Gato,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2015,Alonso Ruizpalacios,Güeros,False,2015 (57th) | Alonso Ruizpalacios ‡ | Güeros | [ 63 ] [ 64 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2015,Las Oscuras Primaveras,,False,Ernesto Contreras | Las Oscuras Primaveras,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2015,La Dictadura Perfecta,,False,Luis Estrada | La Dictadura Perfecta,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2015,Carmín Tropical,,False,Rigoberto Perezcano | Carmín Tropical,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2015,"Guten Tag, Ramón",,False,"Jorge Ramírez-Suárez | Guten Tag, Ramón",https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2016,David Pablos,Las Elegidas,False,2016 (58th) | David Pablos ‡ | Las Elegidas | [ 65 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2016,Te Prometo Anarquía,,False,Julio Hernández Cordón | Te Prometo Anarquía,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2016,Un Monstruo de Mil Cabezas,,False,Rodrigo Plá | Un Monstruo de Mil Cabezas,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2016,600 Millas,,False,Gabriel Ripstein | 600 Millas,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2016,El Jeremías,,False,Anwar Safa | El Jeremías,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2017,Tatiana Huezo,Tempestad,False,2017 (59th) | Tatiana Huezo ‡ | Tempestad | [ 66 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2017,La 4a Compañía,,False,Mitzi Vanessa Arreola and Amir Galván | La 4a Compañía,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2017,Desierto,,False,Jonás Cuarón | Desierto,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2017,El Sueño del Mara'akame,,False,Federico Cecchetti | El Sueño del Mara'akame,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2017,Me Estás Matando Susana,,False,Roberto Sneider | Me Estás Matando Susana,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2018,Amat Escalante,La Región Salvaje,False,2018 (60th) | Amat Escalante ‡ | La Región Salvaje | [ 67 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2018,Los Adioses,,False,Natalia Beristáin | Los Adioses,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2018,Batallas Íntimas,,False,Lucía Gajá | Batallas Íntimas,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2018,La Libertad del Diablo,,False,Everardo González | La Libertad del Diablo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2018,Vuelven,,False,Issa López | Vuelven,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2019,Alfonso Cuarón,Roma,False,2019 (61st) | Alfonso Cuarón ‡ | Roma | [ 68 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2019,La Camarista,,False,Lila Avilés | La Camarista,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2019,Las Niñas Bien,,False,Alejandra Márquez Abella | Las Niñas Bien,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2019,Nuestro Tiempo,,False,Carlos Reygadas | Nuestro Tiempo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2019,Museo,,False,Alonso Ruizpalacios | Museo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2020,Fernando Frías de la Parra,Ya No Estoy Aquí,False,2020 (62nd) | Fernando Frías de la Parra ‡ | Ya No Estoy Aquí | [ 69 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2020,Cómprame Un Revolver,,False,Julio Hernández Cordón | Cómprame Un Revolver,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2020,Asfixia,,False,Kenya Márquez | Asfixia,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2020,Esto no es Berlín,,False,Hari Sama | Esto no es Berlín,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2020,Polvo,,False,José María Yazpik | Polvo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2021,Fernanda Valadez,Sin Señas Particulares,False,2021 (63rd) | Fernanda Valadez ‡ | Sin Señas Particulares | [ 70 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2021,Las Tres Muertes de Marisela Escobedo,,False,Carlos Pérez Osorio | Las Tres Muertes de Marisela Escobedo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2021,El baile de los 41,,False,David Pablos | El baile de los 41,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2021,Los Lobos,,False,Samuel Kishi | Los Lobos,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2021,Selva Trágica,,False,Yulene Olaizola | Selva Trágica,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2022,Alonso Ruizpalacios,Una Película de Policías,False,2022 (64th) | Alonso Ruizpalacios ‡ | Una Película de Policías | [ 71 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2022,Cosas Imposibles,,False,Ernesto Contreras | Cosas Imposibles,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2022,Nudo Mixteco,,False,Ángeles Cruz | Nudo Mixteco,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2022,Noche de Fuego,,False,Tatiana Huezo | Noche de Fuego,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2022,El Diablo Entre Las Piernas,,False,Arturo Ripstein | El Diablo Entre Las Piernas,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2023,Alejandro González Iñárritu,"Bardo, falsa crónica de unas cuantas verdades",False,"2023 (65th) | Alejandro González Iñárritu ‡ | Bardo, falsa crónica de unas cuantas verdades | [ 72 ]",https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2023,Ruido,,False,Natalia Beristáin | Ruido,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2023,Huesera,,False,Michelle Garza Cervera | Huesera,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2023,El Norte Sobre el Vacío,,False,Alejandra Márquez Abella | El Norte Sobre el Vacío,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2023,La Caída,,False,Lucía Puenzo | La Caída,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2024,Lila Avilés,Tótem,False,2024 (66th) | Lila Avilés | Tótem | [ 73 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2024,Familia,,False,Rodrigo García | Familia,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2024,El Eco,,False,Tatiana Huezo | El Eco,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2024,Temporada de Huracanes,,False,Elisa Miller | Temporada de Huracanes,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2024,Heroico,,False,David Zonana | Heroico,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2025,Astrid Rondero and Fernanda Valadez,Sujo,False,2025 (66th) | Astrid Rondero and Fernanda Valadez | Sujo | [ 74 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2025,Corina,,False,Urzula Barba Hopfner | Corina,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2025,Pedro Páramo,,False,Rodrigo Prieto | Pedro Páramo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2025,La Cocina,,False,Alonso Ruizpalacios | La Cocina,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+2025,We Shall Not Be Moved,,False,Pierre Saint Martin | We Shall Not Be Moved,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+,Carlos Carrera,,False,4 | Carlos Carrera,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+,Felipe Cazals,,False,3 | Felipe Cazals,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+,Luis Buñuel,,False,2 | Luis Buñuel,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+,Felipe Cazals,,False,8 | Felipe Cazals,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+,Arturo Ripstein,,False,7 | Arturo Ripstein,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+,Carlos Carrera,,False,6 | Carlos Carrera,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director
+,Julio Bracho,,False,4 | Julio Bracho,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Director

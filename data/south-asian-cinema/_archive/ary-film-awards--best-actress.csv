@@ -1,0 +1,12 @@
+year,film,person,is_winner,raw_text,source_url
+,Ayesha Khan,Waar,True,2013 (1st) | Ayesha Khan | Waar | Javeria Khattak | [ 2 ],https://en.wikipedia.org/wiki/ARY_Film_Award_for_Best_Actress
+,Main Hoon Shahid Afridi,Sara,False,Mahnoor Baloch | Main Hoon Shahid Afridi | Sara,https://en.wikipedia.org/wiki/ARY_Film_Award_for_Best_Actress
+,Lamha,Maliha,False,Aamina Sheikh | Lamha | Maliha,https://en.wikipedia.org/wiki/ARY_Film_Award_for_Best_Actress
+,Zinda Bhaag,Rubina,False,Amna Ilyas | Zinda Bhaag | Rubina,https://en.wikipedia.org/wiki/ARY_Film_Award_for_Best_Actress
+,Siyaah,Nartasha,False,Hareem Farooq | Siyaah | Nartasha,https://en.wikipedia.org/wiki/ARY_Film_Award_for_Best_Actress
+,Mehwish Hayat,Jawani Phir Nahi Ani,True,2015 (2nd) | Mehwish Hayat | Jawani Phir Nahi Ani | Marina | [ 3 ],https://en.wikipedia.org/wiki/ARY_Film_Award_for_Best_Actress
+,Jawani Phir Nahi Ani,Zoya,False,Sohai Ali Abro | Jawani Phir Nahi Ani | Zoya,https://en.wikipedia.org/wiki/ARY_Film_Award_for_Best_Actress
+,Laila,,False,Wrong No. | Laila,https://en.wikipedia.org/wiki/ARY_Film_Award_for_Best_Actress
+,Karachi Se Lahore,Maryam,False,Ayesha Omer | Karachi Se Lahore | Maryam,https://en.wikipedia.org/wiki/ARY_Film_Award_for_Best_Actress
+,Manto,Safya,False,Sania Saeed | Manto | Safya,https://en.wikipedia.org/wiki/ARY_Film_Award_for_Best_Actress
+,Moor,Amber,False,Sonya Hussain | Moor | Amber,https://en.wikipedia.org/wiki/ARY_Film_Award_for_Best_Actress

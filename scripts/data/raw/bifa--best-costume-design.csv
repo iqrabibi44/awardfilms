@@ -1,0 +1,46 @@
+year,film,person,is_winner,raw_text,source_url
+2017,Lady Macbeth,Holly Waddington,True,2017 (20th) [ 1 ] [ 2 ] | Lady Macbeth | Holly Waddington,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2017,Suzie Harman,,False,The Death of Stalin | Suzie Harman,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2017,Sandy Powell,,False,How to Talk to Girls at Parties | Sandy Powell,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2017,Holly Rebecca,,False,I Am Not a Witch | Holly Rebecca,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2017,Dinah Collin,,False,My Cousin Rachel | Dinah Collin,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2018,The Favourite,Sandy Powell,True,2018 (21st) [ 3 ] [ 4 ] | The Favourite | Sandy Powell,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2018,Andrea Flesch,,False,Colette | Andrea Flesch,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2018,Alyssa Tull,,False,An Evening with Beverly Luff Linn | Alyssa Tull,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2018,Jacqueline Durran,,False,Peterloo | Jacqueline Durran,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2018,Guy Sperenza,,False,Stan & Ollie | Guy Sperenza,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2019,The Personal History of David Copperfield,Suzie Harman and Robert Worley,True,2019 (22nd) [ 5 ] [ 6 ] | The Personal History of David Copperfield | Suzie Harman and Robert Worley,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2019,Jo Thompson,,False,In Fabric | Jo Thompson,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2019,Jany Temime,,False,Judy | Jany Temime,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2019,Grace Snell,,False,The Souvenir | Grace Snell,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2019,Anna Robbins,,False,Wild Rose | Anna Robbins,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2020,Misbehaviour,Charlotte Walter,True,2020 (23rd) [ 7 ] [ 8 ] | Misbehaviour | Charlotte Walter,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2020,Michael O'Connor,,False,Ammonite | Michael O'Connor,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2020,Ruka Johnson,,False,Rocks | Ruka Johnson,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2020,Tina Kalivas,,False,Saint Maud | Tina Kalivas,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2020,Michele Clapton,,False,The Secret Garden | Michele Clapton,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2021,The Souvenir Part II,Grace Snell,True,2021 (24th) [ 9 ] | The Souvenir Part II | Grace Snell,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2021,Annie Symons,,False,Benediction | Annie Symons,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2021,Charlotte Walter,,False,Belfast | Charlotte Walter,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2021,Michael O'Connor,,False,The Electrical Life of Louis Wain | Michael O'Connor,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2021,Guy Speranza,,False,Everybody's Talking About Jamie | Guy Speranza,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2022,Mrs. Harris Goes to Paris,Jenny Beavan,True,2022 (25th) [ 10 ] [ 11 ] | Mrs. Harris Goes to Paris | Jenny Beavan,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2022,Frank Gallacher,,False,Aftersun | Frank Gallacher,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2022,Saffron Cullane,,False,Flux Gourmet | Saffron Cullane,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2022,Sandy Powell,,False,Living | Sandy Powell,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2022,Odile Dicks-Mireaux,,False,The Wonder | Odile Dicks-Mireaux,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2023,Femme,Buki Ebiesuwa,True,2023 (26th) [ 12 ] [ 13 ] | Femme | Buki Ebiesuwa,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2023,PC Williams,,False,The End We Start From | PC Williams,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2023,George Buxton,,False,How to Have Sex | George Buxton,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2023,Cynthia Lawrence-John,,False,Rye Lane | Cynthia Lawrence-John,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2023,Oliver Cronk,,False,Scrapper | Oliver Cronk,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2024,Firebrand,Michael O'Connor,True,2024 (27th) [ 14 ] | Firebrand | Michael O'Connor,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2024,Meghan Kasperlik,,False,Civil War | Meghan Kasperlik,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2024,Zjena Glamocanin,,False,Kneecap | Zjena Glamocanin,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2024,Olga Mill,,False,Love Lies Bleeding | Olga Mill,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2024,Nirage Mirage,,False,Unicorns | Nirage Mirage,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2025,Pillion,Grace Snell,True,2025 (28th) | Pillion | Grace Snell,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2025,Susie Coulthard,,False,100 Nights of Hero | Susie Coulthard,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2025,Kirsty Halliday,,False,Tornado | Kirsty Halliday,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2025,Sayaka Takahashi & Matthew Price,,False,A Pale View of Hills | Sayaka Takahashi & Matthew Price,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design
+2025,PC Williams,,False,My Father’s Shadow | PC Williams,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Costume_Design

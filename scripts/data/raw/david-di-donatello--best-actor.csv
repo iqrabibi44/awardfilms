@@ -1,0 +1,236 @@
+year,film,person,is_winner,raw_text,source_url
+,Antonio Carotenuto,Scandal in Sorrento,True,Vittorio De Sica | Antonio Carotenuto | Scandal in Sorrento | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Private Giovanni Busacca,The Great War,True,Vittorio Gassman | Private Giovanni Busacca | The Great War | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Private Oreste Jacovacci,The Great War,True,Alberto Sordi | Private Oreste Jacovacci | The Great War,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Second lieutenant Alberto Innocenzi,Everybody Go Home,True,Alberto Sordi | Second lieutenant Alberto Innocenzi | Everybody Go Home | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,"Edoardo ""Eddie"" Carbone",A View from the Bridge,True,"Raf Vallone | Edoardo ""Eddie"" Carbone | A View from the Bridge | ",https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Bruno Cortona,Il Sorpasso,True,Vittorio Gassmann | Bruno Cortona | Il Sorpasso | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Carmine Sbaratti / Renzo / Augusto Rusconi,"Yesterday, Today and Tomorrow",True,"Marcello Mastroianni | Carmine Sbaratti / Renzo / Augusto Rusconi | Yesterday, Today and Tomorrow | ",https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Giuliano Maria,Hard Time for Princes,True,Vittorio Gassmann | Giuliano Maria | Hard Time for Princes | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Domenico Soriano,Marriage Italian-Style,True,Marcello Mastroianni | Domenico Soriano | Marriage Italian-Style,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Dante Fontana,Fumo di Londra,True,Alberto Sordi | Dante Fontana | Fumo di Londra | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Francesco Vincenzini,The Tiger and the Pussycat,True,Vittorio Gassmann | Francesco Vincenzini | The Tiger and the Pussycat | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Sergio Masini,The Climax,True,Ugo Tognazzi | Sergio Masini | The Climax,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Captain Bellodi,The Day of the Owl,True,Franco Nero | Captain Bellodi | The Day of the Owl | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Cacopardo / Angelo Perfili / Ercole / Voyeur / Telephone operator / Maurizio / Nanni,I See Naked,True,Nino Manfredi | Cacopardo / Angelo Perfili / Ercole / Voyeur / Telephone operator / Maurizio / Nanni | I See Naked | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Dr. Guido Tersilli,Be Sick... It's Free,True,Alberto Sordi | Dr. Guido Tersilli | Be Sick... It's Free,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Cornacchia / Pasquino,The Conspirators,True,Nino Manfredi | Cornacchia / Pasquino | The Conspirators | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,"Il Dottore, Former Head of Homicide Squad",Investigation of a Citizen Above Suspicion,True,"Gian Maria Volonté | Il Dottore, Former Head of Homicide Squad | Investigation of a Citizen Above Suspicion",https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Annibale Doberdò,Lady Caliph,True,Ugo Tognazzi | Annibale Doberdò | Lady Caliph | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Carmelo 'Mimì' Mardocheo,The Seduction of Mimi,True,Giancarlo Giannini | Carmelo 'Mimì' Mardocheo | The Seduction of Mimi | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Giuseppe Di Noi,In Prison Awaiting Trial,True,Alberto Sordi | Giuseppe Di Noi | In Prison Awaiting Trial,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Peppino,The Scientific Cardplayer,True,Alberto Sordi | Peppino | The Scientific Cardplayer | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Giovanni 'Nino' Garofoli,Bread and Chocolate,True,Nino Manfredi | Giovanni 'Nino' Garofoli | Bread and Chocolate | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Captain Fausto Consolo,Scent of a Woman,True,Vittorio Gassmann | Captain Fausto Consolo | Scent of a Woman | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Felice 'Felix' Brianza,The Con Artists,True,Adriano Celentano | Felice 'Felix' Brianza | The Con Artists | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Raffaello Mascetti,My Friends,True,Ugo Tognazzi | Raffaello Mascetti | My Friends,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Giovanni Vivaldi,An Average Little Man,True,Alberto Sordi | Giovanni Vivaldi | An Average Little Man | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Monsignor Colombo da Priverno,In the Name of the Pope King,True,Nino Manfredi | Monsignor Colombo da Priverno | In the Name of the Pope King | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Albino Millozzi,Dear Father,True,Vittorio Gassman | Albino Millozzi | Dear Father | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Guido Quiller,Velvet Hands,True,Adriano Celentano | Guido Quiller | Velvet Hands | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Gaetano,I'm Starting from Three,True,Massimo Troisi | Gaetano | I'm Starting from Three | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Berardo Viola,Fontamara,False,Michele Placido | Berardo Viola | Fontamara,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Pasquale Amitrano / Furio Zoccano / Mimmo,"Bianco, rosso e Verdone",False,"Carlo Verdone | Pasquale Amitrano / Furio Zoccano / Mimmo | Bianco, rosso e Verdone",https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Sergio Benvenuti,Talcum Powder,True,Carlo Verdone | Sergio Benvenuti | Talcum Powder | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Giovanni,Looking for Jesus,False,Beppe Grillo | Giovanni | Looking for Jesus,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Marquess Onofrio del Grillo / Gasperino,Il marchese del Grillo,False,Alberto Sordi | Marquess Onofrio del Grillo / Gasperino | Il marchese del Grillo,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Francesco 'Toscano' Piccioli,The Pool Hustlers,True,Francesco Nuti | Francesco 'Toscano' Piccioli | The Pool Hustlers | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Philip Neri,State buoni se potete,False,Johnny Dorelli | Philip Neri | State buoni se potete,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Giacomo Casanova,That Night in Varennes,False,Marcello Mastroianni | Giacomo Casanova | That Night in Varennes,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Salvatore Cannavacciuolo,Where's Picone?,True,Giancarlo Giannini | Salvatore Cannavacciuolo | Where's Picone? | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Francesco,Son contento,False,Francesco Nuti | Francesco | Son contento,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Michele Apicella,Sweet Body of Bianca,False,Nanni Moretti | Michele Apicella | Sweet Body of Bianca,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Francesco 'Toscano' Piccioli,"Casablanca, Casablanca",True,"Francesco Nuti | Francesco 'Toscano' Piccioli | Casablanca, Casablanca | ",https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,The forgetful man,A Proper Scandal,False,Ben Gazzara | The forgetful man | A Proper Scandal,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Mario Vialone,Pizza Connection,False,Michele Placido | Mario Vialone | Pizza Connection,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Pippo Botticella / Fred,Ginger and Fred,True,Marcello Mastroianni | Pippo Botticella / Fred | Ginger and Fred | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Father Giulio,The Mass Is Ended,False,Nanni Moretti | Father Giulio | The Mass Is Ended,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Romeo Casamonica,All the Fault of Paradise,False,Francesco Nuti | Romeo Casamonica | All the Fault of Paradise,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Adult Carlo / Carlo's grandfather,The Family,True,Vittorio Gassman | Adult Carlo / Carlo's grandfather | The Family | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Franco Mattioli,Christmas Present,False,Diego Abatantuono | Franco Mattioli | Christmas Present,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Aldo Moro,The Moro Affair,False,Gian Maria Volonté | Aldo Moro | The Moro Affair,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Romano,Dark Eyes,True,Marcello Mastroianni † | Romano | Dark Eyes | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Dr. Athos Fadigati,The Gold Rimmed Glasses,False,Philippe Noiret | Dr. Athos Fadigati | The Gold Rimmed Glasses,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Carlo Piergentili,Io e mia sorella,False,Carlo Verdone | Carlo Piergentili | Io e mia sorella,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Giuditta,The Little Devil,True,Roberto Benigni | Giuditta | The Little Devil | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Francis II of the Two Sicilies,O Re,False,Giancarlo Giannini | Francis II of the Two Sicilies | 'O Re,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Piero Ruffolo,Compagni di scuola,False,Carlo Verdone | Piero Ruffolo | Compagni di scuola,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Prefect Gonnella,The Voice of the Moon,True,Paolo Villaggio | Prefect Gonnella | The Voice of the Moon | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Judge Vito Di Francesco,Open Doors,True,Gian Maria Volonté | Judge Vito Di Francesco | Open Doors,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Paolo,Little Misunderstandings,False,Sergio Castellitto | Paolo | Little Misunderstandings,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Giuseppe Marchi,Dark Illness,False,Giancarlo Giannini | Giuseppe Marchi | Dark Illness,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Michele Apicella,Red Wood Pigeon,False,Nanni Moretti | Michele Apicella | Red Wood Pigeon,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Michele,What Time Is It?,False,Massimo Troisi | Michele | What Time Is It?,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Cesare Botero,The Yes Man,True,Nanni Moretti | Cesare Botero | The Yes Man | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Sergeant major Nicola Lorusso,Mediterraneo,False,Diego Abatantuono | Sergeant major Nicola Lorusso | Mediterraneo,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Principe,Ultrà,False,Claudio Amendola | Principe | Ultrà,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Luciano Sandulli,The Yes Man,False,Silvio Orlando | Luciano Sandulli | The Yes Man,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Domenico,The Station,False,Sergio Rubini | Domenico | The Station,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Bernardo Arbusti,Damned the Day I Met You,True,Carlo Verdone | Bernardo Arbusti | Damned the Day I Met You | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Officer Antonio,The Stolen Children,False,Enrico Lo Verso | Officer Antonio | The Stolen Children,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Roberto Franzò,A Simple Story,False,Gian Maria Volonté | Roberto Franzò | A Simple Story,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Dr. Arturo,The Great Pumpkin,True,Sergio Castellitto | Dr. Arturo | The Great Pumpkin | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Renato Caccioppoli,Death of a Neapolitan Mathematician,False,Carlo Cecchi | Renato Caccioppoli | Death of a Neapolitan Mathematician,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Saverio,Un'altra vita,False,Silvio Orlando | Saverio | Un'altra vita,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Judge Rosario Livatino,Law of Courage,True,Giulio Scarpati | Judge Rosario Livatino | Law of Courage | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Saint Joseph,"For Love, Only for Love",False,"Diego Abatantuono | Saint Joseph | For Love, Only for Love",https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Nanni,Caro diario,False,Nanni Moretti | Nanni | Caro diario,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Ciro Ascarone,Sud,False,Silvio Orlando | Ciro Ascarone | Sud,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Pereira,Sostiene Pereira,True,Marcello Mastroianni | Pereira | Sostiene Pereira | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Giorgio Ambrosoli,Un eroe borghese,False,Fabrizio Bentivoglio | Giorgio Ambrosoli | Un eroe borghese,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Mario Ruoppolo,Il Postino: The Postman,False,Massimo Troisi † | Mario Ruoppolo | Il Postino: The Postman,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Sergio Amidei,Celluloide,True,Giancarlo Giannini | Sergio Amidei | Celluloide | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Giuseppe 'Joe Morelli' Romolo,The Star Maker,False,Sergio Castellitto | Giuseppe 'Joe Morelli' Romolo | The Star Maker,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Ruggero Mazzalupi,August Vacation,False,Ennio Fantastichini | Ruggero Mazzalupi | August Vacation,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Turi Arcangelo Leofonte,Palermo - Milan One Way,False,Giancarlo Giannini | Turi Arcangelo Leofonte | Palermo - Milan One Way,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Pietro Nava,An Eyewitness Account,True,Fabrizio Bentivoglio | Pietro Nava | An Eyewitness Account | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Claudio Braccio,My Generation,False,Claudio Amendola | Claudio Braccio | My Generation,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Levante Quarini,The Cyclone,False,Leonardo Pieraccioni | Levante Quarini | The Cyclone,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Joystick,Nirvana,False,Sergio Rubini | Joystick | Nirvana,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Romeo Spera,I'm Crazy for Iris Blond,False,Carlo Verdone | Romeo Spera | I'm Crazy for Iris Blond,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Guido Orefice,Life Is Beautiful,True,Roberto Benigni ‡ | Guido Orefice | Life Is Beautiful | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Himself,April,False,Nanni Moretti | Himself | April,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Vincenzo Lipari,Auguri professore,False,Silvio Orlando | Vincenzo Lipari | Auguri professore,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Freccia,Radiofreccia,True,Stefano Accorsi | Freccia | Radiofreccia | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Alex Drastico / Ivo Perego / Pacifico,La fame e la sete,False,Antonio Albanese | Alex Drastico / Ivo Perego / Pacifico | La fame e la sete,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Ernesto,Fuori dal mondo,False,Silvio Orlando | Ernesto | Fuori dal mondo,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Fernando Girasole,Bread and Tulips,True,Bruno Ganz | Fernando Girasole | Bread and Tulips | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Horst Fantazzini,Outlaw,False,Stefano Accorsi | Horst Fantazzini | Outlaw,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Marco,A Love,False,Fabrizio Gifuni | Marco | A Love,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Ercole Preziosi,A Chinese in a Coma,False,Carlo Verdone | Ercole Preziosi | A Chinese in a Coma,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Peppino Impastato,One Hundred Steps,True,Luigi Lo Cascio | Peppino Impastato | One Hundred Steps | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Carlo,The Last Kiss,False,Stefano Accorsi | Carlo | The Last Kiss,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Giovanni,The Son's Room,False,Nanni Moretti | Giovanni | The Son's Room,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Eugenio,I Love You Eugenio,True,Giancarlo Giannini | Eugenio | I Love You Eugenio | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Antonio,Light of My Eyes,False,Luigi Lo Cascio | Antonio | Light of My Eyes,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Antonio 'Tony' Pisapia,L'uomo in più,False,Toni Servillo | Antonio 'Tony' Pisapia | L'uomo in più,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Davide Veroli,Facing Windows,True,Massimo Girotti | Davide Veroli | Facing Windows | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Pinocchio,Pinocchio,False,Roberto Benigni | Pinocchio | Pinocchio,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Carlo Ristuccia,"Remember Me, My Love",False,"Fabrizio Bentivoglio | Carlo Ristuccia | Remember Me, My Love",https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Ernesto Picciafuoco,My Mother's Smile,False,Sergio Castellitto | Ernesto Picciafuoco | My Mother's Smile,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Nello Balocchi,Incantato,False,Neri Marcorè | Nello Balocchi | Incantato,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Tommaso,Casomai,False,Fabio Volo | Tommaso | Casomai,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Timoteo,Don't Move,True,Sergio Castellitto | Timoteo | Don't Move | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Romeo D'Avanzo,Agata and the Storm,False,Giuseppe Battiston | Romeo D'Avanzo | Agata and the Storm,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Nicola Carati,The Best of Youth,False,Luigi Lo Cascio | Nicola Carati | The Best of Youth,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Matteo,What Will Happen to Us,False,Silvio Muccino | Matteo | What Will Happen to Us,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Gilberto Mercuri,Love Is Eternal While It Lasts,False,Carlo Verdone | Gilberto Mercuri | Love Is Eternal While It Lasts,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Titta Di Girolamo,The Consequences of Love,True,Toni Servillo | Titta Di Girolamo | The Consequences of Love | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Marco Battaglia,"Smalltown, Italy",False,"Stefano Accorsi | Marco Battaglia | Smalltown, Italy",https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Martino,After Midnight,False,Giorgio Pasotti | Martino | After Midnight,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Gianni,The Keys to the House,False,Kim Rossi Stuart | Gianni | The Keys to the House,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Father Pino Puglisi,Come into the Light,False,Luca Zingaretti | Father Pino Puglisi | Come into the Light,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Bruno Bonomo,The Caiman,True,Silvio Orlando | Bruno Bonomo | The Caiman | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Giordano Ricci,The Second Wedding Night,False,Antonio Albanese | Giordano Ricci | The Second Wedding Night,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Luigi Di Santo,Our Land,False,Fabrizio Bentivoglio | Luigi Di Santo | Our Land,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Freddo,Romanzo Criminale,False,Kim Rossi Stuart | Freddo | Romanzo Criminale,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Achille De Bellis,My Best Enemy,False,Carlo Verdone | Achille De Bellis | My Best Enemy,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Antonio 'Accio' Benassi,My Brother is an Only Child,True,Elio Germano | Antonio 'Accio' Benassi | My Brother is an Only Child | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Salvatore Mancuso,Nuovomondo,False,Vincenzo Amato | Salvatore Mancuso | Nuovomondo,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Muffa,The Unknown Woman,False,Michele Placido | Muffa | The Unknown Woman,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Geremia de' Geremei,The Family Friend,False,Giacomo Rizzo | Geremia de' Geremei | The Family Friend,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Renato Benetti,Along the Ridge,False,Kim Rossi Stuart | Renato Benetti | Along the Ridge,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Commissioner Giovanni Sanzio,The Girl by the Lake,True,Toni Servillo | Commissioner Giovanni Sanzio | The Girl by the Lake | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Michele,Days and Clouds,False,Antonio Albanese | Michele | Days and Clouds,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Prince Giacomo Uzeda di Francalanza,I Viceré,False,Lando Buzzanca | Prince Giacomo Uzeda di Francalanza | I Viceré,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Pietro Paladini,Quiet Chaos,False,Nanni Moretti | Pietro Paladini | Quiet Chaos,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Luca Flores,"Piano, solo",False,"Kim Rossi Stuart | Luca Flores | Piano, solo",https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Giulio Andreotti,Il Divo,True,Toni Servillo | Giulio Andreotti | Il Divo | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Piero,Different from Whom?,False,Luca Argentero | Piero | Different from Whom?,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Nello,We Can Do That,False,Claudio Bisio | Nello | We Can Do That,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Stefano Nardin,Don't Think About It,False,Valerio Mastandrea | Stefano Nardin | Don't Think About It,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Michele Casali,Giovanna's Father,False,Silvio Orlando | Michele Casali | Giovanna's Father,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Bruno Michelucci,The First Beautiful Thing,True,Valerio Mastandrea | Bruno Michelucci | The First Beautiful Thing | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Alberto,A Question of the Heart,False,Antonio Albanese | Alberto | A Question of the Heart,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Giancarlo Siani,Fort Apache Napoli,False,Libero De Rienzo | Giancarlo Siani | Fort Apache Napoli,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Angelo,A Question of the Heart,False,Kim Rossi Stuart | Angelo | A Question of the Heart,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Benito Mussolini / Benito Albino Dalser,Vincere,False,Filippo Timi | Benito Mussolini / Benito Albino Dalser | Vincere,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Claudio,La nostra vita,True,Elio Germano | Claudio | La nostra vita | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Cetto La Qualunque,Qualunquemente,False,Antonio Albanese | Cetto La Qualunque | Qualunquemente,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Alberto Colombo,Benvenuti al Sud,False,Claudio Bisio | Alberto Colombo | Benvenuti al Sud,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Aureliano Amadei,20 Cigarettes,False,Vinicio Marchioni | Aureliano Amadei | 20 Cigarettes,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Renato Vallanzasca,Angel of Evil,False,Kim Rossi Stuart | Renato Vallanzasca | Angel of Evil,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Pope Melville,We Have a Pope,True,Michel Piccoli | Pope Melville | We Have a Pope | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Bruno,Easy!,False,Fabrizio Bentivoglio | Bruno | Easy!,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Pietro Potenchiavelli,Magnificent Presence,False,Elio Germano | Pietro Potenchiavelli | Magnificent Presence,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Domenico Segato,A Flat for Three,False,Marco Giallini | Domenico Segato | A Flat for Three,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Commissioner Luigi Calabresi,Piazza Fontana: The Italian Conspiracy,False,Valerio Mastandrea | Commissioner Luigi Calabresi | Piazza Fontana: The Italian Conspiracy,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Giulio,Balancing Act,True,Valerio Mastandrea | Giulio | Balancing Act | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Luciano,Reality,False,Aniello Arena | Luciano | Reality,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Leone,A Perfect Family,False,Sergio Castellitto | Leone | A Perfect Family,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Professor Fiorito,The Red and the Blue,False,Roberto Herlitzka | Professor Fiorito | The Red and the Blue,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Guido,Every Blessed Day,False,Luca Marinelli | Guido | Every Blessed Day,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Enrico Oliveri / Giovanni Ernani,Long Live Freedom,False,Toni Servillo | Enrico Oliveri / Giovanni Ernani | Long Live Freedom,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Jep Gambardella,The Great Beauty,True,Toni Servillo | Jep Gambardella | The Great Beauty | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Paolo Bressan,"Zoran, My Nephew the Idiot",False,"Giuseppe Battiston | Paolo Bressan | Zoran, My Nephew the Idiot",https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Dino Ossola,Human Capital,False,Fabrizio Bentivoglio | Dino Ossola | Human Capital,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Carlo Grimaldi,Miele,False,Carlo Cecchi | Carlo Grimaldi | Miele,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Pietro Zinni,I Can Quit Whenever I Want,False,Edoardo Leo | Pietro Zinni | I Can Quit Whenever I Want,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Giacomo Leopardi,Leopardi,True,Elio Germano | Giacomo Leopardi | Leopardi | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Luciano,Black Souls,False,Fabrizio Ferracane | Luciano | Black Souls,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Paolo Pontecorvo,An Italian Name,False,Alessandro Gassmann | Paolo Pontecorvo | An Italian Name,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Tommaso De Luca,God Willing,False,Marco Giallini | Tommaso De Luca | God Willing,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Gaetano,You Can't Save Yourself Alone,False,Riccardo Scamarcio | Gaetano | You Can't Save Yourself Alone,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Enzo Ceccotti,They Call Me Jeeg,True,Claudio Santamaria | Enzo Ceccotti | They Call Me Jeeg | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Vittorio,Don't Be Bad,False,Alessandro Borghi | Vittorio | Don't Be Bad,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Rocco,Perfect Strangers,False,Marco Giallini | Rocco | Perfect Strangers,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Cesare,Don't Be Bad,False,Luca Marinelli | Cesare | Don't Be Bad,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Lele,Perfect Strangers,False,Valerio Mastandrea | Lele | Perfect Strangers,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Loris De Martino,Italian Race,True,Stefano Accorsi | Loris De Martino | Italian Race | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Massimo,Sweet Dreams,False,Valerio Mastandrea | Massimo | Sweet Dreams,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Libero,Worldly Girl,False,Michele Riondino | Libero | Worldly Girl,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Oreste Campese,La stoffa dei sogni,False,Sergio Rubini | Oreste Campese | La stoffa dei sogni,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Father Roberto Salus,The Confessions,False,Toni Servillo | Father Roberto Salus | The Confessions,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Lorenzo,Tenderness,True,Renato Carpentieri | Lorenzo | Tenderness | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Giovanni,Come un gatto in tangenziale,False,Antonio Albanese | Giovanni | Come un gatto in tangenziale,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Andrea Galderisi / Luca,Napoli velata,False,Alessandro Borghi | Andrea Galderisi / Luca | Napoli velata,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,The Man,The Place,False,Valerio Mastandrea | The Man | The Place,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Isidoro 'Easy,Easy,False,Nicola Nocella | Isidoro 'Easy' | Easy,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Stefano Cucchi,On My Skin,True,Alessandro Borghi | Stefano Cucchi | On My Skin | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Marcello,Dogman,False,Marcello Fonte | Marcello | Dogman,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Fabrizio De André,Fabrizio De André - Principe libero,False,Luca Marinelli | Fabrizio De André | Fabrizio De André - Principe libero,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Matteo,Euphoria,False,Riccardo Scamarcio | Matteo | Euphoria,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Silvio Berlusconi,Loro,False,Toni Servillo | Silvio Berlusconi | Loro,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Tommaso Buscetta,The Traitor,True,Pierfrancesco Favino | Tommaso Buscetta | The Traitor | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Remo,The First King: Birth of an Empire,False,Alesandro Borghi | Remo | The First King: Birth of an Empire,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Antonio Barracano,The Mayor of Rione Sanità,False,Francesco Di Leva | Antonio Barracano | The Mayor of Rione Sanità,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Martin Eden,Martin Eden,False,Luca Marinelli | Martin Eden | Martin Eden,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Peppino Lo Cicero,5 Is the Perfect Number,False,Toni Servillo | Peppino Lo Cicero | 5 Is the Perfect Number,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Antonio Ligabue,Hidden Away,True,Elio Germano | Antonio Ligabue | Hidden Away | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Bruno Salvati,Everything's Gonna Be Alright,False,Kim Rossi Stuart | Bruno Salvati | Everything's Gonna Be Alright,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Bettino Craxi,Hammamet,False,Pierfrancesco Favino | Bettino Craxi | Hammamet,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,"Giuseppe ""Nino"" Sgarbi",We Still Talk,False,"Renato Pozzetto | Giuseppe ""Nino"" Sgarbi | We Still Talk",https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Nicola,Figli,False,Valerio Mastandrea | Nicola | Figli,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Carmine Lagioia,The Inner Cage,True,Silvio Orlando | Carmine Lagioia | The Inner Cage | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Massimo Sisti,America Latina,False,Elio Germano | Massimo Sisti | America Latina,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Fabietto Schisa,The Hand of God,False,Filippo Scotti | Fabietto Schisa | The Hand of God,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Franz,Freaks Out,False,Franz Rogowski | Franz | Freaks Out,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Eduardo Scarpetta,The King of Laughter,False,Toni Servillo | Eduardo Scarpetta | The King of Laughter,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Aldo Moro,Exterior Night,True,Fabrizio Gifuni | Aldo Moro | Exterior Night | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Bruno Guglielmina,The Eight Mountains,False,Alessandro Borghi | Bruno Guglielmina | The Eight Mountains,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Bastiano and Nofrio,Strangeness,False,Ficarra e Picone | Bastiano and Nofrio | Strangeness,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Aldo Braibanti,Lord of the Ants,False,Luigi Lo Cascio | Aldo Braibanti | Lord of the Ants,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Pietro Guasti,The Eight Mountains,False,Luca Marinelli | Pietro Guasti | The Eight Mountains,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Caterino Lamanna,Palazzina Laf,True,Michele Riondino | Caterino Lamanna | Palazzina Laf | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Antonio Riva,A Hundred Sundays,False,Antonio Albanese | Antonio Riva | A Hundred Sundays,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Salvatore Todaro,Comandante,False,Pierfrancesco Favino | Salvatore Todaro | Comandante,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Ivano,There's Still Tomorrow,False,Valerio Mastandrea | Ivano | There's Still Tomorrow,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Arthur,La chimera,False,Josh O'Connor | Arthur | La chimera,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Enrico Berlinguer,The Great Ambition,True,Elio Germano | Enrico Berlinguer | The Great Ambition | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,"Luigi ""Gigi"" Celeste",Familia,False,"Francesco Gheghi | Luigi ""Gigi"" Celeste | Familia",https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Luigi Comencini,The Time It Takes,False,Fabrizio Gifuni | Luigi Comencini | The Time It Takes,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Devoto Marotta,Parthenope,False,Silvio Orlando | Devoto Marotta | Parthenope,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Cesare Graziadei,Vermiglio,False,Tommaso Ragno | Cesare Graziadei | Vermiglio,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Vittorio Gassman,,False,7 | Vittorio Gassman,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Marcello Mastroianni,,False,5 | Marcello Mastroianni,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Giancarlo Giannini,,False,4 | Giancarlo Giannini,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Elio Germano,,False,3 | Elio Germano,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Stefano Accorsi,,False,2 | Stefano Accorsi,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Toni Servillo,,False,11 | Toni Servillo,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Carlo Verdone,,False,9 | Carlo Verdone,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Nanni Moretti,,False,8 | Nanni Moretti,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Vittorio Gassman,,False,7 | Vittorio Gassman,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Antonio Albanese *,,False,6 | Antonio Albanese *,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Stefano Accorsi,,False,5 | Stefano Accorsi,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Elio Germano,,False,4 | Elio Germano,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor
+,Diego Abatantuono *,,False,3 | Diego Abatantuono *,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Actor

@@ -1,0 +1,159 @@
+year,film,person,is_winner,raw_text,source_url
+,Miguel Rellán,Alberto Goicoechea,True,1986 (1st) [ 1 ] [ 2 ] [ 3 ] [ 4 ] | Miguel Rellán | Alberto Goicoechea | Dear Nanny | Tata mía,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Hilario,Mambru Went to War,False,Agustín González | Hilario | Mambru Went to War | Mambrú se fue a la guerra,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Ángel,Matador,False,Antonio Banderas | Ángel | Matador,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Juan Echanove,Miguelín,True,1987 (2nd) | Juan Echanove | Miguelín | Divine Words | Divinas palabras,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Agustín Planchadell,Moors and Christians,False,Agustín González | Agustín Planchadell | Moors and Christians | Moros y cristianos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Pepe Planchadell,,False,Pedro Ruiz | Pepe Planchadell,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,José Sazatornil,Alberto Sinsoles,True,1988 (3rd) | José Sazatornil | Alberto Sinsoles | Wait for Me in Heaven | Espérame en el cielo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Policeman,Baton Rouge,False,Ángel de Andrés López | Policeman | Baton Rouge,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Toto,El Lute II: Tomorrow I'll be Free,False,Jorge Sanz | Toto | El Lute II: Tomorrow I'll be Free | El Lute II: Mañana seré libre,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Taxi driver,Women on the Verge of a Nervous Breakdown,False,Guillermo Montesinos | Taxi driver | Women on the Verge of a Nervous Breakdown | Mujeres al borde de un ataque de nervios,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,John William Polidori,Rowing with the Wind,False,José Luis Gómez | John William Polidori | Rowing with the Wind | Remando al viento,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Adolfo Marsillach,Charles III of Spain,True,1989 (4th) | Adolfo Marsillach | Charles III of Spain | Esquilache,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Roberto,El baile del pato,False,Enrique San Francisco | Roberto | El baile del pato [ ca ],https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Vailer,The Dark Night,False,Fernando Guillén | Vailer | The Dark Night | La noche oscura,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Juancho,The Flight of the Dove,False,Juan Echanove | Juancho | The Flight of the Dove | El vuelo de la paloma,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Luis Doncel,,False,Juan Luis Galiardo | Luis Doncel,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Ciri,,False,Manuel Huete | Ciri,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Gabino Diego,Gustavete,True,1990 (5th) | Gabino Diego | Gustavete | ¡Ay Carmela!,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Álvaro,Alone Together,False,Juan Echanove | Álvaro | Alone Together | A solas contigo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Máximo Espejo,Tie Me Up! Tie Me Down!,False,Francisco Rabal | Máximo Espejo | Tie Me Up! Tie Me Down! | ¡Átame!,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Juan Diego,Father Villaescusa,True,1991 (6th) | Juan Diego | Father Villaescusa | The Dumbfounded King | El rey pasmado,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Ugarte / Valdivia,Prince of Shadows,False,José Luis Gómez | Ugarte / Valdivia | Prince of Shadows | Beltenegros,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Valido,The Dumbfounded King,False,Javier Gurruchaga | Valido | The Dumbfounded King | El rey pasmado,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Fernando Fernán Gómez,Manolo,True,1992 (7th) | Fernando Fernán Gómez | Manolo | Belle Époque,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Curt,Club Virginia Orchestra,False,Enrique San Francisco | Curt | Club Virginia Orchestra | Orquesta Club Virginia,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Juanito,Belle Époque,False,Gabino Diego | Juanito | Belle Époque,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Tito Valverde,Darío,True,1993 (8th) | Tito Valverde | Darío | Shadows in a Conflict | Sombras en una batalla,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Sebastián,My Soul Brother,False,Juan Echanove | Sebastián | My Soul Brother | Mi hermano del alma,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Baron of Benicarles,"Banderas, the Tyrant",False,"Javier Gurruchaga | Baron of Benicarles | Banderas, the Tyrant | Tirano Banderas",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Javier Bardem,Lisardo,True,1994 (9th) | Javier Bardem | Lisardo | Running Out of Time | Días contados,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Pablo,Alegre ma non troppo,False,Óscar Ladoire | Pablo | Alegre ma non troppo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,The father,The Worst Years of Our Lives,False,Agustín González | The father | The Worst Years of Our Lives | Los peores años de nuestra vida,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Luis Ciges,Matacanes,True,1995 (10th) | Luis Ciges | Matacanes | Así en el cielo como en la tierra,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Raúl,Mouth to Mouth,False,Fernando Guillén Cuervo | Raúl | Mouth to Mouth | Boca a boca,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,El Argentino,The Law of the Frontier,False,Federico Luppi | El Argentino | The Law of the Frontier | La ley de la frontera,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Luis Cuenca,Grandfather,True,1996 (11th) | Luis Cuenca | Grandfather | The Good Life | La buena vida,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Pármeno,La celestina,False,Jordi Mollà | Pármeno | La celestina,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Sempronio,,False,Nancho Novo | Sempronio,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,José Sancho,Sancho,True,1997 (12th) | José Sancho | Sancho | Live Flesh | Carne Trémula,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Valerio,The Color of the Clouds,False,Antonio Valero | Valerio | The Color of the Clouds | El color de las nubes,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Justo,The Rats,False,Juan Jesús Valverde [ es ] | Justo | The Rats [ ca ] | Las ratas,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Tony Leblanc,Felipe Torrente,True,"1998 (13th) | Tony Leblanc | Felipe Torrente | Torrente, el brazo tonto de la ley",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Senén Corchado,The Grandfather,False,Agustín González | Senén Corchado | The Grandfather | El abuelo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Ángel,Barrio,False,Francisco Algora | Ángel | Barrio,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Julián Torralba,The Girl of Your Dreams,False,Jorge Sanz | Julián Torralba | The Girl of Your Dreams | La niña de tus ojos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Juan Diego,Boronat,True,1999 (14th) | Juan Diego | Boronat | París-Tombuctú [ es ],https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Pere,Beloved/Friend,False,Mario Gas | Pere | Beloved/Friend | Amic/Amat,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Young Francisco de Goya,Goya in Bordeaux,False,José Coronado | Young Francisco de Goya | Goya in Bordeaux | Goya en Burdeos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Julián,Dying of Laughter,False,Álex Angulo | Julián | Dying of Laughter | Muertos de risa,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Emilio Gutiérrez Caba,Emilio,True,2000 (15th) | Emilio Gutiérrez Caba | Emilio | Common Wealth | La comunidad,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Damián,Masterpiece,False,Luis Cuenca | Damián | Masterpiece | Obra maestra,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Don Matías,You're the One,False,Juan Diego | Don Matías | You're the One | Una historia de entonces,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Orfeo,,False,Iñaki Miramón [ es ] | Orfeo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Emilio Gutiérrez Caba,David,True,2001 (16th) | Emilio Gutiérrez Caba | David | Ten Days Without Love | El cielo abierto,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Alejandro,Intacto,False,Antonio Dechent | Alejandro | Intacto,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Davenport,Don't Tempt Me,False,Gael García Bernal | Davenport | Don't Tempt Me | Sin noticias de Dios,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Sierra,Sound of the Sea,False,Eduard Fernández | Sierra | Sound of the Sea | Son de mar,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Luis Tosar,José Suárez,True,2002 (17th) | Luis Tosar | José Suárez | Mondays In The Sun | Los lunes al sol,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Rafael Mazas,Box 507,False,José Coronado | Rafael Mazas | Box 507 | La caja 507,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Julio,Story of a Kiss,False,Carlos Hipólito | Julio | Story of a Kiss | Historia de un beso,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Rafa,The Other Side of the Bed,False,Alberto San Juan | Rafa | The Other Side of the Bed | El otro lado de la cama,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Eduard Fernández,Mario,True,2003 (18th) | Eduard Fernández | Mario | In the City | En la ciudad,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Silvio,The End of a Mystery,False,José Luis Gómez | Silvio | The End of a Mystery | La luz prodigiosa,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Antonio Miralles,Soldiers of Salamina,False,Joan Dalmau [ es ] | Antonio Miralles | Soldiers of Salamina | Soldados de Salamina,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Don Carlos,Torremolinos 73,False,Juan Diego | Don Carlos | Torremolinos 73,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Celso Bugallo,José Sampedro,True,2004 (19th) | Celso Bugallo | José Sampedro | The Sea Inside | Mar adentro,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Don Antonio Fraguas,Ferpect Crime,False,Luis Varela [ es ] | Don Antonio Fraguas | Ferpect Crime | Crimen ferpecto,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Gorilo,Héctor,False,Unax Ugalde | Gorilo | Héctor,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Antonio,The 7th Day,False,Juan Diego | Antonio | The 7th Day | El 7° día,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Carmelo Gómez,Julio,True,2005 (20th) | Carmelo Gómez | Julio | The Method | El método,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Simón,The Secret Life of Words,False,Javier Cámara | Simón | The Secret Life of Words | La vida secreta de las palabras,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Lucas,Other Days Will Come,False,Fernando Guillén | Lucas | Other Days Will Come | Otros días vendrán,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Armando,Ninette,False,Enrique Villén | Armando | Ninette,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Antonio de la Torre,Antonio Mateo,True,2006 (21st) | Antonio de la Torre | Antonio Mateo | DarkBlueAlmostBlack | Azuloscurocasinegro,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Guillermo Pedreño,Go Away from Me,False,Juan Diego Botto | Guillermo Pedreño | Go Away from Me | Vete de mí,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Francisco de Quevedo,Alatriste,False,Juan Echanove | Francisco de Quevedo | Alatriste,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Jesús Irurre,Salvador,False,Leonardo Sbaraglia | Jesús Irurre | Salvador (Puig Antich),https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,José Manuel Cervino,Jacinto,True,2007 (22nd) | José Manuel Cervino | Jacinto | 13 Roses | Las 13 rosas,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Fele,Seven Billiard Tables,False,Raúl Arévalo | Fele | Seven Billiard Tables | Siete mesas de billar francés,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Tino,Suso's Tower,False,Emilio Gutiérrez Caba | Tino | Suso's Tower | La torre de Suso,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Atila,Sunday Light,False,Carlos Larrañaga | Atila | Sunday Light | Luz de domingo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Lalo,Under the Stars,False,Julián Villagrán | Lalo | Under the Stars | Bajo las estrellas,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Jordi Dauder,Don Juan,True,2008 (23rd) | Jordi Dauder | Don Juan | Camino,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Rector,The Blind Sunflowers,False,José Ángel Egido | Rector | The Blind Sunflowers | Los girasoles ciegos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Ramiro,Chef's Special,False,Fernando Tejero | Ramiro | Chef's Special | Fuera de carta,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Félix,Just Walking,False,José María Yazpik | Félix | Just Walking | Sólo quiero caminar,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Raúl Arévalo,Álex,True,2009 (24th) | Raúl Arévalo | Álex | Fat People | Gordos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,José Utrilla,Cell 211,False,Antonio Resines | José Utrilla | Cell 211 | Celda 211,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Apache,,False,Carlos Bardem | Apache,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Nicolás Vergara Grey,The Dancer and the Thief,False,Ricardo Darín | Nicolás Vergara Grey | The Dancer and the Thief | El baile de la victoria,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Karra Elejalde,Antón / Christopher Columbus,True,2010 (25th) | Karra Elejalde | Antón / Christopher Columbus | Even the Rain | También la lluvia,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Peláez,The Great Vazquez,False,Álex Angulo | Peláez | The Great Vazquez | El gran Vázquez,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,The Mayor,Black Bread,False,Sergi López | The Mayor | Black Bread | Pa negre,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Tito,Biutiful,False,Eduard Fernández | Tito | Biutiful,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Lluís Homar,Max,True,2011 (26th) | Lluís Homar | Max | Eva,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Julián,Cousinhood,False,Raúl Arévalo | Julián | Cousinhood | Primos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Leiva,No Rest for the Wicked,False,Juanjo Artero | Leiva | No Rest for the Wicked | No habrá paz para los malvados,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Alfonso Armada,17 Hours,False,Juan Diego | Alfonso Armada | 17 Hours | 23-F. La película,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Julián Villagrán,Joaquín,True,2012 (27th) | Julián Villagrán | Joaquín | Unit 7 | Grupo 7,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Henry Bennett,The Impossible,False,Ewan McGregor | Henry Bennett | The Impossible | Lo imposible,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,"Don Carlos, the impresario",Blancanieves,False,"Josep Maria Pou | Don Carlos, the impresario | Blancanieves",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Diego,Invader,False,Antonio de la Torre | Diego | Invader | Invasor,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Roberto Álamo,"Benjamín ""Ben"" Montero",True,"2013 (28th) | Roberto Álamo | Benjamín ""Ben"" Montero | Family United | La gran familia española",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Carlomonte,Scorpion in Love,False,Carlos Bardem | Carlomonte | Scorpion in Love | Alacrán enamorado,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Luis,Ismael,False,Juan Diego Botto | Luis | Ismael,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Adán Montero,Family United,False,Antonio de la Torre | Adán Montero | Family United | La gran familia española,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Karra Elejalde,Koldo Zugasti,True,2014 (29th) | Karra Elejalde | Koldo Zugasti | Spanish Affair | Ocho apellidos vascos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Sergio,El Niño,False,Eduard Fernández | Sergio | El Niño,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Rodrigo,Marshland,False,Antonio de la Torre | Rodrigo | Marshland | La isla mínima,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Damián,Magical Girl,False,Jose Sacristán | Damián | Magical Girl,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Javier Cámara,Tomás,True,2015 (30th) | Javier Cámara | Tomás | Truman,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,"Justo ""Caralimpia",Nothing in Return,False,"Felipe García Vélez [ es ] | Justo ""Caralimpia"" | Nothing in Return | A cambio de nada",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Pablo Ruz,"B, la película",False,"Manolo Solo | Pablo Ruz | B, la película",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Rodrigo,A Perfect Day,False,Tim Robbins | Rodrigo | A Perfect Day | Un día perfecto,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Manolo Solo,"Santi ""Triana",True,"2016 (31st) | Manolo Solo | Santi ""Triana"" | The Fury of a Patient Man | Tarde para la ira",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Manolo,100 Meters,False,Karra Elejalde | Manolo | 100 Meters | 100 metros,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Alcachofa,The Olive Tree,False,Javier Gutiérrez | Alcachofa | The Olive Tree | El olivo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Andrés Bosque,May God Save Us,False,Javier Pereira | Andrés Bosque | May God Save Us | Que Dios nos perdone,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,David Verdaguer,Esteve,True,2017 (32nd) [ 5 ] [ 6 ] | David Verdaguer | Esteve | Summer 1993 | Estiu 1993,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Pepe,Abracadabra,False,José Mota | Pepe | Abracadabra,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Juan,The Motive,False,Antonio de la Torre | Juan | The Motive | El autor,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Edmund Brundish,The Bookshop,False,Bill Nighy | Edmund Brundish | The Bookshop | La librería,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Luis Zahera,Luis Cabrera,True,2018 (33rd) | Luis Zahera | Luis Cabrera | The Realm | El reino,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Julio Montero Ruíz,Champions,False,Juan Margallo | Julio Montero Ruíz | Champions | Campeones,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,José Mujica,A Twelve-Year Night,False,Antonio de la Torre | José Mujica | A Twelve-Year Night | La noche de 12 años,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Fernando,Everybody Knows,False,Eduard Fernández | Fernando | Everybody Knows | Todos lo saben,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Eduard Fernández,José Millán Astray,True,2019 (34th) | Eduard Fernández | José Millán Astray | While at War | Mientras dure la guerra,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Capataz,Out in the Open,False,Luis Callejo | Capataz | Out in the Open | Intemperie,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Alberto Crespo,Pain and Glory,False,Asier Etxeandia | Alberto Crespo | Pain and Glory | Dolor y gloria,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Federico Delgado,,False,Leonardo Sbaraglia | Federico Delgado,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Alberto San Juan,Salva,True,2020 (35th) | Alberto San Juan | Salva | The People Upstairs | Sentimental,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Mateo,Adú,False,Álvaro Cervantes | Mateo | Adú,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Armando Román,Rosa's Wedding,False,Sergi López | Armando Román | Rosa's Wedding | La boda de Rosa,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Antonio,The Europeans,False,Juan Diego Botto | Antonio | The Europeans | Los europeos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Urko Olazabal,Luis Carrasco,True,2021 (36th) [ 7 ] | Urko Olazabal | Luis Carrasco | Maixabel,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Román,The Good Boss,False,Fernando Albizu | Román | The Good Boss | El buen patrón,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Fortuna,,False,Celso Bugallo | Fortuna,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Miralles,,False,Manolo Solo | Miralles,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Luis Zahera,Xan Anta,True,2022 (37th) [ 8 ] | Luis Zahera | Xan Anta | The Beasts | As bestas,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Lorenzo Anta,The Beasts,False,Diego Anido | Lorenzo Anta | The Beasts | As bestas,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Koldo,Lullaby,False,Ramón Barea | Koldo | Lullaby | Cinco lobitos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Marbella,Prison 77,False,Fernando Tejero | Marbella | Prison 77 | Modelo 77,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,El Negro,,False,Jesús Carroza | El Negro,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,José Coronado,Julio Arenas / Gardel,True,2023 (38th) [ 9 ] [ 10 ] | José Coronado | Julio Arenas / Gardel | Close Your Eyes | Cerrar los ojos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Gorka,"20,000 Species of Bees",False,"Martxelo Rubio [ es ] | Gorka | 20,000 Species of Bees | 20.000 especies de abejas",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Roberto,Under Therapy,False,Juan Carlos Vellido | Roberto | Under Therapy | Bajo terapia,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Gerard,Creatura,False,Alex Brendemühl | Gerard | Creatura,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Piter,Un amor,False,Hugo Silva | Piter | Un amor,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Salva Reina,Felipín,True,2024 (39th) [ 11 ] [ 12 ] | Salva Reina | Felipín | The 47 | El 47,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,David,A House on Fire,False,Enric Auquer | David | A House on Fire | Casa en flames,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Vicente,La casa,False,Óscar de la Fuente [ es ] | Vicente | La casa,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Ángel Salcedo,Undercover,False,Luis Tosar | Ángel Salcedo | Undercover | La infiltrada,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Ramón,Glimmers,False,Antonio de la Torre | Ramón | Glimmers | Los destellos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Álvaro Cervantes,Héctor,True,2025 (40th) [ 13 ] | Álvaro Cervantes | Héctor | Deaf | Sorda,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Antonio de Sosa,The Captive,False,Miguel Rellán | Antonio de Sosa | The Captive | El cautivo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Pablo,Sundays,False,Juan Minujín | Pablo | Sundays | Los domingos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Xanti,Maspalomas,False,Kandido Uranga [ es ] | Xanti | Maspalomas,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor
+,Xoel,Band Together,False,Tamar Novas | Xoel | Band Together | Rondallas,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actor

@@ -1,0 +1,78 @@
+year,film,person,is_winner,raw_text,source_url
+,Cameraman,Laboratory Processing,False,Year | Cameraman(s) | Laboratory Processing | Film(s) | Language(s) | Refs.,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1967,Ramachandra,,False,1967 (15th) | Ramachandra | – | Bambai Raat Ki Bahon Mein | Hindi | [ 2 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1967,,Hamraaz,False,M. N. Malhotra | – | Hamraaz | Hindi,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1968,Nariman Irani,,False,1968 (16th) | Nariman Irani | – | Saraswatichandra | Hindi | [ 3 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1968,,Thillana Mohanambal,False,K. S. Prasad | – | Thillana Mohanambal | Tamil,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1969,K. K. Mahajan,,False,1969 (17th) | K. K. Mahajan | – | Sara Akash | Hindi | [ 4 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1969,,Shanti Nilayam,False,Marcus Bartley | – | Shanti Nilayam | Tamil,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1970,K. K. Mahajan,,False,1970 (18th) | K. K. Mahajan | – | Uski Roti | Hindi | [ 5 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1970,,Mera Naam Joker,False,Radhu Karmakar | – | Mera Naam Joker | Hindi,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1971,Nando Bhattacharya,,False,1971 (19th) | Nando Bhattacharya | – | Anubhav | Hindi | [ 6 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1971,,Reshma Aur Shera,False,Ramachandra | – | Reshma Aur Shera | Hindi,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1972,Mankada Ravi Varma,,False,1972 (20th) | Mankada Ravi Varma | – | Swayamvaram | Malayalam | [ 7 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1972,,Maya Darpan,False,K. K. Mahajan | – | Maya Darpan | Hindi,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1973,Apurba Kishore Bir,,False,1973 (21st) | Apurba Kishore Bir | – | 27 Down | Hindi | [ 8 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1973,,Ashani Sanket,False,Soumendu Roy | – | Ashani Sanket | Bengali,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1974,K. K. Mahajan,,False,1974 (22nd) | K. K. Mahajan | – | Chorus | Bengali | [ 9 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1974,,Sonar Kella,False,Soumendu Roy | – | Sonar Kella | Bengali,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1975,B. S. Lokanath,,False,1975 (23rd) | B. S. Lokanath | – | Apoorva Raagangal | Tamil | [ 10 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1975,,Muthyala Muggu,False,Ishan Arya | – | Muthyala Muggu | Telugu,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1976,P. S. Nivas,,False,1976 (24th) | P. S. Nivas | – | Mohiniyaattam | Malayalam | [ 11 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1976,,Rishya Shringa,False,S. Ramachandra | – | Rishya Shringa | Kannada,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1977,Balu Mahendra,,False,1977 (25th) | Balu Mahendra | – | Kokila | Kannada | [ 12 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1977,,Shatranj Ke Khilari,False,Soumendu Roy | – | Shatranj Ke Khilari | Hindi,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1978,Shaji N. Karun,,False,1978 (26th) | Shaji N. Karun | – | Thampu | Malayalam | [ 13 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1978,,Junoon,False,Govind Nihalani | – | Junoon | Hindi,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1979,Kamal Nayak,,False,1979 (27th) | Kamal Nayak | – | Neem Annapurna | Bengali | [ 14 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1979,,Shodh,False,Rajan Kinagi | – | Shodh | Hindi,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1980,Sivan,,False,1980 (28th) | Sivan | – | Yagam | Malayalam | [ 15 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1980,,Nenjathai Killathe,False,Ashok Kumar | – | Nenjathai Killathe | Tamil,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1981,Shripati R. Bhat,,False,1981 (29th) | Shripati R. Bhat | – | Mooru Darigalu | Kannada | [ 16 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1981,,36 Chowringhee Lane,False,Ashok Mehta | – | 36 Chowringhee Lane | English,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1982,Balu Mahendra,,False,1982 (30th) | Balu Mahendra | – | Moondram Pirai | Tamil | [ 17 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1983,B. Bindhani,,False,1983 (31st) | B. Bindhani | – | Neeraba Jhada | Oriya | [ 18 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1983,Raj Shekhar,,False,Raj Shekhar,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1983,,Adi Shankaracharya,False,Madhu Ambat | – | Adi Shankaracharya | Sanskrit,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1984,Jehangir Choudhary,,False,1984 (32nd) | Jehangir Choudhary | – | Holi | Hindi | [ 19 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1985,Subrata Mitra,,False,1985 (33rd) | Subrata Mitra | – | New Delhi Times | Hindi | [ 20 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1986,Venu,,False,1986 (34th) | Venu | – | Namukku Parkkan Munthiri Thoppukal | Malayalam | [ 21 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1986,Amma Ariyan,,False,Amma Ariyan,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1987,P. C. Sreeram,,False,1987 (35th) | P. C. Sreeram | – | Nayakan | Tamil | [ 22 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1988,Apurba Kishore Bir,,False,1988 (36th) | Apurba Kishore Bir | – | Daasi | Telugu | [ 23 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1989,Virendra Saini,Adlabs,False,1989 (37th) | Virendra Saini | Adlabs | Salim Langde Pe Mat Ro | Hindi | [ 24 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1990,Santosh Sivan,Vijay Colour Lab,False,1990 (38th) | Santosh Sivan | Vijay Colour Lab | Perumthachan | Malayalam | [ 25 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1991,Apurba Kishore Bir,Prasad Film Lab,False,1991 (39th) | Apurba Kishore Bir | Prasad Film Lab | Aadi Mimansa | Oriya | [ 26 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1992,Venu,Prasad Film Lab,False,1992 (40th) | Venu | Prasad Film Lab | Miss Beatty's Children | English | [ 27 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1993,Venu,Prasad Film Lab,False,1993 (41st) | Venu | Prasad Film Lab | Ponthan Mada | Malayalam | [ 28 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1994,K. V. Anand,Gemini Color Lab,False,1994 (42nd) | K. V. Anand | Gemini Color Lab | Thenmavin Kombath | Malayalam | [ 29 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1995,Santosh Sivan,Gemini Color Lab,False,1995 (43rd) | Santosh Sivan | Gemini Color Lab | Kaalapani | Malayalam | [ 30 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1996,Mrinal Kanti Das,Prasad Film Lab,False,1996 (44th) | Mrinal Kanti Das | Prasad Film Lab | • Adajya • Rag Birag | Assamese | [ 31 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1997,Santosh Sivan,Prasad Film Lab,False,1997 (45th) | Santosh Sivan | Prasad Film Lab | Iruvar | Tamil | [ 32 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1998,Santosh Sivan,Gemini Color Lab,False,1998 (46th) | Santosh Sivan | Gemini Color Lab | Dil Se.. | Hindi | [ 33 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+1999,Anil Mehta,Adlabs,False,1999 (47th) | Anil Mehta | Adlabs | Hum Dil De Chuke Sanam | Hindi | [ 34 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+2000,Ashok Mehta,Prasad Film Lab,False,2000 (48th) | Ashok Mehta | Prasad Film Lab | Moksha | Hindi | [ 35 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+2001,Ramachandra Halkare,Prasad Film Lab,False,2001 (49th) | Ramachandra Halkare | Prasad Film Lab | Dweepa | Kannada | [ 36 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+2002,Abhik Mukhopadhyay,Rainbow Color Lab,False,2002 (50th) | Abhik Mukhopadhyay | Rainbow Color Lab | Patalghar | Bengali | [ 37 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+2003,Abhik Mukhopadhyay,Rainbow Color Lab,False,2003 (51st) | Abhik Mukhopadhyay | Rainbow Color Lab | Bhalo Theko | Bengali | [ 38 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+2004,Mahesh Aney,Adlabs,False,2004 (52nd) | Mahesh Aney | Adlabs | Swades | Hindi | [ 39 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+2005,Madhu Ambat,Prasad Film Lab,False,2005 (53rd) | Madhu Ambat | Prasad Film Lab | Sringaram | Tamil | [ 40 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+2006,Gautam Ghose,Rainbow Colour Lab,False,2006 (54th) | Gautam Ghose | Rainbow Colour Lab | Yatra | Hindi | [ 41 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+2007,Shanker Raman,Deluxe Laboratories Inc.,False,2007 (55th) | Shanker Raman | Deluxe Laboratories Inc. | Frozen | Hindi | [ 42 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+2008,Abhik Mukhopadhyay,Filmlab,False,2008 (56th) | Abhik Mukhopadhyay | Filmlab | Antaheen | Bengali | [ 43 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+2009,Anjuli Shukla,Adlabs,False,2009 (57th) | Anjuli Shukla | Adlabs | Kutty Srank | Malayalam | [ 44 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+2010,Madhu Ambat,,False,2010 (58th) | Madhu Ambat | – | Adaminte Makan Abu | Malayalam | [ 45 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+2011,Satya Rai Nagpaul,Reliance MediaWorks,False,2011 (59th) | Satya Rai Nagpaul | Reliance MediaWorks | Anhe Ghore Da Daan | Punjabi | [ 46 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+2012,Sudheer Palsane,Prasad Studios,False,2012 (60th) | Sudheer Palsane | Prasad Studios | Ko:Yad | Mishing | [ 47 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+2013,Rajeev Ravi,,False,2013 (61st) | Rajeev Ravi | – | Liar's Dice | Hindi | [ 48 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+2014,Sudeep Chatterjee,,False,2014 (62nd) | Sudeep Chatterjee | – | Chotushkone | Bengali | [ 49 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+2015,Sudeep Chatterjee,,False,2015 (63rd) | Sudeep Chatterjee | – | Bajirao Mastani | Hindi | [ 50 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+2016,Tirru,,False,2016 (64th) | Tirru | – | 24 | Tamil | [ 51 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+2017,Nikhil S. Praveen,,False,2017 (65th) | Nikhil S. Praveen | – | Bhayanakam | Malayalam | ,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+2018,M. J. Radhakrishnan,,False,2018 (66th) | M. J. Radhakrishnan | – | Olu | Malayalam | [ 52 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+2019,Girish Gangadharan,,False,2019 (67th) | Girish Gangadharan | – | Jallikattu | Malayalam | [ 53 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+2020,Supratim Bhol,,False,2020 (68th) | Supratim Bhol | – | Avijatrik | Bengali | ,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+2021,Avik Mukhopadhyay,,False,2021 (69th) | Avik Mukhopadhyay | – | Sardar Udham | Hindi | ,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+,Recipient,Film,False,Year | Recipient(s) | Film(s) | Language(s) | Refs.,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+2022,Ravi Varman,Ponniyin Selvan: I,False,2022 (70th) | Ravi Varman | Ponniyin Selvan: I | Tamil | [ 54 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography
+2023,Prasantanu Mohapatra,The Kerala Story,False,2023 (71st) | Prasantanu Mohapatra | The Kerala Story | Hindi | [ 55 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Cinematography

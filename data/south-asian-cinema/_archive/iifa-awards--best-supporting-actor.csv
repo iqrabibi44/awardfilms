@@ -1,0 +1,5 @@
+year,film,person,is_winner,raw_text,source_url
+,Anil Kapoor,4,False,Actor with most awards | Anil Kapoor | 4,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Supporting_Actor
+,Amitabh Bachchan,6,False,Actor with most nominations | Amitabh Bachchan | 6,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Supporting_Actor
+,Mithun Chakraborty Naseeruddin Shah,3,False,Actor with most nominations without ever winning | Mithun Chakraborty Naseeruddin Shah | 3,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Supporting_Actor
+,Nawazuddin Siddiqui Pankaj Tripathi,2,False,Actor with most nominations in a single year | Nawazuddin Siddiqui (2013) Pankaj Tripathi (2022) | 2,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Supporting_Actor

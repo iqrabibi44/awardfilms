@@ -1,0 +1,36 @@
+year,film,person,is_winner,raw_text,source_url
+1991,Life Is Sweet,Mike Leigh,False,1991 | Life Is Sweet | Mike Leigh,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_British_Film_of_the_Year
+1992,Howards End,James Ivory,False,1992 | Howards End | James Ivory,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_British_Film_of_the_Year
+1993,The Remains of the Day,James Ivory,False,1993 | The Remains of the Day | James Ivory (2),https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_British_Film_of_the_Year
+1994,Four Weddings and a Funeral,Mike Newell,False,1994 | Four Weddings and a Funeral | Mike Newell,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_British_Film_of_the_Year
+1995,The Madness of King George,Nicholas Hytner,False,1995 | The Madness of King George | Nicholas Hytner,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_British_Film_of_the_Year
+1996,Secrets & Lies,Mike Leigh,False,1996 | Secrets & Lies | Mike Leigh (2),https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_British_Film_of_the_Year
+1997,The Full Monty,Peter Cattaneo,False,1997 | The Full Monty | Peter Cattaneo,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_British_Film_of_the_Year
+1998,"Lock, Stock and Two Smoking Barrels",Guy Ritchie,False,"1998 | Lock, Stock and Two Smoking Barrels | Guy Ritchie",https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_British_Film_of_the_Year
+1999,East Is East,Damien O'Donnell,False,1999 | East Is East | Damien O'Donnell,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_British_Film_of_the_Year
+2000,Billy Elliot,Stephen Daldry,False,2000 | Billy Elliot | Stephen Daldry,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_British_Film_of_the_Year
+2001,Gosford Park,Robert Altman,False,2001 | Gosford Park | Robert Altman,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_British_Film_of_the_Year
+2002,All or Nothing,Mike Leigh,False,2002 | All or Nothing | Mike Leigh (3),https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_British_Film_of_the_Year
+2003,The Magdalene Sisters,Peter Mullan,False,2003 | The Magdalene Sisters | Peter Mullan,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_British_Film_of_the_Year
+2004,Vera Drake,Mike Leigh,False,2004 | Vera Drake | Mike Leigh (4),https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_British_Film_of_the_Year
+2005,The Constant Gardener,Fernando Meirelles,False,2005 | The Constant Gardener | Fernando Meirelles,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_British_Film_of_the_Year
+2006,The Queen,Stephen Frears,False,2006 | The Queen | Stephen Frears,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_British_Film_of_the_Year
+2007,Control,Anton Corbijn,False,2007 | Control | Anton Corbijn,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_British_Film_of_the_Year
+2008,Slumdog Millionaire,Danny Boyle,False,2008 | Slumdog Millionaire | Danny Boyle,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_British_Film_of_the_Year
+2009,Fish Tank,Andrea Arnold,False,2009 | Fish Tank | Andrea Arnold,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_British_Film_of_the_Year
+2010,The King's Speech,Tom Hooper,False,2010 | The King's Speech | Tom Hooper,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_British_Film_of_the_Year
+2011,We Need to Talk About Kevin,Lynne Ramsay,False,2011 | We Need to Talk About Kevin | Lynne Ramsay,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_British_Film_of_the_Year
+2012,Berberian Sound Studio,Peter Strickland,False,2012 | Berberian Sound Studio | Peter Strickland,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_British_Film_of_the_Year
+2013,The Selfish Giant,Clio Barnard,False,2013 | The Selfish Giant | Clio Barnard,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_British_Film_of_the_Year
+2014,Under the Skin,Jonathan Glazer,False,2014 | Under the Skin | Jonathan Glazer,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_British_Film_of_the_Year
+2015,45 Years,Andrew Haigh,False,2015 | 45 Years | Andrew Haigh,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_British_Film_of_the_Year
+2016,"I, Daniel Blake",Ken Loach,False,"2016 | I, Daniel Blake | Ken Loach",https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_British_Film_of_the_Year
+2017,Dunkirk,Christopher Nolan,False,2017 | Dunkirk | Christopher Nolan,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_British_Film_of_the_Year
+2018,The Favourite,Yorgos Lanthimos,False,2018 | The Favourite | Yorgos Lanthimos,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_British_Film_of_the_Year
+2019,The Souvenir,Joanna Hogg,False,2019 | The Souvenir | Joanna Hogg,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_British_Film_of_the_Year
+2020,Saint Maud,Rose Glass,False,2020 | Saint Maud | Rose Glass,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_British_Film_of_the_Year
+2021,The Souvenir Part II,Joanna Hogg,False,2021 | The Souvenir Part II | Joanna Hogg (2),https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_British_Film_of_the_Year
+2022,The Banshees of Inisherin,Martin McDonagh,False,2022 | The Banshees of Inisherin | Martin McDonagh,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_British_Film_of_the_Year
+2023,All of Us Strangers,Andrew Haigh,False,2023 | All of Us Strangers | Andrew Haigh (2),https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_British_Film_of_the_Year
+2024,Conclave,Edward Berger,False,2024 | Conclave | Edward Berger,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_British_Film_of_the_Year
+2025,Pillion,Harry Lighton,False,2025 | Pillion | Harry Lighton,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_British_Film_of_the_Year

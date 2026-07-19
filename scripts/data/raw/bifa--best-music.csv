@@ -1,0 +1,45 @@
+year,film,person,is_winner,raw_text,source_url
+2001,South West 9,Dave Pearce,True,2001 (4th) [ 2 ] | South West 9 | Dave Pearce,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2001,Luke Haines,,False,Christie Malry's Own Double-Entry | Luke Haines,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2001,John Kimbrough,,False,Jump Tomorrow | John Kimbrough,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2001,Dario Marianelli,,False,The Warrior | Dario Marianelli,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2017,"Three Billboards Outside Ebbing, Missouri",Carter Burwell,True,"2017 (20th) [ 3 ] [ 4 ] | Three Billboards Outside Ebbing, Missouri | Carter Burwell",https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2017,Christopher Willis,,False,The Death of Stalin | Christopher Willis,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2017,Matthew James Kelly,,False,I Am Not a Witch | Matthew James Kelly,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2017,Paul Weller,,False,Jawbone | Paul Weller,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2017,Fred Frith,,False,Leaning Into the Wind | Fred Frith,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2018,You Were Never Really Here,Jonny Greenwood,True,2018 (21st) [ 5 ] [ 6 ] | You Were Never Really Here | Jonny Greenwood,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2018,Anne Nikitin,,False,American Animals | Anne Nikitin,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2018,Jim Williams,,False,Beast | Jim Williams,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2018,Richard Hawley,,False,Funny Cow | Richard Hawley,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2018,Aaron Cupples,,False,Island of the Hungry Ghosts | Aaron Cupples,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2019,Wild Rose,Jack Arnold,True,2019 (22nd) [ 7 ] [ 8 ] | Wild Rose | Jack Arnold,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2019,"JD Twitch, Penelope Trappes and Stephen Hindman",,False,"Beats | JD Twitch, Penelope Trappes and Stephen Hindman",https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2019,Antônio Pinto,,False,Diego Maradona | Antônio Pinto,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2019,Nainita Desai,,False,For Sama | Nainita Desai,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2019,Cavern of Anti-Matter,,False,In Fabric | Cavern of Anti-Matter,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2020,Mogul Mowgli,Paul Corley,True,2020 (23rd) [ 9 ] [ 10 ] | Mogul Mowgli | Paul Corley,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2020,Roque Baños,,False,His House | Roque Baños,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2020,Nainita Desai,,False,The Reason I Jump | Nainita Desai,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2020,Connie Farr and Emilie Levienaise-Farrouch,,False,Rocks | Connie Farr and Emilie Levienaise-Farrouch,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2020,Adam Janota Bzowski,,False,Saint Maud | Adam Janota Bzowski,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2021,Ali & Ava,Connie Farr and Harry Escott,True,2021 (24th) [ 11 ] | Ali & Ava | Connie Farr and Harry Escott,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2021,Van Morrison,,False,Belfast | Van Morrison,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2021,Jed Kurzel,,False,Encounter | Jed Kurzel,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2021,Clint Mansell,,False,IN THE EⱯRTH | Clint Mansell,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2021,Iain Cooke,,False,Pirates | Iain Cooke,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2022,The Wonder,Matthew Herbert,True,2022 (25th) [ 12 ] [ 13 ] | The Wonder | Matthew Herbert,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2022,Oliver Coates,,False,Aftersun | Oliver Coates,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2022,Danny Bensi and Saunder Jurriaans,,False,God's Creatures | Danny Bensi and Saunder Jurriaans,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2022,Ben Salisbury and Geoff Barrow,,False,Men | Ben Salisbury and Geoff Barrow,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2022,Adam Janota Bzowski,,False,The Origin | Adam Janota Bzowski,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2023,Rye Lane,Kwes,True,2023 (26th) [ 14 ] [ 15 ] | Rye Lane | Kwes,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2023,Anna Meredith,,False,The End We Start From | Anna Meredith,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2023,Adam Janota Bzowski,,False,Femme | Adam Janota Bzowski,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2023,Ré Olunuga,,False,Girl | Ré Olunuga,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2023,Patrick Jonsson,,False,Scrapper | Patrick Jonsson,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2024,Kneecap,"Michael ""Mikey J"" Asante",True,"2024 (27th) [ 16 ] | Kneecap | Michael ""Mikey J"" Asante",https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2024,Burial,,False,Bird | Burial,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2024,Clint Mansell,,False,Love Lies Bleeding | Clint Mansell,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2024,John Gürtler and Jan Miserre,,False,The Outrun | John Gürtler and Jan Miserre,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music
+2024,Stuart Earl,,False,Unicorns | Stuart Earl,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Music

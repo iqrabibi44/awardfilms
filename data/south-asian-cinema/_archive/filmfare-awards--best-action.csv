@@ -1,0 +1,38 @@
+year,film,person,is_winner,raw_text,source_url
+,Sham Kaushal,,False,5 | Sham Kaushal,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Action
+,Tinu Verma,,False,4 | Tinu Verma,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Action
+,"Allan Amin , Sunil Rodrigues",,False,"3 | Allan Amin , Sunil Rodrigues",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Action
+,"Bhiku Verma, Akbar Bakshi, Vijayan , Tom Struthers, Parvez Shaikh",,False,"2 | Bhiku Verma, Akbar Bakshi, Vijayan , Tom Struthers, Parvez Shaikh",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Action
+2025,Oh Sea Young and Parvez Shaikh,Kill,False,2025 | Oh Sea Young and Parvez Shaikh | Kill,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Action
+2024,"Spiro Razatos, Anal Arasu, Craig Macrae, Yannick Ben, Kecha Khamphakdee, and Sunil Rodrigues",Jawan,False,"2024 | Spiro Razatos, Anal Arasu, Craig Macrae, Yannick Ben, Kecha Khamphakdee, and Sunil Rodrigues | Jawan",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Action
+2023,Parvez Shaikh,Vikram Vedha,False,2023 | Parvez Shaikh | Vikram Vedha,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Action
+2022,"Stefan Richter, Sunil Rodrigues",Shershaah,False,"2022 | Stefan Richter, Sunil Rodrigues | Shershaah",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Action
+2021,"Ramazan Bulut, R. P. Yadav",Tanhaji,False,"2021 | Ramazan Bulut, R. P. Yadav | Tanhaji",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Action
+2020,"Paul Jennings, Oh Sea Young, Parvez Shaikh and Franz Spilhaus",War,False,"2020 | Paul Jennings, Oh Sea Young, Parvez Shaikh and Franz Spilhaus | War",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Action
+2019,Vikram Dahiya & Sunil Rodrigues,Mukkabaaz,False,2019 | Vikram Dahiya & Sunil Rodrigues [ 1 ] | Mukkabaaz,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Action
+2018,Thomas Struthers,Tiger Zinda Hai,False,2018 | Thomas Struthers | Tiger Zinda Hai,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Action
+2017,Sham Kaushal,Dangal,False,2017 | Sham Kaushal | Dangal,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Action
+2016,Bajirao Mastani,,False,2016 | Bajirao Mastani,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Action
+2015,Gunday,,False,2015 | Gunday,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Action
+2014,Thomas Struthers & Guru Bachchan,D-Day,False,2014 | Thomas Struthers & Guru Bachchan | D-Day,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Action
+2013,Sham Kaushal,Gangs of Wasseypur,False,2013 | Sham Kaushal | Gangs of Wasseypur,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Action
+2012,Matthias Barsch,Don 2,False,2012 | Matthias Barsch | Don 2,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Action
+2011,Vijayan,Dabangg,False,2011 | Vijayan | Dabangg,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Action
+2010,Wanted,,False,2010 | Wanted,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Action
+2009,Peter Hein,Ghajini,False,2009 | Peter Hein | Ghajini,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Action
+2008,Rob Miller,Chak De India,False,2008 | Rob Miller | Chak De India,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Action
+2007,Tony Ching Siu-tung & Sham Kaushal,Krrish,False,2007 | Tony Ching Siu-tung & Sham Kaushal | Krrish,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Action
+2006,Allan Amin,Dus,False,2006 | Allan Amin | Dus,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Action
+2005,Vikram Dharma,Yuva,False,2005 | Vikram Dharma | Yuva,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Action
+2004,Allan Amin,Qayamat: City Under Threat,False,2004 | Allan Amin | Qayamat: City Under Threat,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Action
+2003,Philip Ko & Abbas Ali Moghal,Awara Paagal Deewana,False,2003 | Philip Ko & Abbas Ali Moghal | Awara Paagal Deewana,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Action
+2002,Tinnu Verma,Gadar: Ek Prem Katha,False,2002 | Tinnu Verma | Gadar: Ek Prem Katha,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Action
+2001,Allan Amin,Mission Kashmir,False,2001 | Allan Amin | Mission Kashmir,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Action
+2000,Tinnu Verma,Arjun Pandit,False,2000 | Tinnu Verma | Arjun Pandit,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Action
+1999,Akbar Bakshi,Soldier,False,1999 | Akbar Bakshi | Soldier,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Action
+1998,Bhiku Verma & Tinnu Verma,Border,False,1998 | Bhiku Verma & Tinnu Verma | Border,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Action
+1997,Akbar Bakshi,Khiladiyon Ka Khiladi,False,1997 | Akbar Bakshi | Khiladiyon Ka Khiladi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Action
+1996,Bhiku Verma,Karan Arjun,False,1996 | Bhiku Verma | Karan Arjun,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Action
+1995,Ravi Dewan,Anth,False,1995 | Ravi Dewan | Anth,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Action
+1994,Tyagarjan,Gardish,False,1994 | Tyagarjan | Gardish,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Action
+1993,Tinnu Verma,Khuda Gawah,False,1993 | Tinnu Verma | Khuda Gawah,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Action

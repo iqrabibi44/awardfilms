@@ -1,0 +1,403 @@
+award_show,year,ceremony_edition,category,nominee_name,work_title,role_or_character,result,language,source_url
+,1932,Venice Film Festival 1932,Volpi Cup for Best Actor,Fredric March,Dr. Jekyll and Mr. Hyde,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1932,Venice Film Festival 1932,Volpi Cup for Best Actress,Helen Hayes,The Sin of Madelon Claudet,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1934,Venice Film Festival 1934,Volpi Cup for Best Actor,Wallace Beery,Viva Villa!,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1934,Venice Film Festival 1934,Volpi Cup for Best Actress,Katharine Hepburn,Little Women,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1935,Venice Film Festival 1935,Volpi Cup for Best Actor,Pierre Blanchar,Crime and Punishment,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1935,Venice Film Festival 1935,Volpi Cup for Best Actress,Paula Wessely,Episode,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1936,Venice Film Festival 1936,Volpi Cup for Best Actor,Paul Muni,The Story of Louis Pasteur,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1936,Venice Film Festival 1936,Volpi Cup for Best Actress,Annabella,Veille d'armes,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1937,Venice Film Festival 1937,Volpi Cup for Best Actor,Emil Jannings,The Ruler,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1937,Venice Film Festival 1937,Volpi Cup for Best Actress,Bette Davis,Marked Woman,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1937,Venice Film Festival 1937,Volpi Cup for Best Actress,Kid Galahad,Kid Galahad,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1938,Venice Film Festival 1938,Volpi Cup for Best Actor,Leslie Howard,Pygmalion,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1938,Venice Film Festival 1938,Volpi Cup for Best Actress,Norma Shearer,Marie Antoinette,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1941,Venice Film Festival 1941,Volpi Cup for Best Actor,Ermete Zacconi,Don Buonaparte,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1941,Venice Film Festival 1941,Volpi Cup for Best Actress,Luise Ullrich,Annelie,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1942,Venice Film Festival 1942,Volpi Cup for Best Actor,Fosco Giachetti,Bengasi,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1942,Venice Film Festival 1942,Volpi Cup for Best Actress,Kristina Söderbaum,The Golden City,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1947,Venice Film Festival 1947,Volpi Cup for Best Actor,Pierre Fresnay,Monsieur Vincent,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1947,Venice Film Festival 1947,Volpi Cup for Best Actress,Anna Magnani,Angelina,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1948,Venice Film Festival 1948,Volpi Cup for Best Actor,Ernst Deutsch,The Trial,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1948,Venice Film Festival 1948,Volpi Cup for Best Actress,Jean Simmons,Hamlet,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1949,Venice Film Festival 1949,Golden Lion,Henri-Georges Clouzot,Manon,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1949,Venice Film Festival 1949,Volpi Cup for Best Actor,Joseph Cotten,Portrait of Jennie,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1949,Venice Film Festival 1949,Volpi Cup for Best Actress,Olivia de Havilland,The Snake Pit,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1950,Venice Film Festival 1950,Golden Lion,,Justice Is Done,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1950,Venice Film Festival 1950,Volpi Cup for Best Actor,Sam Jaffe,The Asphalt Jungle,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1950,Venice Film Festival 1950,Volpi Cup for Best Actress,Eleanor Parker,Caged,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1951,Venice Film Festival 1951,Golden Lion,,Rashomon,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1951,Venice Film Festival 1951,Volpi Cup for Best Actor,Jean Gabin,The Night Is My Kingdom,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1951,Venice Film Festival 1951,Volpi Cup for Best Actress,Bette Davis,All About Eve,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1951,Venice Film Festival 1951,Volpi Cup for Best Actress,Vivien Leigh,A Streetcar Named Desire,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1952,Venice Film Festival 1952,Golden Lion,,Forbidden Games,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1952,Venice Film Festival 1952,Volpi Cup for Best Actor,Fredric March,Death of a Salesman,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1952,Venice Film Festival 1952,Volpi Cup for Best Actress,Ingrid Bergman,Europe '51,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1953,Venice Film Festival 1953,Silver Lion,,Little Fugitive,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1953,Venice Film Festival 1953,Silver Lion,,John Huston,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1953,Venice Film Festival 1953,Silver Lion,,Садко,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1953,Venice Film Festival 1953,Silver Lion,,Marcel Carné,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1953,Venice Film Festival 1953,Silver Lion,,雨月物語,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1953,Venice Film Festival 1953,Silver Lion,,Federico Fellini,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1953,Venice Film Festival 1953,Volpi Cup for Best Actor,Henri Vilbert,Good Lord Without Confession,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1953,Venice Film Festival 1953,Volpi Cup for Best Actress,Lilli Palmer,The Four Poster,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1954,Venice Film Festival 1954,Golden Lion,Renato Castellani,Romeo and Juliet,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1954,Venice Film Festival 1954,Silver Lion,,On the Waterfront,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1954,Venice Film Festival 1954,Silver Lion,,山椒大夫,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1954,Venice Film Festival 1954,Silver Lion,,七人の侍,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1954,Venice Film Festival 1954,Silver Lion,,Federico Fellini,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1954,Venice Film Festival 1954,Volpi Cup for Best Actor,Honour Among Thieves,Touchez pas au grisbi,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1954,Venice Film Festival 1954,Volpi Cup for Best Actor,Jean Gabin,The Air of Paris,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1955,Venice Film Festival 1955,Golden Lion,Carl Theodor Dreyer,Ordet,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1955,Venice Film Festival 1955,Silver Lion,,Le Amiche,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1955,Venice Film Festival 1955,Silver Lion,,Robert Aldrich,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1955,Venice Film Festival 1955,Silver Lion,,Ciske de Rat,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1955,Venice Film Festival 1955,Silver Lion,,Попрыгунья,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1955,Venice Film Festival 1955,Volpi Cup for Best Actor,Curd Jürgens,The Heroes Are Tired,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1955,Venice Film Festival 1955,Volpi Cup for Best Actor,Freddie Page,The Deep Blue Sea,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1956,Venice Film Festival 1956,Volpi Cup for Best Actor,Bourvil,La Traversée de Paris,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1956,Venice Film Festival 1956,Volpi Cup for Best Actor,Burt Lancaster,Trapeze,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1956,Venice Film Festival 1956,Volpi Cup for Best Actress,Maria Schell,Gervaise,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1957,Venice Film Festival 1957,Golden Lion,অপরাজিত,Aparajito,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1957,Venice Film Festival 1957,Silver Lion,,White Nights,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1957,Venice Film Festival 1957,Volpi Cup for Best Actor,Anthony Franciosa,A Hatful of Rain,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1957,Venice Film Festival 1957,Volpi Cup for Best Actress,Dzidra Ritenberga,Malva,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1958,Venice Film Festival 1958,Golden Lion,無法松の一生,Rickshaw Man,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1958,Venice Film Festival 1958,Volpi Cup for Best Actor,Alec Guinness,The Horse's Mouth,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1958,Venice Film Festival 1958,Volpi Cup for Best Actress,Anna Magnani,Wild Is the Wind,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1958,Venice Film Festival 1958,Volpi Cup for Best Actress,Sophia Loren,The Black Orchid,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1959,Venice Film Festival 1959,Golden Lion,Il generale della Rovere,General Della Rovere,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1959,Venice Film Festival 1959,Golden Lion,Mario Monicelli,La grande guerra,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1959,Venice Film Festival 1959,Volpi Cup for Best Actor,James Stewart,Anatomy of a Murder,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1959,Venice Film Festival 1959,Volpi Cup for Best Actor,Jean Gabin,Archimède le clochard,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1959,Venice Film Festival 1959,Volpi Cup for Best Actress,Madeleine Robinson,Web of Passion,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1959,Venice Film Festival 1959,Volpi Cup for Best Actress,Shirley MacLaine,Ask Any Girl,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1960,Venice Film Festival 1960,Golden Lion,,Tomorrow Is My Turn,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1960,Venice Film Festival 1960,Volpi Cup for Best Actor,Fredric March,Inherit The Wind,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1960,Venice Film Festival 1960,Volpi Cup for Best Actor,John Mills,Tunes of Glory,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1960,Venice Film Festival 1960,Volpi Cup for Best Actress,Shirley MacLaine,The Apartment,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1961,Venice Film Festival 1961,Golden Lion,,Last Year at Marienbad,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1961,Venice Film Festival 1961,Volpi Cup for Best Actor,Toshiro Mifune,Yojimbo,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1961,Venice Film Festival 1961,Volpi Cup for Best Actress,Sophia Loren,Two Women,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1961,Venice Film Festival 1961,Volpi Cup for Best Actress,Suzanne Flon,Thou Shalt Not Kill,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1962,Venice Film Festival 1962,Golden Lion,,Family Diary,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1962,Venice Film Festival 1962,Golden Lion,,Ива́ново де́тство,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1962,Venice Film Festival 1962,Volpi Cup for Best Actor,Burt Lancaster,Birdman of Alcatraz,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1962,Venice Film Festival 1962,Volpi Cup for Best Actor,James Stewart,Mr. Hobbs Takes a Vacation,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1962,Venice Film Festival 1962,Volpi Cup for Best Actress,Emmanuelle Riva,Thérèse Desqueyroux,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1962,Venice Film Festival 1962,Volpi Cup for Best Actress,Katharine Hepburn,Long Day's Journey into Night,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1963,Venice Film Festival 1963,Golden Lion,,Hands over the City,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1963,Venice Film Festival 1963,Volpi Cup for Best Actor,Albert Finney,Tom Jones,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1963,Venice Film Festival 1963,Volpi Cup for Best Actress,Delphine Seyrig,Muriel,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1964,Venice Film Festival 1964,Golden Lion,,Red Desert,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1964,Venice Film Festival 1964,Volpi Cup for Best Actor,Tom Courtenay,King and Country,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1964,Venice Film Festival 1964,Volpi Cup for Best Actress,Harriet Andersson,To Love,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1965,Venice Film Festival 1965,Golden Lion,,Sandra,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1965,Venice Film Festival 1965,Volpi Cup for Best Actor,Toshiro Mifune,Red Beard,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1965,Venice Film Festival 1965,Volpi Cup for Best Actress,Annie Girardot,Three Rooms in Manhattan,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1966,Venice Film Festival 1966,Golden Lion,,The Battle of Algiers,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1966,Venice Film Festival 1966,Volpi Cup for Best Actor,Jacques Perrin,Almost a Man,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1966,Venice Film Festival 1966,Volpi Cup for Best Actress,Natalya Arinbasarova,The First Teacher,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1966,Venice Film Festival 1966,Volpi Cup for Best Actress,Vanessa Redgrave,Morgan – A Suitable Case for Treatment,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1967,Venice Film Festival 1967,Golden Lion,,Belle de Jour,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1967,Venice Film Festival 1967,Volpi Cup for Best Actor,Ljubiša Samardžić,The Morning,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1967,Venice Film Festival 1967,Volpi Cup for Best Actress,Shirley Knight,Dutchman,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1968,Venice Film Festival 1968,Golden Lion,,Artists Under the Big Top: Perplexed,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1968,Venice Film Festival 1968,Volpi Cup for Best Actor,John Marley,Faces,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1968,Venice Film Festival 1968,Volpi Cup for Best Actress,Laura Betti,Teorema,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1969,Venice Film Festival 1969,Volpi Cup for Best Actress,Isadora,Isadora,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1970,Venice Film Festival 1970,Golden Lion,,"No award given, the editions of the festival were not competitive",,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1970,Venice Film Festival 1970,Golden Lion,Orson Welles,Orson Welles,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1970,Venice Film Festival 1970,Volpi Cup for Best Actor,Marcello Mastroianni,The Pizza Triangle,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1971,Venice Film Festival 1971,Golden Lion,"Ingmar Bergman, Marcel Carné, and John Ford","Ingmar Bergman, Marcel Carné, and John Ford",,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1971,Venice Film Festival 1971,Volpi Cup for Best Actor,Le Chat,Le Chat,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1971,Venice Film Festival 1971,Volpi Cup for Best Actress,Desperate Characters,Desperate Characters,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1972,Venice Film Festival 1972,Golden Lion,"Charlie Chaplin, Anatoli Golovnya and Billy Wilder","Charlie Chaplin, Anatoli Golovnya and Billy Wilder",,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1973,Venice Film Festival 1973,Golden Lion,,"No award given, the festival was not organized during these years",,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1978,Venice Film Festival 1978,Volpi Cup for Best Actress,Isabelle Huppert,Violette Nozière,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1979,Venice Film Festival 1979,Golden Lion,,"No award given, this edition of the festival was not competitive",,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1979,Venice Film Festival 1979,Volpi Cup for Best Actor,1981,Tribute,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1979,Venice Film Festival 1979,Volpi Cup for Best Actor,1982,Missing,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1979,Venice Film Festival 1979,Volpi Cup for Best Actor,Jack Lemmon,The China Syndrome,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1980,Venice Film Festival 1980,Golden Lion,,Atlantic City,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1980,Venice Film Festival 1980,Golden Lion,,John Cassavetes,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1981,Venice Film Festival 1981,Golden Lion,,Marianne and Juliane,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1981,Venice Film Festival 1981,Silver Lion,,Do You Remember Dolly Bell?,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1981,Venice Film Festival 1981,Volpi Cup for Best Actress,Juliane,Juliane,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1981,Venice Film Festival 1981,Volpi Cup for Best Actress,Jutta Lampe,Marianne and Juliane,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1982,Venice Film Festival 1982,Golden Lion,,The State of Things,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1982,Venice Film Festival 1982,Golden Lion,"Alessandro Blasetti, Luis Buñuel, Frank Capra, George Cukor, Jean-Luc Godard, Sergei Yutkevich, Alexander Kluge, Akira Kurosawa, Michael Powell, Satyajit Ray, King Vidor, and Cesare Zavattini","Alessandro Blasetti, Luis Buñuel, Frank Capra, George Cukor, Jean-Luc Godard, Sergei Yutkevich, Alexander Kluge, Akira Kurosawa, Michael Powell, Satyajit Ray, King Vidor, and Cesare Zavattini",,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1982,Venice Film Festival 1982,Silver Lion,,Sciopèn,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1982,Venice Film Festival 1982,Silver Lion,,De smaak van water,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1983,Venice Film Festival 1983,Golden Lion,,First Name: Carmen,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1983,Venice Film Festival 1983,Golden Lion,Michelangelo Antonioni,Michelangelo Antonioni,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1983,Venice Film Festival 1983,Silver Lion,,Sugar Cane Alley,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1983,Venice Film Festival 1983,Volpi Cup for Best Actor,Billy,Billy,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1983,Venice Film Festival 1983,Volpi Cup for Best Actor,Carlyle,Carlyle,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1983,Venice Film Festival 1983,Volpi Cup for Best Actor,Cokes,Cokes,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1983,Venice Film Festival 1983,Volpi Cup for Best Actor,Guy Boyd,Streamers,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1983,Venice Film Festival 1983,Volpi Cup for Best Actor,Richie,Richie,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1983,Venice Film Festival 1983,Volpi Cup for Best Actor,Roger,Roger,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1983,Venice Film Festival 1983,Volpi Cup for Best Actress,Darling Légitimus,Sugar Cane Alley,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1984,Venice Film Festival 1984,Golden Lion,,A Year of the Quiet Sun,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1984,Venice Film Festival 1984,Silver Lion,,Sonatine,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1984,Venice Film Festival 1984,Volpi Cup for Best Actor,Albert Finney,The Dresser,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1984,Venice Film Festival 1984,Volpi Cup for Best Actor,Naseeruddin Shah,Paar,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1984,Venice Film Festival 1984,Volpi Cup for Best Actress,Helen Mirren,Cal,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1984,Venice Film Festival 1984,Volpi Cup for Best Actress,Pascale Ogier,Full Moon in Paris,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1985,Venice Film Festival 1985,Golden Lion,,Vagabond,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1985,Venice Film Festival 1985,Golden Lion,"Manoel de Oliveira, John Huston, and Federico Fellini","Manoel de Oliveira, John Huston, and Federico Fellini",,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1985,Venice Film Festival 1985,Silver Lion,,Dust,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1985,Venice Film Festival 1985,Volpi Cup for Best Actor,Gérard Depardieu,Police,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1986,Venice Film Festival 1986,Golden Lion,,The Green Ray,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1986,Venice Film Festival 1986,Golden Lion,Paolo Taviani and Vittorio Taviani,Paolo Taviani and Vittorio Taviani,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1986,Venice Film Festival 1986,Silver Lion,,A King and His Movie,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1986,Venice Film Festival 1986,Volpi Cup for Best Actor,Carlo Delle Piane,Christmas Present,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1986,Venice Film Festival 1986,Volpi Cup for Best Actress,Barbara Sukowa,Rosa Luxemburg,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1986,Venice Film Festival 1986,Volpi Cup for Best Actress,Valeria Golino,Bruna Assecondati,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1987,Venice Film Festival 1987,Golden Lion,,Au revoir les enfants,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1987,Venice Film Festival 1987,Golden Lion,Luigi Comencini and Joseph L. Mankiewicz,Luigi Comencini and Joseph L. Mankiewicz,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1987,Venice Film Festival 1987,Silver Lion,,Maurice,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1987,Venice Film Festival 1987,Silver Lion,,Lunga vita alla signora!,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1987,Venice Film Festival 1987,Volpi Cup for Best Actor,Dark Eyes,Dark Eyes,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1987,Venice Film Festival 1987,Volpi Cup for Best Actor,Hugh Grant,Maurice,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1987,Venice Film Festival 1987,Volpi Cup for Best Actor,Maurice Hall,Maurice Hall,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1987,Venice Film Festival 1987,Volpi Cup for Best Actress,Kang Soo-yeon,Ok-nyo,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1988,Venice Film Festival 1988,Golden Lion,,The Legend of the Holy Drinker,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1988,Venice Film Festival 1988,Golden Lion,Joris Ivens,Joris Ivens,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1988,Venice Film Festival 1988,Silver Lion,,Landscape in the Mist,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1988,Venice Film Festival 1988,Volpi Cup for Best Actor,Don Ameche,Things Change,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1988,Venice Film Festival 1988,Volpi Cup for Best Actor,Jerry,Jerry,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1988,Venice Film Festival 1988,Volpi Cup for Best Actress,Isabelle Huppert,Marie Latour,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1988,Venice Film Festival 1988,Volpi Cup for Best Actress,Madame Sousatzka,Madame Sousatzka,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1989,Venice Film Festival 1989,Golden Lion,,A City of Sadness,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1989,Venice Film Festival 1989,Golden Lion,Robert Bresson,Robert Bresson,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1989,Venice Film Festival 1989,Silver Lion,,Death of a Tea Master,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1989,Venice Film Festival 1989,Silver Lion,,Recordações da Casa Amarela,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1989,Venice Film Festival 1989,Volpi Cup for Best Actor,Marcello Mastroianni,What Time Is It?,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1989,Venice Film Festival 1989,Volpi Cup for Best Actor,Michele,Michele,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1989,Venice Film Festival 1989,Volpi Cup for Best Actress,Peggy Ashcroft,Lillian Huckle,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1990,Venice Film Festival 1990,Golden Lion,,Rosencrantz & Guildenstern Are Dead,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1990,Venice Film Festival 1990,Golden Lion,Marcello Mastroianni and Miklós Jancsó,Marcello Mastroianni and Miklós Jancsó,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1990,Venice Film Festival 1990,Silver Lion,,Sirup,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1990,Venice Film Festival 1990,Silver Lion,Martin Scorsese,Goodfellas,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1990,Venice Film Festival 1990,Volpi Cup for Best Actor,Gérard Depardieu,Cyrano de Bergerac,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1990,Venice Film Festival 1990,Volpi Cup for Best Actor,Oleg Borisov,The Only Witness,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1990,Venice Film Festival 1990,Volpi Cup for Best Actress,Gloria Münchmeyer,The Moon in the Mirror,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1991,Venice Film Festival 1991,Golden Lion,,Close to Eden,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1991,Venice Film Festival 1991,Golden Lion,Mario Monicelli and Gian Maria Volonté,Mario Monicelli and Gian Maria Volonté,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1991,Venice Film Festival 1991,Silver Lion,,The Fisher King,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1991,Venice Film Festival 1991,Silver Lion,,Philippe Garrel,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1991,Venice Film Festival 1991,Silver Lion,,大紅燈籠高高掛,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1991,Venice Film Festival 1991,Volpi Cup for Best Actor,River Phoenix,My Own Private Idaho,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1991,Venice Film Festival 1991,Volpi Cup for Best Actress,Tilda Swinton,Edward II,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1992,Venice Film Festival 1992,Golden Lion,,The Story of Qiu Ju,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1992,Venice Film Festival 1992,Golden Lion,"Jeanne Moreau, Francis Ford Coppola, and Paolo Villaggio","Jeanne Moreau, Francis Ford Coppola, and Paolo Villaggio",,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1992,Venice Film Festival 1992,Silver Lion,,A Heart in Winter,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1992,Venice Film Festival 1992,Silver Lion,,Bigas Luna,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1992,Venice Film Festival 1992,Silver Lion,,Hotel de lux,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1992,Venice Film Festival 1992,Volpi Cup for Best Actor,Jack Lemmon,Glengarry Glen Ross,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1992,Venice Film Festival 1992,Volpi Cup for Best Actress,Gong Li,The Story of Qiu Ju,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1993,Venice Film Festival 1993,Golden Lion,,Short Cuts,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1993,Venice Film Festival 1993,Golden Lion,,Trois couleurs: Bleu,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1993,Venice Film Festival 1993,Golden Lion,"Steven Spielberg, Robert De Niro, Roman Polanski, and Claudia Cardinale","Steven Spielberg, Robert De Niro, Roman Polanski, and Claudia Cardinale",,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1993,Venice Film Festival 1993,Silver Lion,,Kosh ba kosh,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1993,Venice Film Festival 1993,Volpi Cup for Best Actor,Constantin Laspada,"Un, deux, trois, soleil",,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1993,Venice Film Festival 1993,Volpi Cup for Best Actor,Fabrizio Bentivoglio,A Soul Split in Two,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1993,Venice Film Festival 1993,Volpi Cup for Best Actress,Juliette Binoche,Three Colours: Blue,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1993,Venice Film Festival 1993,Volpi Cup for Best Actress,Mother,Dove siete? Io sono qui,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1994,Venice Film Festival 1994,Golden Lion,,Before the Rain,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1994,Venice Film Festival 1994,Golden Lion,,愛情萬歲,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1994,Venice Film Festival 1994,Golden Lion,"Al Pacino, Suso Cecchi d'Amico, and Ken Loach","Al Pacino, Suso Cecchi d'Amico, and Ken Loach",,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1994,Venice Film Festival 1994,Silver Lion,,Heavenly Creatures,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1994,Venice Film Festival 1994,Silver Lion,,James Gray,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1994,Venice Film Festival 1994,Silver Lion,,Carlo Mazzacurati,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1994,Venice Film Festival 1994,Volpi Cup for Best Actor,Loris,Il toro,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1994,Venice Film Festival 1994,Volpi Cup for Best Actor,Xia Yu,In the Heat of the Sun,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1994,Venice Film Festival 1994,Volpi Cup for Best Actress,Irina Shapira,Little Odessa,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1994,Venice Film Festival 1994,Volpi Cup for Best Actress,Maria de Medeiros,"Two Brothers, My Sister",,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1995,Venice Film Festival 1995,Golden Lion,,Cyclo,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1995,Venice Film Festival 1995,Golden Lion,"Woody Allen, Monica Vitti, Martin Scorsese, Alberto Sordi, Ennio Morricone, Giuseppe De Santis, Goffredo Lombardo, and Alain Resnais","Woody Allen, Monica Vitti, Martin Scorsese, Alberto Sordi, Ennio Morricone, Giuseppe De Santis, Goffredo Lombardo, and Alain Resnais",,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1995,Venice Film Festival 1995,Volpi Cup for Best Actor,Ginger,Nothing Personal,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1995,Venice Film Festival 1995,Volpi Cup for Best Actor,Götz George,Deathmaker,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1995,Venice Film Festival 1995,Volpi Cup for Best Actress,Andreina,Romanzo di un giovane povero,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1995,Venice Film Festival 1995,Volpi Cup for Best Actress,Jeanne,Jeanne,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1995,Venice Film Festival 1995,Volpi Cup for Best Actress,Sandrine Bonnaire,La Cérémonie,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1995,Venice Film Festival 1995,Volpi Cup for Best Actress,The Madness of King George,The Madness of King George,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1996,Venice Film Festival 1996,Golden Lion,,Michael Collins,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1996,Venice Film Festival 1996,Golden Lion,"Robert Altman, Vittorio Gassman, Dustin Hoffman, and Michèle Morgan","Robert Altman, Vittorio Gassman, Dustin Hoffman, and Michèle Morgan",,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1996,Venice Film Festival 1996,Silver Lion,Sima Urale,O Tamaiti,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1996,Venice Film Festival 1996,Volpi Cup for Best Actor,1997,She's So Lovely,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1996,Venice Film Festival 1996,Volpi Cup for Best Actor,Cesarian Chez Tempio,The Funeral,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1996,Venice Film Festival 1996,Volpi Cup for Best Actor,Liam Neeson,Michael Collins,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1996,Venice Film Festival 1996,Volpi Cup for Best Actor,Sean Penn,Dead Man Walking,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1996,Venice Film Festival 1996,Volpi Cup for Best Actress,Victoire Thivisol,Ponette,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1997,Venice Film Festival 1997,Golden Lion,,Hana-bi,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1997,Venice Film Festival 1997,Golden Lion,"Gérard Depardieu, Stanley Kubrick, and Alida Valli","Gérard Depardieu, Stanley Kubrick, and Alida Valli",,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1997,Venice Film Festival 1997,Volpi Cup for Best Actor,Wesley Snipes,One Night Stand,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1997,Venice Film Festival 1997,Volpi Cup for Best Actress,2010,Certified Copy,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1997,Venice Film Festival 1997,Volpi Cup for Best Actress,Juliette Binoche,The English Patient,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1997,Venice Film Festival 1997,Volpi Cup for Best Actress,Robin Tunney,"Niagara, Niagara",,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1998,Venice Film Festival 1998,Golden Lion,,The Way We Laughed,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1998,Venice Film Festival 1998,Golden Lion,"Warren Beatty, Sophia Loren, and Andrzej Wajda","Warren Beatty, Sophia Loren, and Andrzej Wajda",,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1998,Venice Film Festival 1998,Silver Lion,Emir Kusturica,"Black Cat, White Cat",,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1998,Venice Film Festival 1998,Volpi Cup for Best Actor,Sean Penn,Hurlyburly,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1998,Venice Film Festival 1998,Volpi Cup for Best Actress,Catherine Deneuve,Place Vendôme,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,1999,Venice Film Festival 1999,Golden Lion,,Not One Less,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1999,Venice Film Festival 1999,Golden Lion,Jerry Lewis,Jerry Lewis,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,1999,Venice Film Festival 1999,Silver Lion,Teboho Mahlatsi,Portrait of a Young Man Drowning,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1999,Venice Film Festival 1999,Silver Lion,Zhang Yuan,Seventeen Years,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,1999,Venice Film Festival 1999,Volpi Cup for Best Actor,Jim Broadbent,Topsy-Turvy,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,1999,Venice Film Festival 1999,Volpi Cup for Best Actress,Nathalie Baye,Une liaison pornographique,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,2000,Venice Film Festival 2000,Golden Lion,,The Circle,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2000,Venice Film Festival 2000,Golden Lion,Clint Eastwood,Clint Eastwood,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2000,Venice Film Festival 2000,Silver Lion,Buddhadeb Dasgupta,Uttara,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,2000,Venice Film Festival 2000,Silver Lion,Peter Long,A Telephone Call for Genevieve Snow,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,2000,Venice Film Festival 2000,Volpi Cup for Best Actor,Javier Bardem,Before Night Falls,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,2000,Venice Film Festival 2000,Volpi Cup for Best Actress,Rose Byrne,The Goddess of 1967,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,2001,Venice Film Festival 2001,Golden Lion,,Monsoon Wedding,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2001,Venice Film Festival 2001,Golden Lion,Éric Rohmer,Éric Rohmer,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2001,Venice Film Festival 2001,Silver Lion,Babak Payami,Secret Ballot,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,2001,Venice Film Festival 2001,Silver Lion,Jan Krüger,Freunde,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,2001,Venice Film Festival 2001,Volpi Cup for Best Actor,Luigi Lo Cascio,Light of My Eyes,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,2001,Venice Film Festival 2001,Volpi Cup for Best Actress,Sandra Ceccarelli,Light of My Eyes,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,2001,Venice Film Festival 2001,Volpi Cup for Best Actress,The Piano Teacher,The Piano Teacher,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,2002,Venice Film Festival 2002,Golden Lion,,The Magdalene Sisters,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2002,Venice Film Festival 2002,Golden Lion,Dino Risi,Dino Risi,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2002,Venice Film Festival 2002,Silver Lion,Irina Evteeva,Clown,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,2002,Venice Film Festival 2002,Silver Lion,Lee Chang-dong,Oasis,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,2002,Venice Film Festival 2002,Volpi Cup for Best Actor,Stefano Accorsi,A Journey Called Love,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,2002,Venice Film Festival 2002,Volpi Cup for Best Actress,Julianne Moore,Far from Heaven,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,2003,Venice Film Festival 2003,Golden Lion,,The Return,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2003,Venice Film Festival 2003,Golden Lion,Dino De Laurentiis and Omar Sharif,Dino De Laurentiis and Omar Sharif,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2003,Venice Film Festival 2003,Silver Lion,Murad Ibragimbekov,Neft,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,2003,Venice Film Festival 2003,Silver Lion,Takeshi Kitano,Zatōichi,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,2003,Venice Film Festival 2003,Volpi Cup for Best Actor,Sean Penn,21 Grams,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,2003,Venice Film Festival 2003,Volpi Cup for Best Actress,2014,Maps to the Stars,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,2003,Venice Film Festival 2003,Volpi Cup for Best Actress,Julianne Moore,The Hours,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,2003,Venice Film Festival 2003,Volpi Cup for Best Actress,Katja Riemann,Rosenstrasse,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,2003,Venice Film Festival 2003,Volpi Cup for Best Actress,Nicole Kidman,The Hours,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,2004,Venice Film Festival 2004,Golden Lion,,Vera Drake,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2004,Venice Film Festival 2004,Golden Lion,Stanley Donen and Manoel de Oliveira,Stanley Donen and Manoel de Oliveira,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2004,Venice Film Festival 2004,Silver Lion,Kamel Cherif,Signe d'appartenance,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,2004,Venice Film Festival 2004,Silver Lion,Kim Ki-duk,3-Iron,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,2004,Venice Film Festival 2004,Volpi Cup for Best Actor,Javier Bardem,The Sea Inside,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,2004,Venice Film Festival 2004,Volpi Cup for Best Actress,Imelda Staunton,Vera Drake,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,2005,Venice Film Festival 2005,Golden Lion,,Brokeback Mountain,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2005,Venice Film Festival 2005,Golden Lion,Hayao Miyazaki and Stefania Sandrelli,Hayao Miyazaki and Stefania Sandrelli,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2005,Venice Film Festival 2005,Silver Lion,Chien-ping Lin,Xiaozhan,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,2005,Venice Film Festival 2005,Silver Lion,Philippe Garrel,Regular Lovers,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,2005,Venice Film Festival 2005,Volpi Cup for Best Actor,David Strathairn,"Good Night, and Good Luck",,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,2005,Venice Film Festival 2005,Volpi Cup for Best Actress,Giovanna Mezzogiorno,Don't Tell,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,2006,Venice Film Festival 2006,Golden Lion,,Still Life,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2006,Venice Film Festival 2006,Golden Lion,David Lynch,David Lynch,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2006,Venice Film Festival 2006,Silver Lion,Alain Resnais,Private Fears in Public Places,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,2006,Venice Film Festival 2006,Silver Lion,Alix Delaporte,Comment on freine dans une descente?,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,2006,Venice Film Festival 2006,Silver Lion,Emanuele Crialese,Golden Door,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,2006,Venice Film Festival 2006,Volpi Cup for Best Actor,Ben Affleck,Hollywoodland,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,2006,Venice Film Festival 2006,Volpi Cup for Best Actress,Helen Mirren,The Queen,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,2006,Venice Film Festival 2006,Volpi Cup for Best Actress,Penélope Cruz,Volver,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,2007,Venice Film Festival 2007,Golden Lion,,"Lust, Caution",,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2007,Venice Film Festival 2007,Golden Lion,Tim Burton and Bernardo Bertolucci (for the last 75 years of the history of cinema),Tim Burton and Bernardo Bertolucci (for the last 75 years of the history of cinema),,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2007,Venice Film Festival 2007,Silver Lion,Brian De Palma,Redacted,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,2007,Venice Film Festival 2007,Silver Lion,Paddy Considine,Dog Altogether,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,2007,Venice Film Festival 2007,Volpi Cup for Best Actor,Brad Pitt,The Assassination of Jesse James by the Coward Robert Ford,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,2007,Venice Film Festival 2007,Volpi Cup for Best Actress,Cate Blanchett,I'm Not There,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,2008,Venice Film Festival 2008,Golden Lion,,The Wrestler,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2008,Venice Film Festival 2008,Golden Lion,Ermanno Olmi,Ermanno Olmi,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2008,Venice Film Festival 2008,Silver Lion,Aleksei Alekseivich German,Paper Soldier,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,2008,Venice Film Festival 2008,Volpi Cup for Best Actor,Silvio Orlando,Giovanna's Father,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,2008,Venice Film Festival 2008,Volpi Cup for Best Actress,Dominique Blanc,The Other One,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,2009,Venice Film Festival 2009,Golden Lion,,Lebanon,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2009,Venice Film Festival 2009,Golden Lion,"John Lasseter, Brad Bird, Pete Docter, Andrew Stanton, and Lee Unkrich","John Lasseter, Brad Bird, Pete Docter, Andrew Stanton, and Lee Unkrich",,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2009,Venice Film Festival 2009,Silver Lion,Shirin Neshat,Women Without Men,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,2009,Venice Film Festival 2009,Volpi Cup for Best Actor,Colin Firth,A Single Man,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,2009,Venice Film Festival 2009,Volpi Cup for Best Actress,Kseniya Rappoport,The Double Hour,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,2010,Venice Film Festival 2010,Golden Lion,,Somewhere §,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2010,Venice Film Festival 2010,Golden Lion,John Woo,John Woo,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2010,Venice Film Festival 2010,Silver Lion,Álex de la Iglesia,The Last Circus,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,2010,Venice Film Festival 2010,Volpi Cup for Best Actor,Javier Bardem,Biutiful,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,2010,Venice Film Festival 2010,Volpi Cup for Best Actor,Vincent Gallo,Essential Killing,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,2010,Venice Film Festival 2010,Volpi Cup for Best Actress,Ariane Labed,Attenberg,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,2011,Venice Film Festival 2011,Golden Lion,,Faust §,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2011,Venice Film Festival 2011,Golden Lion,Marco Bellocchio,Marco Bellocchio,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2011,Venice Film Festival 2011,Silver Lion,Cai Shangjun,People Mountain People Sea,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,2011,Venice Film Festival 2011,Volpi Cup for Best Actor,Michael Fassbender,Shame,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,2011,Venice Film Festival 2011,Volpi Cup for Best Actress,Deanie Ip,A Simple Life,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,2012,Venice Film Festival 2012,Golden Lion,,Pietà,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2012,Venice Film Festival 2012,Golden Lion,Francesco Rosi,Francesco Rosi,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2012,Venice Film Festival 2012,Silver Lion,Paul Thomas Anderson,The Master,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,2012,Venice Film Festival 2012,Volpi Cup for Best Actor,Freddie Quell,Freddie Quell,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,2012,Venice Film Festival 2012,Volpi Cup for Best Actor,Philip Seymour Hoffman,The Master,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,2012,Venice Film Festival 2012,Volpi Cup for Best Actress,Hadas Yaron,Fill the Void,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,2013,Venice Film Festival 2013,Golden Lion,,Sacro GRA,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2013,Venice Film Festival 2013,Golden Lion,William Friedkin,William Friedkin,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2013,Venice Film Festival 2013,Silver Lion,Alexandros Avranas,Miss Violence,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,2013,Venice Film Festival 2013,Volpi Cup for Best Actor,Themis Panou,Miss Violence,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,2013,Venice Film Festival 2013,Volpi Cup for Best Actress,Elena Cotta,A Street in Palermo,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,2014,Venice Film Festival 2014,Golden Lion,,A Pigeon Sat on a Branch Reflecting on Existence,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2014,Venice Film Festival 2014,Golden Lion,Thelma Schoonmaker and Frederick Wiseman,Thelma Schoonmaker and Frederick Wiseman,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2014,Venice Film Festival 2014,Silver Lion,Andrei Konchalovsky,The Postman's White Nights,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,2014,Venice Film Festival 2014,Volpi Cup for Best Actor,Adam Driver,Hungry Hearts,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,2014,Venice Film Festival 2014,Volpi Cup for Best Actress,Alba Rohrwacher,Hungry Hearts,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,2015,Venice Film Festival 2015,Golden Lion,,From Afar,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2015,Venice Film Festival 2015,Golden Lion,Bertrand Tavernier,Bertrand Tavernier,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2015,Venice Film Festival 2015,Silver Lion,Pablo Trapero,The Clan,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,2015,Venice Film Festival 2015,Volpi Cup for Best Actor,Fabrice Luchini,Courted,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,2015,Venice Film Festival 2015,Volpi Cup for Best Actor,Tom Courtenay,45 Years,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,2015,Venice Film Festival 2015,Volpi Cup for Best Actor,Vincent Lindon,The Measure of a Man,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,2015,Venice Film Festival 2015,Volpi Cup for Best Actress,Charlotte Rampling,45 Years,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,2015,Venice Film Festival 2015,Volpi Cup for Best Actress,Valeria Golino,Per amor vostro,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,2016,Venice Film Festival 2016,Golden Lion,,The Woman Who Left,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2016,Venice Film Festival 2016,Golden Lion,Jean-Paul Belmondo and Jerzy Skolimowski,Jean-Paul Belmondo and Jerzy Skolimowski,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2016,Venice Film Festival 2016,Silver Lion,Amat Escalante,The Untamed,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,2016,Venice Film Festival 2016,Silver Lion,Paradise,Рай,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,2016,Venice Film Festival 2016,Volpi Cup for Best Actor,Oscar Martínez,The Distinguished Citizen,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,2016,Venice Film Festival 2016,Volpi Cup for Best Actress,Emma Stone,La La Land,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,2017,Venice Film Festival 2017,Golden Lion,,The Shape of Water,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2017,Venice Film Festival 2017,Golden Lion,Jane Fonda and Robert Redford,Jane Fonda and Robert Redford,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2017,Venice Film Festival 2017,Silver Lion,Xavier Legrand,Custody,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,2017,Venice Film Festival 2017,Volpi Cup for Best Actor,Joaquin Phoenix,You Were Never Really Here,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,2017,Venice Film Festival 2017,Volpi Cup for Best Actor,Kamel El Basha,The Insult,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,2017,Venice Film Festival 2017,Volpi Cup for Best Actress,Charlotte Rampling,Hannah,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,2018,Venice Film Festival 2018,Golden Lion,,Roma,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2018,Venice Film Festival 2018,Golden Lion,David Cronenberg and Vanessa Redgrave,David Cronenberg and Vanessa Redgrave,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2018,Venice Film Festival 2018,Silver Lion,Jacques Audiard,The Sisters Brothers,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,2018,Venice Film Festival 2018,Volpi Cup for Best Actor,Willem Dafoe,At Eternity's Gate,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,2018,Venice Film Festival 2018,Volpi Cup for Best Actress,Olivia Colman,The Favourite,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,2019,Venice Film Festival 2019,Golden Lion,,Joker,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2019,Venice Film Festival 2019,Golden Lion,Julie Andrews and Pedro Almodóvar,Julie Andrews and Pedro Almodóvar,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2019,Venice Film Festival 2019,Silver Lion,Roy Andersson,About Endlessness,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,2019,Venice Film Festival 2019,Volpi Cup for Best Actor,Luca Marinelli,Martin Eden,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,2019,Venice Film Festival 2019,Volpi Cup for Best Actress,Ariane Ascaride,Gloria Mundi,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,2020,Venice Film Festival 2020,Golden Lion,,Nomadland,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2020,Venice Film Festival 2020,Golden Lion,Ann Hui and Tilda Swinton,Ann Hui and Tilda Swinton,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2020,Venice Film Festival 2020,Silver Lion,Kiyoshi Kurosawa,Wife of a Spy,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,2020,Venice Film Festival 2020,Volpi Cup for Best Actor,Pierfrancesco Favino,Padrenostro,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,2020,Venice Film Festival 2020,Volpi Cup for Best Actress,Vanessa Kirby,Pieces of a Woman,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,2021,Venice Film Festival 2021,Golden Lion,,Happening §,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2021,Venice Film Festival 2021,Golden Lion,Roberto Benigni and Jamie Lee Curtis,Roberto Benigni and Jamie Lee Curtis,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2021,Venice Film Festival 2021,Silver Lion,Jane Campion,The Power of the Dog,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,2021,Venice Film Festival 2021,Volpi Cup for Best Actor,John Arcilla,On the Job: The Missing 8,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,2021,Venice Film Festival 2021,Volpi Cup for Best Actress,Penélope Cruz,Parallel Mothers,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,2022,Venice Film Festival 2022,Golden Lion,,All the Beauty and the Bloodshed,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2022,Venice Film Festival 2022,Golden Lion,Catherine Deneuve and Paul Schrader,Catherine Deneuve and Paul Schrader,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2022,Venice Film Festival 2022,Silver Lion,Luca Guadagnino,Bones and All,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,2022,Venice Film Festival 2022,Volpi Cup for Best Actor,Colin Farrell,The Banshees of Inisherin,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,2022,Venice Film Festival 2022,Volpi Cup for Best Actress,Cate Blanchett,Tár,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,2023,Venice Film Festival 2023,Golden Lion,,Poor Things,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2023,Venice Film Festival 2023,Golden Lion,Liliana Cavani and Tony Leung Chiu-wai,Liliana Cavani and Tony Leung Chiu-wai,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2023,Venice Film Festival 2023,Silver Lion,Matteo Garrone,Io Capitano,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,2023,Venice Film Festival 2023,Volpi Cup for Best Actor,Peter Sarsgaard,Memory,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,2023,Venice Film Festival 2023,Volpi Cup for Best Actress,Cailee Spaeny,Priscilla,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,2024,Venice Film Festival 2024,Golden Lion,,The Room Next Door,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2024,Venice Film Festival 2024,Golden Lion,Peter Weir and Sigourney Weaver,Peter Weir and Sigourney Weaver,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2024,Venice Film Festival 2024,Silver Lion,Brady Corbet,The Brutalist,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,2024,Venice Film Festival 2024,Volpi Cup for Best Actor,Vincent Lindon,The Quiet Son,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,2024,Venice Film Festival 2024,Volpi Cup for Best Actress,Nicole Kidman,Babygirl,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,2025,Venice Film Festival 2025,Golden Lion,,Father Mother Sister Brother,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2025,Venice Film Festival 2025,Golden Lion,Werner Herzog and Kim Novak,Werner Herzog and Kim Novak,,Winner,English,https://en.wikipedia.org/wiki/Golden_Lion
+,2025,Venice Film Festival 2025,Silver Lion,Benny Safdie,The Smashing Machine,,Winner,English,https://en.wikipedia.org/wiki/Silver_Lion
+,2025,Venice Film Festival 2025,Volpi Cup for Best Actor,Toni Servillo,La grazia,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actor
+,2025,Venice Film Festival 2025,Volpi Cup for Best Actress,Rose Byrne,If I Had Legs I'd Kick You,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress
+,2025,Venice Film Festival 2025,Volpi Cup for Best Actress,Xin Zhilei,The Sun Rises on Us All,,Winner,English,https://en.wikipedia.org/wiki/Volpi_Cup_for_Best_Actress

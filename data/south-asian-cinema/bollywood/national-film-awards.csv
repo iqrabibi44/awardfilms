@@ -1,0 +1,349 @@
+year_film,year_ceremony,ceremony,category,canon_category,name,film,winner
+1953,1954,1,Best Feature Film,BEST PICTURE,Marathi,Shyamchi Aai,False
+1954,1955,1,Best Feature Film,BEST PICTURE,Hindi,Mirza Ghalib,False
+1955,1956,2,Best Feature Film,BEST PICTURE,Bengali,Pather Panchali,False
+1956,1957,3,Best Feature Film,BEST PICTURE,Bengali,Kabuliwala,False
+1957,1958,4,Best Feature Film,BEST PICTURE,Hindi,Do Aankhen Barah Haath,False
+1958,1959,5,Best Feature Film,BEST PICTURE,Bengali,Sagar Sangamey,False
+1959,1960,6,Best Feature Film,BEST PICTURE,Bengali,Apur Sansar,False
+1960,1961,7,Best Feature Film,BEST PICTURE,Hindi,Anuradha,False
+1961,1962,8,Best Feature Film,BEST PICTURE,Bengali,Bhagini Nivedita,False
+1962,1963,9,Best Feature Film,BEST PICTURE,Bengali,Dada Thakur,False
+1963,1964,10,Best Feature Film,BEST PICTURE,Hindi,Shehar Aur Sapna,False
+1964,1965,11,Best Feature Film,BEST PICTURE,Bengali,Charulata,False
+1965,1966,12,Best Feature Film,BEST PICTURE,Malayalam,Chemmeen,False
+1966,1967,13,Best Feature Film,BEST PICTURE,Hindi,Teesri Kasam,False
+1967,1968,14,Best Feature Film,BEST PICTURE,Bengali,Hatey Bazarey,False
+1968,1969,15,Best Feature Film,BEST PICTURE,Bengali,Goopy Gyne Bagha Byne,False
+1969,1970,16,Best Feature Film,BEST PICTURE,Hindi,Bhuvan Shome,False
+1970,1971,17,Best Feature Film,BEST PICTURE,Kannada,Samskara,False
+1971,1972,18,Best Feature Film,BEST PICTURE,Bengali,Seemabaddha,False
+1972,1973,19,Best Feature Film,BEST PICTURE,Malayalam,Swayamvaram,False
+1973,1974,20,Best Feature Film,BEST PICTURE,Malayalam,Nirmalyam,False
+1974,1975,21,Best Feature Film,BEST PICTURE,Bengali,Chorus,False
+1975,1976,22,Best Feature Film,BEST PICTURE,Kannada,Chomana Dudi,False
+1976,1977,23,Best Feature Film,BEST PICTURE,Hindi,Mrigayaa,False
+1977,1978,24,Best Feature Film,BEST PICTURE,Kannada,Ghatashraddha,False
+1978,1979,25,Best Feature Film,BEST PICTURE,,No Award,False
+1979,1980,26,Best Feature Film,BEST PICTURE,Hindi,Shodh,False
+1980,1981,27,Best Feature Film,BEST PICTURE,Bengali,Akaler Shandhaney,False
+1981,1982,28,Best Feature Film,BEST PICTURE,Bengali,Dakhal,False
+1982,1983,29,Best Feature Film,BEST PICTURE,Bengali,Chokh,False
+1983,1984,30,Best Feature Film,BEST PICTURE,Sanskrit,Adi Shankaracharya,False
+1984,1985,31,Best Feature Film,BEST PICTURE,Hindi,Damul,False
+1985,1986,32,Best Feature Film,BEST PICTURE,Malayalam,Chidambaram,False
+1986,1987,33,Best Feature Film,BEST PICTURE,Kannada,Tabarana Kathe,False
+1987,1988,34,Best Feature Film,BEST PICTURE,Assamese,Halodhia Choraye Baodhan Khai,False
+1988,1989,35,Best Feature Film,BEST PICTURE,Malayalam,Piravi,False
+1989,1990,36,Best Feature Film,BEST PICTURE,Bengali,Bagh Bahadur,False
+1990,1991,37,Best Feature Film,BEST PICTURE,Tamil,Marupakkam,False
+1991,1992,38,Best Feature Film,BEST PICTURE,Bengali,Agantuk,False
+1992,1993,39,Best Feature Film,BEST PICTURE,Sanskrit,Bhagavad Gita,False
+1993,1994,40,Best Feature Film,BEST PICTURE,Bengali,Charachar,False
+1994,1995,41,Best Feature Film,BEST PICTURE,Bengali,Unishe April,False
+1995,1996,42,Best Feature Film,BEST PICTURE,Malayalam,Kathapurushan,False
+1996,1997,43,Best Feature Film,BEST PICTURE,Bengali,Lal Darja,False
+1997,1998,44,Best Feature Film,BEST PICTURE,Kannada,Thaayi Saheba,False
+1998,1999,45,Best Feature Film,BEST PICTURE,Hindi,Samar,False
+1999,2000,46,Best Feature Film,BEST PICTURE,Malayalam,Vanaprastham,False
+2000,2001,47,Best Feature Film,BEST PICTURE,Malayalam,Shantham,False
+2001,2002,48,Best Feature Film,BEST PICTURE,Kannada,Dweepa,False
+2002,2003,49,Best Feature Film,BEST PICTURE,Bengali,Mondo Meyer Upakhyan,False
+2003,2004,50,Best Feature Film,BEST PICTURE,Marathi,Shwaas,False
+2004,2005,51,Best Feature Film,BEST PICTURE,Hindi,Page 3,False
+2005,2006,52,Best Feature Film,BEST PICTURE,Bengali,Kaalpurush,False
+2006,2007,53,Best Feature Film,BEST PICTURE,Malayalam,Pulijanmam,False
+2007,2008,54,Best Feature Film,BEST PICTURE,Tamil,Kanchivaram,False
+2008,2009,55,Best Feature Film,BEST PICTURE,Bengali,Antaheen,False
+2009,2010,56,Best Feature Film,BEST PICTURE,Malayalam,Kutty Srank,False
+2010,2011,57,Best Feature Film,BEST PICTURE,Malayalam,Adaminte Makan Abu,False
+2011,2012,58,Best Feature Film,BEST PICTURE,Marathi,Deool,True
+2011,2012,58,Best Feature Film,BEST PICTURE,Beary,Byari,True
+2012,2013,59,Best Feature Film,BEST PICTURE,Hindi,Paan Singh Tomar,False
+2013,2014,60,Best Feature Film,BEST PICTURE,English,Ship of Theseus,False
+2014,2015,61,Best Feature Film,BEST PICTURE,Marathi,Court,False
+2015,2016,62,Best Feature Film,BEST PICTURE,Telugu,Baahubali: The Beginning,False
+2016,2017,63,Best Feature Film,BEST PICTURE,Marathi,Kaasav,False
+2017,2018,64,Best Feature Film,BEST PICTURE,Assamese,Village Rockstars,False
+2018,2019,65,Best Feature Film,BEST PICTURE,Gujarati,Hellaro,False
+2019,2020,66,Best Feature Film,BEST PICTURE,Malayalam,Marakkar: Lion of the Arabian Sea,False
+2020,2021,67,Best Feature Film,BEST PICTURE,Tamil,Soorarai Pottru,False
+2021,2022,68,Best Feature Film,BEST PICTURE,Tamil,Rocketry: The Nambi Effect,False
+2022,2023,69,Best Feature Film,BEST PICTURE,Malayalam,Aattam,False
+2023,2024,70,Best Feature Film,BEST PICTURE,Hindi,12th Fail,False
+1967,1968,14,Best Direction,DIRECTING,Satyajit Ray,Chiriyakhana,False
+1968,1969,15,Best Direction,DIRECTING,Satyajit Ray,Goopy Gyne Bagha Byne,False
+1969,1970,16,Best Direction,DIRECTING,Mrinal Sen,Bhuvan Shome,False
+1970,1971,17,Best Direction,DIRECTING,Satyajit Ray,Pratidwandi,False
+1971,1972,18,Best Direction,DIRECTING,B. V. Karanth,Vamsha Vriksha,False
+1971,1972,18,Best Direction,DIRECTING,Girish Karnad,,False
+1972,1973,19,Best Direction,DIRECTING,Adoor Gopalakrishnan,Swayamvaram,False
+1973,1974,20,Best Direction,DIRECTING,Mani Kaul,Duvidha,False
+1974,1975,21,Best Direction,DIRECTING,Satyajit Ray,Sonar Kella,False
+1975,1976,22,Best Direction,DIRECTING,Satyajit Ray,Jana Aranya,False
+1976,1977,23,Best Direction,DIRECTING,P. Lankesh,Pallavi,False
+1977,1978,24,Best Direction,DIRECTING,G. Aravindan,Kanchana Sita,False
+1978,1979,25,Best Direction,DIRECTING,G. Aravindan,Thampu,False
+1979,1980,26,Best Direction,DIRECTING,Mrinal Sen,Ek Din Pratidin,False
+1980,1981,27,Best Direction,DIRECTING,Mrinal Sen,Akaler Shandhaney,False
+1981,1982,28,Best Direction,DIRECTING,Aparna Sen,36 Chowringhee Lane,False
+1982,1983,29,Best Direction,DIRECTING,Utpalendu Chakrabarty,Chokh,False
+1983,1984,30,Best Direction,DIRECTING,Mrinal Sen,Khandhar,False
+1984,1985,31,Best Direction,DIRECTING,Adoor Gopalakrishnan,Mukhamukham,False
+1985,1986,32,Best Direction,DIRECTING,Shyam Benegal,Trikal,False
+1986,1987,33,Best Direction,DIRECTING,G. Aravindan,Oridathu,False
+1987,1988,34,Best Direction,DIRECTING,Adoor Gopalakrishnan,Anantaram,False
+1988,1989,35,Best Direction,DIRECTING,Shaji N. Karun,Piravi,False
+1989,1990,36,Best Direction,DIRECTING,Adoor Gopalakrishnan,Mathilukal,False
+1990,1991,37,Best Direction,DIRECTING,Tapan Sinha,Ek Doctor Ki Maut,False
+1991,1992,38,Best Direction,DIRECTING,Satyajit Ray,Agantuk,False
+1992,1993,39,Best Direction,DIRECTING,Goutom Ghosh,Padma Nadir Majhi,False
+1993,1994,40,Best Direction,DIRECTING,T. V. Chandran,Ponthan Mada,False
+1994,1995,41,Best Direction,DIRECTING,Jahnu Barua,Xagoroloi Bohudoor,False
+1995,1996,42,Best Direction,DIRECTING,Saeed Akhtar Mirza,Naseem,False
+1996,1997,43,Best Direction,DIRECTING,Agathiyan,Kadhal Kottai,False
+1997,1998,44,Best Direction,DIRECTING,Jayaraj,Kaliyattam,False
+1998,1999,45,Best Direction,DIRECTING,Rajeevnath,Janani,False
+1999,2000,46,Best Direction,DIRECTING,Buddhadeb Dasgupta,Uttara,False
+2000,2001,47,Best Direction,DIRECTING,Rituparno Ghosh,Utsab,False
+2001,2002,48,Best Direction,DIRECTING,B. Lenin,Ooruku Nooruper,False
+2002,2003,49,Best Direction,DIRECTING,Aparna Sen,Mr. and Mrs. Iyer,False
+2003,2004,50,Best Direction,DIRECTING,Goutom Ghosh,Abar Aranye,False
+2004,2005,51,Best Direction,DIRECTING,Buddhadeb Dasgupta,Swapner Din,False
+2005,2006,52,Best Direction,DIRECTING,Rahul Dholakia,Parzania,False
+2006,2007,53,Best Direction,DIRECTING,Madhur Bhandarkar,Traffic Signal,False
+2007,2008,54,Best Direction,DIRECTING,Adoor Gopalakrishnan,Naalu Pennungal,False
+2008,2009,55,Best Direction,DIRECTING,Bala,Naan Kadavul,False
+2009,2010,56,Best Direction,DIRECTING,Rituparno Ghosh,Abohomaan,False
+2010,2011,57,Best Direction,DIRECTING,Vetrimaaran,Aadukalam,False
+2011,2012,58,Best Direction,DIRECTING,Gurvinder Singh,Anhe Ghore Da Daan,False
+2012,2013,59,Best Direction,DIRECTING,Shivaji Lotan Patil,Dhag,False
+2013,2014,60,Best Direction,DIRECTING,Hansal Mehta,Shahid,False
+2014,2015,61,Best Direction,DIRECTING,Srijit Mukherji,Chotushkone,False
+2015,2016,62,Best Direction,DIRECTING,Sanjay Leela Bhansali,Bajirao Mastani,False
+2016,2017,63,Best Direction,DIRECTING,Rajesh Mapuskar,Ventilator,False
+2017,2018,64,Best Direction,DIRECTING,Jayaraj,Bhayanakam,False
+2018,2019,65,Best Direction,DIRECTING,Aditya Dhar,Uri: The Surgical Strike,False
+2019,2020,66,Best Direction,DIRECTING,Sanjay Puran Singh Chauhan,Bahattar Hoorain,False
+2020,2021,67,Best Direction,DIRECTING,Sachy,Ayyappanum Koshiyum,False
+2021,2022,68,Best Direction,DIRECTING,Nikhil Mahajan,Godavari,False
+2022,2023,69,Best Direction,DIRECTING,Sooraj Barjatya,Uunchai,False
+2023,2024,70,Best Direction,DIRECTING,Sudipto Sen,The Kerala Story,False
+1967,1968,14,Best Actor,ACTOR IN A LEADING ROLE,Uttam Kumar,Anthony Firingee,False
+1967,1968,14,Best Actor,ACTOR IN A LEADING ROLE,Byomkesh Bakshi,Chiriyakhana,False
+1968,1969,15,Best Actor,ACTOR IN A LEADING ROLE,Ashok Kumar,"Shivnath ""Joggi Thakur"" Choudhary",False
+1969,1970,16,Best Actor,ACTOR IN A LEADING ROLE,Utpal Dutt,Bhuvan Shome,False
+1970,1971,17,Best Actor,ACTOR IN A LEADING ROLE,Sanjeev Kumar,Hamid Ahmed,False
+1971,1972,18,Best Actor,ACTOR IN A LEADING ROLE,M. G. Ramachandran,Selvam,False
+1972,1973,19,Best Actor,ACTOR IN A LEADING ROLE,Sanjeev Kumar,Hari Charan Mathur,False
+1973,1974,20,Best Actor,ACTOR IN A LEADING ROLE,P. J. Antony,Velichapad,False
+1974,1975,21,Best Actor,ACTOR IN A LEADING ROLE,Sadhu Meher,Kishtayya,False
+1975,1976,22,Best Actor,ACTOR IN A LEADING ROLE,M. V. Vasudeva Rao,Choma,False
+1976,1977,23,Best Actor,ACTOR IN A LEADING ROLE,Mithun Chakraborty,Ghinua,False
+1977,1978,24,Best Actor,ACTOR IN A LEADING ROLE,Bharath Gopi,Shankaran Kutty,False
+1978,1979,25,Best Actor,ACTOR IN A LEADING ROLE,Arun Mukherjee,Parasuram,False
+1979,1980,26,Best Actor,ACTOR IN A LEADING ROLE,Naseeruddin Shah,Anirudh Parmar,False
+1980,1981,27,Best Actor,ACTOR IN A LEADING ROLE,Balan K. Nair,Govindan,False
+1981,1982,28,Best Actor,ACTOR IN A LEADING ROLE,Om Puri,Hari Mondal,False
+1982,1983,29,Best Actor,ACTOR IN A LEADING ROLE,Kamal Haasan,R. Srinivas (Cheenu),False
+1983,1984,30,Best Actor,ACTOR IN A LEADING ROLE,Om Puri,Anant Velankar,False
+1984,1985,31,Best Actor,ACTOR IN A LEADING ROLE,Naseeruddin Shah,Naurangia,False
+1985,1986,32,Best Actor,ACTOR IN A LEADING ROLE,Shashi Kapoor,Vikas Pande,False
+1986,1987,33,Best Actor,ACTOR IN A LEADING ROLE,Charuhasan,Tabara Shetty,False
+1987,1988,34,Best Actor,ACTOR IN A LEADING ROLE,Kamal Haasan,Sakthivelu Nayakar,False
+1988,1989,35,Best Actor,ACTOR IN A LEADING ROLE,Premji,Raghava Chakyar,False
+1989,1990,36,Best Actor,ACTOR IN A LEADING ROLE,Mammootty,Vaikom Muhammad Basheer,False
+1989,1990,36,Best Actor,ACTOR IN A LEADING ROLE,Chandu Chekavar,Oru Vadakkan Veeragatha,False
+1990,1991,37,Best Actor,ACTOR IN A LEADING ROLE,Amitabh Bachchan,Vijay Deenanath Chauhan,False
+1991,1992,38,Best Actor,ACTOR IN A LEADING ROLE,Mohanlal,Kalliyur Gopinathan,False
+1992,1993,39,Best Actor,ACTOR IN A LEADING ROLE,Mithun Chakraborty,Shibnath,False
+1993,1994,40,Best Actor,ACTOR IN A LEADING ROLE,Mammootty,Ponthan Mada,False
+1993,1994,40,Best Actor,ACTOR IN A LEADING ROLE,Bhaskara Patelar,Vidheyan,False
+1994,1995,41,Best Actor,ACTOR IN A LEADING ROLE,Nana Patekar,Pratap Narayan Tilak,False
+1995,1996,42,Best Actor,ACTOR IN A LEADING ROLE,Rajit Kapur,Mahatma Gandhi,False
+1996,1997,43,Best Actor,ACTOR IN A LEADING ROLE,Kamal Haasan,"Senapathy (Indian), Chandrabose (Chandru)",False
+1997,1998,44,Best Actor,ACTOR IN A LEADING ROLE,Balachandra Menon,Ismail,False
+1997,1998,44,Best Actor,ACTOR IN A LEADING ROLE,Suresh Gopi,Kannan Perumalayan,False
+1998,1999,45,Best Actor,ACTOR IN A LEADING ROLE,Ajay Devgn,Ajay R. Desai,False
+1998,1999,45,Best Actor,ACTOR IN A LEADING ROLE,Mammootty,B. R. Ambedkar,False
+1999,2000,46,Best Actor,ACTOR IN A LEADING ROLE,Mohanlal,Kunjikuttan,False
+2000,2001,47,Best Actor,ACTOR IN A LEADING ROLE,Anil Kapoor,Major Jaidev Rajvansh,False
+2001,2002,48,Best Actor,ACTOR IN A LEADING ROLE,Murali,Appa Mestry,False
+2002,2003,49,Best Actor,ACTOR IN A LEADING ROLE,Ajay Devgn,Bhagat Singh,False
+2003,2004,50,Best Actor,ACTOR IN A LEADING ROLE,Vikram,Chithan,False
+2004,2005,51,Best Actor,ACTOR IN A LEADING ROLE,Saif Ali Khan,Karan Kapoor,False
+2005,2006,52,Best Actor,ACTOR IN A LEADING ROLE,Amitabh Bachchan,Debraj Sahai,False
+2006,2007,53,Best Actor,ACTOR IN A LEADING ROLE,Soumitra Chatterjee,Shashanka Palit,False
+2007,2008,54,Best Actor,ACTOR IN A LEADING ROLE,Prakash Raj,Vengadam,False
+2008,2009,55,Best Actor,ACTOR IN A LEADING ROLE,Upendra Limaye,Tayappa,False
+2009,2010,56,Best Actor,ACTOR IN A LEADING ROLE,Amitabh Bachchan,Auro,False
+2010,2011,57,Best Actor,ACTOR IN A LEADING ROLE,Dhanush,K. P. Karuppu,False
+2010,2011,57,Best Actor,ACTOR IN A LEADING ROLE,Salim Kumar,Abu,False
+2011,2012,58,Best Actor,ACTOR IN A LEADING ROLE,Girish Kulkarni,Keshya,False
+2012,2013,59,Best Actor,ACTOR IN A LEADING ROLE,Irrfan Khan,Paan Singh Tomar,False
+2012,2013,59,Best Actor,ACTOR IN A LEADING ROLE,Vikram Gokhale,Ratnakar,False
+2013,2014,60,Best Actor,ACTOR IN A LEADING ROLE,Rajkummar Rao,Shahid Azmi,False
+2013,2014,60,Best Actor,ACTOR IN A LEADING ROLE,Suraj Venjaramoodu,Father,False
+2014,2015,61,Best Actor,ACTOR IN A LEADING ROLE,Sanchari Vijay,Madesha (Vidya),False
+2015,2016,62,Best Actor,ACTOR IN A LEADING ROLE,Amitabh Bachchan,Bhashkor Banerjee,False
+2016,2017,63,Best Actor,ACTOR IN A LEADING ROLE,Akshay Kumar,Commander Rustom Pavri,False
+2017,2018,64,Best Actor,ACTOR IN A LEADING ROLE,Riddhi Sen,Parimal (Puti),False
+2018,2019,65,Best Actor,ACTOR IN A LEADING ROLE,Ayushmann Khurrana,Akash,False
+2018,2019,65,Best Actor,ACTOR IN A LEADING ROLE,Vicky Kaushal,Major Vihaan Singh Shergill,False
+2019,2020,66,Best Actor,ACTOR IN A LEADING ROLE,Manoj Bajpayee,Ganpath Bhonsle,False
+2019,2020,66,Best Actor,ACTOR IN A LEADING ROLE,Dhanush,Sivasaami,False
+2020,2021,67,Best Actor,ACTOR IN A LEADING ROLE,Suriya,Nedumaaran Rajangam (Maara),False
+2020,2021,67,Best Actor,ACTOR IN A LEADING ROLE,Ajay Devgn,Tanaji Malusare,False
+2021,2022,68,Best Actor,ACTOR IN A LEADING ROLE,Allu Arjun,Pushpa Raj,False
+2022,2023,69,Best Actor,ACTOR IN A LEADING ROLE,Rishab Shetty,Shiva,False
+2023,2024,70,Best Actor,ACTOR IN A LEADING ROLE,Vikrant Massey,Manoj Kumar Sharma,False
+2023,2024,70,Best Actor,ACTOR IN A LEADING ROLE,Shah Rukh Khan,"Azad Rathore, Captain Vikram Rathore",False
+1967,1968,14,Best Actress,ACTRESS IN A LEADING ROLE,Nargis Dutt,Varuna / Peggy,False
+1968,1969,15,Best Actress,ACTRESS IN A LEADING ROLE,Sharada,Vijaya,False
+1969,1970,16,Best Actress,ACTRESS IN A LEADING ROLE,Madhabi Mukherjee,Supriya,False
+1970,1971,17,Best Actress,ACTRESS IN A LEADING ROLE,Rehana Sultan,Salma Ahmed,False
+1971,1972,18,Best Actress,ACTRESS IN A LEADING ROLE,Waheeda Rehman,Reshma,False
+1972,1973,19,Best Actress,ACTRESS IN A LEADING ROLE,Sharada,Sita,False
+1973,1974,20,Best Actress,ACTRESS IN A LEADING ROLE,Nandini Bhaktavatsala,Kamali,False
+1974,1975,21,Best Actress,ACTRESS IN A LEADING ROLE,Shabana Azmi,Lakshmi,False
+1975,1976,22,Best Actress,ACTRESS IN A LEADING ROLE,Sharmila Tagore,"Chanda Thapa,Kajli",False
+1976,1977,23,Best Actress,ACTRESS IN A LEADING ROLE,Lakshmi,Ganga,False
+1977,1978,24,Best Actress,ACTRESS IN A LEADING ROLE,Smita Patil,Urvashi / Usha,False
+1978,1979,25,Best Actress,ACTRESS IN A LEADING ROLE,Sharada,Bharathi,False
+1979,1980,26,Best Actress,ACTRESS IN A LEADING ROLE,Shoba,Kuppamma,False
+1980,1981,27,Best Actress,ACTRESS IN A LEADING ROLE,Smita Patil,Amma,False
+1981,1982,28,Best Actress,ACTRESS IN A LEADING ROLE,Rekha,Amiran (Umrao Jaan),False
+1982,1983,29,Best Actress,ACTRESS IN A LEADING ROLE,Shabana Azmi,Pooja Inder Malhotra,False
+1983,1984,30,Best Actress,ACTRESS IN A LEADING ROLE,Jamini,Khandhar,False
+1984,1985,31,Best Actress,ACTRESS IN A LEADING ROLE,Rama,Paar,False
+1985,1986,32,Best Actress,ACTRESS IN A LEADING ROLE,Suhasini,Sindhu,False
+1986,1987,33,Best Actress,ACTRESS IN A LEADING ROLE,Monisha Unni,Gouri,False
+1987,1988,34,Best Actress,ACTRESS IN A LEADING ROLE,Archana,Sudha,False
+1988,1989,35,Best Actress,ACTRESS IN A LEADING ROLE,Kamalakshi,Daasi,False
+1989,1990,36,Best Actress,ACTRESS IN A LEADING ROLE,Sreelekha Mukherji,Lakkhi,False
+1990,1991,37,Best Actress,ACTRESS IN A LEADING ROLE,Vijayashanti,Vyjayanthi,False
+1991,1992,38,Best Actress,ACTRESS IN A LEADING ROLE,Moloya Goswami,Ritu,False
+1992,1993,39,Best Actress,ACTRESS IN A LEADING ROLE,Dimple Kapadia,Shanichari,False
+1993,1994,40,Best Actress,ACTRESS IN A LEADING ROLE,Shobana,Ganga / Nagavalli,False
+1994,1995,41,Best Actress,ACTRESS IN A LEADING ROLE,Debashree Roy,Dr. Aditi Sen,False
+1995,1996,42,Best Actress,ACTRESS IN A LEADING ROLE,Seema Biswas,Phoolan Devi,False
+1996,1997,43,Best Actress,ACTRESS IN A LEADING ROLE,Tabu,Virender Kaur,False
+1997,1998,44,Best Actress,ACTRESS IN A LEADING ROLE,Indrani Haldar,Jhinuk,False
+1997,1998,44,Best Actress,ACTRESS IN A LEADING ROLE,Rituparna Sengupta,Romita Chaudhury,False
+1998,1999,45,Best Actress,ACTRESS IN A LEADING ROLE,Shabana Azmi,Rambhi,False
+1999,2000,46,Best Actress,ACTRESS IN A LEADING ROLE,Kirron Kher,Banalata,False
+2000,2001,47,Best Actress,ACTRESS IN A LEADING ROLE,Raveena Tandon,Durga Saikia,False
+2001,2002,48,Best Actress,ACTRESS IN A LEADING ROLE,Tabu,Mumtaz Ali Ansari,False
+2001,2002,48,Best Actress,ACTRESS IN A LEADING ROLE,Shobana,Lakshmi,False
+2002,2003,49,Best Actress,ACTRESS IN A LEADING ROLE,Konkona Sen Sharma,Meenakshi S. Iyer,False
+2003,2004,50,Best Actress,ACTRESS IN A LEADING ROLE,Meera Jasmine,Shahina,False
+2004,2005,51,Best Actress,ACTRESS IN A LEADING ROLE,Tara,Hasina,False
+2005,2006,52,Best Actress,ACTRESS IN A LEADING ROLE,Sarika,Shernaz,False
+2006,2007,53,Best Actress,ACTRESS IN A LEADING ROLE,Priyamani,Muththazhagu,False
+2007,2008,54,Best Actress,ACTRESS IN A LEADING ROLE,Umashree,Gulabi,False
+2008,2009,55,Best Actress,ACTRESS IN A LEADING ROLE,Priyanka Chopra,Meghna Mathur,False
+2009,2010,56,Best Actress,ACTRESS IN A LEADING ROLE,Ananya Chatterjee,Shikha Sarkar (Srimati Sarkar),False
+2010,2011,57,Best Actress,ACTRESS IN A LEADING ROLE,Mitalee Jagtap Varadkar,Shirmi,False
+2010,2011,57,Best Actress,ACTRESS IN A LEADING ROLE,Saranya Ponvannan,Veerayi,False
+2011,2012,58,Best Actress,ACTRESS IN A LEADING ROLE,Vidya Balan,Reshma (Silk),False
+2012,2013,59,Best Actress,ACTRESS IN A LEADING ROLE,Usha Jadhav,Yashoda,False
+2013,2014,60,Best Actress,ACTRESS IN A LEADING ROLE,Geetanjali Thapa,Kamala,False
+2014,2015,61,Best Actress,ACTRESS IN A LEADING ROLE,Kangana Ranaut,Rani Mehra,False
+2015,2016,62,Best Actress,ACTRESS IN A LEADING ROLE,"Tanuja ""Tanu"" Trivedi,Kusum ""Datto"" Sangwan",Tanu Weds Manu Returns,False
+2016,2017,63,Best Actress,ACTRESS IN A LEADING ROLE,Surabhi Lakshmi,Mother,False
+2017,2018,64,Best Actress,ACTRESS IN A LEADING ROLE,Sridevi,Devki Sabarwal,False
+2018,2019,65,Best Actress,ACTRESS IN A LEADING ROLE,Keerthy Suresh,Savitri,False
+2019,2020,66,Best Actress,ACTRESS IN A LEADING ROLE,Kangana Ranaut,Rani Lakshmi Bai,False
+2019,2020,66,Best Actress,ACTRESS IN A LEADING ROLE,Jaya Nigam,Panga,False
+2020,2021,67,Best Actress,ACTRESS IN A LEADING ROLE,Aparna Balamurali,"Sundari ""Bommi"" Nedumaaran",False
+2021,2022,68,Best Actress,ACTRESS IN A LEADING ROLE,Alia Bhatt,Gangubai Kathiawadi,False
+2021,2022,68,Best Actress,ACTRESS IN A LEADING ROLE,Kriti Sanon,Mimi Rathore,False
+2022,2023,69,Best Actress,ACTRESS IN A LEADING ROLE,Nithya Menen,Shobana,False
+2022,2023,69,Best Actress,ACTRESS IN A LEADING ROLE,Manasi Parekh,Monghi,False
+2023,2024,70,Best Actress,ACTRESS IN A LEADING ROLE,Rani Mukerji,Debika Chatterjee,False
+1984,1985,31,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,Victor Banerjee,Nikhilesh Choudhury,False
+1985,1986,32,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,Dipankar De,Husband,False
+1986,1987,33,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,Suresh Oberoi,Mukhi,False
+1987,1988,34,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,Thilakan,Neduvancheril Achunni Nair (Mooppil Nair),False
+1988,1989,35,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,Pankaj Kapur,Inspector P. K.,False
+1989,1990,36,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,Nana Patekar,Anna Seth,False
+1990,1991,37,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,Nedumudi Venu,Maharaja Udayavarma Thampuran,False
+1991,1992,38,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,P. L. Narayana,Appala Nayudu,False
+1992,1993,39,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,Sunny Deol,Govind Srivatsav,False
+1993,1994,40,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,Paresh Rawal,• Lalitram Mohan Roy • Velji,False
+1994,1995,41,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,Ashish Vidyarthi,Commander Bhadra,False
+1994,1995,41,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,Nagesh,Prabhakar Rao,False
+1995,1996,42,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,Mithun Chakraborty,Ramakrishna,False
+1996,1997,43,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,Nana Patekar,Vishwanath,False
+1997,1998,44,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,Prakash Raj,Tamizhselvan,False
+1998,1999,45,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,Manoj Bajpai,Bhiku Mhatre,False
+1999,2000,46,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,Atul Kulkarni,Shriram Abhyankar/ (Ramakrishna Pandey),False
+2000,2001,47,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,H. G. Dattatreya,Hasanabba,False
+2001,2002,48,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,Atul Kulkarni,Pothya Sawant,False
+2002,2003,49,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,Chandrasekhar,Lawrence,False
+2003,2004,50,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,Pankaj Kapur,Jahangir Khan (Abbaji),False
+2004,2005,51,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,Haradhan Bandopadhyay,Haradhan Bandopadhyay,False
+2005,2006,52,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,Naseeruddin Shah,Mohit,False
+2006,2007,53,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,Dilip Prabhavalkar,• Mahatma Gandhi • Clerk,False
+2007,2008,54,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,Darshan Jariwala,Mahatma Gandhi,False
+2008,2009,55,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,Arjun Rampal,Joseph Mascarenhas (Joe),False
+2009,2010,56,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,Farooq Sheikh,S. K. Rao,False
+2010,2011,57,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,Thambi Ramaiah,Ramaiah,False
+2011,2012,58,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,Appukutty,Azhagarsami,False
+2012,2013,59,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,Annu Kapoor,Dr. Baldev Chaddha,False
+2013,2014,60,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,Saurabh Shukla,Justice Sunderlal Tripathi,False
+2014,2015,61,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,Bobby Simha,Assault Sethu,False
+2015,2016,62,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,Samuthirakani,Muthuvel,False
+2016,2017,63,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,Manoj Joshi,Keshav,False
+2017,2018,64,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,Fahadh Faasil,Prasad,False
+2018,2019,65,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,Swanand Kirkire,Prasanna,False
+2019,2020,66,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,Vijay Sethupathi,Shilpa (Manickam),False
+2020,2021,67,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,Biju Menon,SI Ayyappan Nair alias Mundoor Madan,False
+2021,2022,68,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,Pankaj Tripathi,Bhanu Pratap Pandey,False
+2022,2023,69,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,Pavan Malhotra,Fouja Singh,False
+2023,2024,70,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,Vijayaraghavan,Ittoop,False
+2023,2024,70,Best Supporting Actor,ACTOR IN A SUPPORTING ROLE,M. S. Bhaskar,S. Ilamparuthi,False
+1984,1985,31,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Rohini Hattangadi,Mohini Barve,False
+1985,1986,32,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Vijaya Mehta,Mausi,False
+1986,1987,33,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Manjula Kanwar,Champa,False
+1987,1988,34,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Surekha Sikri,Rajo,False
+1988,1989,35,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Uttara Baokar,Sudha,False
+1989,1990,36,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Manorama,Unknown,False
+1990,1991,37,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,K. P. A. C. Lalitha,Bhargavi,False
+1991,1992,38,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Santha Devi,Unknown,False
+1992,1993,39,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Revathi,Panchavarnam,False
+1993,1994,40,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Neena Gupta,Geeta Devi,False
+1994,1995,41,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Surekha Sikri,Fayyazi,False
+1995,1996,42,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Aranmula Ponnamma,Grandmother,False
+1996,1997,43,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Rajeshwari Sachdev,Sakina,False
+1997,1998,44,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Karisma Kapoor,Nisha Sandhu,False
+1998,1999,45,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Suhasini Mulay,Maltibai Barve,False
+1999,2000,46,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Sudipta Chakraborty,Malati,False
+1999,2000,46,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Sohini Sengupta,Khuku,False
+2000,2001,47,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,K. P. A. C. Lalitha,Narayani,False
+2001,2002,48,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Ananya Khare,Deepa Pandey,False
+2002,2003,49,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Rakhee Gulzar,Ranga Pishima,False
+2003,2004,50,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Sharmila Tagore,Aparna,False
+2004,2005,51,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Sheela,Margaret D'Costa,False
+2005,2006,52,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Urvashi,K. P. Vanaja,False
+2006,2007,53,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Konkona Sen Sharma,Indu Tyagi,False
+2007,2008,54,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Shefali Shah,Vandana,False
+2008,2009,55,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Kangana Ranaut,Shonali Gujral,False
+2009,2010,56,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Arundathi Nag,"Bhumi ""Bum"" Bhardwaj",False
+2010,2011,57,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Sukumari,Ammini Amma,False
+2011,2012,58,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Leishangthem Tonthoingambi Devi,Yaipabhee,False
+2012,2013,59,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Dolly Ahluwalia,Dolly Arora,False
+2012,2013,59,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Kalpana,Razia Beevi,False
+2013,2014,60,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Amruta Subhash,Channamma,False
+2013,2014,60,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Aida El-Kashef,Aliya Kamal,False
+2014,2015,61,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Baljinder Kaur,Unknown,False
+2015,2016,62,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Tanvi Azmi,Radhabai,False
+2016,2017,63,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Zaira Wasim,Young Geeta Phogat,False
+2017,2018,64,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Divya Dutta,Ramadeep Braitch,False
+2018,2019,65,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Surekha Sikri,"Durga Devi Kaushik (""Dadi"")",False
+2019,2020,66,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Pallavi Joshi,Ayisha Ali Shah,False
+2020,2021,67,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Lakshmi Priyaa Chandramouli,Sivaranjini,False
+2021,2022,68,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Pallavi Joshi,Radhika Menon,False
+2022,2023,69,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Neena Gupta,Shabina Siddiqui,False
+2023,2024,70,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Janki Bodiwala,Aarya,False
+2023,2024,70,Best Supporting Actress,ACTRESS IN A SUPPORTING ROLE,Urvashi,Leelamma,False

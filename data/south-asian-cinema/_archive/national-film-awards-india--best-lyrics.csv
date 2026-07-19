@@ -1,0 +1,61 @@
+year,film,person,is_winner,raw_text,source_url
+,Recipient,Song,False,Year | Recipient(s) | Song(s) | Film(s) | Language(s) | Refs.,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+1968,Kannadasan,,False,1968 (16th) | Kannadasan | – | Kuzhanthaikkaga | Tamil | [ 4 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+1969,Kaifi Azmi,Aandhi Aaye Ki Toofan,False,"1969 (17th) | Kaifi Azmi | ""Aandhi Aaye Ki Toofan"" | Saat Hindustani | Hindi | [ 5 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+1970,No Award,,False,1970 (18th) | No Award | [ 6 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+1971,Prem Dhawan,,False,1971 (19th) | Prem Dhawan | – | Nanak Dukhiya Sub Sansar | Punjabi | [ 7 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+1972,Vayalar Ramavarma,,False,1972 (20th) | Vayalar Ramavarma | – | Achanum Bappayum | Malayalam | [ 8 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+1973,No Award,,False,1973 (21st) | No Award | [ 9 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+1974,Sri Sri,Telugu Veera Levara,False,"1974 (22nd) | Sri Sri | ""Telugu Veera Levara"" | Alluri Seetharamaraju | Telugu | [ 10 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+1975,No Award,,False,1975 (23rd) | No Award | [ 11 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+1976,No Award,,False,1976 (24th) | No Award | [ 12 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+1977,No Award,,False,1977 (25th) | No Award | [ 13 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+1978,No Award,,False,1978 (26th) | No Award | [ 14 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+1979,No Award,,False,1979 (27th) | No Award | [ 15 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+1980,No Award,,False,1980 (28th) | No Award | [ 16 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+1981,No Award,,False,1981 (29th) | No Award | [ 17 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+1982,No Award,,False,1982 (30th) | No Award | [ 18 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+1983,No Award,,False,1983 (31st) | No Award | [ 19 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+1984,Vasant Dev,,False,1984 (32nd) | Vasant Dev | – | Saaransh | Hindi | [ 20 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+1985,Vairamuthu,,False,1985 (33rd) | Vairamuthu | – | Muthal Mariyathai | Tamil | [ 21 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+1986,No Award,,False,1986 (34th) | No Award | [ 22 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+1987,Gulzar,Mera Kuchh Saamaan,False,"1987 (35th) | Gulzar | "" Mera Kuchh Saamaan "" | Ijaazat | Hindi | [ 23 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+1988,O. N. V. Kurup,,False,1988 (36th) | O. N. V. Kurup | – | Vaishali | Malayalam | [ 24 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+1989,Satarupa Sanyal,,False,1989 (37th) | Satarupa Sanyal | – | Chhandaneer | Bengali | [ 25 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+1990,Gulzar,,False,1990 (38th) | Gulzar | – | Lekin... | Hindi | [ 26 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+1991,K. S. Narasimhaswamy,,False,1991 (39th) | K. S. Narasimhaswamy | – | Mysore Mallige | Kannada | [ 27 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+1992,Vairamuthu,Chinna Chinna Aasai,False,"1992 (40th) | Vairamuthu | ""Chinna Chinna Aasai"" | Roja | Tamil | [ 28 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+1993,Veturi,Raali Poye Puvva,False,"1993 (41st) | Veturi | ""Raali Poye Puvva"" | Mathru Devo Bhava | Telugu | [ 29 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+1994,Vairamuthu,"• ""Poralae Ponnuthayi"" • ""Uyirum Neeye",False,"1994 (42nd) | Vairamuthu | • ""Poralae Ponnuthayi"" • ""Uyirum Neeye"" | • Karuththamma • Pavithra | Tamil | [ 30 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+1995,Amit Khanna,Kuch Is Tarah,False,"1995 (43rd) | Amit Khanna | ""Kuch Is Tarah"" | Bhairavi | Hindi | [ 31 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+1996,Javed Akhtar,,False,1996 (44th) | Javed Akhtar | – | Saaz | Hindi | [ 32 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+1997,Javed Akhtar,,False,1997 (45th) | Javed Akhtar | – | Border | Hindi | [ 33 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+1998,Javed Akhtar,Maati Re Maati Re,False,"1998 (46th) | Javed Akhtar | ""Maati Re Maati Re"" | Godmother | Hindi | [ 34 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+1999,Vairamuthu,Mudhal Murai Killipparthaein,False,"1999 (47th) | Vairamuthu | ""Mudhal Murai Killipparthaein"" | Sangamam | Tamil | [ 35 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+2000,Yusufali Kechery,Gayam Hari Nama Dhayam,False,"2000 (48th) | Yusufali Kechery | ""Gayam Hari Nama Dhayam"" | Mazha | Malayalam | [ 36 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+2000,Panchchhi Nadiyaan,Refugee,False,"Javed Akhtar | "" Panchchhi Nadiyaan "" | Refugee | Hindi",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+2001,Javed Akhtar,"• ""Ghanan Ghanan"" • ""Radha Kaise Na Jale",False,"2001 (49th) | Javed Akhtar | • ""Ghanan Ghanan"" • ""Radha Kaise Na Jale"" | Lagaan | Hindi | [ 37 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+2002,Vairamuthu,Oru Deivam Thantha Poove,False,"2002 (50th) | Vairamuthu | ""Oru Deivam Thantha Poove"" | Kannathil Muthamittal | Tamil | [ 38 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+2003,Suddala Ashok Teja,Nenu Saitham,False,"2003 (51st) | Suddala Ashok Teja | ""Nenu Saitham"" | Tagore | Telugu | [ 39 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+2004,P. Vijay,Ovvoru Pookalume,False,"2004 (52nd) | P. Vijay | "" Ovvoru Pookalume "" | Autograph | Tamil | [ 40 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+2005,Baraguru Ramachandrappa,Barutheve Naav Barutheve,False,"2005 (53rd) | Baraguru Ramachandrappa | ""Barutheve Naav Barutheve"" | Thaayi | Kannada | [ 41 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+2006,Swanand Kirkire,Bande Me Tha Dum,False,"2006 (54th) | Swanand Kirkire | ""Bande Me Tha Dum"" | Lage Raho Munna Bhai | Hindi | [ 42 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+2007,Prasoon Joshi,Maa,False,"2007 (55th) | Prasoon Joshi | ""Maa"" | Taare Zameen Par | Hindi | [ 43 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+2008,Anindya Chatterjee,Pherari Mon,False,"2008 (56th) | Anindya Chatterjee | ""Pherari Mon"" | Antaheen | Bengali | [ 44 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+2008,Chandril Bhattacharya,,False,Chandril Bhattacharya,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+2009,Swanand Kirkire,Behti Hawa Sa Tha Woh,False,"2009 (57th) | Swanand Kirkire | ""Behti Hawa Sa Tha Woh"" | 3 Idiots | Hindi | [ 45 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+2010,Vairamuthu,Kallikkaattil Pirandha Thaayae,False,"2010 (58th) | Vairamuthu | ""Kallikkaattil Pirandha Thaayae"" | Thenmerku Paruvakaatru | Tamil | [ 46 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+2011,Amitabh Bhattacharya,Agar Zindagi,False,"2011 (59th) | Amitabh Bhattacharya | ""Agar Zindagi"" | I Am | Hindi | [ 47 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+2012,Prasoon Joshi,Bolo Naa,False,"2012 (60th) | Prasoon Joshi | ""Bolo Naa"" | Chittagong | Hindi | [ 48 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+2013,Na. Muthukumar,Ananda Yaazhai Meettugirai,False,"2013 (61st) | Na. Muthukumar | ""Ananda Yaazhai Meettugirai"" | Thanga Meenkal | Tamil | [ 49 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+2014,Na. Muthukumar,Azhagu,False,"2014 (62nd) | Na. Muthukumar | ""Azhagu"" | Saivam | Tamil | [ 50 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+2015,Varun Grover,Moh Moh Ke Dhaage,False,"2015 (63rd) | Varun Grover | ""Moh Moh Ke Dhaage"" | Dum Laga Ke Haisha | Hindi | [ 51 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+2016,Vairamuthu,Entha Pakkam,False,"2016 (64th) | Vairamuthu | ""Entha Pakkam"" | Dharma Durai | Tamil | [ 52 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+2016,Tumi Jaake Bhalobasho,Praktan,False,"Anupam Roy | ""Tumi Jaake Bhalobasho"" | Praktan | Bengali",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+2017,J. M. Prahlad,Muthu Ratnada Pyate,False,"2017 (65th) | J. M. Prahlad | ""Muthu Ratnada Pyate"" | 22 March | Kannada | [ 53 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+2018,Manjunatha S. Reddy,Maayavi Manave,False,"2018 (66th) | Manjunatha S. Reddy | ""Maayavi Manave"" | Nathicharami | Kannada | [ 54 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+2019,Prabha Varma,Aarodum Parayathe Vayya,False,"2019 (67th) | Prabha Varma | ""Aarodum Parayathe Vayya"" | Kolaambi | Malayalam | [ 55 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+2020,Manoj Muntashir,,False,2020 (68th) | Manoj Muntashir | – | Saina | Hindi | [ 56 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+2021,Chandrabose,Dham Dham Dham,False,"2021 (69th) | Chandrabose | ""Dham Dham Dham"" | Konda Polam | Telugu | [ 57 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+2022,Naushad Sadar Khan,Salaami,False,"2022 (70th) | Naushad Sadar Khan | ""Salaami"" | Fouja | Haryanvi | [ 58 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics
+2023,Kasarla Shyam,Ooru Palletooru,False,"2023 (71st) | Kasarla Shyam | ""Ooru Palletooru"" | Balagam | Telugu | [ 59 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Lyrics

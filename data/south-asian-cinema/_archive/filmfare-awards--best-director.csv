@@ -1,0 +1,317 @@
+year,film,person,is_winner,raw_text,source_url
+,Bimal Roy,7,False,Most awards | Bimal Roy | 7,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Yash Chopra,12,False,Most nominations | Yash Chopra | 12,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Bimal Roy ;,3,False,Most consecutive wins | Bimal Roy (1954–1956); (1959–1961) | 3,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Mahesh Bhatt,6,False,Most nominations without a Win | Mahesh Bhatt | 6,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Aditya Chopra,age 24,False,Youngest winner | Aditya Chopra | age 24,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Vidhu Vinod Chopra,age 71,False,Oldest winner | Vidhu Vinod Chopra | age 71,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Bimal Roy,Do Bigha Zamin,True,1954 (1st) | Bimal Roy | Do Bigha Zamin | [ 1 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Bimal Roy,Parineeta,True,1955 (2nd) | Bimal Roy | Parineeta | [ 2 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Bimal Roy,Biraj Bahu,True,1956 (3rd) | Bimal Roy | Biraj Bahu | [ 3 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,V. Shantaram,Jhanak Jhanak Payal Baaje,True,1957 (4th) | V. Shantaram | Jhanak Jhanak Payal Baaje | [ 4 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Mehboob Khan,Mother India,True,1958 (5th) | Mehboob Khan | Mother India | [ 5 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Bimal Roy,Madhumati,True,1959 (6th) | Bimal Roy | Madhumati | [ 6 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Sadhna,,False,B. R. Chopra | Sadhna,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Talaaq,,False,Mahesh Kaul | Talaaq,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Bimal Roy,Sujata,True,1960 (7th) | Bimal Roy | Sujata | [ 7 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Choti Bahen,,False,L. V. Prasad | Choti Bahen,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Navrang,,False,V. Shantaram | Navrang,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Bimal Roy,Parakh,True,1961 (8th) | Bimal Roy | Parakh | [ 8 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Mughal-e-Azam,,False,K. Asif | Mughal-e-Azam,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Dil Apna Aur Preet Parai,,False,Kishore Sahu | Dil Apna Aur Preet Parai,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,B. R. Chopra,Kanoon,True,1962 (9th) | B. R. Chopra | Kanoon | [ 9 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Gunga Jumna,,False,Nitin Bose | Gunga Jumna,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Jis Desh Men Ganga Behti Hai,,False,Radhu Karmakar | Jis Desh Men Ganga Behti Hai,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Abrar Alvi,Sahib Bibi Aur Ghulam,True,1963 (10th) | Abrar Alvi | Sahib Bibi Aur Ghulam | [ 10 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Bees Saal Baad,,False,Biren Nag | Bees Saal Baad,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Son of India,,False,Mehboob Khan | Son of India,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Bimal Roy,Bandini,True,1964 (11th) | Bimal Roy | Bandini | [ 11 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Gumrah,,False,B. R. Chopra | Gumrah,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Dil Ek Mandir,,False,C. V. Sridhar | Dil Ek Mandir,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Raj Kapoor,Sangam,True,1965 (12th) | Raj Kapoor | Sangam | [ 12 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Shehar Aur Sapna,,False,Khwaja Ahmad Abbas | Shehar Aur Sapna,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Dosti,,False,Satyen Bose | Dosti,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Yash Chopra,Waqt,True,1966 (13th) | Yash Chopra | Waqt | [ 13 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Haqeeqat,,False,Chetan Anand | Haqeeqat,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Arzoo,,False,Ramanand Sagar | Arzoo,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Vijay Anand,Guide,True,1967 (14th) | Vijay Anand | Guide | [ 14 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Mamta,,False,Asit Sen | Mamta,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Anupama,,False,Hrishikesh Mukherjee | Anupama,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Manoj Kumar,Upkar,True,1968 (15th) | Manoj Kumar | Upkar | [ 15 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Mehrban,,False,A. Bhimsingh | Mehrban,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Milan,,False,A. Subba Rao | Milan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Ramanand Sagar,Ankhen,True,1969 (16th) | Ramanand Sagar | Ankhen | [ 16 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Brahmachari,,False,Bhappi Sonie | Brahmachari,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Neel Kamal,,False,Ram Maheshwari | Neel Kamal,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Yash Chopra,Ittefaq,True,1970 (17th) | Yash Chopra | Ittefaq | [ 17 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Jeene Ki Raah,,False,L. V. Prasad | Jeene Ki Raah,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Aradhana,,False,Shakti Samanta | Aradhana,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Asit Sen,Safar,True,1971 (18th) | Asit Sen | Safar | [ 18 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Do Raaste,,False,Raj Khosla | Do Raaste,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Pehchan,,False,Sohanlal Kanwar | Pehchan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Raj Kapoor,Mera Naam Joker,True,1972 (19th) | Raj Kapoor | Mera Naam Joker | [ 19 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Anand,,False,Hrishikesh Mukherjee | Anand,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Kati Patang,,False,Shakti Samanta | Kati Patang,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Sohanlal Kanwar,Be-Imaan,True,1973 (20th) | Sohanlal Kanwar | Be-Imaan | [ 20 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Pakeezah,,False,Kamal Amrohi | Pakeezah,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Shor,,False,Manoj Kumar | Shor,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Yash Chopra,Daag,True,1974 (21st) | Yash Chopra | Daag | [ 21 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Achanak,,False,Gulzar | Achanak,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Koshish,,False,Gulzar | Koshish,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Bobby,,False,Raj Kapoor | Bobby,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Aaj Ki Taaza Khabar,,False,Rajendra Bhatia | Aaj Ki Taaza Khabar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Manoj Kumar,Roti Kapda Aur Makaan,True,1975 (22nd) | Manoj Kumar | Roti Kapda Aur Makaan | [ 22 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Kora Kagaz,,False,Anil Ganguly | Kora Kagaz,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Avishkaar,,False,Basu Bhattacharya | Avishkaar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Garm Hava,,False,M. S. Sathyu | Garm Hava,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Ankur,,False,Shyam Benegal | Ankur,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Yash Chopra,Deewaar,True,1976 (23rd) | Yash Chopra | Deewaar | [ 23 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Aandhi,,False,Gulzar | Aandhi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Sholay,,False,Ramesh Sippy | Sholay,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Amanush,,False,Shakti Samanta | Amanush,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Sanyasi,,False,Sohanlal Kanwar | Sanyasi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Gulzar,Mausam,True,1977 (24th) | Gulzar | Mausam | [ 24 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Chhoti Si Baat,,False,Basu Chatterjee | Chhoti Si Baat,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Chitchor,,False,Basu Chatterjee | Chitchor,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Nagin,,False,Rajkumar Kohli | Nagin,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Kabhi Kabhie,,False,Yash Chopra | Kabhi Kabhie,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Basu Chatterjee,Swami,True,1978 (25th) | Basu Chatterjee | Swami | [ 25 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Chala Murari Hero Banne,,False,Asrani | Chala Murari Hero Banne,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Gharaonda,,False,Bhimsain | Gharaonda,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Kinara,,False,Gulzar | Kinara,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Amar Akbar Anthony,,False,Manmohan Desai | Amar Akbar Anthony,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Satyajit Ray,Shatranj Ke Khilari,True,1979 (26th) | Satyajit Ray | Shatranj Ke Khilari | [ 26 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Muqaddar Ka Sikandar,,False,Prakash Mehra | Muqaddar Ka Sikandar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Satyam Shivam Sundaram,,False,Raj Kapoor | Satyam Shivam Sundaram,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Main Tulsi Tere Aangan Ki,,False,Raj Khosla | Main Tulsi Tere Aangan Ki,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Trishul,,False,Yash Chopra | Trishul,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Shyam Benegal,Junoon,True,1980 (27th) | Shyam Benegal | Junoon | [ 27 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Gol Maal,,False,Hrishikesh Mukherjee | Gol Maal,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Jurmana,,False,Hrishikesh Mukherjee | Jurmana,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Noorie,,False,Manmohan Krishna | Noorie,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Kaala Patthar,,False,Yash Chopra | Kaala Patthar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Govind Nihalani,Aakrosh,True,1981 (28th) | Govind Nihalani | Aakrosh | [ 28 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Insaaf Ka Tarazu,,False,B. R. Chopra | Insaaf Ka Tarazu,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Thodisi Bewafaii,,False,Esmayeel Shroff | Thodisi Bewafaii,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Khubsoorat,,False,Hrishikesh Mukherjee | Khubsoorat,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Aasha,,False,J. Om Prakash | Aasha,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Muzaffar Ali,Umrao Jaan,True,1982 (29th) | Muzaffar Ali | Umrao Jaan | [ 29 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Ek Duuje Ke Liye,,False,K. Balachander | Ek Duuje Ke Liye,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Chakra,,False,Rabindra Dharamraj | Chakra,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Baseraa,,False,Ramesh Talwar | Baseraa,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Chashme Buddoor,,False,Sai Paranjpye | Chashme Buddoor,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Kalyug,,False,Shyam Benegal | Kalyug,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Raj Kapoor,Prem Rog,True,1983 (30th) | Raj Kapoor | Prem Rog | [ 30 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Nikaah,,False,B. R. Chopra | Nikaah,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Shakti,,False,Ramesh Sippy | Shakti,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Bazaar,,False,Sagar Sarhadi | Bazaar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Vidhaata,,False,Subhash Ghai | Vidhaata,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Govind Nihalani,Ardh Satya,True,1984 (31st) | Govind Nihalani | Ardh Satya | [ 31 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Arth,,False,Mahesh Bhatt | Arth,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Avtaar,,False,Mohan Kumar | Avtaar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Betaab,,False,Rahul Rawail | Betaab,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Masoom,,False,Shekhar Kapur | Masoom,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Sai Paranjpye,Sparsh,True,1985 (32nd) | Sai Paranjpye | Sparsh | [ 32 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Jaane Bhi Do Yaaro,,False,Kundan Shah | Jaane Bhi Do Yaaro,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Saaransh,,False,Mahesh Bhatt | Saaransh,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Sharaabi,,False,Prakash Mehra | Sharaabi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Aaj Ki Awaaz,,False,Ravi Chopra | Aaj Ki Awaaz,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Raj Kapoor,Ram Teri Ganga Maili,True,1986 (33rd) | Raj Kapoor | Ram Teri Ganga Maili | [ 33 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Janam,,False,Mahesh Bhatt | Janam,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Arjun,,False,Rahul Rawail | Arjun,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Saagar,,False,Ramesh Sippy | Saagar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+1987,No Award,,True,1987 | No Award,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+1988,No Award,,True,1988 | No Award,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+1988,Mansoor Khan,Qayamat Se Qayamat Tak,True,1989 (34th) | Mansoor Khan | Qayamat Se Qayamat Tak | [ 34 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+1988,Tezaab,,False,N. Chandra | Tezaab,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+1988,Khoon Bhari Maang,,False,Rakesh Roshan | Khoon Bhari Maang,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Vidhu Vinod Chopra,Parinda,True,1990 (35th) | Vidhu Vinod Chopra | Parinda | [ 35 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Salaam Bombay!,,False,Mira Nair | Salaam Bombay!,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Maine Pyar Kiya,,False,Sooraj Barjatya | Maine Pyar Kiya,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Ram Lakhan,,False,Subhash Ghai | Ram Lakhan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Chandni,,False,Yash Chopra | Chandni,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Rajkumar Santoshi,Ghayal,True,1991 (36th) | Rajkumar Santoshi | Ghayal | [ 36 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Aashiqui,,False,Mahesh Bhatt | Aashiqui,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Agneepath,,False,Mukul Anand | Agneepath,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Pratibandh,,False,Ravi Raja Pinisetty | Pratibandh,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Subhash Ghai,Saudagar,True,1992 (37th) | Subhash Ghai | Saudagar | [ 37 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Saajan,,False,Lawrence D'Souza | Saajan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Dil Hai Ke Manta Nahin,,False,Mahesh Bhatt | Dil Hai Ke Manta Nahin,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Henna,,False,Randhir Kapoor | Henna,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Lamhe,,False,Yash Chopra | Lamhe,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Mukul S. Anand,Khuda Gawah,True,1993 (38th) | Mukul S. Anand | Khuda Gawah | [ 38 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Beta,,False,Indra Kumar | Beta,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Jo Jeeta Wohi Sikandar,,False,Mansoor Khan | Jo Jeeta Wohi Sikandar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Rajkumar Santoshi,Damini,True,1994 (39th) | Rajkumar Santoshi | Damini | [ 39 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Aankhen,,False,David Dhawan | Aankhen,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Hum Hain Rahi Pyar Ke,,False,Mahesh Bhatt | Hum Hain Rahi Pyar Ke,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Khalnayak,,False,Subhash Ghai | Khalnayak,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Darr,,False,Yash Chopra | Darr,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Sooraj Barjatya,Hum Aapke Hain Koun..!,True,1995 (40th) | Sooraj Barjatya | Hum Aapke Hain Koun..! | [ 40 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Krantiveer,,False,Mehul Kumar | Krantiveer,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Mohra,,False,Rajiv Rai | Mohra,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Andaz Apna Apna,,False,Rajkumar Santoshi | Andaz Apna Apna,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,1942: A Love Story,,False,Vidhu Vinod Chopra | 1942: A Love Story,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Aditya Chopra,Dilwale Dulhania Le Jayenge,True,1996 (41st) | Aditya Chopra | Dilwale Dulhania Le Jayenge | [ 41 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Raja,,False,Indra Kumar | Raja,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Akele Hum Akele Tum,,False,Mansoor Khan | Akele Hum Akele Tum,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Karan Arjun,,False,Rakesh Roshan | Karan Arjun,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Rangeela,,False,Ram Gopal Varma | Rangeela,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Shekhar Kapur,Bandit Queen,True,1997 (42nd) | Shekhar Kapur | Bandit Queen | [ 42 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Raja Hindustani,,False,Dharmesh Darshan | Raja Hindustani,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Maachis,,False,Gulzar | Maachis,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Agni Sakshi,,False,Partho Ghosh | Agni Sakshi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Ghatak,,False,Rajkumar Santoshi | Ghatak,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,J. P. Dutta,Border,True,1998 (43rd) | J. P. Dutta | Border | [ 43 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Virasat,,False,Priyadarshan | Virasat,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Gupt,,False,Rajiv Rai | Gupt,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Pardes,,False,Subhash Ghai | Pardes,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Dil To Pagal Hai,,False,Yash Chopra | Dil To Pagal Hai,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Karan Johar,Kuch Kuch Hota Hai,True,1999 (44th) | Karan Johar | Kuch Kuch Hota Hai | [ 44 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Soldier,,False,Abbas–Mustan | Soldier,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Satya,,False,Ram Gopal Varma | Satya,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Pyaar Kiya To Darna Kya,,False,Sohail Khan | Pyaar Kiya To Darna Kya,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Ghulam,,False,Vikram Bhatt | Ghulam,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Sanjay Leela Bhansali,Hum Dil De Chuke Sanam,True,2000 (45th) | Sanjay Leela Bhansali | Hum Dil De Chuke Sanam | [ 45 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Biwi No.1,,False,David Dhawan | Biwi No.1,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Sarfarosh,,False,John Matthew Matthan | Sarfarosh,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Vaastav,,False,Mahesh Manjrekar | Vaastav,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Taal,,False,Subhash Ghai | Taal,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Rakesh Roshan,Kaho Naa... Pyaar Hai,True,2001 (46th) | Rakesh Roshan | Kaho Naa... Pyaar Hai | [ 46 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Mohabbatein,,False,Aditya Chopra | Mohabbatein,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Dhadkan,,False,Dharmesh Darshan | Dhadkan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Josh,,False,Mansoor Khan | Josh,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Mission Kashmir,,False,Vidhu Vinod Chopra | Mission Kashmir,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Ashutosh Gowariker,Lagaan,True,2002 (47th) | Ashutosh Gowariker | Lagaan | [ 47 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Gadar: Ek Prem Katha,,False,Anil Sharma | Gadar: Ek Prem Katha,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Dil Chahta Hai,,False,Farhan Akhtar | Dil Chahta Hai,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Kabhi Khushi Kabhie Gham,,False,Karan Johar | Kabhi Khushi Kabhie Gham,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Asoka,,False,Santosh Sivan | Asoka,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Sanjay Leela Bhansali,Devdas,True,2003 (48th) | Sanjay Leela Bhansali | Devdas | [ 48 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Humraaz,,False,Abbas–Mustan | Humraaz,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Company,,False,Ram Gopal Varma | Company,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Kaante,,False,Sanjay Gupta | Kaante,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Raaz,,False,Vikram Bhatt | Raaz,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Rakesh Roshan,Koi... Mil Gaya,True,2004 (49th) | Rakesh Roshan | Koi... Mil Gaya | [ 49 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,LOC: Kargil,,False,J. P. Dutta | LOC: Kargil,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Kal Ho Naa Ho,,False,Nikhil Advani | Kal Ho Naa Ho,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Munna Bhai M.B.B.S.,,False,Rajkumar Hirani | Munna Bhai M.B.B.S.,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Bhoot,,False,Ram Gopal Varma | Bhoot,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Tere Naam,,False,Satish Kaushik | Tere Naam,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Kunal Kohli,Hum Tum,True,2005 (50th) | Kunal Kohli | Hum Tum | [ 50 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Swades,,False,Ashutosh Gowariker | Swades,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Main Hoon Na,,False,Farah Khan | Main Hoon Na,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Lakshya,,False,Farhan Akhtar | Lakshya,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Khakee,,False,Rajkumar Santoshi | Khakee,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Veer-Zaara,,False,Yash Chopra | Veer-Zaara,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Sanjay Leela Bhansali,Black,True,2006 (51st) | Sanjay Leela Bhansali | Black | [ 51 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Page 3,,False,Madhur Bhandarkar | Page 3,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Iqbal,,False,Nagesh Kukunoor | Iqbal,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Parineeta,,False,Pradeep Sarkar | Parineeta,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Sarkar,,False,Ram Gopal Varma | Sarkar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Rakeysh Omprakash Mehra,Rang De Basanti,True,2007 (52nd) | Rakeysh Omprakash Mehra | Rang De Basanti | [ 52 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Kabhi Alvida Naa Kehna,,False,Karan Johar | Kabhi Alvida Naa Kehna,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Lage Raho Munna Bhai,,False,Rajkumar Hirani | Lage Raho Munna Bhai,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Krrish,,False,Rakesh Roshan | Krrish,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Dhoom 2,,False,Sanjay Gadhvi | Dhoom 2,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Omkara,,False,Vishal Bhardwaj | Omkara,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Aamir Khan,Taare Zameen Par,True,2008 (53rd) | Aamir Khan | Taare Zameen Par | [ 53 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Life in a... Metro,,False,Anurag Basu | Life in a... Metro,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Om Shanti Om,,False,Farah Khan | Om Shanti Om,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Jab We Met,,False,Imtiaz Ali | Jab We Met,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Guru,,False,Mani Ratnam | Guru,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Chak De! India,,False,Shimit Amin | Chak De! India,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Ashutosh Gowariker,Jodhaa Akbar,True,2009 (54th) | Ashutosh Gowariker | Jodhaa Akbar | [ 54 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Ghajini,,False,A. R. Murugadoss | Ghajini,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Rock On!!,,False,Abhishek Kapoor | Rock On!!,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Rab Ne Bana Di Jodi,,False,Aditya Chopra | Rab Ne Bana Di Jodi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Fashion,,False,Madhur Bhandarkar | Fashion,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,A Wednesday!,,False,Neeraj Pandey | A Wednesday!,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Rajkumar Hirani,3 Idiots,True,2010 (55th) | Rajkumar Hirani | 3 Idiots | [ 55 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Dev.D,,False,Anurag Kashyap | Dev.D,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Wake Up Sid,,False,Ayan Mukerji | Wake Up Sid,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Love Aaj Kal,,False,Imtiaz Ali | Love Aaj Kal,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Paa,,False,R. Balki | Paa,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Kaminey,,False,Vishal Bhardwaj | Kaminey,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Karan Johar,My Name is Khan,True,2011 (56th) | Karan Johar | My Name is Khan | [ 56 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Dabangg,,False,Abhinav Kashyap | Dabangg,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Band Baaja Baaraat,,False,Manish Sharma | Band Baaja Baaraat,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Guzaarish,,False,Sanjay Leela Bhansali | Guzaarish,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Udaan,,False,Vikramaditya Motwane | Udaan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Zoya Akhtar,Zindagi Na Milegi Dobara,True,2012 (57th) | Zoya Akhtar | Zindagi Na Milegi Dobara | [ 57 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Delhi Belly,,False,Abhinay Deo | Delhi Belly,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Don 2,,False,Farhan Akhtar | Don 2,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Rockstar,,False,Imtiaz Ali | Rockstar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,The Dirty Picture,,False,Milan Luthria | The Dirty Picture,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,No One Killed Jessica,,False,Raj Kumar Gupta | No One Killed Jessica,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Sujoy Ghosh,Kahaani,True,2013 (58th) | Sujoy Ghosh | Kahaani | [ 58 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Barfi!,,False,Anurag Basu | Barfi!,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Gangs of Wasseypur,,False,Anurag Kashyap | Gangs of Wasseypur,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,English Vinglish,,False,Gauri Shinde | English Vinglish,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Vicky Donor,,False,Shoojit Sircar | Vicky Donor,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Rakeysh Omprakash Mehra,Bhaag Milkha Bhaag,True,2014 (59th) | Rakeysh Omprakash Mehra | Bhaag Milkha Bhaag | [ 59 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Kai Po Che!,,False,Abhishek Kapoor | Kai Po Che!,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Raanjhanaa,,False,Anand L. Rai | Raanjhanaa,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Yeh Jawaani Hai Deewani,,False,Ayan Mukerji | Yeh Jawaani Hai Deewani,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Chennai Express,,False,Rohit Shetty | Chennai Express,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Goliyon Ki Raasleela Ram-Leela,,False,Sanjay Leela Bhansali | Goliyon Ki Raasleela Ram-Leela,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Vikas Bahl,Queen,True,2015 (60th) | Vikas Bahl | Queen | [ 60 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,2 States,,False,Abhishek Varman | 2 States,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Ugly,,False,Anurag Kashyap | Ugly,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,PK,,False,Rajkumar Hirani | PK,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Haider,,False,Vishal Bhardwaj | Haider,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Sanjay Leela Bhansali,Bajirao Mastani,True,2016 (61st) | Sanjay Leela Bhansali | Bajirao Mastani | [ 61 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Tanu Weds Manu Returns,,False,Anand L. Rai | Tanu Weds Manu Returns,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Bajrangi Bhaijaan,,False,Kabir Khan | Bajrangi Bhaijaan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Talvar,,False,Meghna Gulzar | Talvar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Piku,,False,Shoojit Sircar | Piku,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Badlapur,,False,Sriram Raghavan | Badlapur,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Nitesh Tiwari,Dangal,True,2017 (62nd) | Nitesh Tiwari | Dangal | [ 62 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Udta Punjab,,False,Abhishek Chaubey | Udta Punjab,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Sultan,,False,Ali Abbas Zafar | Sultan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Ae Dil Hai Mushkil,,False,Karan Johar | Ae Dil Hai Mushkil,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Neerja,,False,Ram Madhvani | Neerja,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Kapoor & Sons,,False,Shakun Batra | Kapoor & Sons,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Ashwiny Iyer Tiwari,Bareilly Ki Barfi,True,2018 (63rd) | Ashwiny Iyer Tiwari | Bareilly Ki Barfi | [ 63 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Secret Superstar,,False,Advait Chandan | Secret Superstar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Hindi Medium,,False,Saket Chaudhary | Hindi Medium,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Badrinath Ki Dulhania,,False,Shashank Khaitan | Badrinath Ki Dulhania,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Toilet: Ek Prem Katha,,False,Shree Narayan Singh | Toilet: Ek Prem Katha,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Meghna Gulzar,Raazi,True,2019 (64th) | Meghna Gulzar | Raazi | [ 64 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Stree,,False,Amar Kaushik | Stree,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Badhaai Ho,,False,Amit Sharma | Badhaai Ho,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Sanju,,False,Rajkumar Hirani | Sanju,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Padmaavat,,False,Sanjay Leela Bhansali | Padmaavat,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Andhadhun,,False,Sriram Raghavan | Andhadhun,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Zoya Akhtar,Gully Boy,True,2020 (65th) | Zoya Akhtar | Gully Boy | [ 65 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Uri: The Surgical Strike,,False,Aditya Dhar | Uri: The Surgical Strike,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Mission Mangal,,False,Jagan Shakti | Mission Mangal,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Chhichhore,,False,Nitesh Tiwari | Chhichhore,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,War,,False,Siddharth Anand | War,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Om Raut,Tanhaji,True,2021 (66th) | Om Raut | Tanhaji | [ 66 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Thappad,,False,Anubhav Sinha | Thappad,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Ludo,,False,Anurag Basu | Ludo,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Gunjan Saxena: The Kargil Girl,,False,Sharan Sharma | Gunjan Saxena: The Kargil Girl,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Gulabo Sitabo,,False,Shoojit Sircar | Gulabo Sitabo,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Vishnuvardhan,Shershaah,True,2022 (67th) | Vishnuvardhan | Shershaah | [ 67 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Rashmi Rocket,,False,Akarsh Khurana | Rashmi Rocket,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,83,,False,Kabir Khan | 83,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Ramprasad Ki Tehrvi,,False,Seema Pahwa | Ramprasad Ki Tehrvi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Sardar Udham,,False,Shoojit Sircar | Sardar Udham,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Sanjay Leela Bhansali,Gangubai Kathiawadi,True,2023 (68th) | Sanjay Leela Bhansali | Gangubai Kathiawadi | [ 68 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Bhool Bhulaiyaa 2,,False,Anees Bazmee | Bhool Bhulaiyaa 2,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Brahmāstra: Part One – Shiva,,False,Ayan Mukerji | Brahmāstra: Part One – Shiva,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Badhaai Do,,False,Harshavardhan Kulkarni | Badhaai Do,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Uunchai,,False,Sooraj Barjatya | Uunchai,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,The Kashmir Files,,False,Vivek Agnihotri | The Kashmir Files,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Vidhu Vinod Chopra,12th Fail,True,2024 (69th) | Vidhu Vinod Chopra | 12th Fail | [ 69 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,OMG 2,,False,Amit Rai | OMG 2,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Jawan,,False,Atlee | Jawan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Rocky Aur Rani Kii Prem Kahaani,,False,Karan Johar | Rocky Aur Rani Kii Prem Kahaani,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Animal,,False,Sandeep Reddy Vanga | Animal,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Pathaan,,False,Siddharth Anand | Pathaan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Kiran Rao,Laapataa Ladies,True,2025 (70th) | Kiran Rao | Laapataa Ladies | ,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Article 370,,False,Aditya Suhas Jambhale | Article 370,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Stree 2,,False,Amar Kaushik | Stree 2,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Bhool Bhulaiyaa 3,,False,Anees Bazmee | Bhool Bhulaiyaa 3,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director
+,Kill,,False,Nikhil Nagesh Bhat | Kill,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director

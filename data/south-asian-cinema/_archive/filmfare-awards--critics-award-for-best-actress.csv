@@ -1,0 +1,78 @@
+year,film,person,is_winner,raw_text,source_url
+,Tabu,,False,5 | Tabu,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+,"Manisha Koirala , Rani Mukerji",,False,"3 | Manisha Koirala , Rani Mukerji",https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+,"Dimple Kapadia , Kareena Kapoor , Vidya Balan , Bhumi Pednekar , Shefali Shah",,False,"2 | Dimple Kapadia , Kareena Kapoor , Vidya Balan , Bhumi Pednekar , Shefali Shah",https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+,Tabu,,False,6 | Tabu,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+,"Taapsee Pannu , Vidya Balan",,False,"5 | Taapsee Pannu , Vidya Balan",https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+,Bhumi Pednekar,,False,4 | Bhumi Pednekar,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+,"Manisha Koirala , Rani Mukerji , Kangana Ranaut , Kareena Kapoor , Alia Bhatt",,False,"3 | Manisha Koirala , Rani Mukerji , Kangana Ranaut , Kareena Kapoor , Alia Bhatt",https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+1991,Award Won by an Actor,,True,1991 (36th) | Award Won by an Actor,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+1992,,Dimple Kapadia,True,1992 (37th) |  | Dimple Kapadia ‡ | Sandhya | Drishti [ 3 ],https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+1993,,Dimple Kapadia,True,1993 (38th) |  | Dimple Kapadia ‡ | Shanichari | Rudaali,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+1994,Award Won by an Actor,,True,1994 (39th) | Award Won by an Actor,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+1995,,Farida Jalal,True,1995 (40th) |  | Farida Jalal ‡ | Mammo | Mammo,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+1996,,Manisha Koirala,True,1996 (41st) |  | Manisha Koirala ‡ | Shaila Banu | Bombay,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+1997,Annie Braganza,Khamoshi: The Musical,True,1997 (42nd) | Annie Braganza | Khamoshi: The Musical,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+1998,,Tabu,True,1998 (43rd) |  | Tabu ‡ | Gehna | Virasat,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+1999,,Shefali Shah,True,1999 (44th) |  | Shefali Shah ‡ | Pyari Mhatre | Satya,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2000,,Tabu,True,2000 (45th) |  | Tabu ‡ | Panna Barve | Hu Tu Tu,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2001,Aditi Pandit,Astitva,True,2001 (46th) | Aditi Pandit | Astitva,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2002,,Karisma Kapoor,True,2002 (47th) |  | Karisma Kapoor ‡ | Zubeidaa Suleiman Seth | Zubeidaa,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2003,,Manisha Koirala,True,2003 (48th) |  | Manisha Koirala ‡ | Saroja | Company,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2003,Rani Mukerji,Suhani Sharma,True, | Rani Mukerji ‡ | Suhani Sharma | Saathiya,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2004,,Urmila Matondkar,True,2004 (49th) |  | Urmila Matondkar ‡ | Swati | Bhoot,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2005,,Kareena Kapoor,True,2005 (50th) |  | Kareena Kapoor ‡ | Aalia | Dev,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2006,,Rani Mukerji,True,2006 (51st) |  | Rani Mukerji ‡ | Michelle McNally | Black,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2007,,Kareena Kapoor,True,2007 (52nd) |  | Kareena Kapoor ‡ | Dolly Mishra | Omkara,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2008,,Tabu,True,2008 (53rd) |  | Tabu ‡ | Nina Verma | Cheeni Kum,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2009,,Shahana Goswami,True,2009 (54th) |  | Shahana Goswami ‡ | Debbie Mascarenhas | Rock On!!,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2010,,Mahi Gill,True,"2010 (55th) |  | Mahi Gill ‡ | Parminder ""Paro"" | Dev.D",https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2011,,Vidya Balan,True,2011 (56th) |  | Vidya Balan ‡ | Krishna Verma | Ishqiya,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2012,,Priyanka Chopra,True,2012 (57th) |  | Priyanka Chopra ‡ | Susanna Anna–Marie Johannes | 7 Khoon Maaf,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2013,,Richa Chadda,True,2013 (58th) |  | Richa Chadda ‡ | Nagma Khatun | Gangs of Wasseypur,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2014,,Shilpa Shukla,True,2014 (59th) |  | Shilpa Shukla ‡ | Sarika | B.A. Pass,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2015,,Alia Bhatt,True,2015 (60th) |  | Alia Bhatt ‡ | Veera Tripathi | Highway,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2016,,Kangana Ranaut,True,2016 (61st) |  | Kangana Ranaut ‡ | Tanuja Trivedi and Kumari Kusum Sangwan | Tanu Weds Manu Returns,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2017,,Sonam Kapoor,True,2017 (62nd) |  | Sonam Kapoor ‡ | Neerja Bhanot | Neerja,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2018,,Zaira Wasim,True,2018 (63rd) |  | Zaira Wasim ‡ | Insia Malik | Secret Superstar,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2018,Julia,Rangoon,False,Kangana Ranaut | Julia | Rangoon,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2018,Devki Sabarwal,Mom,False,Sridevi | Devki Sabarwal | Mom,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2018,Anaarkali,Anaarkali of Aarah,False,Swara Bhaskar | Anaarkali | Anaarkali of Aarah,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2018,"Sulochana ""Sulu"" Dubey",Tumhari Sulu,False,"Vidya Balan | Sulochana ""Sulu"" Dubey | Tumhari Sulu",https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2019,,Neena Gupta,True,"2019 (64th) |  | Neena Gupta ‡ | Priyamvada ""Babli"" Kaushik | Badhaai Ho",https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2019,Sehmat Khan,Raazi,False,Alia Bhatt | Sehmat Khan | Raazi,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2019,Mamta Sharma,Sui Dhaaga,False,Anushka Sharma | Mamta Sharma | Sui Dhaaga,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2019,"Champa ""Badki"" Kumari",Pataakha,False,"Radhika Madan | Champa ""Badki"" Kumari | Pataakha",https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2019,Aarti Malhotra / Mohammed,Mulk,False,Taapsee Pannu | Aarti Malhotra / Mohammed | Mulk,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2019,Simi,Andhadhun,False,Tabu | Simi | Andhadhun,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2020,,Bhumi Pednekar,True,2020 (65th) |  | Bhumi Pednekar ‡ | Chandro Tomar | Saand Ki Aankh,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2020,Prakashi Tomar,,True,Taapsee Pannu ‡ | Prakashi Tomar,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2020,Indumati Tomar,Sonchiriya,False,Bhumi Pednekar | Indumati Tomar | Sonchiriya,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2020,Bobby,Judgementall Hai Kya,False,Kangana Ranaut | Bobby | Judgementall Hai Kya,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2020,"Supriya ""Supri",Mard Ko Dard Nahi Hota,False,"Radhika Madan | Supriya ""Supri"" | Mard Ko Dard Nahi Hota",https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2020,Miloni Shah,Photograph,False,Sanya Malhotra | Miloni Shah | Photograph,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2021,,Tillotama Shome,True,2021 (66th) |  | Tillotama Shome ‡ | Ratna | Sir,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2021,"Kajal ""Kitty"" Yadav",Dolly Kitty Aur Woh Chamakte Sitare,False,"Bhumi Pednekar | Kajal ""Kitty"" Yadav | Dolly Kitty Aur Woh Chamakte Sitare",https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2021,"Radha ""Dolly"" Yadav",,False,"Konkona Sen Sharma | Radha ""Dolly"" Yadav",https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2021,Shruti Choksi,Ludo,False,Sanya Malhotra | Shruti Choksi | Ludo,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2021,Amrita Sabarwal,Thappad,False,Taapsee Pannu | Amrita Sabarwal | Thappad,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2021,Shakuntala Devi,Shakuntala Devi,False,Vidya Balan | Shakuntala Devi | Shakuntala Devi,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2022,,Vidya Balan,True,2022 (67th) |  | Vidya Balan ‡ | Vidya Vincent | Sherni,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2022,Amma,Ramprasad Ki Tehrvi,False,Supriya Pathak | Amma | Ramprasad Ki Tehrvi,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2022,Rani Kashyap,Haseen Dilruba,False,Taapsee Pannu | Rani Kashyap | Haseen Dilruba,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2023,,Bhumi Pednekar,True,"2023 (68th) |  | Bhumi Pednekar ‡ | Suman ""Sumi"" Singh | Badhaai Do",https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2023,Anjulika Chatterjee and Manjulika Chatterjee,Bhool Bhulaiyaa 2,True,Tabu ‡ | Anjulika Chatterjee and Manjulika Chatterjee | Bhool Bhulaiyaa 2,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2023,Kolavennu Sujata Krishnan,Salaam Venky,False,Kajol | Kolavennu Sujata Krishnan | Salaam Venky,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2023,Manju Mishra,Vadh,False,Neena Gupta | Manju Mishra | Vadh,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2023,Mithali Raj,Shabaash Mithu,False,Taapsee Pannu | Mithali Raj | Shabaash Mithu,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2024,,Rani Mukerji,True,2024 (69th) |  | Rani Mukerji ‡ | Debika Chatterjee | Mrs. Chatterjee vs Norway,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2024,Shailaja Desai,Three of Us,True,Shefali Shah ‡ | Shailaja Desai | Three of Us,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2024,Sadhana Tripathi,Goldfish,False,Deepti Naval | Sadhana Tripathi | Goldfish,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2024,"Shashi Kumar Yadav ""Sky",Dhak Dhak,False,"Fatima Sana Shaikh | Shashi Kumar Yadav ""Sky"" | Dhak Dhak",https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2024,Anina “Ani” Dixit,Ghoomer,False,Saiyami Kher | Anina “Ani” Dixit | Ghoomer,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2024,Pratima Mahto,Zwigato,False,Shahana Goswami | Pratima Mahto | Zwigato,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2025,,Pratibha Ranta,True,2025 ( 70th ) [ 4 ] |  | Pratibha Ranta ‡ | Jaya Tripathi Singh / Pushpa Rani | Laapataa Ladies,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2025,"Satyabhama ""Satya"" Anand",Jigra,False,"Alia Bhatt | Satyabhama ""Satya"" Anand | Jigra",https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2025,"Jasmeet ""Jass"" Bhamra",The Buckingham Murders,False,"Kareena Kapoor Khan | Jasmeet ""Jass"" Bhamra | The Buckingham Murders",https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2025,Phool Kumari,Laapataa Ladies,False,Nitanshi Goel | Phool Kumari | Laapataa Ladies,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress
+2025,Kavya Ganeshan,Do Aur Do Pyaar,False,Vidya Balan | Kavya Ganeshan | Do Aur Do Pyaar,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actress

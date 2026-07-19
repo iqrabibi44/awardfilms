@@ -1,0 +1,176 @@
+year,film,person,is_winner,raw_text,source_url
+,Fernando Fernán Gómez,Emiliano,True,1986 (1st) [ 1 ] [ 2 ] | Fernando Fernán Gómez | Emiliano | Mambrú Went to War | Mambrú se fue a la guerra,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Francisco Franco,Dragon Rapide,False,Juan Diego | Francisco Franco | Dragon Rapide,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Manolo Morales,The Year of the Awakening,False,Jorge Sanz | Manolo Morales | The Year of the Awakening | El año de las luces,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Alfredo Landa,Malvís / Bandid Fendetestas,True,1987 (2nd) [ 3 ] [ 4 ] [ 5 ] [ 6 ] | Alfredo Landa | Malvís / Bandid Fendetestas | The Living Forest | El bosque animado,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,"Eleuterio Sánchez ""El Lute",Lute: Run for Your Life,False,"Imanol Arias | Eleuterio Sánchez ""El Lute"" | Lute: Run for Your Life | El Lute: Camina o revienta",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Angelito Delicado,The War of the Madmen,False,José Manuel Cervino | Angelito Delicado | The War of the Madmen | La guerra de los locos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Fernando Rey,Padre,True,1988 (3rd) [ 7 ] [ 8 ] [ 9 ] | Fernando Rey | Padre | Winter Diary | Diario de invierno,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,"Eleuterio Sánchez ""El Lute",Lute II: Tomorrow I'll be Free,False,"Imanol Arias | Eleuterio Sánchez ""El Lute"" | Lute II: Tomorrow I'll be Free | El Lute II: Mañana seré libre",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Pedro Luis Jarrapellejos,Jarrapellejos,False,Antonio Ferrandis | Pedro Luis Jarrapellejos | Jarrapellejos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,"Antonio Castro ""Sinatra",Sinatra,False,"Alfredo Landa | Antonio Castro ""Sinatra"" | Sinatra",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Paulino Alonso / Sosias,Wait for Me in Heaven,False,Pepe Soriano | Paulino Alonso / Sosias | Wait for Me in Heaven | Espérame en el cielo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Jorge Sanz,"Daniel Javaloyes ""Java",True,"1989 (4th) [ 10 ] [ 11 ] [ 12 ] [ 13 ] | Jorge Sanz | Daniel Javaloyes ""Java"" | If They Tell You I Fell | Si te dicen que caí",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Marquess of Esquilache,Esquilache,False,Fernando Fernán Gómez | Marquess of Esquilache | Esquilache,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,The Sea and the Weather,El mar y el tiempo,False,Eusebio | The Sea and the Weather | El mar y el tiempo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Saint John of the Cross,The Dark Night,False,Juan Diego | Saint John of the Cross | The Dark Night | La noche oscura,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,El Americano,El río que nos lleva,False,Alfredo Landa | El Americano | El río que nos lleva,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Andrés Pajares,Paulino,True,"1990 (5th) | Andrés Pajares | Paulino | ¡Ay, Carmela!",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Javier,Alone Together,False,Imanol Arias | Javier | Alone Together | A solas conmigo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Ricky,Tie Me Up! Tie Me Down!,False,Antonio Banderas | Ricky | Tie Me Up! Tie Me Down! | ¡Átame!,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Fernando Guillén,Don Juan,True,1991 (6th) | Fernando Guillén | Don Juan | Don Juan in Hell | Don Juan en los infiernos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Philip IV of Spain,The Dumbfounded King,False,Gabino Diego | Philip IV of Spain | The Dumbfounded King | El rey pasmado,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Paco,Lovers,False,Jorge Sanz | Paco | Lovers | Amantes,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Alfredo Landa,Bartolomé,True,1992 (7th) | Alfredo Landa | Bartolomé | The Sow | La marrana,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Raúl Gonzales,Jamón Jamón,False,Javier Bardem | Raúl Gonzales | Jamón Jamón,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Fernando,Belle Époque,False,Jorge Sanz | Fernando | Belle Époque,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Juan Echanove,Francisco Franco,True,1993 (8th) | Juan Echanove | Francisco Franco | Madregilda,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Ángel,Intruder,False,Imanol Arias | Ángel | Intruder | Intruso,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Benito González,Golden Balls,False,Javier Bardem | Benito González | Golden Balls | Huevos de oro,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Carmelo Gómez,Antonio,True,1994 (9th) | Carmelo Gómez | Antonio | Running Out of Time | Días contados,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Alberto,The Worst Years of Our Lives,False,Gabino Diego | Alberto | The Worst Years of Our Lives | Los peores años de nuestra vida,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Don José,Cradle Song,False,Alfredo Landa | Don José | Cradle Song | Canción de cuna,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Javier Bardem,Víctor Ventura,True,1995 (10th) | Javier Bardem | Víctor Ventura | Mouth to Mouth | Boca a boca,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Father Ángel Berriartúa,The Day of the Beast,False,Álex Angulo | Father Ángel Berriartúa | The Day of the Beast | El día de las bestia,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Eduardo Guzmán,Nobody Will Speak of Us When We're Dead,False,Federico Luppi | Eduardo Guzmán | Nobody Will Speak of Us When We're Dead | Nadie hablará de nosotras cuanda hayamos muerto,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Santiago Ramos,Rafael Torres,True,1996 (11th) | Santiago Ramos | Rafael Torres | Como un relámpago,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Art Dodge,Two Much,False,Antonio Banderas | Art Dodge | Two Much | Two Much,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Teodoro,The Dog in the Manger,False,Carmelo Gómez | Teodoro | The Dog in the Manger | El perro del hortelano,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Antonio Resines,Rafael,True,1997 (12th) | Antonio Resines | Rafael | The Lucky Star | La buena estrella,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,David,Live Flesh,False,Javier Bardem | David | Live Flesh | Carne trémula,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Daniel,The Llucky Star,False,Jordi Mollà | Daniel | The Llucky Star | La buena estrella,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Fernando Fernán Gómez,"Don Rodrigo, Count of Albrit",True,"1998 (13th) | Fernando Fernán Gómez | Don Rodrigo, Count of Albrit | The Grandfather | El abuelo",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Manuel Martínez,A Time for Defiance,False,Gabino Diego | Manuel Martínez | A Time for Defiance | La hora de los valientes,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,César,Open Your Eyes,False,Eduardo Noriega | César | Open Your Eyes | Abre los ojos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Blas Fontiveros,The Girl of Your Dreams,False,Antonio Resines | Blas Fontiveros | The Girl of Your Dreams | La niña de tus ojos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Francisco Rabal,Francisco de Goya,True,1999 (14th) | Francisco Rabal | Francisco de Goya | Goya in Bordeaux | Goya en Burdeos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Don Gregorio,Butterfly's Tongue,False,Fernando Fernán Gómez | Don Gregorio | Butterfly's Tongue | La lengua de las mariposas,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Alberto,Second Skin,False,Jordi Mollà | Alberto | Second Skin | Segunda piel,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Jaume,Beloved/Friend,False,Josep Maria Pou | Jaume | Beloved/Friend | Amic/Amat (Amigo/Amado),https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Juan Luis Galiardo,Juan Peñasco,True,2000 (15th) | Juan Luis Galiardo | Juan Peñasco | Goodbye from the Heart | Adiós con el corazón,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,The murderer,Plenilune,False,Juan Diego Botto | The murderer | Plenilune | Plenilunio,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Ramiro Forteza,The Goalkeeper,False,Carmelo Gómez | Ramiro Forteza | The Goalkeeper | El Portero,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Mario,I Know Who You Are,False,Miguel Ángel Solá | Mario | I Know Who You Are | Sé quién eres,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Eduard Fernández,Santos,True,2001 (16th) | Eduard Fernández | Santos | Fausto 5.0,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Joaquín,Mine Alone,False,Sergi López | Joaquín | Mine Alone | Sólo mía,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Federico,Intacto,False,Eusebio Poncela | Federico | Intacto,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Lorenzo,Sex and Lucia,False,Tristán Ulloa | Lorenzo | Sex and Lucia | Lucía y el sexo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Javier Bardem,Santa,True,2002 (17th) | Javier Bardem | Santa | Mondays in the Sun | Los lunes al sol,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Benigno Martín,Talk to Her,False,Javier Cámara | Benigno Martín | Talk to Her | Hable con ella,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Don Quixote,"Don Quixote, Knight Errant",False,"Juan Luis Galiardo | Don Quixote | Don Quixote, Knight Errant | El caballero Don Quijote",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Julián Torralba,800 Bullets,False,Sancho Gracia | Julián Torralba | 800 Bullets | 800 balas,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Luis Tosar,Antonio,True,2003 (18th) | Luis Tosar | Antonio | Take My Eyes | Te doy mis ojos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Antonio,Football Days,False,Ernesto Alterio | Antonio | Football Days | Días de fútbol,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Alfredo López,Torremolinos 73,False,Javier Cámara | Alfredo López | Torremolinos 73,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Joaquín Panjero,The End of a Mystery,False,Alfredo Landa | Joaquín Panjero | The End of a Mystery | La luz prodigiosa,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Javier Bardem,Ramón Sampedro,True,2004 (19th) | Javier Bardem | Ramón Sampedro | The Sea Inside | Mar adentro,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Jorge,Things That Make Living Worthwhile,False,Eduard Fernández | Jorge | Things That Make Living Worthwhile | Cosas que hacen que la vida valga la pena,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,"Mikel Lejarza ""El Lobo",The Wolf,False,"Eduardo Noriega | Mikel Lejarza ""El Lobo"" | The Wolf | El lobo",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Rafael,Crimen Ferpecto,False,Guillermo Toledo | Rafael | Crimen Ferpecto,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Óscar Jaenada,Camarón de la Isla,True,2005 (20th) | Óscar Jaenada | Camarón de la Isla | Camarón: When Flamenco Became Legend | Camarón,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Alfredo,Elsa & Fred,False,Manuel Alexandre | Alfredo | Elsa & Fred | Elsa y Fred,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Tano,7 Virgins,False,Juan José Ballesta | Tano | 7 Virgins | 7 vírgenes,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Fernando,The Method,False,Eduard Fernández | Fernando | The Method | El método,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Juan Diego,Santiago Pedreño,True,2006 (21st) | Juan Diego | Santiago Pedreño | Go Away from Me | Vete de mí,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Salvador Puig Antich,Salvador,False,Daniel Brühl | Salvador Puig Antich | Salvador (Puig Antich),https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Capitán Vidal,Pan's Labyrinth,False,Sergi López | Capitán Vidal | Pan's Labyrinth | El laberinto del fauno,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Diego Alatriste,Alatriste,False,Viggo Mortensen | Diego Alatriste | Alatriste,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Alberto San Juan,Benito Lacunza,True,2007 (22nd) | Alberto San Juan | Benito Lacunza | Under the Stars | Bajo las estrellas,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Joaco,Sunday Light,False,Alfredo Landa | Joaco | Sunday Light | Luz de domingo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Alfonso,The Field of Stars,False,Álvaro de Luna | Alfonso | The Field of Stars | El prado de las estrellas,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Iñaki,Mataharis,False,Tristán Ulloa | Iñaki | Mataharis,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Benicio del Toro,Che Guevara,True,"2008 (23rd) | Benicio del Toro | Che Guevara | Che I: The Argentine | Che, el argentino",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Salvador,The Blind Sunflowers,False,Raúl Arévalo | Salvador | The Blind Sunflowers | Los girasoles ciegos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Maxi Alonso,Chef's Special,False,Javier Cámara | Maxi Alonso | Chef's Special | Fuera de carta,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Gabriel,Just Walking,False,Diego Luna | Gabriel | Just Walking | Sólo quiero caminar,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Luis Tosar,Malamadre,True,2009 (24th) | Luis Tosar | Malamadre | Cell 211 | Celda 211,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Benjamín Espósito,The Secret in Their Eyes,False,Ricardo Darín | Benjamín Espósito | The Secret in Their Eyes | El secreto de sus ojos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Jaime Gil de Biedma,The Consul of Sodom,False,Jordi Mollà | Jaime Gil de Biedma | The Consul of Sodom | El cónsul de Sodoma,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Enrique,Fat People,False,Antonio de la Torre | Enrique | Fat People | Gordos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Javier Bardem,Uxbal,True,2010 (25th) | Javier Bardem | Uxbal | Biutiful,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Sergio,The Last Circus,False,Antonio de la Torre | Sergio | The Last Circus | Balada triste de trompeta,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Paul Conroy,Buried,False,Ryan Reynolds | Paul Conroy | Buried | Buried (Enterrado),https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Costa,Even the Rain,False,Luis Tosar | Costa | Even the Rain | También la lluvia,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,José Coronado,Santos Trinidad,True,2011 (26th) | José Coronado | Santos Trinidad | No Rest for the Wicked | No habrá paz para los malvados,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Robert Ledgard,The Skin I Live In,False,Antonio Banderas | Robert Ledgard | The Skin I Live In | La piel que habito,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Álex,Eva,False,Daniel Brühl | Álex | Eva,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,César,Sleep Tight,False,Luis Tosar | César | Sleep Tight | Mientras duermes,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,José Sacristán,Santos,True,2012 (27th) | José Sacristán | Santos | The Dead Man and Being Happy | El muerto y ser feliz,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Antonio Villalta,Blancanieves,False,Daniel Giménez Cacho | Antonio Villalta | Blancanieves,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Marc Cros,The Artist and the Model,False,Jean Rochefort | Marc Cros | The Artist and the Model | El artista y la modelo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Rafael Cantera Luján,Unit 7,False,Antonio de la Torre | Rafael Cantera Luján | Unit 7 | Grupo 7,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Javier Cámara,Antonio San Román,True,2013 (28th) | Javier Cámara | Antonio San Román | Living Is Easy with Eyes Closed | Vivir es fácil con los ojos cerrados,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Max Aguirre,15 Years and One Day,False,Tito Valverde | Max Aguirre | 15 Years and One Day | 15 años y un día,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Carlos,Cannibal,False,Antonio de la Torre | Carlos | Cannibal | Caníbal,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Nacho,All the Women,False,Eduard Fernández | Nacho | All the Women | Todas las mujeres,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Javier Gutiérrez,Juan Robles,True,2014 (29th) [ 14 ] [ 15 ] | Javier Gutiérrez | Juan Robles | Marshland | La isla mínima,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Simón Fischer,Wild Tales,False,Ricardo Darín | Simón Fischer | Wild Tales | Relatos salvajes,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Pedro Suárez,Marshland,False,Raúl Arévalo | Pedro Suárez | Marshland | La isla mínima,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Luis,Magical Girl,False,Luis Bermejo | Luis | Magical Girl,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Ricardo Darín,Julián,True,2015 (30th) | Ricardo Darín | Julián | Truman,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Luis Bárcenas,B,False,Pedro Casablanc | Luis Bárcenas | B,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Carlos,Retribution,False,Luis Tosar | Carlos | Retribution | El desconocido,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,The Groom,The Bride,False,Asier Etxeandia | The Groom | The Bride | La novia,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Roberto Álamo,Javier Alfaro,True,2016 (31st) | Roberto Álamo | Javier Alfaro | May God Save Us | Que Dios nos perdone,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Curro,The Fury of a Patient Man,False,Luis Callejo | Curro | The Fury of a Patient Man | Tarde para la ira,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,José,,False,Antonio de la Torre | José,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Francisco Paesa,Smoke & Mirrors,False,Eduard Fernández | Francisco Paesa | Smoke & Mirrors | El hombre de las mil caras,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Javier Gutiérrez,Álvaro Martín,True,2017 (32nd) [ 16 ] [ 17 ] | Javier Gutiérrez | Álvaro Martín | The Motive | El autor,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Luis,Dying,False,Andrés Gertrúdix | Luis | Dying | Morir,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Pablo Escobar,Loving Pablo,False,Javier Bardem | Pablo Escobar | Loving Pablo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Carlos López,Abracadabra,False,Antonio de la Torre | Carlos López | Abracadabra,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Antonio de la Torre,Manuel López-Vidal,True,2018 (33rd) [ 18 ] | Antonio de la Torre | Manuel López-Vidal | The Realm | El reino,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Marco Montes,Champions,False,Javier Gutiérrez | Marco Montes | Champions | Campeones,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Paco,Everybody Knows,False,Javier Bardem | Paco | Everybody Knows | Todos lo saben,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Jaime Jiménez,Your Son,False,José Coronado | Jaime Jiménez | Your Son | Tu hijo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Antonio Banderas,Salvador Mallo,True,2019 (34th) [ 19 ] | Antonio Banderas | Salvador Mallo | Pain and Glory | Dolor y gloria,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Higinio Blanco,The Endless Trench,False,Antonio de la Torre | Higinio Blanco | The Endless Trench | La trinchera infinita,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Miguel de Unamuno,While at War,False,Karra Elejalde | Miguel de Unamuno | While at War | Mientras dure la guerra,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Mario Vilas,Eye for an Eye,False,Luis Tosar | Mario Vilas | Eye for an Eye | Quien a hierro mata,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Mario Casas,Daniel Aranda,True,2020 (35th) [ 20 ] | Mario Casas | Daniel Aranda | Cross the Line | No matarás,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Julio,The People Upstairs,False,Javier Cámara | Julio | The People Upstairs | Sentimental,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Ernesto,The Sea Beyond,False,Ernesto Alterio | Ernesto | The Sea Beyond | Un mundo normal,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Aleix,One for All,False,David Verdaguer | Aleix | One for All | Uno para todos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Javier Bardem,Julio Blanco,True,2021 (36th) [ 21 ] | Javier Bardem | Julio Blanco | The Good Boss | El buen patrón,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Javier,The Daughter,False,Javier Gutiérrez | Javier | The Daughter | La hija,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Òscar Camps,Mediterraneo: The Law of the Sea,False,Eduard Fernández | Òscar Camps | Mediterraneo: The Law of the Sea | Mediterráneo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Ibon Etxezarreta,Maixabel,False,Luis Tosar | Ibon Etxezarreta | Maixabel,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Denis Ménochet,Antoine Denis,True,2022 (37th) [ 22 ] [ 23 ] | Denis Ménochet | Antoine Denis | The Beasts | As bestas,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Rafa,On the Fringe,False,Luis Tosar | Rafa | On the Fringe | En los márgenes,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Julián,Manticore,False,Nacho Sánchez | Julián | Manticore | Mantícora,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,José Pino,Prison 77,False,Javier Gutiérrez | José Pino | Prison 77 | Modelo 77,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Manuel Gómez,,False,Miguel Herrán | Manuel Gómez,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,David Verdaguer,Eugenio,True,2023 (38th) [ 24 ] | David Verdaguer | Eugenio | Jokes & Cigarettes | Saben aquell,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Miguel Garay,Close Your Eyes,False,Manolo Solo | Miguel Garay | Close Your Eyes | Cerrar los ojos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Antoni Benaiges,The Teacher Who Promised the Sea,False,Enric Auquer | Antoni Benaiges | The Teacher Who Promised the Sea | El maestro que prometió el mar,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Andreas,Un amor,False,Hovik Keuchkerian | Andreas | Un amor,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Diego,Upon Entry,False,Alberto Ammann | Diego | Upon Entry | Upon Entry (La llegada),https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Eduard Fernández,Enric Marco,True,"2024 (39th) [ 25 ] [ 26 ] | Eduard Fernández | Enric Marco | Marco, the Invented Truth | Marco, la verdad inventada",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Carlos,A House on Fire,False,Alberto San Juan | Carlos | A House on Fire | Casa en flames,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Flavio,They Will Be Dust,False,Alfredo Castro | Flavio | They Will Be Dust | Polvo serán,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Ismael Alvárez,I'm Nevenka,False,Urko Olazabal | Ismael Alvárez | I'm Nevenka | Soy Nevenka,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Álex,The Other Way Around,False,Vito Sanz | Álex | The Other Way Around | Volveréis,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,José Ramón Soroiz,Vicente,True,2025 (40th) [ 27 ] | José Ramón Soroiz | Vicente | Maspalomas,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Genaro,The Dinner,False,Alberto San Juan | Genaro | The Dinner | La cena,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Iñaki,Sundays,False,Miguel Garcés | Iñaki | Sundays | Los domingos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Sergio,Away,False,Mario Casas | Sergio | Away | Molt lluny,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,Fernando / Manuel,The Portuguese House,False,Manolo Solo | Fernando / Manuel | The Portuguese House | Una quinta portuguesa,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,5,10,False,Javier Bardem | 5 | 10,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,2,8,False,Luis Tosar | 2 | 8,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,2,7,False,Eduard Fernández | 2 | 7,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,2,7,False,Alfredo Landa | 2 | 7,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,2,5,False,Fernando Fernán Gómez | 2 | 5,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,2,5,False,Javier Gutiérrez | 2 | 5,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,1,8,False,Antonio de la Torre | 1 | 8,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,1,5,False,Javier Cámara | 1 | 5,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,1,4,False,Jorge Sanz | 1 | 4,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,1,4,False,Antonio Banderas | 1 | 4,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,1,3,False,Juan Diego | 1 | 3,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,1,3,False,Carmelo Gómez | 1 | 3,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,1,3,False,Ricardo Darín | 1 | 3,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,1,3,False,Alberto San Juan | 1 | 3,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,1,2,False,Juan Luis Galiardo | 1 | 2,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,1,2,False,Antonio Resines | 1 | 2,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,1,2,False,José Coronado | 1 | 2,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,1,2,False,David Verdaguer | 1 | 2,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor
+,1,2,False,Mario Casas | 1 | 2,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Actor

@@ -1,0 +1,243 @@
+year,film,person,is_winner,raw_text,source_url
+,Allen Fong,Father and Son,True,1981 (1st) | Allen Fong | Father and Son | [ 2 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Ann Hui,Boat People,True,1982 (2nd) | Ann Hui | Boat People | [ 3 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Lonely Fifteen,,False,David Lai | Lonely Fifteen,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,The Prodigal Son,,False,Sammo Hung | The Prodigal Son,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Teenage Dreamers,,False,Clifford Choi | Teenage Dreamers,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Nomad,,False,Patrick Tam | Nomad,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Allen Fong,Ah Ying,True,1983 (3rd) | Allen Fong | Ah Ying | [ 4 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,The Burning of Imperial Palace,,False,Li Han-hsiang | The Burning of Imperial Palace,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,The Dead and the Deadly,,False,Wu Ma | The Dead and the Deadly,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,All the Wrong Spies,,False,Teddy Robin | All the Wrong Spies,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Health Warning,,False,Kirk Wong | Health Warning,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Yim Ho,Homecoming,True,1984 (4th) | Yim Ho | Homecoming | [ 5 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Shanghai Blues,,False,Tsui Hark | Shanghai Blues,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Long Arm of the Law,,False,Johnny Mak | Long Arm of the Law,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Hong Kong 1941,,False,Po-Chih Leong | Hong Kong 1941,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Law with Two Phases,,False,Danny Lee Sau-Yin | Law with Two Phases,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Mabel Cheung,The Illegal Immigrant,True,1985 (5th) | Mabel Cheung | The Illegal Immigrant | [ 6 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Women,,False,Stanley Kwan | Women,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Mr. Vampire,,False,Ricky Lau | Mr. Vampire,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Heart of Dragon,,False,Sammo Hung | Heart of Dragon,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Police Story,,False,Jackie Chan | Police Story,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Allen Fong,Just Like Weather,True,1986 (6th) | Allen Fong | Just Like Weather | [ 7 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Brotherhood,,False,Stephen Shin | Brotherhood,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,A Better Tomorrow,,False,John Woo | A Better Tomorrow,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,The Lunatics,,False,Derek Yee | The Lunatics,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,The Last Emperor,,False,Li Han-Xiang | The Last Emperor,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Love Unto Waste,,False,Stanley Kwan | Love Unto Waste,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Ringo Lam,City on Fire,True,1987 (7th) | Ringo Lam | City on Fire | [ 8 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,A Chinese Ghost Story,,False,Ching Siu-tung | A Chinese Ghost Story,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,An Autumn's Tale,,False,Mabel Cheung | An Autumn's Tale,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Prison on Fire,,False,Ringo Lam | Prison on Fire,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,The Romance of Book & Sword,,False,Ann Hui | The Romance of Book & Sword,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Final Victory,,False,Patrick Tam | Final Victory,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Stanley Kwan,Rouge,True,1988 (8th) | Stanley Kwan | Rouge | [ 9 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Gangs,,False,Lawrence Ah Mon | Gangs,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Painted Faces,,False,Alex Law | Painted Faces,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,As Tears Go By,,False,Wong Kar-wai | As Tears Go By,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Last Eunuch in China,,False,Jacob Cheung | Last Eunuch in China,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,John Woo,The Killer,True,1989 (9th) | John Woo | The Killer | [ 10 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,All About Ah-Long,,False,Johnnie To | All About Ah-Long,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Beyond the Sunset,,False,Jacob Cheung | Beyond the Sunset,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,A Fishy Story,,False,Anthony Chan Yau | A Fishy Story,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Eight Taels of Gold,,False,Mabel Cheung | Eight Taels of Gold,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Wong Kar-wai,Days of Being Wild,True,1990 (10th) | Wong Kar-wai | Days of Being Wild | [ 11 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Bullet in the Head,,False,John Woo | Bullet in the Head,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Song of the Exile,,False,Ann Hui | Song of the Exile,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Red Dust,,False,Yim Ho | Red Dust,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Farewell China,,False,Clara Law | Farewell China,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Tsui Hark,Once Upon a Time in China,True,1991 (11th) | Tsui Hark | Once Upon a Time in China | [ 12 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Once a Thief,,False,John Woo | Once a Thief,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Fight Back to School,,False,Gordon Chan | Fight Back to School,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Lee Rock,,False,Lawrence Ah Mon | Lee Rock,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,To Be Number One,,False,Poon Man-kit | To Be Number One,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Jacob Cheung,Cageman,True,1992 (12th) | Jacob Cheung | Cageman | [ 13 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,92 Legendary La Rose Noire,,False,Jeffrey Lau | 92 Legendary La Rose Noire,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,King of Beggars,,False,Gordon Chan | King of Beggars,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Once Upon a Time in China II,,False,Tsui Hark | Once Upon a Time in China II,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Center Stage,,False,Stanley Kwan | Center Stage,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Derek Yee,"C'est la vie, mon chéri",True,"1993 (13th) | Derek Yee | C'est la vie, mon chéri | [ 14 ]",https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Crime Story,,False,Kirk Wong | Crime Story,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Legal Innocence,,False,Cha Yuen-yee | Legal Innocence,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,"Tom, Dick and Hairy",,False,"Peter Chan and Lee Chi-ngai | Tom, Dick and Hairy",https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Temptation of a Monk,,False,Clara Law | Temptation of a Monk,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Wong Kar-wai,Chungking Express,True,1994 (14th) | Wong Kar-wai | Chungking Express | [ 15 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Ashes of Time,,False,Wong Kar-wai | Ashes of Time,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,"He's a Woman, She's a Man",,False,"Peter Chan | He's a Woman, She's a Man",https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,The Lovers,,False,Tsui Hark | The Lovers,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,The Final Option,,False,Gordon Chan | The Final Option,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Ann Hui,Summer Snow,True,1995 (15th) | Ann Hui | Summer Snow | [ 16 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Full Throttle,,False,Derek Yee | Full Throttle,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Fallen Angels,,False,Wong Kar-wai | Fallen Angels,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,The Day the Sun Turned Cold,,False,Yim Ho | The Day the Sun Turned Cold,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Loving You,,False,Johnnie To | Loving You,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Peter Chan,Comrades: Almost a Love Story,True,1996 (16th) | Peter Chan | Comrades: Almost a Love Story | [ 17 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,The Log,,False,Derek Chiu | The Log,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Viva Erotica,,False,Derek Yee and Law Chi-leung | Viva Erotica,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Hu-Du-Men,,False,Shu Kei | Hu-Du-Men,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Big Bullet,,False,Benny Chan | Big Bullet,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Fruit Chan,Made in Hong Kong,True,1997 (17th) | Fruit Chan | Made in Hong Kong | [ 18 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Happy Together,,False,Wong Kar-wai | Happy Together,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Full Alert,,False,Ringo Lam | Full Alert,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,The Soong Sisters,,False,Mabel Cheung | The Soong Sisters,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Lifeline,,False,Johnnie To | Lifeline,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Gordon Chan and Dante Lam,Beast Cops,True,1998 (18th) | Gordon Chan and Dante Lam | Beast Cops | [ 19 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Hold You Tight,,False,Stanley Kwan | Hold You Tight,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,The Longest Summer,,False,Fruit Chan | The Longest Summer,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,City of Glass,,False,Mabel Cheung | City of Glass,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,The Longest Nite,,False,Patrick Yau | The Longest Nite,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Johnnie To,The Mission,True,1999 (19th) | Johnnie To | The Mission | [ 20 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Tempting Heart,,False,Sylvia Chang | Tempting Heart,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Ordinary Heroes,,False,Ann Hui | Ordinary Heroes,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Victim,,False,Ringo Lam | Victim,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Running Out of Time,,False,Johnnie To | Running Out of Time,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Ang Lee,"Crouching Tiger, Hidden Dragon",True,"2000 (20th) | Ang Lee | Crouching Tiger, Hidden Dragon | [ 21 ]",https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,In the Mood for Love,,False,Wong Kar-wai | In the Mood for Love,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Durian Durian,,False,Fruit Chan | Durian Durian,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Needing You...,,False,Johnnie To and Wai Ka-fai | Needing You...,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Juliet in Love,,False,Wilson Yip | Juliet in Love,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Stephen Chow,Shaolin Soccer,True,2001 (21st) | Stephen Chow | Shaolin Soccer | [ 22 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,July Rhapsody,,False,Ann Hui | July Rhapsody,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Lan Yu,,False,Stanley Kwan | Lan Yu,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Love on a Diet,,False,Johnnie To and Wai Ka-fai | Love on a Diet,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Visible Secret,,False,Ann Hui | Visible Secret,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Andrew Lau and Alan Mak,Infernal Affairs,True,2002 (22nd) | Andrew Lau and Alan Mak | Infernal Affairs | [ 23 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Inner Senses,,False,Law Chi-Leung | Inner Senses,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Three: Going Home,,False,Peter Chan | Three: Going Home,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Hollywood Hong Kong,,False,Fruit Chan | Hollywood Hong Kong,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Hero,,False,Zhang Yimou | Hero,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Johnnie To,PTU,True,2003 (23rd) | Johnnie To | PTU | [ 24 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Running on Karma,,False,Johnnie To and Wai Ka-fai | Running on Karma,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Lost in Time,,False,Derek Yee | Lost in Time,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Infernal Affairs II,,False,Andrew Lau and Alan Mak | Infernal Affairs II,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Heroic Duo,,False,Benny Chan Muk-Sing | Heroic Duo,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Derek Yee,One Nite in Mongkok,True,2004 (24th) | Derek Yee | One Nite in Mongkok | [ 25 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,2046,,False,Wong Kar-wai | 2046,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Kung Fu Hustle,,False,Stephen Chow | Kung Fu Hustle,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,New Police Story,,False,Benny Chan Muk-Sing | New Police Story,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Breaking News,,False,Johnnie To | Breaking News,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Johnnie To,Election,True,2005 (25th) | Johnnie To | Election | [ 26 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,2 Young,,False,Derek Yee | 2 Young,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Initial D,,False,Andrew Lau and Alan Mak | Initial D,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Perhaps Love,,False,Peter Chan | Perhaps Love,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Seven Swords,,False,Tsui Hark | Seven Swords,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Patrick Tam,After This Our Exile,True,2006 (26th) | Patrick Tam | After This Our Exile | [ 27 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,A Battle of Wits,,False,Jacob Cheung | A Battle of Wits,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Election 2,,False,Johnnie To | Election 2,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Exiled,,False,Johnnie To | Exiled,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Curse of the Golden Flower,,False,Zhang Yimou | Curse of the Golden Flower,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Peter Chan,The Warlords,True,2007 (27th) | Peter Chan | The Warlords | [ 28 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,The Postmodern Life of My Aunt,,False,Ann Hui | The Postmodern Life of My Aunt,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Eye in the Sky,,False,Yau Nai-Hoi | Eye in the Sky,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Mad Detective,,False,Johnnie To and Wai Ka-fai | Mad Detective,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Protégé,,False,Derek Yee | Protégé,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Ann Hui,The Way We Are,True,2008 (28th) | Ann Hui | The Way We Are | [ 29 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Connected,,False,Benny Chan | Connected,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Red Cliff,,False,John Woo | Red Cliff,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Sparrow,,False,Johnnie To | Sparrow,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Ip Man,,False,Wilson Yip | Ip Man,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Teddy Chan,Bodyguards and Assassins,True,2009 (29th) | Teddy Chan | Bodyguards and Assassins | [ 30 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Night and Fog,,False,Ann Hui | Night and Fog,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Red Cliff II,,False,John Woo | Red Cliff II,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Shinjuku Incident,,False,Derek Yee | Shinjuku Incident,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Overheard,,False,Alan Mak and Felix Chong | Overheard,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Tsui Hark,Detective Dee and the Mystery of the Phantom Flame,True,2010 (30th) | Tsui Hark | Detective Dee and the Mystery of the Phantom Flame | [ 31 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Gallants,,False,Derek Kwok and Clement Cheng | Gallants,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Ip Man 2,,False,Wilson Yip | Ip Man 2,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Reign of Assassins,,False,Su Chao-pin | Reign of Assassins,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,The Stool Pigeon,,False,Dante Lam | The Stool Pigeon,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Ann Hui,A Simple Life,True,2011 (31st) | Ann Hui | A Simple Life | [ 32 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Life without Principle,,False,Johnnie To | Life without Principle,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Flying Swords of Dragon Gate,,False,Tsui Hark | Flying Swords of Dragon Gate,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Overheard 2,,False,Alan Mak and Felix Chong | Overheard 2,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Let the Bullets Fly,,False,Jiang Wen | Let the Bullets Fly,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Longman Leung and Sunny Luk,Cold War,True,2012 (32nd) | Longman Leung and Sunny Luk | Cold War | [ 33 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Motorway,,False,Soi Cheang | Motorway,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Love in the Buff,,False,Pang Ho-cheung | Love in the Buff,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,The Bullet Vanishes,,False,Lo Chi Leung | The Bullet Vanishes,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,The Viral Factor,,False,Dante Lam | The Viral Factor,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Wong Kar Wai,The Grandmaster,True,2013 (33rd) | Wong Kar Wai | The Grandmaster | [ 34 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Drug War,,False,Johnnie To | Drug War,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,The White Storm,,False,Benny Chan | The White Storm,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,As the Light Goes Out,,False,Derek Kwok | As the Light Goes Out,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Unbeatable,,False,Dante Lam | Unbeatable,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Ann Hui,The Golden Era,True,2014 (34th) | Ann Hui | The Golden Era | [ 35 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,The Midnight After,,False,Fruit Chan | The Midnight After,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Dearest,,False,Peter Chan | Dearest,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,That Demon Within,,False,Dante Lam | That Demon Within,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Overheard 3,,False,Alan Mak and Felix Chong | Overheard 3,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Tsui Hark,The Taking Of Tiger Mountain,True,2015 (35th) | Tsui Hark | The Taking Of Tiger Mountain | [ 36 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Little Big Master,,False,Adrian Kwan | Little Big Master,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,I Am Somebody,,False,Derek Yee | I Am Somebody,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Ip Man 3,,False,Wilson Yip | Ip Man 3,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Port of Call,,False,Philip Yung Tsz Kwong | Port of Call,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,"Frank Hui , Jevons Au and Vicky Wong",Trivisa,True,"2016 (36th) | Frank Hui , Jevons Au and Vicky Wong | Trivisa | [ 37 ]",https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Mad World,,False,Wong Chun | Mad World,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Soul Mate,,False,Derek Tsang | Soul Mate,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Three,,False,Johnnie To | Three,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,The Mermaid,,False,Stephen Chow | The Mermaid,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Ann Hui,Our Time Will Come,True,2017 (37th) | Ann Hui | Our Time Will Come | [ 38 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,29+1,,False,Kearen Pang | 29+1,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Shock Wave,,False,Herman Yau | Shock Wave,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Love Education,,False,Sylvia Chang | Love Education,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Paradox,,False,Wilson Yip | Paradox,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Felix Chong,Project Gutenberg,True,2018 (38th) | Felix Chong | Project Gutenberg | [ 39 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Three Husbands,,False,Fruit Chan | Three Husbands,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Operation Red Sea,,False,Dante Lam | Operation Red Sea,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Men On The Dragon,,False,Sunny Chan | Men On The Dragon,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Still Human,,False,Oliver Chan | Still Human,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Derek Tsang,Better Days,True,2019 (39th) | Derek Tsang | Better Days | [ 40 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Beyond the Dream,,False,Kiwi Chow | Beyond the Dream,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Suk Suk,,False,Ray Yeung | Suk Suk,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Fagara,,False,Heiward Mak | Fagara,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Ip Man 4: The Finale,,False,Wilson Yip | Ip Man 4: The Finale,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Benny Chan,Raging Fire,True,2020 and 2021 (40th) | Benny Chan | Raging Fire | [ 41 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Leap,,False,Peter Chan | Leap,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Limbo,,False,Soi Cheang | Limbo,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Anita,,False,Longman Leung | Anita,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Keep Rolling,,False,Man Lim-chung | Keep Rolling,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Wai Ka-fai,Detective vs Sleuths,True,2022 (41st) | Wai Ka-fai | Detective vs Sleuths | [ 42 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,The Sparring Partner,,False,Ho Cheuk-tin | The Sparring Partner,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,The Narrow Road,,False,Lam Sum | The Narrow Road,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,To My Nineteen Year Old Self,,False,Mabel Cheung and William Kwok | To My Nineteen Year Old Self,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Table for Six,,False,Sunny Chan | Table for Six,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Soi Cheang,Mad Fate,True,2023 (42nd) | Soi Cheang | Mad Fate | [ 43 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Time Still Turns the Pages,,False,Nick Cheuk | Time Still Turns the Pages,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,The Goldfinger,,False,Felix Chong | The Goldfinger,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,A Guilty Conscience,,False,Jack Ng | A Guilty Conscience,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,In Broad Daylight,,False,Lawrence Kan | In Broad Daylight,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Soi Cheang,Twilight of the Warriors: Walled In,True,2024 (43rd) | Soi Cheang | Twilight of the Warriors: Walled In | [ 44 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Papa,,False,Philip Yung and Au Cheuk-man | Papa,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,The Way We Talk,,False,Adam Wong | The Way We Talk,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,The Last Dance,,False,Anselm Chan | The Last Dance,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,All Shall Be Well,,False,Ray Yeung | All Shall Be Well,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Patrick Leung,Ciao UFO,True,2025 (44th) | Patrick Leung | Ciao UFO | [ 45 ],https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Girl,,False,Shu Qi | Girl,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Another World,,False,Tommy Ng | Another World,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Behind the Shadows,,False,"Jonathan Li , Chow Man-yu | Behind the Shadows",https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,She's Got No Name,,False,Peter Chan | She's Got No Name,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Ann Hui,"1982 , 1997 , 2008 , 2011 , 2014 , 2017",False,"6 | Ann Hui | 1982 , 1997 , 2008 , 2011 , 2014 , 2017",https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Allen Fong,"1981 , 1983 , 1986",False,"3 | Allen Fong | 1981 , 1983 , 1986",https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,"1999 , 2003 , 2005",,False,"Johnnie To | 1999 , 2003 , 2005",https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,"1991 , 2010 , 2015",,False,"Tsui Hark | 1991 , 2010 , 2015",https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,"1990 , 1994 , 2013",,False,"Wong Kar-wai | 1990 , 1994 , 2013",https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Derek Yee,"1993 , 2004",False,"2 | Derek Yee | 1993 , 2004",https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,"1996 , 2007",,False,"Peter Chan | 1996 , 2007",https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,"2023 , 2024",,False,"Soi Cheang | 2023 , 2024",https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Johnnie To,,False,18 | Johnnie To,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Ann Hui,,False,13 | Ann Hui,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Derek Yee,,False,10 | Derek Yee,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Peter Chan,,False,9 | Peter Chan,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Tsui Hark,,False,8 | Tsui Hark,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Alan Mak,,False,6 | Alan Mak,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Felix Chong,,False,5 | Felix Chong,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Gordon Chan,,False,4 | Gordon Chan,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Allen Fong,,False,3 | Allen Fong,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Ann Hui,6 wins,False,Most wins | Ann Hui | 6 wins | 13 nominations,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Johnnie To,18 nominations,False,Most nominations | Johnnie To | 18 nominations | 3 wins,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Ann Hui,"Age 70 years, 327 days",False,"Oldest winner | Ann Hui | Age 70 years, 327 days | For Our Time Will Come",https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Mabel Cheung,"Age 72 years, 150 days",False,"Oldest nominee | Mabel Cheung | Age 72 years, 150 days | For To My Nineteen-Year-Old Self",https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Stanley Kwan,"Age 31 years, 182 days",False,"Youngest winner | Stanley Kwan | Age 31 years, 182 days | For Rouge",https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Age 31 years,,False,Youngest nominee | Age 31 years,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director
+,Wilson Yip,6 nominations,False,Most nominations without a win | Wilson Yip | 6 nominations | ,https://en.wikipedia.org/wiki/Hong_Kong_Film_Award_for_Best_Director

@@ -1,0 +1,166 @@
+year,film,person,is_winner,raw_text,source_url
+,Voyage to Nowhere,El viaje a ninguna parte,True,1986 (1st) [ 1 ] [ 2 ] | Voyage to Nowhere | El viaje a ninguna parte | Fernando Fernán Gómez | Ganesh,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,27 horas,Montxo Armendáriz,False,27 Hours | 27 horas | Montxo Armendáriz | Elías Querejeta,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,La mitad del cielo,Manuel Gutiérrez Aragón,False,Half of Heaven | La mitad del cielo | Manuel Gutiérrez Aragón | Luis Megino,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,The Enchanted Forest,El bosque animado,True,1987 (2nd) | The Enchanted Forest | El bosque animado | José Luis Cuerda | Classic Films,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Divinas palabras,José Luis García Sánchez,False,"Divine Words | Divinas palabras | José Luis García Sánchez | Lola 2002, Ion Producciones",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,El Lute: camina o revienta,Vicente Aranda,False,El Lute: Run for Your Life | El Lute: camina o revienta | Vicente Aranda | Multivídeo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Women on the Verge of a Nervous Breakdown,Mujeres al borde de un ataque de nervios,True,"1988 (3rd) | Women on the Verge of a Nervous Breakdown | Mujeres al borde de un ataque de nervios | Pedro Almodóvar | El Deseo , Lauren Films",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Remando al viento,Gonzalo Suárez,False,"Rowing with the Wind | Remando al viento | Gonzalo Suárez | Ditirambo Films, Viking Films",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,El túnel,Antonio Drove,False,The Tunnel | El túnel | Antonio Drove | Santiago Cinematográfica,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Espérame en el cielo,Antonio Mercero,False,Wait for Me in Heaven | Espérame en el cielo | Antonio Mercero | B.M.G. Films,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Diario de invierno,Francisco Regueiro,False,Winter Diary | Diario de invierno | Francisco Regueiro | Castor Films,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Twisted Obsession,El sueño del mono loco,True,"1989 (4th) | Twisted Obsession | El sueño del mono loco | Fernando Trueba | X Y Z Desarrollos, French Production, International Production, Sofica Valor",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Josefina Molina,Sabre Films,False,Esquilache | Josefina Molina | Sabre Films,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Montoyas y Tarantos,Vicente Escrivá,False,Montoyas y Tarantos | Montoyas y Tarantos | Vicente Escrivá | C.V.C,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,El niño de la luna,Agustí Villaronga,False,Moon Child | El niño de la luna | Agustí Villaronga | Ganesh,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,El mar y el tiempo,Fernando Fernán Gómez,False,The Sea and the Weather | El mar y el tiempo | Fernando Fernán Gómez | Ion Producciones,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,¡Ay Carmela!,Carlos Saura,True,"1990 (5th) | ¡Ay Carmela! | Carlos Saura | Iberoamericana Films, Ellepi Films",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Las cartas de Alou,Montxo Armendáriz,False,Letters from Alou | Las cartas de Alou | Montxo Armendáriz | Elías Querejeta,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,¡Átame!,Pedro Almodóvar,False,Tie Me Up! Tie Me Down! | ¡Átame! | Pedro Almodóvar | El Deseo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Lovers,Amantes,True,1991 (6th) | Lovers | Amantes | Vicente Aranda | Pedro Costa,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Don Juan en los infiernos,Gonzalo Suárez,False,Don Juan in Hell | Don Juan en los infiernos | Gonzalo Suárez | Ditirambo Films,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,El rey pasmado,Imanol Uribe,False,"The Dumbfounded King | El rey pasmado | Imanol Uribe | Siete Films, Ariane Films, Arion Productions, Infor Filmes",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Belle Époque,Fernando Trueba,True,"1992 (7th) | Belle Époque | Fernando Trueba | Fernando Trueba , Lolafilms",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,El maestro de esgrima,Pedro Olea,False,"The Fencing Master | El maestro de esgrima | Pedro Olea | Altube Filmeak, Origen P.C.",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,"Jamón, jamón",Bigas Luna,False,"A Tale of Ham and Passion | Jamón, jamón | Bigas Luna | Lolafilms, Ovideo",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Everyone to Jail,Todos a la cárcel,True,"1993 (8th) | Everyone to Jail | Todos a la cárcel | Luis García Berlanga | Sogetel, Central de Producciones Audiovisuales, Antea Films",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Intruso,Vicente Aranda,False,Intruder | Intruso | Vicente Aranda | Pedro Costa,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Sombras en una batalla,Mario Camus,False,Shadows in a Conflict | Sombras en una batalla | Mario Camus | Cayo Largo Films,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Running Out of Time,Días contados,True,"1994 (9th) | Running Out of Time | Días contados | Imanol Uribe | Aiete Films, Ariane Films",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Canción de cuna,José Luis Garci,False,Cradle Song | Canción de cuna | José Luis Garci | Nickel Odeon Dos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,La pasión turca,Vicente Aranda,False,"Turkish Passion | La pasión turca | Vicente Aranda | Lolafilms, Cartel",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Nobody Will Speak of Us When We're Dead,Nadie hablará de nosotras cuando hayamos muerto,True,"1995 (10th) | Nobody Will Speak of Us When We're Dead | Nadie hablará de nosotras cuando hayamos muerto | Agustín Díaz Yanes | Flamenco Films, Xaloc",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,El día de la bestia,Álex de la Iglesia,False,"The Day of the Beast | El día de la bestia | Álex de la Iglesia | Sogetel, Iberoamericana Films, M.G.S.R.L.",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Boca a boca,Manuel Gómez Pereira,False,"Mouth to Mouth | Boca a boca | Manuel Gómez Pereira | Boca a Boca Producciones, Sogetel",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Thesis,Tesis,True,1996 (11th) | Thesis | Tesis | Alejandro Amenábar | Las Producciones del Escorpión,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,El perro del hortelano,Pilar Miró,False,"The Dog in the Manger | El perro del hortelano | Pilar Miró | Enrique Cerezo , Cartel, Lolafilms",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Imanol Uribe,"Origen, Aurum, Cartel",False,"Bwana | Imanol Uribe | Origen, Aurum, Cartel",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,The Lucky Star,La buena estrella,True,"1997 (12th) | The Lucky Star | La buena estrella | Ricardo Franco | Enrique Cerezo , Pedro Costa",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Martín,Adolfo Aristarain,False,"Martín (Hache) | Martín (Hache) | Adolfo Aristarain | Tornasol Films, Adolfo Aristarain",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Secretos del corazón,Montxo Armendáriz,False,"Secrets of the Heart | Secretos del corazón | Montxo Armendáriz | Aiete Films, Ariane Films",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,The Girl of Your Dreams,La niña de tus ojos,True,"1998 (13th) | The Girl of Your Dreams | La niña de tus ojos | Fernando Trueba | Cartel, Fernando Trueba , Lolafilms",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Fernando León de Aranoa,"Sociedad General de Cine, Elías Querejeta , Mact Productions, MGN Filmes",False,"Barrio | Fernando León de Aranoa | Sociedad General de Cine, Elías Querejeta , Mact Productions, MGN Filmes",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,El abuelo,José Luis Garci,False,The Grandfather | El abuelo | José Luis Garci | Nickel Odeon Dos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Abre los ojos,Alejandro Amenábar,False,"Open Your Eyes | Abre los ojos | Alejandro Amenábar | Sociedad General de Cine, Las Producciones del Escorpión, Alain Sarde, Lucky Red",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,All About My Mother,Todo sobre mi madre,True,"1999 (14th) | All About My Mother | Todo sobre mi madre | Pedro Almodóvar | El Deseo , Rend Productions, France2 Cinema",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Solas,Benito Zambrano,False,Alone | Solas | Benito Zambrano | Maestranza Films,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,La lengua de las mariposas,José Luis Cuerda,False,"Butterfly | La lengua de las mariposas | José Luis Cuerda | Las Producciones del Escorpión, Sogetel",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Cuando vuelvas a mi lado,Gracia Querejeta,False,"By My Side Again | Cuando vuelvas a mi lado | Gracia Querejeta | SOGECINE, Elías Querejeta , Albares Productions",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Pellet,El bola,True,2000 (15th) | Pellet | El bola | Achero Mañas | Tesela,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,La comunidad,Álex de la Iglesia,False,Common Wealth | La comunidad | Álex de la Iglesia | Lolafilms,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,José Luis Borau,El Imán Cine y Televisión,False,Leo | José Luis Borau | El Imán Cine y Televisión,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Una historia de entonces,José Luis Garci,False,"You're the One | Una historia de entonces | José Luis Garci | Nickel Odeón Dos, Enrique Cerezo",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,The Others,Los otros,True,"2001 (16th) | The Others | Los otros | Alejandro Amenábar | SOGECINE, Las Producciones del Escorpión",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Sin noticias de Dios,Agustín Díaz Yanes,False,"Don't Tempt Me | Sin noticias de Dios | Agustín Díaz Yanes | Flamenco Films, Tornasol Films, Cartel, Ensueño Films, Telemadrid",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Juana la Loca,Vicente Aranda,False,Mad Love | Juana la Loca | Vicente Aranda | Enrique Cerezo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Lucía y el sexo,Julio Medem,False,Sex and Lucia | Lucía y el sexo | Julio Medem | SOGECINE,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Mondays in the Sun,Los lunes al sol,True,"2002 (17th) | Mondays in the Sun | Los lunes al sol | Fernando León de Aranoa | Elías Querejeta , Mediapro",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,En la ciudad sin límites,Antonio Hernández,False,"The City of No Limits | En la ciudad sin límites | Antonio Hernández | Zebra Producciones Icónica, Patagonik Film Group",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,El otro lado de la cama,Emilio Martínez Lázaro,False,"The Other Side of the Bed | El otro lado de la cama | Emilio Martínez Lázaro | Telespan 2000, Impala",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Hable con ella,Pedro Almodóvar,False,Talk to Her | Hable con ella | Pedro Almodóvar | El Deseo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Take My Eyes,Te doy mis ojos,True,"2003 (18th) | Take My Eyes | Te doy mis ojos | Icíar Bollaín | Producciones La Iguana, Alta Producción",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Planta 4ª,Antonio Mercero,False,The 4th Floor | Planta 4ª | Antonio Mercero | Bocaboca Producciones,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Mi vida sin mí,Isabel Coixet,False,"My Life Without Me | Mi vida sin mí | Isabel Coixet | El Deseo , Milestones Productions",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Soldados de Salamina,David Trueba,False,"Soldiers of Salamina | Soldados de Salamina | David Trueba | LolaFilms, Fernando Trueba",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,The Sea Inside,Mar adentro,True,"2004 (19th) | The Sea Inside | Mar adentro | Alejandro Amenábar | SOGECINE, Himenóptero, UGC Images, Eyescreen",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,La mala educación,Pedro Almodóvar,False,Bad Education | La mala educación | Pedro Almodóvar | El Deseo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Roma,Adolfo Aristarain,False,"Roma | Roma | Adolfo Aristarain | Tesela, Aristarain",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Tiovivo c. 1950,José Luis Garci,False,"Tiovivo c. 1950 | Tiovivo c. 1950 | José Luis Garci | Enrique Cerezo , Productora Cinematográfica Veintinueve, Nickel Odeón Dos",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,The Secret Life of Words,La vida secreta de las palabras,True,"2005 (20th) | The Secret Life of Words | La vida secreta de las palabras | Isabel Coixet | El Deseo , Mediapro",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,7 vírgenes,Alberto Rodríguez,False,"7 Virgins | 7 vírgenes | Alberto Rodríguez | Tesela Producciones Cinematográficas, La Zanfoña Producciones",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Montxo Armendáriz,"Oria Films, Pandora Film, Neue Impuls Films",False,"Obaba | Montxo Armendáriz | Oria Films, Pandora Film, Neue Impuls Films",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Fernando León de Aranoa,Reposado Producciones Cinematográficas,False,Princesas | Fernando León de Aranoa | Reposado Producciones Cinematográficas,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Volver,Pedro Almodóvar,True,2006 (21st) | Volver | Pedro Almodóvar | El Deseo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Agustín Díaz Yanes,"Estudios Picasso Fábrica de Ficción, Origen, NBC Universal Global Networks España",False,"Alatriste | Agustín Díaz Yanes | Estudios Picasso Fábrica de Ficción, Origen, NBC Universal Global Networks España",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,El laberinto del fauno,Guillermo del Toro,False,"Pan's Labyrinth | El laberinto del fauno | Guillermo del Toro | Estudios Picasso Fábrica de Ficción, Tequila Gang, Esperanto Filmok",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Salvador,Manuel Huerga,False,"Salvador | Salvador (Puig Antich) | Manuel Huerga | Mediapro, Future Films",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Solitary Fragments,La soledad,True,"2007 (22nd) | Solitary Fragments | La soledad | Jaime Rosales | Fresdeval Films, Wanda Visión, In Vitro Films",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Las 13 rosas,Emilio Martínez Lázaro,False,"13 Roses | Las 13 rosas | Emilio Martínez Lázaro | Enrique Cerezo , Pedro Costa",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,El orfanato,Juan Antonio Bayona,False,"The Orphanage | El orfanato | Juan Antonio Bayona | Rodar y Rodar, Telecinco Cinema",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Siete mesas de billar francés,Gracia Querejeta,False,"Seven Billiard Tables | Siete mesas de billar francés | Gracia Querejeta | Elías Querejeta , Ensueño Films, Enrique Cerezo",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Camino,Javier Fesser,True,"2008 (23rd) | Camino | Javier Fesser | Mediaproducción, Películas Pendelton",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Los girasoles ciegos,José Luis Cuerda,False,"The Blind Sunflowers | Los girasoles ciegos | José Luis Cuerda | Sociedad General de Cine, Producciones a Modiño, Estudios Organizativos y Proyectos Cinematográficos, Producciones Labarouta",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Sólo quiero caminar,Agustín Díaz Yanes,False,"Just Walking | Sólo quiero caminar | Agustín Díaz Yanes | Boomerang T.V., Antena 3 Films , Canana Films",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Los crímenes de Oxford,Álex de la Iglesia,False,"The Oxford Murders | Los crímenes de Oxford | Álex de la Iglesia | Tornasol, Telecinco Cinema",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Cell 211,Celda 211,True,"2009 (24th) | Cell 211 | Celda 211 | Daniel Monzón | Álvaro Augustín, Emma Lustres, Borja Pena, Juan Gordon",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Ágora,Alejandro Amenábar,False,"Agora | Ágora | Alejandro Amenábar | Álvaro Augustín, Fernando Bovaira, Pablo Alfaro, Simón de Santiago, Alejandro Amenábar",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,El baile de la victoria,Fernando Trueba,False,The Dancer and the Thief | El baile de la victoria | Fernando Trueba | Fernando Trueba,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,El secreto de sus ojos,Juan José Campanella,False,"The Secret in Their Eyes | El secreto de sus ojos | Juan José Campanella | Vanesa Ragone, Gerardo Herrero",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Black Bread,Pa negre,True,"2010 (25th) | Black Bread | Pa negre | Agustí Villaronga | Isona Passola, Elisa Plaza",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Balada triste de trompeta,Álex de la Iglesia,False,"The Last Circus | Balada triste de trompeta | Álex de la Iglesia | Gerardo Herrero, Franck Ribiere, Verane Frediani",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Buried,Rodrigo Cortés,False,"Buried | Buried (Enterrado) | Rodrigo Cortés | Adrian Guerra, Alejandro Miranda",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,También la lluvia,Icíar Bollaín,False,"Even the Rain | También la lluvia | Icíar Bollaín | Juan Gordon, Mónica Lozano, Eric Altmayer",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,No Rest for the Wicked,No habrá paz para los malvados,True,"2011 (26th) | No Rest for the Wicked | No habrá paz para los malvados | Enrique Urbizu | Alvaro Augustin, Gonzalo Salazar-Simpson",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Mateo Gil,"Andrés Santana, Ibon Cormenzana",False,"Blackthorn | Mateo Gil | Andrés Santana, Ibon Cormenzana",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,La piel que habito,Pedro Almodóvar,False,"The Skin I Live In | La piel que habito | Pedro Almodóvar | Agustín Almodóvar , Esther García",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,La voz dormida,Benito Zambrano,False,The Sleeping Voice | La voz dormida | Benito Zambrano | Antonio Pérez Pérez,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Blancanieves,Pablo Berger,True,"2012 (27th) | Blancanieves | Pablo Berger | Ángel Durández, Jérôme Vidal, Ibon Cormenzana",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,El artista y la modelo,Fernando Trueba,False,The Artist and the Model | El artista y la modelo | Fernando Trueba | Cristina Huete,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Grupo 7,Alberto Rodríguez,False,Unit 7 | Grupo 7 | Alberto Rodríguez | José Antonio Félez Aznar,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Lo imposible,Juan Antonio Bayona,False,"The Impossible | Lo imposible | Juan Antonio Bayona | Álvaro Agustin, Ghislain Barrois, Enrique López Lavigne, Belén Atienza",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Living Is Easy with Eyes Closed,Vivir es fácil con los ojos cerrados,True,2013 (28th) | Living Is Easy with Eyes Closed | Vivir es fácil con los ojos cerrados | David Trueba | Cristina Huete,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,15 años y un día,Gracia Querejeta,False,15 Years and One Day | 15 años y un día | Gracia Querejeta | Gerardo Herrero,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Caníbal,Manuel Martín Cuenca,False,"Cannibal | Caníbal | Manuel Martín Cuenca | Alejandro Hernández, Manuel Martín Cuenca , Fernando Bovaira, Simón de Santiago",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,La gran familia española,Daniel Sánchez Arévalo,False,"Family United | La gran familia española | Daniel Sánchez Arévalo | Mercedes Gamero , José Antonio Feléz, Fernando Bovaira",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,La herida,Fernando Franco,False,"Wounded | La herida | Fernando Franco | Koldo Zuazua, Mario Madueño Cobo, Samuel Martínez, Roberto Butragueño Sánchez, Manuel Calvo, Fernando Franco",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Marshland,La isla mínima,True,"2014 (29th) | Marshland | La isla mínima | Alberto Rodríguez | Mikel Lejarza , Mercedes Gamero , José Antonio Félez, Gervasio Iglesias",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Daniel Monzón,"Edmon Roch, Álvaro Augustin, Ghislain Barrois, Javier Ugarte, Borja Pena, Franck Ribière",False,"El Niño | Daniel Monzón | Edmon Roch, Álvaro Augustin, Ghislain Barrois, Javier Ugarte, Borja Pena, Franck Ribière",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Loreak,"Jon Garaño , José Mari Goenaga",False,"Loreak (Flowers) | Loreak | Jon Garaño , José Mari Goenaga | Xabier Berzosa, Fernando Larrondo, Iñigo Obeso, Aitor Arregi , Iñaki Gómez",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Relatos salvajes,Damián Szifrón,False,"Wild Tales | Relatos salvajes | Damián Szifrón | Hugo Sigman, Matías Mosteirín, Agustín Almodóvar , Pedro Almodóvar , Esther García",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Carlos Vermut,Pedro Hernández Santos,False,Magical Girl | Carlos Vermut | Pedro Hernández Santos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Truman,Cesc Gay,True,"2015 (30th) | Truman | Cesc Gay | Marta Esteban, Diego Dubcovsky",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,A cambio de nada,Daniel Guzmán,False,"Nothing in Return | A cambio de nada | Daniel Guzmán | César Rodríguez, Iñigo Pérez, Javier Pérez, Joaquín Zamora, Daniel Guzmán , Álvaro Begines, Axel Kuschevatzky, Gabriel Arias-Salgado, Ignacio Fernández-Vega, Miriam Ruiz",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,La novia,Paula Ortiz,False,"The Bride | La novia | Paula Ortiz | Rosana Tomas, Álex Lafuente",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Nadie quiere la noche,Isabel Coixet,False,"Nobody Wants the Night | Nadie quiere la noche | Isabel Coixet | Andrés Santana, Antonia Nava, Jaume Roures, Javier Méndez",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Un día perfecto,Fernando León de Aranoa,False,"A Perfect Day | Un día perfecto | Fernando León de Aranoa | Fernando León de Aranoa , Patricia de Muns, Jaume Roures, Javier Méndez",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,The Fury of a Patient Man,Tarde para la ira,True,"2016 (31st) | The Fury of a Patient Man | Tarde para la ira | Raúl Arévalo | Agosto, La Película, La Canica Films",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,El hombre de las mil caras,Alberto Rodríguez,False,"Smoke & Mirrors | El hombre de las mil caras | Alberto Rodríguez | Atresmedia Cine , El espía de las mil caras, DTS Distribuidora de televisión digital, Atípica Films, Sacromonte Films, Zeta Audiovisual",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Pedro Almodóvar,El Deseo,False,Julieta | Pedro Almodóvar | El Deseo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Que Dios nos perdone,Rodrigo Sorogoyen,False,"May God Save Us | Que Dios nos perdone | Rodrigo Sorogoyen | Mistery Producciones, Atresmedia Cine , Hernández y Fernández Producciones Cinematográficas, Tornasol Films",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Un monstruo viene a verme,J. A. Bayona,False,"A Monster Calls | Un monstruo viene a verme | J. A. Bayona | A Monster Calls, Telecinco Cinema , Apaches Entertainment, Películas La Trini",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,The Bookshop,La librería,True,"2017 (32nd) [ 3 ] [ 4 ] [ 5 ] | The Bookshop | La librería | Isabel Coixet | Green Films, Zephyr Films, A Contracorriente Films, Diagonal Televisió",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Handia,"Aitor Arregi , Jon Garaño",False,"Giant | Handia | Aitor Arregi , Jon Garaño | Aundiya Film, Irusoin, Kowalski Films, Moriarti Produkzioak",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,El autor,Manuel Martín Cuenca,False,"The Motive | El autor | Manuel Martín Cuenca | La Loma Blanca, Lazona Producciones, Icónica Producciones, Alebrije Cine y Vídeo, Lazona Films",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Estiu 1993,Carla Simón,False,"Summer 1993 | Estiu 1993 | Carla Simón | Inicia Films, Avalon Productora Cinematográfica",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Verónica,Paco Plaza,False,"Veronica | Verónica | Paco Plaza | Expediente La Película, Apache Films",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Champions,Campeones,True,"2018 (33rd) [ 6 ] | Champions | Campeones | Javier Fesser | Rey de Babia, Morena Films, Películas Pendelton, Telefónica Studios",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Carmen y Lola,Arantxa Echevarría,False,Carmen & Lola | Carmen y Lola | Arantxa Echevarría | Tvtec Servicios Audiovisuales,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,El reino,Rodrigo Sorogoyen,False,"The Realm | El reino | Rodrigo Sorogoyen | Trianera Producciones Cinematográficas, Atresmedia Cine , Bowfinger International Pictures, Tornasol Films",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Entre dos aguas,Isaki Lacuesta,False,Between Two Waters | Entre dos aguas | Isaki Lacuesta | La Termita Films,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Todos lo saben,Asghar Farhadi,False,"Everybody Knows | Todos lo saben | Asghar Farhadi | Memento Films, Lucky Red, Morena Films",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Pain and Glory,Dolor y gloria,True,2019 (34th) [ 7 ] | Pain and Glory | Dolor y gloria | Pedro Almodóvar | El Deseo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Intemperie,Benito Zambrano,False,Out in the Open | Intemperie | Benito Zambrano | Morena Films,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,La trinchera infinita,"Aitor Arregi , Jon Garaño , José Mari Goenaga",False,"The Endless Trench | La trinchera infinita | Aitor Arregi , Jon Garaño , José Mari Goenaga | La Trinchera Film, Manny Films, Irusoin, La Claqueta, Moriarti Produkzioak",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,O que arde,Oliver Laxe,False,"Fire Will Come | O que arde | Oliver Laxe | 4 A 4 Productions, Kowalski Films, Miramemira, Tarantula Luxembourg",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Mientras dure la guerra,Alejandro Amenábar,False,"While at War | Mientras dure la guerra | Alejandro Amenábar | Telefónica Audiovisual Digital, Mientras dure la guerra, K&S Films, Himenóptero, Mod Producciones",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Schoolgirls,Las niñas,True,"2020 (35th) [ 8 ] | Schoolgirls | Las niñas | Pilar Palomero | Las Niñas Majicas, Inicia Films, Bteam Prods",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Salvador Calvo,"Un Mundo Prohibido, Telecinco Cinema , Ikiru Films, La Terraza Films",False,"Adú | Salvador Calvo | Un Mundo Prohibido, Telecinco Cinema , Ikiru Films, La Terraza Films",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Ane,David Pérez Sañudo,False,Ane Is Missing | Ane | David Pérez Sañudo | Amania Films,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,La boda de Rosa,Icíar Bollaín,False,"Rosa's Wedding | La boda de Rosa | Icíar Bollaín | La Boda de Rosa La Película, Turanga Films, Setembro Cine, Tandem Films",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Sentimental,Cesc Gay,False,"The People Upstairs | Sentimental | Cesc Gay | Sentimentalfilm, Imposible Films",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,The Good Boss,El buen patrón,True,"2021 (36th) [ 9 ] [ 10 ] | The Good Boss | El buen patrón | Fernando León de Aranoa | Fernando León de Aranoa , Jaume Roures, Javier Méndez",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Icíar Bollaín,"Guillermo Sempere, Juan Moreno, Koldo Zuazua",False,"Maixabel | Icíar Bollaín | Guillermo Sempere, Juan Moreno, Koldo Zuazua",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Clara Roquet,"María Zamora Morcillo, Sergi Moreno, Stefan Schmitz, Tono Folguera",False,"Libertad | Clara Roquet | María Zamora Morcillo, Sergi Moreno, Stefan Schmitz, Tono Folguera",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Madres paralelas,Pedro Almodóvar,False,"Parallel Mothers | Madres paralelas | Pedro Almodóvar | Agustín Almodóvar , Esther García",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Mediterráneo,Marcel Barrena,False,"Mediterraneo: The Law of the Sea | Mediterráneo | Marcel Barrena | Adrià Monés, Ibon Cormenzana, Ignasi Estapé, Sandra Tapia, Sergi Moreno, Tono Folguera",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,The Beasts,As bestas,True,"2022 (37th) [ 11 ] | The Beasts | As bestas | Rodrigo Sorogoyen | Anne-Laure Labadie, Eduardo Villanueva, Ibon Cormenzana, Ignasi Estapé, Jean Labadie, Nacho Lavilla, Rodrigo Sorogoyen , Sandra Tapia, Thomas Pibarot",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Carla Simón,"María Zamora Morcillo, Sergi Moreno, Stefan Schmitz, Tono Folguera",False,"Alcarràs | Carla Simón | María Zamora Morcillo, Sergi Moreno, Stefan Schmitz, Tono Folguera",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Cinco lobitos,Alauda Ruiz de Azúa,False,"Lullaby | Cinco lobitos | Alauda Ruiz de Azúa | Manu Calvo, Marisa Fernández Armenteros, Nahikari Ipiña",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,La maternal,Pilar Palomero,False,"Motherhood | La maternal | Pilar Palomero | Alex Lafuente, Valérie Delpierre",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Modelo 77,Alberto Rodríguez,False,"Prison 77 | Modelo 77 | Alberto Rodríguez | Alberto Félez, Domingo Corral, Gervasio Iglesias, José Antonio Félez",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Society of the Snow,La sociedad de la nieve,True,"2023 (38th) [ 12 ] [ 13 ] | Society of the Snow | La sociedad de la nieve | J. A. Bayona | Belén Atienza, J. A. Bayona , Sandra Hermida Muñiz",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,20.000 especies de abejas,Estibaliz Urresola Solaguren,False,"20,000 Species of Bees | 20.000 especies de abejas | Estibaliz Urresola Solaguren | Lara Izagirre Garizurieta, Valérie Delpierre",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Cerrar los ojos,Víctor Erice,False,"Close Your Eyes | Cerrar los ojos | Víctor Erice | Agustín Bossi, Cristina Zumárraga, José Alba, Maximiliano Lasansky, Odile Antonio-Baez, Pablo E. Bossi, Pol Bossi, Víctor Erice",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Isabel Coixet,"Marisa Fernández Armenteros, Sandra Hermida Muñiz",False,"Un amor | Isabel Coixet | Marisa Fernández Armenteros, Sandra Hermida Muñiz",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Saben aquell,David Trueba,False,"Jokes & Cigarettes | Saben aquell | David Trueba | Edmon Roch, Jaime Ortiz de Artiñano",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,The 47,El 47,True,"2024 (39th) [ 14 ] | The 47 | El 47 | Marcel Barrena | Javier Méndez, Laura Fernández Espeso",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,La infiltrada,Arantxa Echevarría,True,"Undercover | La infiltrada | Arantxa Echevarría | Álvaro Ariza, María Luisa Gutiérrez, Mercedes Gamero , Pablo Nogueroles",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,La estrella azul,Javier Macipe,False,"The Blue Star | La estrella azul | Javier Macipe | Amelia Hernández, Hernán Musaluppi, Simón de Santiago",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Casa en flames,Dani de la Orden,False,"A House on Fire | Casa en flames | Dani de la Orden | Alberto Aranda, Ana Eiras, Ariens Damsi, Bernat Saumell, Dani de la Orden , Jaime Ortiz de Artiñano, Kike Maíllo, Toni Carrizosa",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Segundo premio,"Isaki Lacuesta , Pol Rodríguez",False,"Saturn Return | Segundo premio | Isaki Lacuesta , Pol Rodríguez | Cristóbal García",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Sundays,Los domingos,True,"2025 (40th) [ 15 ] | Sundays | Los domingos | Alauda Ruiz de Azúa | Manu Calvo, Marisa Fernández Armenteros, Nahikari Ipiña, Sandra Hermida",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,La cena,Manuel Gómez Pereira,False,"The Dinner | La cena | Manuel Gómez Pereira | Cristóbal García, Lina Badenes, Roberto Butragueño",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,"Jose Mari Goenaga, Aitor Arregi","Ander Barinaga-Rementeria , Ander Sagardoy Múgica, Fernando Larrondo, Xabier Berzosa",False,"Maspalomas | Jose Mari Goenaga, Aitor Arregi | Ander Barinaga-Rementeria , Ander Sagardoy Múgica, Fernando Larrondo, Xabier Berzosa",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Oliver Laxe,"Agustín Almodóvar , Esther García , Oriol Maymó, Xavi Font",False,"Sirāt | Oliver Laxe | Agustín Almodóvar , Esther García , Oriol Maymó, Xavi Font",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film
+,Sorda,Eva Libertad,False,"Deaf | Sorda | Eva Libertad | Adolfo Blanco, Miriam Porté, Nuria Muñoz Ortín",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Film

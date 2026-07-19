@@ -1,0 +1,234 @@
+year,film,person,is_winner,raw_text,source_url
+,Gianni Franciolini,Roman Tales,True,1955/56 | Gianni Franciolini | Roman Tales | Racconti romani,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Nights of Cabiria,Le notti di Cabiria,True,Federico Fellini | Nights of Cabiria | Le notti di Cabiria,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Tempest,La tempesta,True,Alberto Lattuada | Tempest | La tempesta,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Federico Fellini,La dolce vita,True,1959/60 (5th) | Federico Fellini | La dolce vita,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,La notte,,True,Michelangelo Antonioni | La notte,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Il posto,,True,Ermanno Olmi | Il posto,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,The Condemned of Altona,,True,Vittorio De Sica | The Condemned of Altona,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Seduced and Abandoned,,True,Pietro Germi | Seduced and Abandoned,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Marriage Italian-Style,,True,Vittorio De Sica | Marriage Italian-Style,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,The Moment of Truth,,True,Francesco Rosi | The Moment of Truth,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,"Me, Me, Me... and the Others",,True,"Alessandro Blasetti | Me, Me, Me... and the Others",https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,"The Birds, the Bees and the Italians",,True,"Pietro Germi | The Birds, the Bees and the Italians",https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Misunderstood,,True,Luigi Comencini | Misunderstood,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Bandits in Milan,,True,Carlo Lizzani | Bandits in Milan,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Romeo and Juliet,,True,Franco Zeffirelli | Romeo and Juliet,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Gillo Pontecorvo,Burn!,True,1969/70 (15th) | Gillo Pontecorvo | Burn!,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Death in Venice,,True,Luchino Visconti | Death in Venice,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,"Duck, You Sucker!",,True,"Sergio Leone | Duck, You Sucker!",https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,"Brother Sun, Sister Moon",,True,"Franco Zeffirelli | Brother Sun, Sister Moon",https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Ludwig,,True,Luchino Visconti | Ludwig,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Amarcord,,True,Federico Fellini | Amarcord,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Scent of a Woman,,True,Dino Risi | Scent of a Woman,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,My Friends,,True,Mario Monicelli | My Friends,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Illustrious Corpses,,True,Francesco Rosi | Illustrious Corpses,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,An Average Little Man,,True,Mario Monicelli | An Average Little Man,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,The Desert of the Tartars,,True,Valerio Zurlini | The Desert of the Tartars,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,A Special Day,,True,Ettore Scola | A Special Day,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Christ Stopped at Eboli,,True,Francesco Rosi | Christ Stopped at Eboli,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Marco Bellocchio,A Leap in the Dark,True,1979/80 (25th) | Marco Bellocchio | A Leap in the Dark,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Ogro,,True,Gillo Pontecorvo | Ogro,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Three Brothers,,True,Francesco Rosi | Three Brothers,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Eugenio,,False,Luigi Comencini | Eugenio,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Passion of Love,,False,Ettore Scola | Passion of Love,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Tales of Ordinary Madness,,True,Marco Ferreri | Tales of Ordinary Madness,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,The Opportunities of Rosa,,False,Salvatore Piscicelli | The Opportunities of Rosa,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Talcum Powder,,False,Carlo Verdone | Talcum Powder,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,The Night of the Shooting Stars,,True,Paolo and Vittorio Taviani | The Night of the Shooting Stars,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Blow to the Heart,,False,Gianni Amelio | Blow to the Heart,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,That Night in Varennes,,False,Ettore Scola | That Night in Varennes,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Le Bal,,True,Ettore Scola | Le Bal,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,And the Ship Sails On,,False,Federico Fellini | And the Ship Sails On,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Where's Picone?,,False,Nanni Loy | Where's Picone?,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Carmen,,True,Francesco Rosi | Carmen,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Bank Clerks,,False,Pupi Avati | Bank Clerks,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Kaos,,False,Paolo and Vittorio Taviani | Kaos,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Let's Hope It's a Girl,,True,Mario Monicelli | Let's Hope It's a Girl,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Ginger and Fred,,False,Federico Fellini | Ginger and Fred,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,The Mass Is Ended,,False,Nanni Moretti | The Mass Is Ended,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,The Family,,True,Ettore Scola | The Family,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Christmas Present,,False,Pupi Avati | Christmas Present,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,A Tale of Love,,False,Francesco Maselli | A Tale of Love,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,The Last Emperor,,True,Bernardo Bertolucci | The Last Emperor,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Intervista,,False,Federico Fellini | Intervista,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Dark Eyes,,False,Nikita Sergeevič Mikhalkov | Dark Eyes,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,The Legend of the Holy Drinker,,True,Ermanno Olmi | The Legend of the Holy Drinker,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Forever Mery,,False,Marco Risi | Forever Mery,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Cinema Paradiso,,False,Giuseppe Tornatore | Cinema Paradiso,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Mario Monicelli,Dark Illness,True,1989/90 (35th) | Mario Monicelli | Dark Illness,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Open Doors,,False,Gianni Amelio | Open Doors,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,The Story of Boys & Girls,,False,Pupi Avati | The Story of Boys & Girls,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,The Voice of the Moon,,False,Federico Fellini | The Voice of the Moon,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Street Kids,,False,Nanni Loy | Street Kids,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Red Wood Pigeon,,False,Nanni Moretti | Red Wood Pigeon,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Boys on the Outside,,True,Marco Risi | Boys on the Outside,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Ultrà,,True,Ricky Tognazzi | Ultrà,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Towards Evening,,False,Francesca Archibugi | Towards Evening,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,The Yes Man,,False,Daniele Luchetti | The Yes Man,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Mediterraneo,,False,Gabriele Salvatores | Mediterraneo,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,The Stolen Children,,True,Gianni Amelio | The Stolen Children,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,The Invisible Wall,,False,Marco Risi | The Invisible Wall,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Damned the Day I Met You,,False,Carlo Verdone | Damned the Day I Met You,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Jonah Who Lived in the Whale,,True,Roberto Faenza | Jonah Who Lived in the Whale,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,The Escort,,True,Ricky Tognazzi | The Escort,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,The Great Pumpkin,,False,Francesca Archibugi | The Great Pumpkin,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Let's Not Keep in Touch,,True,Carlo Verdone | Let's Not Keep in Touch,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Caro diario,,False,Nanni Moretti | Caro diario,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Father and Son,,False,Pasquale Pozzessere | Father and Son,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Nasty Love,,True,Mario Martone | Nasty Love,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Lamerica,,False,Gianni Amelio | Lamerica,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,No Skin,,False,Alessandro D'Alatri | No Skin,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,The Star Maker,,True,Giuseppe Tornatore | The Star Maker,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Stealing Beauty,,False,Bernardo Bertolucci | Stealing Beauty,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Celluloide,,False,Carlo Lizzani | Celluloide,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,August Vacation,,False,Paolo Virzì | August Vacation,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,The Truce,,True,Francesco Rosi | The Truce,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Marianna Ucrìa,,False,Roberto Faenza | Marianna Ucrìa,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,My Generation,,False,Wilma Labate | My Generation,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Nirvana,,False,Gabriele Salvatores | Nirvana,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,The Game Bag,,False,Maurizio Zaccaro | The Game Bag,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Life Is Beautiful,,True,Roberto Benigni | Life Is Beautiful,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Rehearsals for War,,False,Mario Martone | Rehearsals for War,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Ovosodo,,False,Paolo Virzì | Ovosodo,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,The Legend of 1900,,True,Giuseppe Tornatore | The Legend of 1900,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Besieged,,False,Bernardo Bertolucci | Besieged,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Fuori dal mondo,,False,Giuseppe Piccioni | Fuori dal mondo,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2000,Silvio Soldini,Bread and Tulips,True,2000 | Silvio Soldini | Bread and Tulips,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2000,Olympic Garage,,False,Marco Bechis | Olympic Garage,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2000,Canone inverso,,False,Ricky Tognazzi | Canone inverso,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2001,Gabriele Muccino,The Last Kiss,True,2001 | Gabriele Muccino | The Last Kiss,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2001,One Hundred Steps,,False,Marco Tullio Giordana | One Hundred Steps,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2001,The Son's Room,,False,Nanni Moretti | The Son's Room,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2002,Ermanno Olmi,The Profession of Arms,True,2002 | Ermanno Olmi | The Profession of Arms,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2002,Light of My Eyes,,False,Giuseppe Piccioni | Light of My Eyes,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2002,Burning in the Wind,,False,Silvio Soldini | Burning in the Wind,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2003,Pupi Avati,Incantato,True,2003 | Pupi Avati | Incantato,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2003,My Mother's Smile,,False,Marco Bellocchio | My Mother's Smile,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2003,The Embalmer,,False,Matteo Garrone | The Embalmer,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2003,"Remember Me, My Love",,False,"Gabriele Muccino | Remember Me, My Love",https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2003,Facing Windows,,False,Ferzan Özpetek | Facing Windows,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2004,Marco Tullio Giordana,The Best of Youth,True,2004 | Marco Tullio Giordana | The Best of Youth,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2004,Christmas Rematch,,False,Pupi Avati | Christmas Rematch,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2004,"Good Morning, Night",,False,"Marco Bellocchio | Good Morning, Night",https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2004,Don't Move,,False,Sergio Castellitto | Don't Move,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2004,First Love,,False,Matteo Garrone | First Love,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2005,Paolo Sorrentino,The Consequences of Love,True,2005 | Paolo Sorrentino | The Consequences of Love,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2005,The Keys to the House,,False,Gianni Amelio | The Keys to the House,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2005,After Midnight,,False,Davide Ferrario | After Midnight,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2005,A Children's Story,,False,Andrea and Antonio Frazzi | A Children's Story,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2005,Sacred Heart,,False,Ferzan Özpetek | Sacred Heart,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2006,Nanni Moretti,The Caiman,True,2006 | Nanni Moretti | The Caiman,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2006,Mario's War,,False,Antonio Capuano | Mario's War,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2006,Romanzo Criminale,,False,Michele Placido | Romanzo Criminale,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2006,Our Land,,False,Sergio Rubini | Our Land,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2006,My Best Enemy,,False,Carlo Verdone | My Best Enemy,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2007,Giuseppe Tornatore,The Unknown Woman,True,2007 | Giuseppe Tornatore | The Unknown Woman,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2007,The Wedding Director,,False,Marco Bellocchio | The Wedding Director,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2007,Nuovomondo,,False,Emanuele Crialese | Nuovomondo,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2007,My Brother is an Only Child,,False,Daniele Luchetti | My Brother is an Only Child,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2007,One Hundred Nails,,False,Ermanno Olmi | One Hundred Nails,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2008,Andrea Molaioli,The Girl by the Lake,True,2008 | Andrea Molaioli | The Girl by the Lake,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2008,Black and White,,False,Cristina Comencini | Black and White,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2008,Quiet Chaos,,False,Antonello Grimaldi | Quiet Chaos,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2008,The Right Distance,,False,Carlo Mazzacurati | The Right Distance,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2008,Days and Clouds,,False,Silvio Soldini | Days and Clouds,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2009,Matteo Garrone,Gomorrah,True,2009 | Matteo Garrone | Gomorrah,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2009,Giovanna's Father,,False,Pupi Avati | Giovanna's Father,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2009,Many Kisses Later,,False,Fausto Brizzi | Many Kisses Later,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2009,We Can Do That,,False,Giulio Manfredonia | We Can Do That,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2009,Il Divo,,False,Paolo Sorrentino | Il Divo,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2010,Marco Bellocchio,Vincere,True,2010 | Marco Bellocchio | Vincere,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2010,The Man Who Will Come,,False,Giorgio Diritti | The Man Who Will Come,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2010,Loose Cannons,,False,Ferzan Özpetek | Loose Cannons,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2010,Baarìa,,False,Giuseppe Tornatore | Baarìa,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2010,The First Beautiful Thing,,False,Paolo Virzì | The First Beautiful Thing,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2011,Daniele Luchetti,La nostra vita,True,2011 | Daniele Luchetti | La nostra vita,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2011,Sorelle Mai,,False,Marco Bellocchio | Sorelle Mai,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2011,The Solitude of Prime Numbers,,False,Saverio Costanzo | The Solitude of Prime Numbers,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2011,A Quiet Life,,False,Claudio Cupellini | A Quiet Life,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2011,Le Quattro Volte,,False,Michelangelo Frammartino | Le Quattro Volte,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2011,The Immature,,False,Paolo Genovese | The Immature,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2011,We Believed,,False,Mario Martone | We Believed,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2011,Benvenuti al Sud,,False,Luca Miniero | Benvenuti al Sud,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2012,Paolo and Vittorio Taviani,Caesar Must Die,True,2012 | Paolo and Vittorio Taviani | Caesar Must Die,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2012,Terraferma,,False,Emanuele Crialese | Terraferma,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2012,Piazza Fontana: The Italian Conspiracy,,False,Marco Tullio Giordana | Piazza Fontana: The Italian Conspiracy,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2012,We Have a Pope,,False,Nanni Moretti | We Have a Pope,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2012,Magnificent Presence,,False,Ferzan Özpetek | Magnificent Presence,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2012,This Must Be the Place,,False,Paolo Sorrentino | This Must Be the Place,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2013,Giuseppe Tornatore,The Best Offer,True,2013 | Giuseppe Tornatore | The Best Offer,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2013,Me and You,,False,Bernardo Bertolucci | Me and You,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2013,Reality,,False,Matteo Garrone | Reality,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2013,Siberian Education,,False,Gabriele Salvatores | Siberian Education,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2013,Diaz – Don't Clean Up This Blood,,False,Daniele Vicari | Diaz – Don't Clean Up This Blood,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2014,Paolo Sorrentino,The Great Beauty,True,2014 | Paolo Sorrentino | The Great Beauty,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2014,The Chair of Happiness,,False,Carlo Mazzacurati | The Chair of Happiness,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2014,Fasten Your Seatbelt,,False,Ferzan Özpetek | Fasten Your Seatbelt,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2014,How Strange to Be Named Federico,,False,Ettore Scola | How Strange to Be Named Federico,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2014,Human Capital,,False,Paolo Virzì | Human Capital,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2015,Francesco Munzi,Black Souls,True,2015 | Francesco Munzi | Black Souls,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2015,Hungry Hearts,,False,Saverio Costanzo | Hungry Hearts,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2015,Leopardi,,False,Mario Martone | Leopardi,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2015,Mia Madre,,False,Nanni Moretti | Mia Madre,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2015,Greenery Will Bloom Again,,False,Ermanno Olmi | Greenery Will Bloom Again,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2016,Matteo Garrone,Tale of Tales,True,2016 | Matteo Garrone | Tale of Tales,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2016,Don't Be Bad,,False,Claudio Caligari | Don't Be Bad,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2016,Perfect Strangers,,False,Paolo Genovese | Perfect Strangers,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2016,Fire at Sea,,False,Gianfranco Rosi | Fire at Sea,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2016,Youth,,False,Paolo Sorrentino | Youth,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2017,Paolo Virzì,Like Crazy,True,2017 | Paolo Virzì | Like Crazy,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2017,Sweet Dreams,,False,Marco Bellocchio | Sweet Dreams,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2017,Indivisible,,False,Edoardo De Angelis | Indivisible,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2017,Fiore,,False,Claudio Giovannesi | Fiore,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2017,Italian Race,,False,Matteo Rovere | Italian Race,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2018,Jonas Carpignano,A Ciambra,True,2018 | Jonas Carpignano | A Ciambra,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2018,Tenderness,,False,Gianni Amelio | Tenderness,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2018,The Place,,False,Paolo Genovese | The Place,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2018,Love and Bullets,,False,Manetti Bros. | Love and Bullets,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2018,Napoli velata,,False,Ferzan Özpetek | Napoli velata,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2019,Matteo Garrone,Dogman,True,2019 | Matteo Garrone | Dogman,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2019,Euphoria,,False,Valeria Golino | Euphoria,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2019,Call Me By Your Name,,False,Luca Guadagnino | Call Me By Your Name,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2019,Capri-Revolution,,False,Mario Martone | Capri-Revolution,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2019,Happy as Lazzaro,,False,Alice Rohrwacher | Happy as Lazzaro,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2020,Marco Bellocchio,The Traitor,True,2020 | Marco Bellocchio | The Traitor | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2020,Pinocchio,,False,Matteo Garrone | Pinocchio,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2020,Piranhas,,False,Claudio Giovannesi | Piranhas,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2020,Martin Eden,,False,Pietro Marcello | Martin Eden,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2020,The First King: Birth of an Empire,,False,Matteo Rovere | The First King: Birth of an Empire,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2021,Giorgio Diritti,Hidden Away,True,2021 | Giorgio Diritti | Hidden Away | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2021,Hammamet,,False,Gianni Amelio | Hammamet,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2021,The Macaluso Sisters,,False,Emma Dante | The Macaluso Sisters,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2021,Bad Tales,,False,Damiano and Fabio D'Innocenzo | Bad Tales,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2021,Miss Marx,,False,Susanna Nicchiarelli | Miss Marx,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2022,Paolo Sorrentino,The Hand of God,True,2022 | Paolo Sorrentino | The Hand of God | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2022,The Inner Cage,,False,Leonardo Di Costanzo | The Inner Cage,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2022,Ennio,,False,Giuseppe Tornatore | Ennio,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2022,Freaks Out,,False,Gabriele Mainetti | Freaks Out,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2022,The King of Laughter,,False,Mario Martone | The King of Laughter,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2023,Marco Bellocchio,Exterior Night,True,2023 | Marco Bellocchio | Exterior Night | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2023,Lord of the Ants,,False,Gianni Amelio | Lord of the Ants,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2023,Strangeness,,False,Roberto Andò | Strangeness,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2023,The Eight Mountains,,False,Felix Van Groeningen and Charlotte Vandermeersch | The Eight Mountains,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2023,Nostalgia,,False,Mario Martone | Nostalgia,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2024,Matteo Garrone,Io capitano,True,2024 | Matteo Garrone | Io capitano | ,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2024,La chimera,,False,Alice Rohrwacher | La chimera,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2024,Kidnapped,,False,Marco Bellocchio | Kidnapped,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2024,Last Night of Amore,,False,Andrea Di Stefano | Last Night of Amore,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2024,A Brighter Tomorrow,,False,Nanni Moretti | A Brighter Tomorrow,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2025,Maura Delpero,Vermiglio,True,2025 | Maura Delpero | Vermiglio | [ 5 ],https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2025,The Time It Takes,,False,Francesca Comencini | The Time It Takes,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2025,The Art of Joy,,False,Valeria Golino | The Art of Joy,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2025,Parthenope,,False,Paolo Sorrentino | Parthenope,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+2025,The Great Ambition,,False,Andrea Segre | The Great Ambition,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Francesco Rosi,,False,6 | Francesco Rosi,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Mario Monicelli,,False,4 | Mario Monicelli,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Federico Fellini,,False,3 | Federico Fellini,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Vittorio De Sica,,False,2 | Vittorio De Sica,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Marco Bellocchio,,False,10 | Marco Bellocchio,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Gianni Amelio,,False,7 | Gianni Amelio,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Pupi Avati,,False,6 | Pupi Avati,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Mario Martone,,False,5 | Mario Martone,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Bernardo Bertolucci,,False,4 | Bernardo Bertolucci,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director
+,Paolo Genovese *,,False,3 | Paolo Genovese *,https://en.wikipedia.org/wiki/David_di_Donatello_for_Best_Director

@@ -1,0 +1,356 @@
+year_film,year_ceremony,ceremony,category,canon_category,name,film,winner
+1995,1996,2,"Best Film","BEST PICTURE","Sooraj Barjatya","Hum Aapke Hain Koun...!",False
+1996,1997,3,"Best Film","BEST PICTURE","Yash Chopra","Dilwale Dulhania Le Jayenge",False
+1997,1998,4,"Best Film","BEST PICTURE","Dharmesh Darshan","Raja Hindustani",False
+1998,1999,5,"Best Film","BEST PICTURE","J. P. Dutta",Border,False
+1999,2000,6,"Best Film","BEST PICTURE","Karan Johar","Kuch Kuch Hota Hai",False
+2000,2001,7,"Best Film","BEST PICTURE","Sanjay Leela Bhansali","Hum Dil De Chuke Sanam",False
+2001,2002,8,"Best Film","BEST PICTURE","Rakesh Roshan","Kaho Naa... Pyaar Hai",False
+2002,2003,9,"Best Film","BEST PICTURE","Ashutosh Gowariker",Lagaan,False
+2003,2004,10,"Best Film","BEST PICTURE","Bharat Shah",Devdas,False
+2004,2005,11,"Best Film","BEST PICTURE","Rakesh Roshan","Koi... Mil Gaya",False
+2005,2006,12,"Best Film","BEST PICTURE","Ashutosh Gowariker",Swades,False
+2006,2007,13,"Best Film","BEST PICTURE","Sanjay Leela Bhansali",Black,False
+2007,2008,14,"Best Film","BEST PICTURE","Vidhu Vinod Chopra","Lage Raho Munna Bhai",False
+2008,2009,15,"Best Film","BEST PICTURE","Yash Chopra","Chak De! India",False
+2009,2010,16,"Best Film","BEST PICTURE","Ashutosh Gowariker","Jodhaa Akbar",False
+2010,2011,17,"Best Film","BEST PICTURE","Vidhu Vinod Chopra","3 Idiots",False
+2011,2012,18,"Best Film","BEST PICTURE","Anurag Kashyap",Udaan,False
+2012,2013,19,"Best Film","BEST PICTURE","Ekta Kapoor","The Dirty Picture",False
+2012,2013,19,"Best Film","BEST PICTURE","Farhan Akhtar","Zindagi Na Milegi Dobara",False
+2013,2014,20,"Best Film","BEST PICTURE","Ronnie Screwvala","Paan Singh Tomar",False
+2014,2015,21,"Best Film","BEST PICTURE","Rakeysh Omprakash Mehra","Bhaag Milkha Bhaag",False
+2015,2016,22,"Best Film","BEST PICTURE","Vikas Bahl",Queen,False
+2016,2017,23,"Best Film","BEST PICTURE","Vishal Bhardwaj",Talvar,False
+2017,2018,24,"Best Film","BEST PICTURE","Pawan Kumar & Rashmi Sharma",Pink,False
+2018,2019,25,"Best Film","BEST PICTURE","Aamir Khan Productions",Dangal,False
+2019,2020,26,"Best Film","BEST PICTURE","Dinesh Vijan & Raj Nidimoru and Krishna D.K.",Stree,False
+2020,2021,27,"Best Film","BEST PICTURE","Excel Entertainment","Gully Boy",False
+2026,2027,33,"Best Film","BEST PICTURE","Dharma Productions",Homebound,False
+1995,1996,2,"Best Director",DIRECTING,"Sooraj R. Barjatya","Hum Aapke Hain Kaun",False
+1996,1997,3,"Best Director",DIRECTING,"Aditya Chopra","Dilwale Dulhaniya Le Jayenge",False
+1997,1998,4,"Best Director",DIRECTING,"Dharmesh Darshan","Raja Hindustani",False
+1998,1999,5,"Best Director",DIRECTING,"J. P. Dutta",Border,False
+1999,2000,6,"Best Director",DIRECTING,"Karan Johar","Kuch Kuch Hota Hai",False
+2000,2001,7,"Best Director",DIRECTING,"Sanjay Leela Bhansali","Hum Dil De Chuke Sanam",False
+2001,2002,8,"Best Director",DIRECTING,"Rakesh Roshan","Kaho Naa... Pyaar Hai",False
+2002,2003,9,"Best Director",DIRECTING,"Ashutosh Gowariker",Lagaan,False
+2003,2004,10,"Best Director",DIRECTING,"Sanjay Leela Bhansali",Devdas,False
+2004,2005,11,"Best Director",DIRECTING,"Rakesh Roshan","Koi... Mil Gaya",False
+2005,2006,12,"Best Director",DIRECTING,"Kunal Kohli","Hum Tum",False
+2006,2007,13,"Best Director",DIRECTING,"Sanjay Leela Bhansali",Black,False
+2007,2008,14,"Best Director",DIRECTING,"Rakeysh Omprakash Mehra","Rang De Basanti",False
+2008,2009,15,"Best Director",DIRECTING,"Aamir Khan and Shimit Amin","Taare Zameen Par and Chak De India",False
+2009,2010,16,"Best Director",DIRECTING,"Ashutosh Gowariker and Neeraj Pandey","Jodhaa Akbar and A Wednesday",False
+2010,2011,17,"Best Director",DIRECTING,"Rajkumar Hirani","3 Idiots",False
+2011,2012,18,"Best Director",DIRECTING,"Vikramaditya Motwane",Udaan,False
+2012,2013,19,"Best Director",DIRECTING,"Milan Luthria","The Dirty Picture",False
+2013,2014,20,"Best Director",DIRECTING,"Anurag Basu",Barfi!,False
+2014,2015,21,"Best Director",DIRECTING,"Shoojit Sircar","Madras Cafe",False
+2015,2016,22,"Best Director",DIRECTING,"Vikas Bahl",Queen,False
+2016,2017,23,"Best Director",DIRECTING,"Tinu Suresh Desai",Rustom,False
+2016,2017,23,"Best Director",DIRECTING,"Kabir Khan","Bajrangi Bhaijaan",False
+2017,2018,24,"Best Director",DIRECTING,"Ram Madhvani",Neerja,False
+2018,2019,25,"Best Director",DIRECTING,"Nitesh Tiwari",Dangal,False
+2019,2020,26,"Best Director",DIRECTING,"Sriram Raghavan",Andhadhun,False
+2020,2021,27,"Best Director",DIRECTING,"Zoya Akhtar","Gully Boy",False
+2026,2027,33,"Best Director",DIRECTING,"Aditya Dhar",Dhurandhar,False
+1995,1996,2,"Best Actor","ACTOR IN A LEADING ROLE","Nana Patekar",Krantiveer,False
+1996,1997,3,"Best Actor","ACTOR IN A LEADING ROLE","Shah Rukh Khan","Dilwale Dulhania Le Jayenge",False
+1997,1998,4,"Best Actor","ACTOR IN A LEADING ROLE","Aamir Khan","Raja Hindustani",False
+1998,1999,5,"Best Actor","ACTOR IN A LEADING ROLE","Anil Kapoor",Virasat,False
+1999,2000,6,"Best Actor","ACTOR IN A LEADING ROLE","Ajay Devgan",Zakhm,False
+2000,2001,7,"Best Actor","ACTOR IN A LEADING ROLE","Sanjay Dutt",Vaastav,False
+2001,2002,8,"Best Actor","ACTOR IN A LEADING ROLE","Hrithik Roshan","Kaho Naa... Pyaar Hai",False
+2002,2003,9,"Best Actor","ACTOR IN A LEADING ROLE","Sunny Deol","Gadar: Ek Prem Katha",False
+2003,2004,10,"Best Actor","ACTOR IN A LEADING ROLE","• Ajay Devgan • Shah Rukh Khan","• Company • Devdas",False
+2004,2005,11,"Best Actor","ACTOR IN A LEADING ROLE","Hrithik Roshan","Koi... Mil Gaya",False
+2005,2006,12,"Best Actor","ACTOR IN A LEADING ROLE","Shah Rukh Khan",Veer-Zaara,False
+2006,2007,13,"Best Actor","ACTOR IN A LEADING ROLE","Amitabh Bachchan",Black,False
+2007,2008,14,"Best Actor","ACTOR IN A LEADING ROLE","Hrithik Roshan",Krrish,False
+2008,2009,15,"Best Actor","ACTOR IN A LEADING ROLE","Shah Rukh Khan","Chak De India",False
+2009,2010,16,"Best Actor","ACTOR IN A LEADING ROLE","Hrithik Roshan","Jodhaa Akbar",False
+2010,2011,17,"Best Actor","ACTOR IN A LEADING ROLE","Amitabh Bachchan",Paa,False
+2011,2012,18,"Best Actor","ACTOR IN A LEADING ROLE","Salman Khan",Dabangg,False
+2012,2013,19,"Best Actor","ACTOR IN A LEADING ROLE","Ranbir Kapoor",Rockstar,False
+2013,2014,20,"Best Actor","ACTOR IN A LEADING ROLE","• Irrfan Khan • Ranbir Kapoor","• Paan Singh Tomar • Barfi!",False
+2014,2015,21,"Best Actor","ACTOR IN A LEADING ROLE","Farhan Akhtar","Bhaag Milkha Bhaag",False
+2015,2016,22,"Best Actor","ACTOR IN A LEADING ROLE","Shahid Kapoor",Haider,False
+2016,2017,23,"Best Actor","ACTOR IN A LEADING ROLE","• Amitabh Bachchan • Ranveer Singh","• Piku • Bajirao Mastani",False
+2017,2018,24,"Best Actor","ACTOR IN A LEADING ROLE","Amitabh Bachchan",Pink,False
+2018,2019,25,"Best Actor","ACTOR IN A LEADING ROLE","Irrfan Khan","Hindi Medium",False
+2019,2020,26,"Best Actor","ACTOR IN A LEADING ROLE","• Rajkummar Rao • Ranveer Singh","• Stree • Padmaavat",False
+2020,2021,27,"Best Actor","ACTOR IN A LEADING ROLE","Ranveer Singh","Gully Boy",False
+2026,2027,33,"Best Actor","ACTOR IN A LEADING ROLE",Dhurandhar,"Hamza Ali Mazari/Jaskirat Singh Rangi",False
+1995,1996,2,"Best Actress","ACTRESS IN A LEADING ROLE","Madhuri Dixit †","Hum Aapke Hain Koun...!",False
+1995,1996,2,"Best Actress","ACTRESS IN A LEADING ROLE","Kajol ‡","Yeh Dillagi",False
+1996,1997,3,"Best Actress","ACTRESS IN A LEADING ROLE","Madhuri Dixit",Raja,False
+1996,1997,3,"Best Actress","ACTRESS IN A LEADING ROLE","Kajol †","Dilwale Dulhania Le Jayenge",False
+1997,1998,4,"Best Actress","ACTRESS IN A LEADING ROLE","Manisha Koirala ‡","Khamoshi: The Musical",False
+1997,1998,4,"Best Actress","ACTRESS IN A LEADING ROLE","Juhi Chawla ‡",Daraar,False
+1997,1998,4,"Best Actress","ACTRESS IN A LEADING ROLE","Karisma Kapoor †","Raja Hindustani",False
+1998,1999,5,"Best Actress","ACTRESS IN A LEADING ROLE","Madhuri Dixit",Mrityudand,False
+1998,1999,5,"Best Actress","ACTRESS IN A LEADING ROLE","Juhi Chawla ‡","Yes Boss",False
+1998,1999,5,"Best Actress","ACTRESS IN A LEADING ROLE",Rekha,Aastha,False
+1998,1999,5,"Best Actress","ACTRESS IN A LEADING ROLE","Sridevi ‡",Judaai,False
+1998,1999,5,"Best Actress","ACTRESS IN A LEADING ROLE","Tabu ‡",Virasat,False
+1999,2000,6,"Best Actress","ACTRESS IN A LEADING ROLE","Kajol ‡",Dushman,False
+1999,2000,6,"Best Actress","ACTRESS IN A LEADING ROLE","Kajol †","Kuch Kuch Hota Hai",False
+1999,2000,6,"Best Actress","ACTRESS IN A LEADING ROLE","Manisha Koirala ‡","Dil Se..",False
+1999,2000,6,"Best Actress","ACTRESS IN A LEADING ROLE","Pooja Bhatt",Zakhm,False
+1999,2000,6,"Best Actress","ACTRESS IN A LEADING ROLE","Rani Mukerji",Ghulam,False
+2000,2001,7,"Best Actress","ACTRESS IN A LEADING ROLE","Aishwarya Rai †","Hum Dil De Chuke Sanam",False
+2000,2001,7,"Best Actress","ACTRESS IN A LEADING ROLE","Aishwarya Rai ‡",Taal,False
+2000,2001,7,"Best Actress","ACTRESS IN A LEADING ROLE","Kajol ‡","Hum Aapke Dil Mein Rehte Hain",False
+2000,2001,7,"Best Actress","ACTRESS IN A LEADING ROLE","Karisma Kapoor ‡","Biwi No.1",False
+2000,2001,7,"Best Actress","ACTRESS IN A LEADING ROLE","Shabana Azmi",Godmother,False
+2000,2001,7,"Best Actress","ACTRESS IN A LEADING ROLE","Tabu ‡","Hu Tu Tu",False
+2001,2002,8,"Best Actress","ACTRESS IN A LEADING ROLE","Tabu ‡",Astitva,False
+2001,2002,8,"Best Actress","ACTRESS IN A LEADING ROLE","Aishwarya Rai ‡","Hamara Dil Aapke Paas Hai",False
+2001,2002,8,"Best Actress","ACTRESS IN A LEADING ROLE","Karisma Kapoor †",Fiza,False
+2001,2002,8,"Best Actress","ACTRESS IN A LEADING ROLE","Madhuri Dixit ‡",Pukar,False
+2001,2002,8,"Best Actress","ACTRESS IN A LEADING ROLE","Preity Zinta ‡","Kya Kehna",False
+2002,2003,9,"Best Actress","ACTRESS IN A LEADING ROLE","Kajol †","Kabhi Khushi Kabhie Gham",False
+2002,2003,9,"Best Actress","ACTRESS IN A LEADING ROLE","Amisha Patel ‡","Gadar: Ek Prem Katha",False
+2002,2003,9,"Best Actress","ACTRESS IN A LEADING ROLE","Karisma Kapoor ‡",Zubeidaa,False
+2002,2003,9,"Best Actress","ACTRESS IN A LEADING ROLE","Tabu ‡","Chandni Bar",False
+2002,2003,9,"Best Actress","ACTRESS IN A LEADING ROLE","Urmila Matondkar","Pyaar Tune Kya Kiya",False
+2003,2004,10,"Best Actress","ACTRESS IN A LEADING ROLE","Aishwarya Rai †",Devdas,False
+2003,2004,10,"Best Actress","ACTRESS IN A LEADING ROLE","Karisma Kapoor ‡","Shakti – The Power",False
+2003,2004,10,"Best Actress","ACTRESS IN A LEADING ROLE","Preity Zinta","Dil Hai Tumhaara",False
+2003,2004,10,"Best Actress","ACTRESS IN A LEADING ROLE","Rani Mukerji ‡",Saathiya,False
+2003,2004,10,"Best Actress","ACTRESS IN A LEADING ROLE",Tabu,Filhaal...,False
+2004,2005,11,"Best Actress","ACTRESS IN A LEADING ROLE","Urmila Matondkar ‡",Bhoot,False
+2004,2005,11,"Best Actress","ACTRESS IN A LEADING ROLE","Bhoomika Chawla ‡","Tere Naam",False
+2004,2005,11,"Best Actress","ACTRESS IN A LEADING ROLE","Hema Malini ‡",Baghban,False
+2004,2005,11,"Best Actress","ACTRESS IN A LEADING ROLE","Preity Zinta †","Kal Ho Naa Ho",False
+2004,2005,11,"Best Actress","ACTRESS IN A LEADING ROLE","Rani Mukerji ‡","Chalte Chalte",False
+2004,2005,11,"Best Actress","ACTRESS IN A LEADING ROLE","Raveena Tandon",Satta,False
+2004,2005,11,"Best Actress","ACTRESS IN A LEADING ROLE","Sushmita Sen","Samay: When Time Strikes",False
+2005,2006,12,"Best Actress","ACTRESS IN A LEADING ROLE","Rani Mukerji †","Hum Tum",False
+2005,2006,12,"Best Actress","ACTRESS IN A LEADING ROLE","Aishwarya Rai ‡",Raincoat,False
+2005,2006,12,"Best Actress","ACTRESS IN A LEADING ROLE","Kareena Kapoor",Dev,False
+2005,2006,12,"Best Actress","ACTRESS IN A LEADING ROLE","Preity Zinta ‡",Veer-Zaara,False
+2005,2006,12,"Best Actress","ACTRESS IN A LEADING ROLE","Shilpa Shetty ‡","Phir Milenge",False
+2005,2006,12,"Best Actress","ACTRESS IN A LEADING ROLE","Urmila Matondkar ‡","Ek Hasina Thi",False
+2006,2007,13,"Best Actress","ACTRESS IN A LEADING ROLE","Rani Mukerji †",Black,False
+2006,2007,13,"Best Actress","ACTRESS IN A LEADING ROLE","Juhi Chawla","My Brother Nikhil",False
+2006,2007,13,"Best Actress","ACTRESS IN A LEADING ROLE","Konkona Sen Sharma","Page 3",False
+2006,2007,13,"Best Actress","ACTRESS IN A LEADING ROLE","Preity Zinta ‡","Salaam Namaste",False
+2006,2007,13,"Best Actress","ACTRESS IN A LEADING ROLE","Sharmila Tagore ‡","Viruddh... Family Comes First",False
+2007,2008,14,"Best Actress","ACTRESS IN A LEADING ROLE","Kareena Kapoor ‡",Omkara,False
+2007,2008,14,"Best Actress","ACTRESS IN A LEADING ROLE","Aishwarya Rai ‡","Dhoom 2",False
+2007,2008,14,"Best Actress","ACTRESS IN A LEADING ROLE","Amrita Rao",Vivah,False
+2007,2008,14,"Best Actress","ACTRESS IN A LEADING ROLE","Ayesha Takia",Dor,False
+2007,2008,14,"Best Actress","ACTRESS IN A LEADING ROLE","Bipasha Basu ‡",Corporate,False
+2007,2008,14,"Best Actress","ACTRESS IN A LEADING ROLE","Kajol †",Fanaa,False
+2008,2009,15,"Best Actress","ACTRESS IN A LEADING ROLE","Kareena Kapoor †","Jab We Met",False
+2008,2009,15,"Best Actress","ACTRESS IN A LEADING ROLE","Aishwarya Rai ‡",Guru,False
+2008,2009,15,"Best Actress","ACTRESS IN A LEADING ROLE",Tabu,"Cheeni Kum",False
+2009,2010,16,"Best Actress","ACTRESS IN A LEADING ROLE","Priyanka Chopra †",Fashion,False
+2009,2010,16,"Best Actress","ACTRESS IN A LEADING ROLE","Aishwarya Rai Bachchan ‡","Jodhaa Akbar",False
+2009,2010,16,"Best Actress","ACTRESS IN A LEADING ROLE","Asin ‡",Ghajini,False
+2009,2010,16,"Best Actress","ACTRESS IN A LEADING ROLE","Genelia D'souza","Jaane Tu... Ya Jaane Na",False
+2009,2010,16,"Best Actress","ACTRESS IN A LEADING ROLE","Kajol ‡","U Me Aur Hum",False
+2010,2011,17,"Best Actress","ACTRESS IN A LEADING ROLE","Vidya Balan †",Paa,False
+2010,2011,17,"Best Actress","ACTRESS IN A LEADING ROLE","Deepika Padukone ‡","Love Aaj Kal",False
+2010,2011,17,"Best Actress","ACTRESS IN A LEADING ROLE","Kareena Kapoor ‡","3 Idiots",False
+2010,2011,17,"Best Actress","ACTRESS IN A LEADING ROLE","Katrina Kaif ‡","New York",False
+2010,2011,17,"Best Actress","ACTRESS IN A LEADING ROLE","Priyanka Chopra ‡",Kaminey,False
+2010,2011,17,"Best Actress","ACTRESS IN A LEADING ROLE","Priyanka Chopra","What's Your Raashee?",False
+2011,2012,18,"Best Actress","ACTRESS IN A LEADING ROLE","Vidya Balan ‡",Ishqiya,False
+2011,2012,18,"Best Actress","ACTRESS IN A LEADING ROLE","Aishwarya Rai Bachchan ‡",Guzaarish,False
+2011,2012,18,"Best Actress","ACTRESS IN A LEADING ROLE","Anushka Sharma ‡","Band Baaja Baaraat",False
+2011,2012,18,"Best Actress","ACTRESS IN A LEADING ROLE","Kajol †","My Name Is Khan",False
+2011,2012,18,"Best Actress","ACTRESS IN A LEADING ROLE","Neetu Singh","Do Dooni Chaar",False
+2012,2013,19,"Best Actress","ACTRESS IN A LEADING ROLE","Vidya Balan †","The Dirty Picture",False
+2012,2013,19,"Best Actress","ACTRESS IN A LEADING ROLE","Kalki Koechlin",Shaitan,False
+2012,2013,19,"Best Actress","ACTRESS IN A LEADING ROLE","Kangana Ranaut","Tanu Weds Manu",False
+2012,2013,19,"Best Actress","ACTRESS IN A LEADING ROLE","Priyanka Chopra ‡","7 Khoon Maaf",False
+2012,2013,19,"Best Actress","ACTRESS IN A LEADING ROLE","Rani Mukerji † won Filmfare Award for Best Supporting Actress","No One Killed Jessica",False
+2012,2013,19,"Best Actress","ACTRESS IN A LEADING ROLE","Vidya Balan ‡","Sabrina Lal",False
+2013,2014,20,"Best Actress","ACTRESS IN A LEADING ROLE","Vidya Balan †",Kahaani,False
+2013,2014,20,"Best Actress","ACTRESS IN A LEADING ROLE","Deepika Padukone ‡",Cocktail,False
+2013,2014,20,"Best Actress","ACTRESS IN A LEADING ROLE","Kareena Kapoor ‡",Heroine,False
+2013,2014,20,"Best Actress","ACTRESS IN A LEADING ROLE","Parineeti Chopra ‡",Ishaqzaade,False
+2013,2014,20,"Best Actress","ACTRESS IN A LEADING ROLE","Priyanka Chopra ‡",Barfi!,False
+2013,2014,20,"Best Actress","ACTRESS IN A LEADING ROLE","Sridevi ‡","English Vinglish",False
+2014,2015,21,"Best Actress","ACTRESS IN A LEADING ROLE","Deepika Padukone †","Goliyon Ki Raasleela Ram-Leela",False
+2014,2015,21,"Best Actress","ACTRESS IN A LEADING ROLE","Deepika Padukone ‡","Chennai Express",False
+2014,2015,21,"Best Actress","ACTRESS IN A LEADING ROLE","Chitrangada Singh",Inkaar,False
+2014,2015,21,"Best Actress","ACTRESS IN A LEADING ROLE","Nimrat Kaur","The Lunchbox",False
+2014,2015,21,"Best Actress","ACTRESS IN A LEADING ROLE","Parineeti Chopra ‡","Shuddh Desi Romance",False
+2014,2015,21,"Best Actress","ACTRESS IN A LEADING ROLE","Shraddha Kapoor ‡","Aashiqui 2",False
+2014,2015,21,"Best Actress","ACTRESS IN A LEADING ROLE","Sonakshi Sinha ‡",Lootera,False
+2015,2016,22,"Best Actress","ACTRESS IN A LEADING ROLE","Priyanka Chopra ‡","Mary Kom",False
+2015,2016,22,"Best Actress","ACTRESS IN A LEADING ROLE","Alia Bhatt ‡",Highway,False
+2015,2016,22,"Best Actress","ACTRESS IN A LEADING ROLE","Deepika Padukone","Finding Fanny",False
+2015,2016,22,"Best Actress","ACTRESS IN A LEADING ROLE","Kangana Ranaut †",Queen,False
+2015,2016,22,"Best Actress","ACTRESS IN A LEADING ROLE","Parineeti Chopra","Hasee Toh Phasee",False
+2015,2016,22,"Best Actress","ACTRESS IN A LEADING ROLE","Rani Mukerji ‡",Mardaani,False
+2016,2017,23,"Best Actress","ACTRESS IN A LEADING ROLE","Deepika Padukone †",Piku,False
+2016,2017,23,"Best Actress","ACTRESS IN A LEADING ROLE","Anushka Sharma ‡",NH10,False
+2016,2017,23,"Best Actress","ACTRESS IN A LEADING ROLE","Kalki Koechlin","Margarita with a Straw",False
+2016,2017,23,"Best Actress","ACTRESS IN A LEADING ROLE","Kangana Ranaut ‡","Tanu Weds Manu Returns",False
+2016,2017,23,"Best Actress","ACTRESS IN A LEADING ROLE","Priyanka Chopra","Dil Dhadakne Do",False
+2016,2017,23,"Best Actress","ACTRESS IN A LEADING ROLE","Sonam Kapoor ‡","Dolly Ki Doli",False
+2017,2018,24,"Best Actress","ACTRESS IN A LEADING ROLE","Alia Bhatt †","Udta Punjab",False
+2017,2018,24,"Best Actress","ACTRESS IN A LEADING ROLE","Alia Bhatt ‡","Dear Zindagi",False
+2017,2018,24,"Best Actress","ACTRESS IN A LEADING ROLE","Anushka Sharma ‡","Ae Dil Hai Mushkil",False
+2017,2018,24,"Best Actress","ACTRESS IN A LEADING ROLE","Anushka Sharma",Sultan,False
+2017,2018,24,"Best Actress","ACTRESS IN A LEADING ROLE","Sonam Kapoor ‡",Neerja,False
+2017,2018,24,"Best Actress","ACTRESS IN A LEADING ROLE","Taapsee Pannu",Pink,False
+2018,2019,25,"Best Actress","ACTRESS IN A LEADING ROLE","Vidya Balan †","Tumhari Sulu",False
+2018,2019,25,"Best Actress","ACTRESS IN A LEADING ROLE","Alia Bhatt ‡","Badrinath Ki Dulhania",False
+2018,2019,25,"Best Actress","ACTRESS IN A LEADING ROLE","Bhumi Pednekar ‡","Shubh Mangal Saavdhan",False
+2018,2019,25,"Best Actress","ACTRESS IN A LEADING ROLE","Fatima Sana Shaikh",Dangal,False
+2018,2019,25,"Best Actress","ACTRESS IN A LEADING ROLE","Kangana Ranaut",Simran,False
+2018,2019,25,"Best Actress","ACTRESS IN A LEADING ROLE","Kriti Sanon","Bareilly Ki Barfi",False
+2018,2019,25,"Best Actress","ACTRESS IN A LEADING ROLE","Sridevi ‡",Mom,False
+2019,2020,26,"Best Actress","ACTRESS IN A LEADING ROLE","Alia Bhatt †",Raazi,False
+2019,2020,26,"Best Actress","ACTRESS IN A LEADING ROLE","Deepika Padukone ‡",Padmaavat,False
+2019,2020,26,"Best Actress","ACTRESS IN A LEADING ROLE","Rani Mukerji ‡",Hichki,False
+2019,2020,26,"Best Actress","ACTRESS IN A LEADING ROLE","Taapsee Pannu",Manmarziyaan,False
+2019,2020,26,"Best Actress","ACTRESS IN A LEADING ROLE","Tabu ‡",Andhadhun,False
+2020,2021,27,"Best Actress","ACTRESS IN A LEADING ROLE","Alia Bhatt †","Gully Boy",False
+2020,2021,27,"Best Actress","ACTRESS IN A LEADING ROLE","Kangana Ranaut ‡","Manikarnika: The Queen of Jhansi",False
+2020,2021,27,"Best Actress","ACTRESS IN A LEADING ROLE","Katrina Kaif",Bharat,False
+2020,2021,27,"Best Actress","ACTRESS IN A LEADING ROLE","Taapsee Pannu",Badla,False
+2020,2021,27,"Best Actress","ACTRESS IN A LEADING ROLE","Vidya Balan ‡","Mission Mangal",False
+2026,2027,33,"Best Actress","ACTRESS IN A LEADING ROLE","Yami Gautam",Haq,False
+2026,2027,33,"Best Actress","ACTRESS IN A LEADING ROLE","Triptii Dimri","Dhadak 2",False
+2026,2027,33,"Best Actress","ACTRESS IN A LEADING ROLE","Kriti Sanon","Tere Ishk Mein",False
+2026,2027,33,"Best Actress","ACTRESS IN A LEADING ROLE","Sonal Madhushankar","Humans in the Loop",False
+2026,2027,33,"Best Actress","ACTRESS IN A LEADING ROLE","Konkona Sen Sharma","Metro… In Dino",False
+2026,2027,33,"Best Actress","ACTRESS IN A LEADING ROLE","Monika Panwar",Nishaanchi,False
+2026,2027,33,"Best Actress","ACTRESS IN A LEADING ROLE","Radhika Apte","Sister Midnight",False
+1995,1996,2,"Best Supporting Actor","ACTOR IN A SUPPORTING ROLE","Anupam Kher","1942: A Love Story",False
+1996,1997,3,"Best Supporting Actor","ACTOR IN A SUPPORTING ROLE","Paresh Rawal",Raja,False
+1997,1998,4,"Best Supporting Actor","ACTOR IN A SUPPORTING ROLE","Amrish Puri","Ghatak: Lethal",False
+1998,1999,5,"Best Supporting Actor","ACTOR IN A SUPPORTING ROLE",Virasat,"Raja Thakur",False
+1999,2000,6,"Best Supporting Actor","ACTOR IN A SUPPORTING ROLE","Manoj Bajpayee",Satya,False
+2000,2001,7,"Best Supporting Actor","ACTOR IN A SUPPORTING ROLE","Anil Kapoor",Taal,False
+2001,2002,8,"Best Supporting Actor","ACTOR IN A SUPPORTING ROLE","Sanjay Dutt","Mission Kashmir",False
+2002,2003,9,"Best Supporting Actor","ACTOR IN A SUPPORTING ROLE","Saif Ali Khan","Dil Chahta Hai",False
+2003,2004,10,"Best Supporting Actor","ACTOR IN A SUPPORTING ROLE",Mohanlal,Company,False
+2004,2005,11,"Best Supporting Actor","ACTOR IN A SUPPORTING ROLE","Saif Ali Khan","Kal Ho Naa Ho",False
+2005,2006,12,"Best Supporting Actor","ACTOR IN A SUPPORTING ROLE","Abhishek Bachchan",Yuva,False
+2006,2007,13,"Best Supporting Actor","ACTOR IN A SUPPORTING ROLE","Naseeruddin Shah",Iqbal,False
+2007,2008,14,"Best Supporting Actor","ACTOR IN A SUPPORTING ROLE","Arshad Warsi","Lage Raho Munnabhai",False
+2008,2009,15,"Best Supporting Actor","ACTOR IN A SUPPORTING ROLE","Aamir Khan","Taare Zameen Par (Like Stars on Earth)",False
+2009,2010,16,"Best Supporting Actor","ACTOR IN A SUPPORTING ROLE","Arjun Rampal","Rock On!!",False
+2010,2011,17,"Best Supporting Actor","ACTOR IN A SUPPORTING ROLE","Rishi Kapoor","Luck by Chance",False
+2011,2012,18,"Best Supporting Actor","ACTOR IN A SUPPORTING ROLE","Arshad Warsi",Ishqiya,False
+2012,2013,19,"Best Supporting Actor","ACTOR IN A SUPPORTING ROLE","Saif Ali Khan",Aarakshan,False
+2013,2014,20,"Best Supporting Actor","ACTOR IN A SUPPORTING ROLE","Nawazuddin Siddiqui",Talaash,False
+2014,2015,21,"Best Supporting Actor","ACTOR IN A SUPPORTING ROLE","Saurabh Shukla","Jolly LLB",False
+2016,2017,23,"Best Supporting Actor","ACTOR IN A SUPPORTING ROLE","Deepak Dobriyal","Tanu Weds Manu: Returns",False
+2017,2018,24,"Best Supporting Actor","ACTOR IN A SUPPORTING ROLE","Rishi Kapoor","Kapoor & Sons",False
+2018,2019,25,"Best Supporting Actor","ACTOR IN A SUPPORTING ROLE","Rajkummar Rao","Bareilly Ki Barfi",False
+2019,2020,26,"Best Supporting Actor","ACTOR IN A SUPPORTING ROLE","Pankaj Tripathi",Stree,False
+2020,2021,27,"Best Supporting Actor","ACTOR IN A SUPPORTING ROLE","Gulshan Devaiah","Mard Ko Dard Nahi Hota",False
+2026,2027,33,"Best Supporting Actor","ACTOR IN A SUPPORTING ROLE","Akshaye Khanna",Dhurandhar,False
+1995,1996,2,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Mita Vashisht",Drohkaal,False
+1996,1997,3,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Not awarded",,False
+1997,1998,4,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Seema Biswas","Khamoshi: The Musical",False
+1998,1999,5,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Shabana Azmi",Mrityudand,False
+1999,2000,6,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Shefali Shah",Satya,False
+2000,2001,7,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Sushmita Sen","Biwi No.1",False
+2001,2002,8,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Sonali Bendre","Hamara Dil Aapke Paas Hai",False
+2001,2002,8,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Aishwarya Rai ‡",Mohabbatein,False
+2001,2002,8,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Mahima Chaudhry ‡",Dhadkan,False
+2001,2002,8,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Reema Lagoo",Nidaan,False
+2001,2002,8,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Sonali Kulkarni ‡","Mission Kashmir",False
+2002,2003,9,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Raveena Tandon",Aks,False
+2002,2003,9,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Ananya Khare","Chandni Bar",False
+2002,2003,9,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Kareena Kapoor ‡","Kabhi Khushi Kabhie Gham",False
+2002,2003,9,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Madhuri Dixit ‡",Lajja,False
+2002,2003,9,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Rekha ‡",Ramdulaari,False
+2003,2004,10,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Madhuri Dixit †",Devdas,False
+2003,2004,10,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Antara Mali ‡",Company,False
+2003,2004,10,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Kirron Kher ‡",Devdas,False
+2003,2004,10,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Seema Biswas",Company,False
+2003,2004,10,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Sushmita Sen ‡",Filhaal...,False
+2004,2005,11,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Juhi Chawla","3 Deewarein",False
+2004,2005,11,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Jaya Bachchan †","Kal Ho Naa Ho",False
+2004,2005,11,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE",Revathi,Dhoop,False
+2004,2005,11,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Seema Biswas",Bhoot,False
+2004,2005,11,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Shabana Azmi ‡",Tehzeeb,False
+2005,2006,12,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Rani Mukerji †",Yuva,False
+2005,2006,12,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Divya Dutta ‡",Veer-Zaara,False
+2005,2006,12,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Kirron Kher","Hum Tum",False
+2005,2006,12,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Kareena Kapoor",Yuva,False
+2005,2006,12,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Rani Mukerji ‡",Veer-Zaara,False
+2006,2007,13,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Shweta Prasad ‡",Iqbal,False
+2006,2007,13,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Lillete Dubey","My Brother... Nikhil",False
+2006,2007,13,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Prateeksha Lonkar",Iqbal,False
+2006,2007,13,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Shefali Shah ‡","Waqt: The Race Against Time",False
+2006,2007,13,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Shernaz Patel",Black,False
+2007,2008,14,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Kirron Kher ‡","Rang De Basanti",False
+2007,2008,14,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Gul Panag",Dor,False
+2007,2008,14,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Konkona Sen Sharma †",Omkara,False
+2007,2008,14,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Ratna Pathak Shah","Yun Hota To Kya Hota",False
+2007,2008,14,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Seema Biswas",Vivah,False
+2008,2009,15,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Chak De Girls","Chak De! India",False
+2008,2009,15,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Konkona Sen Sharma †","Life in a... Metro",False
+2008,2009,15,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Shefali Shah","Gandhi My Father",False
+2008,2009,15,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Tisca Chopra ‡","Taare Zameen Par",False
+2009,2010,16,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Shahana Goswami ‡","Rock On!!",False
+2009,2010,16,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Bipasha Basu ‡","Bachna Ae Haseeno",False
+2009,2010,16,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Ila Arun","Welcome to Sajjanpur",False
+2009,2010,16,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Kangana Ranaut †",Fashion,False
+2009,2010,16,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Mugdha Godse","Janet Sequeira",False
+2009,2010,16,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Ratna Pathak Shah ‡","Jaane Tu... Ya Jaane Na",False
+2010,2011,17,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Arundhati Nag ‡",Paa,False
+2010,2011,17,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Divya Dutta ‡",Delhi-6,False
+2010,2011,17,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Gauahar Khan","Rocket Singh: Salesman of the Year",False
+2010,2011,17,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Neha Dhupia","Raat Gayi Baat Gayi",False
+2010,2011,17,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Shahana Goswami ‡",Firaaq,False
+2011,2012,18,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Shernaz Patel",Guzaarish,False
+2011,2012,18,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Amrita Puri ‡",Aisha,False
+2011,2012,18,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Neha Chauhan","Love Sex Aur Dhokha",False
+2011,2012,18,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Prachi Desai ‡","Once Upon A Time In Mumbaai",False
+2011,2012,18,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Zarina Wahab","Rakta Charitra",False
+2012,2013,19,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Aditi Rao Hydari","Yeh Saali Zindagi",False
+2012,2013,19,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Kirti Kulhari",Shaitan,False
+2012,2013,19,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Parineeti Chopra ‡","Ladies vs Ricky Bahl",False
+2012,2013,19,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Poorna Jagannathan","Delhi Belly",False
+2012,2013,19,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Swara Bhaskar ‡","Tanu Weds Manu",False
+2013,2014,20,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Dolly Ahluwalia","Vicky Donor",False
+2013,2014,20,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Anushka Sharma ‡","Jab Tak Hai Jaan",False
+2013,2014,20,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Huma Qureshi ‡","Gangs Of Wasseypur",False
+2013,2014,20,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Illeana D'Cruz ‡",Barfi!,False
+2013,2014,20,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Rani Mukerji ‡","Talaash: The Answer Lies Within",False
+2013,2014,20,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Richa Chadda ‡","Gangs Of Wasseypur",False
+2014,2015,21,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Swara Bhaskar ‡",Raanjhanaa,False
+2014,2015,21,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Divya Dutta",Gippi,False
+2014,2015,21,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Huma Qureshi","Ek Thi Daayan",False
+2014,2015,21,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Kalki Koechlin ‡","Yeh Jawaani Hai Deewani",False
+2014,2015,21,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Richa Chaddha","Goliyon Ki Raasleela Ram-Leela",False
+2015,2016,22,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Seema Pahwa","Ankhon Dekhi",False
+2015,2016,22,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Tabu †",Haider,False
+2015,2016,22,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Dimple Kapadia ‡","Finding Fanny",False
+2015,2016,22,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Lisa Haydon ‡",Queen,False
+2015,2016,22,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Tejaswini Kolhapure",Ugly,False
+2016,2017,23,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Priyanka Chopra †","Bajirao Mastani",False
+2017,2018,24,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Shabana Azmi †",Neerja,False
+2017,2018,24,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Aishwarya Rai Bachchan","Ae Dil Hai Mushkil",False
+2017,2018,24,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Ratna Pathak Shah ‡","Kapoor & Sons",False
+2017,2018,24,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Surveen Chawla",Parched,False
+2017,2018,24,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE",Tabu,Fitoor,False
+2018,2019,25,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Meher Vij †","Secret Superstar",False
+2018,2019,25,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Neha Dhupia","Tumhari Sulu",False
+2018,2019,25,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Aahana Kumra","Lipstick Under My Burkha",False
+2018,2019,25,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Anjali Patil",Newton,False
+2018,2019,25,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Seema Pahwa ‡","Shubh Mangal Saavdhan",False
+2019,2020,26,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Surekha Sikri †","Badhaai Ho",False
+2019,2020,26,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Divya Dutta",Blackmail,False
+2019,2020,26,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Pushpa Joshi",Raid,False
+2019,2020,26,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Radhika Apte",Andhadhun,False
+2019,2020,26,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Rasika Dugal",Manto,False
+2019,2020,26,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Swara Bhaskar ‡","Veere Di Wedding",False
+2020,2021,27,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Kamini Kaushal","Kabir Singh",False
+2020,2021,27,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Amrita Singh",Badla,False
+2020,2021,27,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Seema Pahwa",Bala,False
+2020,2021,27,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Vaani Kapoor",War,False
+2020,2021,27,"Best Supporting Actress","ACTRESS IN A SUPPORTING ROLE","Zaira Wasim","The Sky Is Pink",False

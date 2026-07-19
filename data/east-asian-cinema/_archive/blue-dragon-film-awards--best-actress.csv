@@ -1,0 +1,214 @@
+year,film,person,is_winner,raw_text,source_url
+1960,1960s,,False,1960s,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1963,Hwang Jung-seun,Bloodline,True,1963 (1st) | Hwang Jung-seun ‡ | Bloodline | 혈맥 | Bok-soong's mother,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1964,Moon Jung-suk,Never Look Back,True,1964 (2nd) | Moon Jung-suk ‡ | Never Look Back | 돌아보지 마라 | ,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1965,Um Aing-ran,Beautiful Eye Pupil,True,1965 (3rd) | Um Aing-ran ‡ | Beautiful Eye Pupil | 아름다운 눈동자 | ,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1966,Moon Jung-suk,Market,True,1966 (4th) | Moon Jung-suk ‡ | Market | 시장 | ,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1967,Ju Jeung-ryu,Flame in the Valley,True,1967 (5th) | Ju Jeung-ryu ‡ | Flame in the Valley | 산불 | ,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1969,Nam Jeong-im,Bun-nyeo,True,1969 (6th) | Nam Jeong-im ‡ | Bun-nyeo | 분녀 | ,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1970,Kim Ji-mee,Your Name Is Women,True,1970 (7th) | Kim Ji-mee ‡ | Your Name Is Women | 너의 이름은 여자 | ,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1971,Youn Yuh-jung,Woman of Fire,True,1971 (8th) | Youn Yuh-jung ‡ | Woman of Fire | 화녀 | Myeong-ja,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1972,Yoon Jeong-hee,Oyster Village,True,1972 (9th) | Yoon Jeong-hee ‡ | Oyster Village | 석화촌 | ,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1973,Shim Cheong,효녀 심청,True,1973 (10th) | Shim Cheong | 효녀 심청 | ,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1990,Won Mi-kyung,Only Because You Are a Woman,True,1990 (11th) | Won Mi-kyung ‡ | Only Because You Are a Woman | 단지 그대가 여자라는 이유만으로 | Lim Jung-hee,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1990,All That Falls Has Wings,추락하는 것은 날개가 있다,False,Kang Soo-yeon | All That Falls Has Wings | 추락하는 것은 날개가 있다 | Yoon-ju,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1990,The Lovers of Woomook-baemi,우묵배미의 사랑,False,Choi Myung-gil | The Lovers of Woomook-baemi | 우묵배미의 사랑 | Gong-ryae,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1990,The Woman Who Walks on Water,물위를 걷는 여자,False,Hwang Shin-hye | The Woman Who Walks on Water | 물위를 걷는 여자 | Nan-hee,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1991,Chang Mi-hee,Death Song,True,1991 (12th) | Chang Mi-hee ‡ | Death Song | 사의 찬미 | Yun Sim-deok,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1991,Silver Stallion,은마는 오지 않는다,False,Lee Hye-sook | Silver Stallion | 은마는 오지 않는다 | Eon-rae,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1991,Fly High Run Far,개벽,False,Lee Hye-young | Fly High Run Far | 개벽 | Hae-weol's Wife,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1991,Susanne Brink's Arirang,수잔 브링크의 아리랑,False,Choi Jin-sil | Susanne Brink's Arirang | 수잔 브링크의 아리랑 | Susanne,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1991,Seoul Evita,"서울, 에비타",False,"Hwang Shin-hye | Seoul Evita | 서울, 에비타 | Lee Sun-Young",https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1992,Kang Soo-yeon,Road to the Racetrack,True,1992 (13th) | Kang Soo-yeon ‡ | Road to the Racetrack | 경마장 가는 길 | J,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1992,Kim's War,김의 전쟁,False,Lee Hye-sook | Kim's War | 김의 전쟁 | Hu Sa-ko,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1992,Walking Up to Heaven,걸어서 하늘까지,False,Bae Jong-ok | Walking Up to Heaven | 걸어서 하늘까지 | Ji-suk,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1992,A Room in the Woods,숲속의 방,False,Choi Jin-sil | A Room in the Woods | 숲속의 방 | So Yang,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1993,Kim Hye-soo,First Love,True,1993 (14th) | Kim Hye-soo ‡ | First Love | 첫사랑 | Park Young-shin,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1993,Blue In You,그대 안의 블루,False,Kang Soo-yeon | Blue In You | 그대 안의 블루 | Yu-rim,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1993,The 101st Proposition,101번째 프로포즈,False,Kim Hee-ae | The 101st Proposition | 101번째 프로포즈 | Jung-won,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1993,A Different Kind of Man,가슴 달린 남자,False,Park Sun-young | A Different Kind of Man | 가슴 달린 남자 | Kim Hye-seon,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1993,Seopyeonje,서편제,False,Oh Jung-hae | Seopyeonje | 서편제 | Song-hwa,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1994,Choi Myung-gil,Rosy Life,True,1994 (15th) | Choi Myung-gil ‡ | Rosy Life | 장미빛 인생 | Madam,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1994,Out To The World,세상 밖으로,False,Shim Hye-jin | Out To The World | 세상 밖으로 | Hye-jin,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1994,I Wish For What Is Forbidden To Me,나는 소망한다 내게 금지된 것을,False,Choi Jin-sil | I Wish For What Is Forbidden To Me | 나는 소망한다 내게 금지된 것을 | Kang Min‑ju,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1994,Rosy Days,장미의 나날,False,Kang Soo-yeon | Rosy Days | 장미의 나날 | Jae‑hee,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1994,To You From Me,너에게 나를 보낸다,False,Jung Sun-kyung | To You From Me | 너에게 나를 보낸다 | Woman,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1995,Kim Hye-soo,Dr. Bong,True,1995 (16th) | Kim Hye-soo ‡ | Dr. Bong | 닥터 봉 | Hwang Yeo-jin,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1995,"301, 302",301 302,True,"Bang Eun-jin ‡ | 301, 302 | 301 302 | Song-hee",https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1995,Go Alone Like Musso's Horn,무소의 뿔처럼 혼자서 가라,False,Kang Soo-yeon | Go Alone Like Musso's Horn | 무소의 뿔처럼 혼자서 가라 | Hye‑wan,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1995,A Hot Roof,개같은 날의 오후,False,Jung Sun-kyung | A Hot Roof | 개같은 날의 오후 | Jang Yun‑hee,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1995,How to Top My Wife,마누라 죽이기,False,Choi Jin-sil | How to Top My Wife | 마누라 죽이기 | Jang So-young,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1996,Shim Hye-jin,The Adventures of Mrs. Park,True,1996 (17th) | Shim Hye-jin ‡ | The Adventures of Mrs. Park | 박봉곤 가출사건 | Park Bong-gon,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1996,Their Last Love Affair,지독한 사랑,False,Kang Soo-yeon | Their Last Love Affair | 지독한 사랑 | Young-hee,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1996,Piano Man,피아노 맨,False,Lee Seung-yeon | Piano Man | 피아노 맨 | Detective Mi-ran,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1996,Trio,3인조,False,Jung Sun-kyung | Trio | 3인조 | Maria,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1996,Born to Kill,본 투 킬,False,Shim Eun-ha | Born to Kill | 본 투 킬 | Soo-ha,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1997,Shin Eun-kyung,Downfall,True,1997 (18th) | Shin Eun-kyung ‡ | Downfall | 창 | Eun-young,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1997,Deep Blue,깊은 슬픔,False,Kang Soo-yeon | Deep Blue | 깊은 슬픔 | Oh Eun-seo,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1997,Green Fish,초록물고기,False,Shim Hye-jin | Green Fish | 초록물고기 | Mi-ae,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1997,Ghost Mamma,고스트 맘마,False,Choi Jin-sil | Ghost Mamma | 고스트 맘마 | Cha In-ju,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1997,The Contact,접속,False,Jeon Do-yeon | The Contact | 접속 | Lee Soo-hyeon,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1998,Shim Eun-ha,Christmas in August,True,1998 (19th) | Shim Eun-ha ‡ | Christmas in August | 8월의 크리스마스 | Kim Da-rim,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1998,Bedroom And Courtroom,생과부 위자료 청구 소송,False,Shim Hye-jin | Bedroom And Courtroom | 생과부 위자료 청구 소송 | Lee Ki-ja,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1998,An Affair,정사,False,Lee Mi-sook | An Affair | 정사 | Seo-hyun,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1998,A Promise,약속,False,Jeon Do-yeon | A Promise | 약속 | Chae Hee-ju,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1998,The Letter,편지,False,Choi Jin-sil | The Letter | 편지 | Lee Jung-in,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1999,Jeon Do-yeon,The Harmonium in My Memory,True,1999 (20th) | Jeon Do-yeon ‡ | The Harmonium in My Memory | 내 마음의 풍금 | Yun Hong-yeon,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1999,Rainbow Trout,송어,False,Kang Soo-yeon | Rainbow Trout | 송어 | Jung-hwa,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1999,Love,러브,False,Ko So-young | Love | 러브 | Jenny,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1999,The Ring Virus,링,False,Shin Eun-kyung | The Ring Virus | 링 | Hong Sun-joo,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+1999,Tell Me Something,텔 미 썸딩,False,Shim Eun-ha | Tell Me Something | 텔 미 썸딩 | Chae Soo-yeon,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2000,Lee Mi-yeon,Pisces,True,2000 (21st) | Lee Mi-yeon ‡ | Pisces | 물고기자리 | Ae-ryun,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2000,Ditto,동감,False,Kim Ha-neul | Ditto | 동감 | Yoon So-eun,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2000,Interview,인터뷰,False,Shim Eun-ha | Interview | 인터뷰 | Lee Young-hee,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2000,Joint Security Area,공동경비구역 JSA,False,Lee Young-ae | Joint Security Area | 공동경비구역 JSA | Maj. Sophie E. Jean,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2000,Happy End,해피엔드,False,Jeon Do-yeon | Happy End | 해피엔드 | Choi Bo-ra,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2001,Jang Jin-young,Sorum,True,2001 (22nd) | Jang Jin-young ‡ | Sorum | 소름 | Sun-yeong,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2001,Wanee & Junah,와니와 준하,False,Kim Hee-sun | Wanee & Junah | 와니와 준하 | Wa-ni,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2001,Indian Summer,인디안 썸머,False,Lee Mi-yeon | Indian Summer | 인디안 썸머 | Lee Shin-young,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2001,One Fine Spring Day,봄날은 간다,False,Lee Young-ae | One Fine Spring Day | 봄날은 간다 | Eun-soo,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2001,I Wish I Had a Wife,나도 아내가 있었으면 좋겠다,False,Jeon Do-yeon | I Wish I Had a Wife | 나도 아내가 있었으면 좋겠다 | Jung Won-ju,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2001,My Sassy Girl,엽기적인 그녀,False,Jun Ji-hyun | My Sassy Girl | 엽기적인 그녀 | The Girl,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2002,Kim Yoon-jin,Ardor,True,2002 (23rd) | Kim Yoon-jin ‡ | Ardor | 밀애 | Mi-heun,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2002,Sympathy for Mr. Vengeance,복수는 나의 것,False,Bae Doona | Sympathy for Mr. Vengeance | 복수는 나의 것 | Cha Yeong-mi,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2002,Addicted,중독,False,Lee Mi-yeon | Addicted | 중독 | Heo Eun-soo,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2002,Lovers' Concerto,연애소설,False,Lee Eun-ju | Lovers' Concerto | 연애소설 | Kim Gyung-hee/Soo-in,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2002,No Blood No Tears,피도 눈물도 없이,False,Jeon Do-yeon | No Blood No Tears | 피도 눈물도 없이 | Soo-jin,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2002,Phone,폰,False,Ha Ji-won | Phone | 폰 | Ji-won,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2003,Jang Jin-young,Singles,True,2003 (24th) | Jang Jin-young ‡ | Singles | 싱글즈 | Na-nan,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2003,The Greatest Expectation,위대한 유산,False,Kim Sun-a | The Greatest Expectation | 위대한 유산 | Mi-young,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2003,My Tutor Friend,동갑내기 과외하기,False,Kim Ha-neul | My Tutor Friend | 동갑내기 과외하기 | Choi Su-wan,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2003,A Good Lawyer's Wife,바람난 가족,False,Moon So-ri | A Good Lawyer's Wife | 바람난 가족 | Eun Ho-jeong,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2003,Untold Scandal,스캔들 - 조선남녀상열지사,False,Jeon Do-yeon | Untold Scandal | 스캔들 - 조선남녀상열지사 | Lady Jeong,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2003,Lady Cho,,False,Lee Mi-sook | Lady Cho,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2004,Lee Na-young,Someone Special,True,2004 (25th) | Lee Na-young ‡ | Someone Special | 아는 여자 | Han Yi-yeon,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2004,Hypnotized,얼굴없는 미녀,False,Kim Hye-soo | Hypnotized | 얼굴없는 미녀 | Ji-su,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2004,The Scarlet Letter,주홍글씨,False,Lee Eun-ju | The Scarlet Letter | 주홍글씨 | Choi Ga-hee,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2004,"My Mother, the Mermaid",인어 공주,False,"Jeon Do-yeon | My Mother, the Mermaid | 인어 공주 | Na-young",https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2004,Too Beautiful to Lie,그녀를 믿지 마세요,False,Kim Ha-neul | Too Beautiful to Lie | 그녀를 믿지 마세요 | Joo Yeong-ju,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2005,Lee Young-ae,Sympathy for Lady Vengeance,True,2005 ( 26th ) | Lee Young-ae ‡ | Sympathy for Lady Vengeance | 친절한 금자씨 | Lee Geum-ja,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2005,You Are My Sunshine,너는 내 운명,False,Jeon Do-yeon | You Are My Sunshine | 너는 내 운명 | Jeon Eun-ha,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2005,Rules of Dating,연애의 목적,False,Kang Hye-jung | Rules of Dating | 연애의 목적 | Choi Hong,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2005,Blossom Again,사랑니,False,Kim Jung-eun | Blossom Again | 사랑니 | Cho In-young,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2005,April Snow,외출,False,Son Ye-jin | April Snow | 외출 | Seo-young,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2006,Kim Hye-soo,Tazza: The High Rollers,True,2006 ( 27th ) | Kim Hye-soo ‡ | Tazza: The High Rollers | 타짜 | Madam Jeong,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2006,My Scary Girl,"달콤, 살벌한 연인",False,"Choi Kang-hee | My Scary Girl | 달콤, 살벌한 연인 | Lee Mi-na",https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2006,Lump Sugar,각설탕,False,Im Soo-jung | Lump Sugar | 각설탕 | Kim Shi-eun,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2006,Between Love and Hate,"연애, 그 참을 수 없는 가벼움",False,"Jang Jin-young | Between Love and Hate | 연애, 그 참을 수 없는 가벼움 | Yeon-ah",https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2006,Maundy Thursday,우리들의 행복한 시간,False,Lee Na-young | Maundy Thursday | 우리들의 행복한 시간 | Moon Yu-jeong,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2006,For Horowitz,호로비츠를 위하여,False,Uhm Jung-hwa | For Horowitz | 호로비츠를 위하여 | Kim Ji-soo,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2007,Jeon Do-yeon,Secret Sunshine,True,2007 ( 28th ) | Jeon Do-yeon ‡ | Secret Sunshine | 밀양 | Lee Shin-ae,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2007,Happiness,행복,False,Im Soo-jung | Happiness | 행복 | Eun-hee,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2007,200 Pounds Beauty,미녀는 괴로워,False,Kim Ah-joong | 200 Pounds Beauty | 미녀는 괴로워 | Kang Han-na / Jenny,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2007,May 18,화려한 휴가,False,Lee Yo-won | May 18 | 화려한 휴가 | Park Shin-ae,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2007,Hwang Jin-yi,황진이,False,Song Hye-kyo | Hwang Jin-yi | 황진이 | Hwang Jin-yi,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2008,Son Ye-jin,My Wife Got Married,True,2008 ( 29th ) | Son Ye-jin ‡ | My Wife Got Married | 아내가 결혼했다 | Joo In-ah,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2008,Crush and Blush,미쓰 홍당무,False,Gong Hyo-jin | Crush and Blush | 미쓰 홍당무 | Yang Mi-sook,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2008,Seven Days,세븐 데이즈,False,Kim Yoon-jin | Seven Days | 세븐 데이즈 | Yoo Ji-yeon,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2008,Forever the Moment,우리 생애 최고의 순간,False,Moon So-ri | Forever the Moment | 우리 생애 최고의 순간 | Han Mi-sook,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2008,Sunny,님은 먼곳에,False,Soo Ae | Sunny | 님은 먼곳에 | Soon-yi / Sunny,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2009,Ha Ji-won,Closer to Heaven,True,2009 ( 30th ) | Ha Ji-won ‡ | Closer to Heaven | 내 사랑 내 곁에 | Lee Ji-soo,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2009,Goodbye Mom,애자,False,Choi Kang-hee | Goodbye Mom | 애자 | Park Ae-ja,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2009,My Girlfriend Is an Agent,7급 공무원,False,Kim Ha-neul | My Girlfriend Is an Agent | 7급 공무원 | Ahn Soo-ji,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2009,Mother,마더,False,Kim Hye-ja | Mother | 마더 | Mother,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2009,Thirst,박쥐,False,Kim Ok-vin | Thirst | 박쥐 | Tae-ju,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2010,Yoon Jeong-hee,Poetry,True,2010 ( 31st ) | Yoon Jeong-hee ‡ | Poetry | 시 | Yang Mi-ja,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2010,Midnight FM,심야의 FM,True,Soo Ae ‡ | Midnight FM | 심야의 FM | Ko Sun-young,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2010,The Housemaid,하녀,False,Jeon Do-yeon | The Housemaid | 하녀 | Eun-yi,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2010,Harmony,하모니,False,Kim Yoon-jin | Harmony | 하모니 | Hong Jeong-hye,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2010,Bedevilled,김복남 살인사건의 전말,False,Seo Young-hee | Bedevilled | 김복남 살인사건의 전말 | Kim Bok-nam,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2011,Kim Ha-neul,Blind,True,2011 ( 32nd ) | Kim Ha-neul ‡ | Blind | 블라인드 | Min Soo-ah,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2011,Petty Romance,쩨쩨한 로맨스,False,Choi Kang-hee | Petty Romance | 쩨쩨한 로맨스 | Han Da-rim,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2011,Silenced,도가니,False,Jung Yu-mi | Silenced | 도가니 | Seo Yoo-jin,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2011,Villain and Widow,이층의 악당,False,Kim Hye-soo | Villain and Widow | 이층의 악당 | Hyun-joo,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2011,Late Autumn,만추,False,Tang Wei | Late Autumn | 만추 | Anna,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2012,Im Soo-jung,All About My Wife,True,2012 ( 33rd ) | Im Soo-jung ‡ | All About My Wife | 내 아내의 모든 것 | Yeon Jung-in,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2012,Love Fiction,러브 픽션,False,Gong Hyo-jin | Love Fiction | 러브 픽션 | Lee Hee-jin,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2012,Pietà,피에타,False,Jo Min-su | Pietà | 피에타 | Jang Mi-sun,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2012,Helpless,화차,False,Kim Min-hee | Helpless | 화차 | Kang Seon-yeong/Cha Gyeong-seon,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2012,Dancing Queen,댄싱퀸,False,Uhm Jung-hwa | Dancing Queen | 댄싱퀸 | Jung-hwa,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2013,Han Hyo-joo,Cold Eyes,True,2013 ( 34th ) | Han Hyo-joo ‡ | Cold Eyes | 감시자들 | Ha Yoon-joo,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2013,Very Ordinary Couple,연애의 온도,False,Kim Min-hee | Very Ordinary Couple | 연애의 온도 | Jang Young,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2013,Hide and Seek,숨바꼭질,False,Moon Jeong-hee | Hide and Seek | 숨바꼭질 | Joo-hee,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2013,Hope,소원,False,Uhm Ji-won | Hope | 소원 | Kim Mi-hee,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2013,Montage,몽타주,False,Uhm Jung-hwa | Montage | 몽타주 | Ha-kyung,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2014,Chun Woo-hee,Han Gong-ju,True,2014 ( 35th ) | Chun Woo-hee ‡ | Han Gong-ju | 한공주 | Han Gong-ju,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2014,Way Back Home,집으로 가는 길,False,Jeon Do-yeon | Way Back Home | 집으로 가는 길 | Song Jeong-yeon,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2014,Thread of Lies,우아한 거짓말,False,Kim Hee-ae | Thread of Lies | 우아한 거짓말 | Hyun-sook,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2014,Miss Granny,수상한 그녀,False,Shim Eun-kyung | Miss Granny | 수상한 그녀 | Young Oh Mal-soon/ Oh Doo-ri,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2014,Blood and Ties,공범,False,Son Ye-jin | Blood and Ties | 공범 | Jung Da-eun,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2015,Lee Jung-hyun,Alice in Earnestland,True,2015 ( 36th ) | Lee Jung-hyun ‡ | Alice in Earnestland | 성실한 나라의 앨리스 | Jung Soo-nam,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2015,The Beauty Inside,뷰티 인사이드,False,Han Hyo-joo | The Beauty Inside | 뷰티 인사이드 | Yi-soo,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2015,The Shameless,무뢰한,False,Jeon Do-yeon | The Shameless | 무뢰한 | Kim Hye-kyung,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2015,Assassination,암살,False,Jun Ji-hyun | Assassination | 암살 | Ahn Okyun / Mitsuko,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2015,Coin Locker Girl,차이나타운,False,Kim Hye-soo | Coin Locker Girl | 차이나타운 | Ma Woo-hee / Mother,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2016,Kim Min-hee,The Handmaiden,True,2016 ( 37th ) | Kim Min-hee ‡ | The Handmaiden | 아가씨 | Lady/Izumi Hideko,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2016,Worst Woman,최악의 하루,False,Han Ye-ri | Worst Woman | 최악의 하루 | Eun-hee,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2016,Familyhood,굿바이 싱글,False,Kim Hye-soo | Familyhood | 굿바이 싱글 | Go Joo-yeon,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2016,The Last Princess,덕혜옹주,False,Son Ye-jin | The Last Princess | 덕혜옹주 | Princess Deokhye,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2016,The Bacchus Lady,죽여주는 여자,False,Youn Yuh-jung | The Bacchus Lady | 죽여주는 여자 | So-young,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2017,Na Moon-hee,I Can Speak,True,2017 ( 38th ) | Na Moon-hee ‡ | I Can Speak | 아이 캔 스피크 | Na Ok-bun,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2017,Missing,미씽: 사라진 여자,False,Gong Hyo-jin | Missing | 미씽: 사라진 여자 | Han Mae / Kim Yeon,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2017,The Villainess,악녀,False,Kim Ok-vin | The Villainess | 악녀 | Sook-hee / Chae Yeon-soo,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2017,The Running Actress,여배우는 오늘도,False,Moon So-ri | The Running Actress | 여배우는 오늘도 | Moon So-ri,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2017,The Mimic,장산범,False,Yum Jung-ah | The Mimic | 장산범 | Hee-yeon,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2018,Han Ji-min,Miss Baek,True,2018 ( 39th ) | Han Ji-min ‡ | Miss Baek | 미쓰백 | Baek Sang-ah,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2018,Microhabitat,소공녀,False,Esom | Microhabitat | 소공녀 | Miso,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2018,Herstory,허스토리,False,Kim Hee-ae | Herstory | 허스토리 | Moon Jung-sook,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2018,Little Forest,리틀 포레스트,False,Kim Tae-ri | Little Forest | 리틀 포레스트 | Song Hye-won,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2018,On Your Wedding Day,너의 결혼식,False,Park Bo-young | On Your Wedding Day | 너의 결혼식 | Hwan Seung-hee,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2019,Cho Yeo-jeong,Parasite,True,2019 ( 40th ) | Cho Yeo-jeong ‡ | Parasite | 기생충 | Choi Yeon-gyo,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2019,A Resistance,항거:유관순 이야기,False,Go Ah-sung | A Resistance | 항거:유관순 이야기 | Yu Gwan-sun,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2019,Default,국가부도의 날,False,Kim Hye-soo | Default | 국가부도의 날 | Han Shi-hyeon,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2019,Exit,엑시트,False,Lim Yoona | Exit | 엑시트 | Jung Eui-joo,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2019,Birthday,생일,False,Jeon Do-yeon | Birthday | 생일 | Park Soon-nam,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2020,Ra Mi-ran,Honest Candidate,True,2020 ( 41st ) [ 2 ] | Ra Mi-ran | Honest Candidate | 정직한 후보 | Joo Sang-sook,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2020,Moonlit Winter,윤희에게,False,Kim Hee-ae | Moonlit Winter | 윤희에게 | Yoon-hee,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2020,Diva,디바,False,Shin Min-a | Diva | 디바 | Lee Young,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2020,Beasts Clawing at Straws,지푸라기라도 잡고 싶은 짐승들,False,Jeon Do-yeon | Beasts Clawing at Straws | 지푸라기라도 잡고 싶은 짐승들 | Choi Yeon-hee,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2020,Kim Ji-young: Born 1982,82년생 김지영,False,Jung Yu-mi | Kim Ji-young: Born 1982 | 82년생 김지영 | Kim Ji-young,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2021,Moon So-ri,Three Sisters,True,2021 ( 42nd ) [ 3 ] | Moon So-ri | Three Sisters | 세 자매 | Mi-yeon,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2021,The Call,콜,False,Jeon Jong-seo | The Call | 콜 | Oh Young-sook,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2021,Night in Paradise,낙원의 밤,False,Jeon Yeo-been | Night in Paradise | 낙원의 밤 | Kim Jae-yeon,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2021,Miracle: Letters to the President,기적,False,Lim Yoona | Miracle: Letters to the President | 기적 | Song Ra-hee,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2021,The Day I Died: Unclosed Case,내가 죽던 날,False,Kim Hye-soo | The Day I Died: Unclosed Case | 내가 죽던 날 | Kim Hyeon-soo,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2022,Tang Wei,Decision to Leave,True,2022 ( 43rd ) [ 4 ] | Tang Wei | Decision to Leave | 헤어질 결심 | Song Seo-rae,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2022,Life Is Beautiful,인생은 아름다워,False,Yum Jung-ah | Life Is Beautiful | 인생은 아름다워 | Oh Se-yeon,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2022,Confidential Assignment 2: International,공조2: 인터내셔날,False,Lim Yoona | Confidential Assignment 2: International | 공조2: 인터내셔날 | Park Min-young,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2022,Anchor,앵커,False,Chun Woo-hee | Anchor | 앵커 | Jung Se-ra,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2022,Special Delivery,특송,False,Park So-dam | Special Delivery | 특송 | Jang Eun-ha,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2023,2023,,False,2023 ( 44th ) [ 5 ],https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2023,Sleep,잠,True,Jung Yu-mi ‡ | Sleep | 잠 | Soo-jin,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2023,Green House,비닐하우스,False,Kim Seo-hyung | Green House | 비닐하우스 | Mun-jeong,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2023,Smugglers,밀수,False,Kim Hye-soo | Smugglers | 밀수 | Jo Chun-ja,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2023,Concrete Utopia,콘크리트 유토피아,False,Park Bo-young | Concrete Utopia | 콘크리트 유토피아 | Myeong-hwa,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2023,Smugglers,밀수,False,Yum Jung-ah | Smugglers | 밀수 | Um Jin-sook,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2024,2024,,False,2024 ( 45th ) [ 6 ],https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2024,Exhuma,파묘,True,Kim Go-eun ‡ | Exhuma | 파묘 | Lee Hwa-rim,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2024,Because I Hate Korea,한국이 싫어서,False,Go Ah-sung | Because I Hate Korea | 한국이 싫어서 | Gye-na,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2024,Citizen of a Kind,시민덕희,False,Ra Mi-ran | Citizen of a Kind | 시민덕희 | Kim Deok-hee,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2024,Revolver,리볼버,False,Jeon Do-yeon | Revolver | 리볼버 | Ha Soo-young,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2024,Wonderland,원더랜드,False,Tang Wei | Wonderland | 원더랜드 | Bai Li,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2025,2025,,False,2025 ( 46th ),https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2025,No Other Choice,어쩔수가없다,True,Son Ye-jin ‡ | No Other Choice | 어쩔수가없다 | Lee Mi-ri,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2025,Dark Nuns,검은 수녀들,False,Song Hye-kyo | Dark Nuns | 검은 수녀들 | Sister Junia,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2025,Hi-Five,하이파이브,False,Lee Jae-in | Hi-Five | 하이파이브 | Park Wan-seo,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2025,The Old Woman with the Knife,파과,False,Lee Hye-young | The Old Woman with the Knife | 파과 | Hornclaw,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+2025,Pretty Crazy,악마가 이사왔다,False,Lim Yoona | Pretty Crazy | 악마가 이사왔다 | Jeong Seon-ji,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+,Kim Hye-soo,,False,3 | Kim Hye-soo,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+,Moon Jung-suk,,False,2 | Moon Jung-suk,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+,Jeon Do-yeon,,False,16 | Jeon Do-yeon,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+,Kim Hye-soo,,False,10 | Kim Hye-soo,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+,Kang Soo-yeon,,False,8 | Kang Soo-yeon,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+,Choi Jin-sil,,False,6 | Choi Jin-sil,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+,Kim Ha-neul,,False,5 | Kim Ha-neul,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+,Lim Yoona,,False,4 | Lim Yoona,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+,Im Soo-jung,,False,3 | Im Soo-jung,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+,Kim Hye-soo,N/a,False,Actress with most awards | Kim Hye-soo | — N/a | 3,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+,N/a,,False,Yoon Jeong-hee | — N/a,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+,Jeon Do-yeon,N/a,False,Actress with most nominations | Jeon Do-yeon | — N/a | 16,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+,Choi Jin-sil,N/a,False,Actress with most nominations without ever winning | Choi Jin-sil | — N/a | 6,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+,Tang Wei,Decision to Leave,False,First foreign actress won | Tang Wei | Decision to Leave | — N/a,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+,Na Moon-hee,I Can Speak,False,Oldest winner | Na Moon-hee | I Can Speak | 75,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+,Kim Hye-soo,First Love,False,Youngest winner | Kim Hye-soo | First Love | 23,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress
+,Jun Ji-hyun,My Sassy Girl,False,Youngest nominee | Jun Ji-hyun | My Sassy Girl | 21,https://en.wikipedia.org/wiki/Blue_Dragon_Film_Award_for_Best_Actress

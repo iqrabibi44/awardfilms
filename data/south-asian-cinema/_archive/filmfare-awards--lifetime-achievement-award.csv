@@ -1,0 +1,53 @@
+year,film,person,is_winner,raw_text,source_url
+1991,,Amitabh Bachchan,True,1991 |  | Amitabh Bachchan † | Actor | 48,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+1992,No award,,True,1992 | No award,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+1993,,Dev Anand,True,1993 |  | Dev Anand † | Actor | 69,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+1994,,Dilip Kumar,True,1994 |  | Dilip Kumar † | 71,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+1994,Lata Mangeshkar,Singer,True, | Lata Mangeshkar † | Singer | 64,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+1995,,Waheeda Rehman,True,1995 |  | Waheeda Rehman † | Actress | 57,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+1995,Shammi Kapoor,Actor,True, | Shammi Kapoor | Actor | 63,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+1996,,Ashok Kumar,True,1996 |  | Ashok Kumar † | 84,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+1996,Vyjayantimala,Actress,True, | Vyjayantimala | Actress | 62,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+1996,Sunil Dutt,Actor,True, | Sunil Dutt | Actor | 66,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+1997,,Dharmendra,True,1997 |  | Dharmendra | 61,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+1997,Mumtaz,Actress,True, | Mumtaz | Actress | 49,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+1998,,Sharmila Tagore,True,1998 |  | Sharmila Tagore | 53,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+1999,,Helen,True,1999 |  | Helen | 60,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+1999,Manoj Kumar,Actor,True, | Manoj Kumar † | Actor | 61,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+2000,,Hema Malini,True,2000 |  | Hema Malini | Actress | 51,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+2000,Vinod Khanna,Actor,True, | Vinod Khanna † | Actor | 53,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+2001,,Feroz Khan,True,2001 |  | Feroz Khan | 61,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+2001,Asha Bhosle,Singer,True, | Asha Bhosle † | Singer | 67,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+2002,,Gulzar,True,2002 |  | Gulzar † | Screenwriter / Lyricist | 67,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+2002,Asha Parekh,Actress,True, | Asha Parekh † | Actress | 59,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+2003,,Jeetendra,True,2003 |  | Jeetendra | Actor | 61,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+2003,Rekha,Actress,True, | Rekha | Actress | 48,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+2004,,Sulochana Latkar,True,2004 |  | Sulochana Latkar | 75,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+2004,B. R. Chopra,Director,True, | B. R. Chopra † | Director | 89,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+2004,Nirupa Roy,Actress,True, | Nirupa Roy | Actress | 73,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+2005,,Rajesh Khanna,True,2005 |  | Rajesh Khanna | Actor | 62,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+2006,,Shabana Azmi,True,2006 |  | Shabana Azmi | Actress | 55,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+2007,,Jaya Bachchan,True,2007 |  | Jaya Bachchan | 58,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+2007,Javed Akhtar,Screenwriter / Lyricist,True, | Javed Akhtar | Screenwriter / Lyricist | 62,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+2008,,Rishi Kapoor,True,2008 |  | Rishi Kapoor | Actor | 55,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+2009,,Om Puri,True,2009 |  | Om Puri | 58,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+2009,Bhanu Athaiya,Costume Designer,True, | Bhanu Athaiya | Costume Designer | 79,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+2010,,Shashi Kapoor,True,2010 |  | Shashi Kapoor † | Actor | 71,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+2010,Khayyam,Music Director,True, | Khayyam | Music Director | 83,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+2011,,Manna Dey,True,2011 |  | Manna Dey † | Singer | 91,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+2012,,Aruna Irani,True,2012 |  | Aruna Irani | Actress | 65,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+2013,,Yash Chopra,True,2013 |  | Yash Chopra † (posthumous) | Director | 80,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+2014,,Tanuja,True,2014 |  | Tanuja | Actress | 70,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+2015,,Kamini Kaushal,True,2015 |  | Kamini Kaushal | 88,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+2016,,Moushumi Chatterjee,True,2016 |  | Moushumi Chatterjee | 61,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+2017,,Shatrughan Sinha,True,2017 |  | Shatrughan Sinha | Actor | 71,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+2018,,Bappi Lahiri,True,2018 |  | Bappi Lahiri | Music director | 65,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+2018,Mala Sinha,Actress,True, | Mala Sinha | Actress | 81,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+2019,,Sridevi,True,2019 |  | Sridevi (posthumous) | 54,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+2020,,Ramesh Sippy,True,2020 |  | Ramesh Sippy | Director | 73,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+2021,,Irrfan Khan,True,2021 |  | Irrfan Khan (posthumous) | Actor | 53,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+2022,,Subhash Ghai,True,2022 |  | Subhash Ghai | Director | 77,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+2023,,Prem Chopra,True,2023 |  | Prem Chopra | Actor | 87,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+2024,,David Dhawan,True,2024 |  | David Dhawan | Director | 72,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+2025,,Shyam Benegal,True,2025 |  | Shyam Benegal † (posthumous) | 90,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award
+2025,Zeenat Aman,Actress,True, | Zeenat Aman | Actress | 73,https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award

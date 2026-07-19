@@ -1,0 +1,120 @@
+year,film,person,is_winner,raw_text,source_url
+1990,Li Qiankuan / Xiao Guiyun,李前宽 、 肖桂云,True,1990 | Li Qiankuan / Xiao Guiyun | 李前宽 、 肖桂云 | Founding Ceremony | 开国大典,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+1990,谢铁骊 、 赵元,A Dream of the Red Mansions,True,Xie Tieli / Zhao Yuan | 谢铁骊 、 赵元 | A Dream of the Red Mansions | 红楼梦,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+1990,陈家林,Bai Se Qi Yi,False,Chen Jialin | 陈家林 | Bai Se Qi Yi | 百色起义,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+1991,N/A,,False,1991 | N/A,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+1991,黄健中、李子羽,Dragon Year Cops,False,Huang Jianzhong / Li Ziyu | 黄健中、李子羽 | Dragon Year Cops | 龙年警官,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+1991,赛夫、麦丽丝,Qi Shi Feng Yun,False,Sai Fu / Mai Lisi | 赛夫、麦丽丝 | Qi Shi Feng Yun | 骑士风云,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+1991,夏钢,Zao Yu Ji Qing,False,Xia Gang | 夏钢 | Zao Yu Ji Qing | 遭遇激情 | ,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+1992,Sun Zhou,孙周,True,1992 | Sun Zhou | 孙周 | Xin Xiang | 心香,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+1992,导演创作集体,Decisive Engagement: The Liaoxi-Shenyang Campaign,True,Ensable Directors | 导演创作集体 | Decisive Engagement: The Liaoxi-Shenyang Campaign | 大决战,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+1992,黄健中,Spring Festival,False,Huang Jianzhong | 黄健中 | Spring Festival | 过年,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+1992,李前宽、肖桂云,Jue Zhan Zhi Hou,False,Li Qiankuan / Xiao Guiyun | 李前宽、肖桂云 | Jue Zhan Zhi Hou | 决战之后,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+1992,李歇浦,Kai Tian Pi Di,False,Li Xiepu | 李歇浦 | Kai Tian Pi Di | 开天辟地,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+1992,徐耿,Feng Yu Gu Yuan,False,Xu Geng | 徐耿 | Feng Yu Gu Yuan | 风雨故园,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+1993,Xia Gang,夏钢,True,1993 | Xia Gang | 夏钢 | After Separation | 大撒把,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+1993,张建亚,San Mao Joins the Army,False,Zhang Jianya | 张建亚 | San Mao Joins the Army | 三毛从军记,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+1993,张艺谋,The Story of Qiu Ju,False,Zhang Yimou | 张艺谋 | The Story of Qiu Ju | 秋菊打官司,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+1994,He Ping,何平,True,"1994 | He Ping | 何平 | Red Firecracker, Green Firecracker | 炮打双灯",https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+1994,赛夫、麦丽丝,To the East of Heroes,False,Sai Fu / Mai Lisi | 赛夫、麦丽丝 | To the East of Heroes | 东归英雄传,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+1995,Huang Jianxin / Yang Yazhou,黄建新 、 杨亚洲,True,"1995 | Huang Jianxin / Yang Yazhou | 黄建新 、 杨亚洲 | Back to Back, Face to Face | 背靠背，脸对脸",https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+1995,周晓文,Ermo,False,Zhou Xiaowen | 周晓文 | Ermo | 二嫫,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+1996,Wu Tianming,吴天明,True,1996 | Wu Tianming | 吴天明 | The King of Masks | 变脸,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+1996,陈国星、王坪,Kong Fansen,False,Chen Guoxing / Wang Ping | 陈国星、王坪 | Kong Fansen | 孔繁森,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+1996,宁瀛,Police Story,False,Ning Ying | 宁瀛 | Police Story | 民警故事,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+1996,叶大鹰,Red Cherry,False,Ye Daying | 叶大鹰 | Red Cherry | 红樱桃,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+1997,Wei Lian,韦廉,True,1997 | Wei Lian | 韦廉 | Da Zhuan Zhe | 大转折,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+1997,黄蜀芹,I Have a Dad,False,Huang Shuqin | 黄蜀芹 | I Have a Dad | 我也有爸爸,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+1997,谢晋,The Opium War,False,Xie Jin | 谢晋 | The Opium War | 鸦片战争,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+1998,Hu Bingliu,胡炳榴,True,1998 | Hu Bingliu | 胡炳榴 | Settlement | 安居,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+1998,赛夫 、 麦丽丝,Genghis Khan,True,Sai Fu / Mai Lisi | 赛夫 、 麦丽丝 | Genghis Khan | 一代天骄成吉思汗,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+1998,杨光远,The Liberation of Southwest China,False,Yang Guangyuan | 杨光远 | The Liberation of Southwest China | 大进军——席卷大西南,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+1998,杨亚洲,A Tree in House,False,Yang Yazhou | 杨亚洲 | A Tree in House | 没事偷着乐,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+1999,Zhang Yimou,张艺谋,True,1999 | Zhang Yimou | 张艺谋 | Not One Less | 一个都不能少,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+1999,霍建起,Postmen in the Mountains,False,Huo Jianqi | 霍建起 | Postmen in the Mountains | 那山那人那狗,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+1999,滕文骥,Spring Rhapsody,False,Teng Wenji | 滕文骥 | Spring Rhapsody | 春天的狂想,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2000,Chen Guoxing,陈国星,True,2000 | Chen Guoxing | 陈国星 | Heng Kong Chu Shi | 横空出世,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2000,张艺谋,The Road Home,True,Zhang Yimou | 张艺谋 | The Road Home | 我的父亲母亲,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2001,Huo Jianqi,霍建起,True,2001 | Huo Jianqi | 霍建起 | Love of Blueness | 蓝色爱情,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2001,丁荫楠,Together Forever,False,Ding Yinnan | 丁荫楠 | Together Forever | 相伴永远,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2001,黄建新,Who Cares?,False,Huang Jianxin | 黄建新 | Who Cares? | 谁说我不在乎,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2002,Chen Kaige,陈凯歌,True,2002 | Chen Kaige | 陈凯歌 | Together | 和你在一起,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2002,杨亚洲,Pretty Big Feet,True,Yang Yazhou | 杨亚洲 | Pretty Big Feet | ' 美丽的大脚,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2002,赛夫、麦丽丝,Heavenly Grassland,False,Sai Fu / Mai Lisi | 赛夫、麦丽丝 | Heavenly Grassland | 天上草原,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2003,Zhang Yimou,张艺谋,True,2003 | Zhang Yimou | 张艺谋 | Hero | 英雄,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2003,霍建起,Nuan,False,Huo Jianqi | 霍建起 | Nuan | 暖,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2003,翟俊杰,Jing Tao Hai Lang,False,Zhai Junjie | 翟俊杰 | Jing Tao Hai Lang | 惊涛骇浪,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2003,郑洞天,Once Upon a Time in Taiwan,False,Zheng Dongtian | 郑洞天 | Once Upon a Time in Taiwan | 台湾往事,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2004,Peng Xiaolian,彭小莲,True,2004 | Peng Xiaolian | 彭小莲 | Shanghai Story | 美丽上海,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2004,张艺谋,House of Flying Daggers,False,Zhang Yimou | 张艺谋 | House of Flying Daggers | 十面埋伏,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2005,Ma Liwen,马俪文,True,2005 | Ma Liwen | 马俪文 | You and Me | 我们俩,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2005,陆川,Kekexili: Mountain Patrol,False,Lu Chuan | 陆川 | Kekexili: Mountain Patrol | 可可西里,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2005,连威廉、沈东、陈健,On the Mountain of Tai Hang,False,Lian Weilian / Shen Dong / Chen Jian | 连威廉、沈东、陈健 | On the Mountain of Tai Hang | 太行山上,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2005,尹力,Zhang Side,False,Yin Li | 尹力 | Zhang Side | 张思德,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2005,Qi Jian,戚健,True,2006-2007 | Qi Jian | 戚健 | The Forest Ranger | 天狗,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2005,尹力,The Knot,True,Yin Li | 尹力 | The Knot | 云水谣,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2005,高群书,Tokyo Trail,False,Gao Qunshu | 高群书 | Tokyo Trail | 东京审判,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2005,张之亮,A Battle of Wits,False,Jacob Cheung | 张之亮 | A Battle of Wits | 墨攻,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2005,俞钟,A Postman OF Paradise,False,Yu Zhong | 俞钟 | A Postman OF Paradise | 香巴拉信使,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2005,Feng Xiaogang,冯小刚,True,2008-2009 | Feng Xiaogang | 冯小刚 | Assembly | 集结号,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2005,曹保平,The Equation of Love and Death,False,Cao Baoping | 曹保平 | The Equation of Love and Death | 李米的猜想,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2005,陈凯歌,Forever Enthralled,False,Chen Kaige | 陈凯歌 | Forever Enthralled | 梅兰芳,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2005,陈嘉上,Painted Skin,False,Gordon Chan | 陈嘉上 | Painted Skin | 画皮,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2005,宁浩,Crazy Racer,False,Ning Hao | 宁浩 | Crazy Racer | 疯狂的赛车,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+,Chen Li,陈力,True,2010-2011 | Chen Li | 陈力 | Love in the Lounge Bridges | 爱在廊桥,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+,安战军,Through Stunning Storms,False,An Zhanjun | 安战军 | Through Stunning Storms | 惊沙,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+,冯小刚,Aftershock,False,Feng Xiaogang | 冯小刚 | Aftershock | 唐山大地震,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+,高峰,The Old Village,False,Gao Feng | 高峰 | The Old Village | 老寨,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+,宁才,Mother,False,Ning Cai | 宁才 | Mother | 额吉,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+,张猛,The Piano in a Factory,False,Zhang Meng | 张猛 | The Piano in a Factory | 钢的琴,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+,Peter Chan,陈可辛,True,2012-2013 [ 1 ] | Peter Chan | 陈可辛 | American Dreams in China | 中国合伙人,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+,王竞,Feng Shui,False,Wang Jing | 王竞 | Feng Shui | 万箭穿心,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+,王家卫,The Grandmaster,False,Wong Kar-wai | 王家卫 | The Grandmaster | 一代宗师,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+,冯小刚,Back to 1942,False,Feng Xiaogang | 冯小刚 | Back to 1942 | 一九四二,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+,Tsui Hark,徐克,True,2014-2015 [ 2 ] | Tsui Hark | 徐克 | The Taking of Tiger Mountain | 智取威虎山,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+,巴音,Norjmaa,False,Ba Yin | 巴音 | Norjmaa | 诺日吉玛,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+,许鞍华,The Golden Era,False,Ann Hui | 许鞍华 | The Golden Era | 黄金时代,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+,梁明,Flag,False,Liang Ming | 梁明 | Flag | 旗,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+,傅东育,The Sky of Tibet,False,Fu Dongyu | 傅东育 | The Sky of Tibet | 西藏天空,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+,Feng Xiaogang,冯小刚,True,2016-2017 | Feng Xiaogang | 冯小刚 | I Am Not Madame Bovary | 我不是潘金莲,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+,郑大圣,Bangzi Melody,False,Zheng Dasheng | 郑大圣 | Bangzi Melody | 村戏,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+,曹保平,The Dead End,False,Cao Baoping | 曹保平 | The Dead End | 烈日灼心,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+,程耳,The Wasted Times,False,Cheng Er | 程耳 | The Wasted Times | 罗曼蒂克消亡史,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+,管虎,Mr. Six,False,Guan Hu | 管虎 | Mr. Six | 老炮儿,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+,Dante Lam,林超贤,True,2018-2019 | Dante Lam | 林超贤 | Operation Red Sea | 红海行动,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+,郭帆,The Wandering Earth,False,Frant Gwo | 郭帆 | The Wandering Earth | 流浪地球,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+,霍猛,Crossing The Border-Zhaoguan,False,Huo Meng | 霍猛 | Crossing The Border-Zhaoguan | 过昭关,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+,王小帅,"So Long, My Son",False,"Wang Xiaoshuai | 王小帅 | So Long, My Son | 地久天长",https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+,董越,The Looming Storm,False,Dong Yue | 董越 | The Looming Storm | 暴雪将至,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+,吕乐,"Lost, Found",False,"Lü Yue | 吕乐 | Lost, Found | 找到你",https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2020,Wang Rui,Chaogtu with Sarula,True,2020 | Wang Rui | Chaogtu with Sarula | 白云之下,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2020,Spring Tide,春潮,False,Yang Lina | Spring Tide | 春潮,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2020,Leap,夺冠,False,Peter Chan | Leap | 夺冠,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2020,"My People, My Country",我和我的祖国,False,"Chen Kaige , Zhang Yibai , Guan Hu , Xue Xiaolu , Xu Zheng , Ning Hao , Wen Muye | My People, My Country | 我和我的祖国",https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2020,Almost a Comedy,半个喜剧,False,"Zhou Shen, Liu Lu | Almost a Comedy | 半个喜剧",https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2020,Better Days,少年的你,False,Derek Tsang | Better Days | 少年的你,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2021,Zhang Yimou,Cliff Walkers,True,2021 | Zhang Yimou | Cliff Walkers | 悬崖之上,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2021,1921,1921,False,Huang Jianxin Zheng Dasheng | 1921 | 1921,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2021,A Little Red Flower,送你一朵小红花,False,Han Yan | A Little Red Flower | 送你一朵小红花,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2021,A Writer's Odyssey,刺杀小说家,False,Lu Yang | A Writer's Odyssey | 刺杀小说家,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2021,A Hustle Bustle New Year,没有过不去的年,False,Yin Li | A Hustle Bustle New Year | 没有过不去的年,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2022,Chen Kaige Tsui Hark Dante Lam,The Battle at Lake Changjin,True,2022 | Chen Kaige Tsui Hark Dante Lam | The Battle at Lake Changjin | 长津湖,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2022,Anita,梅艷芳,False,Longman Leung | Anita | 梅艷芳,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2022,Nice View,奇迹·笨小孩,False,Wen Muye | Nice View | 奇迹·笨小孩,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2022,Embrace Again,穿过寒冬拥抱你,False,Xue Xiaolu | Embrace Again | 穿过寒冬拥抱你,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2022,Sniper,狙击手,False,Zhang Yimou Zhang Mo | Sniper | 狙击手,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2023,Cheng Er,Hidden Blade,True,2023 | Cheng Er | Hidden Blade | 无名,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2023,Ping Pong: The Triumph,中国乒乓之绝地反击,False,Deng Chao Yu Baimei | Ping Pong: The Triumph | 中国乒乓之绝地反击,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2023,Creation of the Gods I: Kingdom of Storms,封神第一部：朝歌风云,False,Wuershan | Creation of the Gods I: Kingdom of Storms | 封神第一部：朝歌风云,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2023,Back to Tibet,,False,Chen Guoxing Lahuajia | Back to Tibet | ,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2023,Yong'an Town Story Collection,,False,Wei Shujun | Yong'an Town Story Collection | ,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2024,Chen Kaige,The Volunteers: To the War,True,2024 | Chen Kaige | The Volunteers: To the War | 志愿军：雄兵出击,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2024,One and Only,热烈,False,Da Peng | One and Only | 热烈,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2024,No More Bets,孤注一掷,False,Shen Ao | No More Bets | 孤注一掷,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2024,Viva La Vida,我们一起摇太阳,False,Han Yan | Viva La Vida | 我们一起摇太阳,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2024,Endless Journey,三大队,False,Dai Mo | Endless Journey | 三大队,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2025,Chen Sicheng Dai Mo,Detective Chinatown 1900,True,2025 | Chen Sicheng Dai Mo | Detective Chinatown 1900 | 唐探1900,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2025,The Lychee Road,长安的荔枝,False,Da Peng | The Lychee Road | 长安的荔枝,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2025,The Last Dance,破·地獄,False,Anselm Chan | The Last Dance | 破·地獄,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2025,Her Story,好东西,False,Shao Yihui | Her Story | 好东西,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director
+2025,The Hedgehog,刺猬,False,Gu Changwei | The Hedgehog | 刺猬,https://en.wikipedia.org/wiki/Golden_Rooster_Award_for_Best_Director

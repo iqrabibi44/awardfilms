@@ -1,0 +1,144 @@
+year,film,person,is_winner,raw_text,source_url
+1998,Ken Loach,My Name is Joe,True,1998 (1st) [ 1 ] | Ken Loach | My Name is Joe,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+1998,Under the Skin,,False,Carine Adler | Under the Skin,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+1998,Regeneration,,False,Gillies MacKinnon | Regeneration,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+1998,Nil by Mouth,,False,Gary Oldman | Nil by Mouth,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+1998,"Lock, Stock and Two Smoking Barrels",,False,"Guy Ritchie | Lock, Stock and Two Smoking Barrels",https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+1999,Anand Tucker,Hilary and Jackie,True,1999 (2nd) [ 2 ] | Anand Tucker | Hilary and Jackie,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+1999,Gods and Monsters,,False,Bill Condon | Gods and Monsters,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+1999,A Room for Romeo Brass,,False,Shane Meadows | A Room for Romeo Brass,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+1999,The War Zone,,False,Tim Roth | The War Zone,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+1999,Wonderland,,False,Michael Winterbottom | Wonderland,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2000,Stephen Daldry,Billy Elliot,True,2000 (3rd) [ 3 ] | Stephen Daldry | Billy Elliot,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2000,Saving Grace,,False,Nigel Cole | Saving Grace,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2000,The House of Mirth,,False,Terence Davies | The House of Mirth,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2000,Topsy-Turvy,,False,Mike Leigh | Topsy-Turvy,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2000,Last Resort,,False,Paweł Pawlikowski | Last Resort,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2001,Jonathan Glazer,Sexy Beast,True,2001 (4th) [ 4 ] | Jonathan Glazer | Sexy Beast,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2001,Enigma,,False,Michael Apted | Enigma,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2001,Bread and Roses,,False,Ken Loach | Bread and Roses,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2001,The Claim,,False,Michael Winterbottom | The Claim,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2002,Paul Greengrass,Bloody Sunday,True,2002 (5th) [ 5 ] [ 6 ] | Paul Greengrass | Bloody Sunday,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2002,Lawless Heart,,False,Neil Hunter and Tom Hunsinger | Lawless Heart,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2002,Sweet Sixteen,,False,Ken Loach | Sweet Sixteen,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2002,Morvern Callar,,False,Lynne Ramsay | Morvern Callar,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2003,Stephen Frears,Dirty Pretty Things,True,2003 (6th) [ 7 ] [ 8 ] | Stephen Frears | Dirty Pretty Things,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2003,28 Days Later,,False,Danny Boyle | 28 Days Later,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2003,Young Adam,,False,David Mackenzie | Young Adam,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2003,In America,,False,Jim Sheridan | In America,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2003,In This World,,False,Michael Winterbottom | In This World,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2004,Mike Leigh,Vera Drake,True,2004 (7th) [ 9 ] | Mike Leigh | Vera Drake,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2004,Touching the Void,,False,Kevin Macdonald | Touching the Void,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2004,Dead Man's Shoes,,False,Shane Meadows | Dead Man's Shoes,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2004,Enduring Love,,False,Roger Michell | Enduring Love,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2004,My Summer of Love,,False,Paweł Pawlikowski | My Summer of Love,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2005,Neil Marshall,The Descent,True,2005 (8th) [ 10 ] | Neil Marshall | The Descent,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2005,The Libertine,,False,Laurence Dunmore | The Libertine,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2005,Mrs Henderson Presents,,False,Stephen Frears | Mrs Henderson Presents,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2005,The Constant Gardener,,False,Fernando Meirelles | The Constant Gardener,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2005,A Cock and Bull Story,,False,Michael Winterbottom | A Cock and Bull Story,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2006,Kevin Macdonald,The Last King of Scotland,True,2006 (9th) [ 11 ] [ 12 ] | Kevin Macdonald | The Last King of Scotland,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2006,Shooting Dogs,,False,Michael Caton-Jones | Shooting Dogs,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2006,The Queen,,False,Stephen Frears | The Queen,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2006,The Wind That Shakes the Barley,,False,Ken Loach | The Wind That Shakes the Barley,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2006,This Is England,,False,Shane Meadows | This Is England,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2007,Anton Corbijn,Control,True,2007 (10th) [ 13 ] [ 14 ] | Anton Corbijn | Control,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2007,Eastern Promises,,False,David Cronenberg | Eastern Promises,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2007,Brick Lane,,False,Sarah Gavron | Brick Lane,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2007,Hallam Foe,,False,David Mackenzie | Hallam Foe,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2007,And When Did You Last See Your Father?,,False,Anand Tucker | And When Did You Last See Your Father?,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2008,Danny Boyle,Slumdog Millionaire,True,2008 (11th) [ 15 ] [ 16 ] | Danny Boyle | Slumdog Millionaire,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2008,The Boy in the Striped Pyjamas,,False,Mark Herman | The Boy in the Striped Pyjamas,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2008,Son of Rambow,,False,Garth Jennings | Son of Rambow,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2008,Hunger,,False,Steve McQueen | Hunger,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2008,Somers Town,,False,Shane Meadows | Somers Town,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2009,Andrea Arnold,Fish Tank,True,2009 (12th) [ 17 ] [ 18 ] | Andrea Arnold | Fish Tank,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2009,Bright Star,,False,Jane Campion | Bright Star,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2009,In the Loop,,False,Armando Iannucci | In the Loop,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2009,Moon,,False,Duncan Jones | Moon,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2009,An Education,,False,Lone Scherfig | An Education,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2010,Gareth Edwards,Monsters,True,2010 (13th) [ 19 ] [ 20 ] | Gareth Edwards | Monsters,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2010,The King's Speech,,False,Tom Hooper | The King's Speech,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2010,Another Year,,False,Mike Leigh | Another Year,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2010,Never Let Me Go,,False,Mark Romanek | Never Let Me Go,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2010,Kick-Ass,,False,Matthew Vaughn | Kick-Ass,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2011,Lynne Ramsay,We Need to Talk About Kevin,True,2011 (14th) [ 21 ] [ 22 ] | Lynne Ramsay | We Need to Talk About Kevin,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2011,Tinker Tailor Soldier Spy,,False,Tomas Alfredson | Tinker Tailor Soldier Spy,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2011,Tyrannosaur,,False,Paddy Considine | Tyrannosaur,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2011,Shame,,False,Steve McQueen | Shame,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2011,Kill List,,False,Ben Wheatley | Kill List,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2012,Peter Strickland,Berberian Sound Studio,True,2012 (15th) [ 23 ] [ 24 ] | Peter Strickland | Berberian Sound Studio,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2012,The Imposter,,False,Bart Layton | The Imposter,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2012,The Best Exotic Marigold Hotel,,False,John Madden | The Best Exotic Marigold Hotel,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2012,Broken,,False,Rufus Norris | Broken,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2012,Sightseers,,False,Ben Wheatley | Sightseers,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2013,Sean Ellis,Metro Manila,True,2013 (16th) [ 25 ] [ 26 ] | Sean Ellis | Metro Manila,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2013,Filth,,False,Jon S. Baird | Filth,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2013,The Selfish Giant,,False,Clio Barnard | The Selfish Giant,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2013,Under the Skin,,False,Jonathan Glazer | Under the Skin,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2013,Starred Up,,False,David Mackenzie | Starred Up,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2014,Yann Demange,71,True,2014 (17th) [ 27 ] [ 28 ] | Yann Demange | '71,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2014,Frank,,False,Lenny Abrahamson | Frank,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2014,Mr. Turner,,False,Mike Leigh | Mr. Turner,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2014,Calvary,,False,John Michael McDonagh | Calvary,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2014,Pride,,False,Matthew Warchus | Pride,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2015,Alex Garland,Ex Machina,True,2015 (18th) [ 29 ] [ 30 ] | Alex Garland | Ex Machina,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2015,45 Years,,False,Andrew Haigh | 45 Years,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2015,Amy,,False,Asif Kapadia | Amy,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2015,Macbeth,,False,Justin Kurzel | Macbeth,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2015,The Lobster,,False,Yorgos Lanthimos | The Lobster,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2016,Andrea Arnold,American Honey,True,2016 (19th) [ 31 ] [ 32 ] | Andrea Arnold | American Honey,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2016,Under the Shadow,,False,Babak Anvari | Under the Shadow,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2016,"I, Daniel Blake",,False,"Ken Loach | I, Daniel Blake",https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2016,Notes on Blindness,,False,James Spinney and Pete Middleton | Notes on Blindness,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2016,Free Fire,,False,Ben Wheatley | Free Fire,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2017,Rungano Nyoni,I Am Not a Witch,True,2017 (20th) [ 33 ] [ 34 ] | Rungano Nyoni | I Am Not a Witch,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2017,The Death of Stalin,,False,Armando Iannucci | The Death of Stalin,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2017,God's Own Country,,False,Francis Lee | God's Own Country,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2017,"Three Billboards Outside Ebbing, Missouri",,False,"Martin McDonagh | Three Billboards Outside Ebbing, Missouri",https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2017,Lady Macbeth,,False,William Oldroyd | Lady Macbeth,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2018,Yorgos Lanthimos,The Favourite,True,2018 (21st) [ 35 ] [ 36 ] | Yorgos Lanthimos | The Favourite,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2018,Lean on Pete,,False,Andrew Haigh | Lean on Pete,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2018,American Animals,,False,Bart Layton | American Animals,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2018,Beast,,False,Michael Pearce | Beast,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2018,You Were Never Really Here,,False,Lynne Ramsay | You Were Never Really Here,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2019,Waad Al-Kateab and Edward Watts,For Sama,True,2019 (22nd) [ 37 ] [ 38 ] | Waad Al-Kateab and Edward Watts | For Sama,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2019,Moffie,,False,Oliver Hermanus | Moffie,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2019,The Souvenir,,False,Joanna Hogg | The Souvenir,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2019,Bait,,False,Mark Jenkin | Bait,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2019,Diego Maradona,,False,Asif Kapadia | Diego Maradona,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2020,2020,,False,2020 (23rd) [ 39 ] [ 40 ],https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2020,His House,,True,Remi Weekes | His House,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2020,Rocks,,False,Sarah Gavron | Rocks,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2020,Saint Maud,,False,Rose Glass | Saint Maud,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2020,Calm with Horses,,False,Nick Rowland | Calm with Horses,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2020,The Father,,False,Florian Zeller | The Father,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2021,2021,,False,2021 (24th) [ 41 ],https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2021,After Love,,True,Aleem Khan | After Love,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2021,Boiling Point,,False,Philip Barantini | Boiling Point,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2021,Ali & Ava,,False,Clio Barnard | Ali & Ava,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2021,The Nest,,False,Sean Durkin | The Nest,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2021,The Souvenir Part II,,False,Joanna Hogg | The Souvenir Part II,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2022,2022,,False,2022 (25th) [ 42 ],https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2022,Aftersun,,True,Charlotte Wells | Aftersun,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2022,Living,,False,Oliver Hermanus | Living,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2022,"Good Luck to You, Leo Grande",,False,"Sophie Hyde | Good Luck to You, Leo Grande",https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2022,The Wonder,,False,Sebastián Lelio | The Wonder,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2022,Blue Jean,,False,Georgia Oakley | Blue Jean,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2023,2023,,False,2023 (26th) [ 43 ],https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2023,All of Us Strangers,,True,Andrew Haigh | All of Us Strangers,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2023,Rye Lane,,False,Raine Allen-Miller | Rye Lane,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2023,Femme,,False,Sam H. Freeman and Ng Choon Ping | Femme,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2023,How to Have Sex,,False,Molly Manning Walker | How to Have Sex,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2023,Scrapper,,False,Charlotte Regan | Scrapper,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2024,2024,,False,2024 (27th) [ 44 ],https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2024,On Becoming a Guinea Fowl,,True,Rungano Nyoni | On Becoming a Guinea Fowl,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2024,Bird,,False,Andrea Arnold | Bird,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2024,The Outrun,,False,Nora Fingscheidt | The Outrun,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2024,Love Lies Bleeding,,False,Rose Glass | Love Lies Bleeding,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2024,Kneecap,,False,Rich Peppiatt | Kneecap,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2025,Akinola Davies Jr.,My Father's Shadow,True,2025 (28th) [ 45 ] | Akinola Davies Jr. | My Father's Shadow,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2025,On Falling,,False,Laura Carreira | On Falling,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2025,I Swear,,False,Kirk Jones | I Swear,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2025,Pillion,,False,Harry Lighton | Pillion,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director
+2025,Die My Love,,False,Lynne Ramsay | Die My Love,https://en.wikipedia.org/wiki/British_Independent_Film_Award_for_Best_Director

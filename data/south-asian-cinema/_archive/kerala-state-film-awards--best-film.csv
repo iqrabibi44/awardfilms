@@ -1,0 +1,59 @@
+year,film,person,is_winner,raw_text,source_url
+1969,Kumara Sambhavam,P. Subramaniam,False,1969 | Kumara Sambhavam | P. Subramaniam | P. Subramaniam | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+1970,Olavum Theeravum,P. N. Menon,False,1970 | Olavum Theeravum | P. N. Menon | P. A. Backer | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+1971,Sarasayya,Thoppil Bhasi,False,1971 | Sarasayya | Thoppil Bhasi | P. V. Sathyan | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+1972,Panitheeratha Veedu,K. S. Sethumadhavan,False,1972 | Panitheeratha Veedu | K. S. Sethumadhavan | Chithrakalakendram | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+1973,Nirmalyam,M. T. Vasudevan Nair,False,1973 | Nirmalyam | M. T. Vasudevan Nair | M. T. Vasudevan Nair | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+1974,Uttarayanam,G. Aravindan,False,1974 | Uttarayanam | G. Aravindan | Pattathuvila Karunakaran | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+1975,Swapnadanam,K. G. George,False,1975 | Swapnadanam | K. G. George | T. Mohammed Bappu | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+1976,Manimuzhakkam,P. A. Backer,False,1976 | Manimuzhakkam | P. A. Backer | Cartoonist Thomas | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+1977,Kodiyettam,Adoor Gopalakrishnan,False,1977 | Kodiyettam | Adoor Gopalakrishnan | Kulathoor Bhaskaran Nair | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+1978,Ashwathama,K. R. Mohanan,False,1978 | Ashwathama | K. R. Mohanan | P. T. Kunju Muhammed | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+1978,M. T. Vasudevan Nair,V. B. K. Menon,False,Bandhanam | M. T. Vasudevan Nair | V. B. K. Menon | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+1979,Esthappan,G. Aravindan,False,1979 | Esthappan | G. Aravindan | K. Ravindranathan Nair | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+1980,Oppol,K. S. Sethumadhavan,False,1980 | Oppol | K. S. Sethumadhavan | Ms. Rosamma George | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+1981,Elippathayam,Adoor Gopalakrishnan,False,1981 | Elippathayam | Adoor Gopalakrishnan | K. Ravindranathan Nair | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+1982,Marmaram,Bharathan,False,1982 | Marmaram | Bharathan | N. N. Films | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+1982,K. G. George,Henry,False,Yavanika | K. G. George | Henry | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+1983,Ente Mamattikkuttiyammakku,Fazil,False,1983 | Ente Mamattikkuttiyammakku | Fazil | M. C. Punnus | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+1984,Mukhamukham,Adoor Gopalakrishnan,False,1984 | Mukhamukham | Adoor Gopalakrishnan | K. Ravindranathan Nair | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+1985,Chidambaram,G. Aravindan,False,1985 | Chidambaram | G. Aravindan | G. Aravindan | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+1986,Oridathu,G. Aravindan,False,1986 | Oridathu | G. Aravindan | G. Aravindan | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+1987,Purushartham,K. R. Mohanan,False,1987 | Purushartham | K. R. Mohanan | P. T. Kunju Muhammed | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+1988,Ore Thooval Pakshikal,Chintha Ravi,False,1988 | Ore Thooval Pakshikal | Chintha Ravi | Chintha Ravi | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+1989,Vadakkunokkiyantram,Sreenivasan,False,"1989 | Vadakkunokkiyantram | Sreenivasan | Tophi Kannaara, T. C. Moni | ",https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+1990,Vasthuhara,G. Aravindan,False,1990 | Vasthuhara | G. Aravindan | T. Ravindranath | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+1991,Kadavu,M. T. Vasudevan Nair,False,1991 | Kadavu | M. T. Vasudevan Nair | M. T. Vasudevan Nair | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+1992,Daivathinte Vikrithikal,Lenin Rajendran,False,1992 | Daivathinte Vikrithikal | Lenin Rajendran | Lenin Rajendran | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+1993,Vidheyan,Adoor Gopalakrishnan,False,1993 | Vidheyan | Adoor Gopalakrishnan | K. Ravindranathan Nair | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+1994,Parinayam,Hariharan,False,1994 | Parinayam | Hariharan | G. P. Vijayakumar | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+1995,Kazhakam,M. P. Sukumaran Nair,False,1995 | Kazhakam | M. P. Sukumaran Nair | M. P. Sukumaran Nair | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+1996,No award,,False,1996 | No award | [ 2 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+1997,Bhoothakkannadi,Lohithadas,False,1997 | Bhoothakkannadi | Lohithadas | N. Krishnakumar | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+1998,Agnisakshi,Shyama Prasad,False,1998 | Agnisakshi | Shyama Prasad | V. V. Babu | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+1999,Karunam,Jayaraj,False,1999 | Karunam | Jayaraj | Jayaraj | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+2000,Sayahnam,R. Sarath,False,2000 | Sayahnam | R. Sarath | M. S. Nazeer | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+2001,Sesham,T. K. Rajeev Kumar,False,"2001 | Sesham | T. K. Rajeev Kumar | Latha Kurian Rajeev, K. Madhavan | ",https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+2002,Bhavam,Sathish Menon,False,2002 | Bhavam | Sathish Menon | Sathish Menon | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+2003,Margam,Rajeev Vijayaraghavan,False,2003 | Margam | Rajeev Vijayaraghavan | Rajeev Vijayaraghavan | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+2004,Akale,Shyamaprasad,False,2004 | Akale | Shyamaprasad | Tom George | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+2005,Thanmathra,Blessy,False,2005 | Thanmathra | Blessy | Raju Mathew | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+2006,Drishtantham,M. P. Sukumaran Nair,False,2006 | Drishtantham | M. P. Sukumaran Nair | M. P. Sukumaran Nair | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+2007,Atayalangal,M. G. Sasi,False,2007 | Atayalangal | M. G. Sasi | Aravind Venugopal | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+2008,Oru Pennum Randaanum,Adoor Gopalakrishnan,False,"2008 | Oru Pennum Randaanum | Adoor Gopalakrishnan | Adoor Gopalakrishnan, Benzy Martin | ",https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+2009,Paleri Manikyam: Oru Pathirakolapathakathinte Katha,Ranjith,False,"2009 | Paleri Manikyam: Oru Pathirakolapathakathinte Katha | Ranjith | A. V. Anoop , Maha Subair | ",https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+2010,Adaminte Makan Abu,Salim Ahamed,False,"2010 | Adaminte Makan Abu | Salim Ahamed | Salim Ahamed, Ashraf Bedi | ",https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+2011,Indian Rupee,Ranjith,False,"2011 | Indian Rupee | Ranjith | Santhosh Sivan , Prithviraj Sukumaran , Shaji Nadeshan | ",https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+2012,Celluloid,Kamal,False,"2012 | Celluloid | Kamal | Kamal, Ubaid | ",https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+2013,CR No: 89,Sudevan,False,2013 | CR No: 89 | Sudevan | Pace Productions | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+2014,Ottaal,Jayaraj,False,"2014 | Ottaal | Jayaraj | K Mohanan, Vinod Vijayan | ",https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+2015,Ozhivudivasathe Kali,Sanal Kumar Sasidharan,False,2015 | Ozhivudivasathe Kali | Sanal Kumar Sasidharan | Niv Art Movies | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+2016,Manhole,Vidhu Vincent,False,2016 | Manhole | Vidhu Vincent | MP Vincent | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+2017,Ottamuri Velicham,Rahul Riji Nair,False,2017 | Ottamuri Velicham | Rahul Riji Nair | Rahul Riji Nair | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+2018,Kanthan - The Lover of Colour,Shareef Easa,False,2018 | Kanthan - The Lover of Colour | Shareef Easa | Shareef Eesa | ,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+2019,Vasanthi,"Shinos Rahman, Sajas Rahman",False,"2019 | Vasanthi | Shinos Rahman, Sajas Rahman | Siju Wilson | ",https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+2020,The Great Indian Kitchen,Jeo Baby,False,"2020 | The Great Indian Kitchen | Jeo Baby | Dijo Augustine, Jomon Jacob, Vishnu Rajan, Sajin S Raj | [ 3 ]",https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+2021,Aavasavyuham,Krishand R. K.,False,2021 | Aavasavyuham | Krishand R. K. | Krishand R. K.,https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+2022,Nanpakal Nerathu Mayakkam,Lijo Jose Pellissery,False,2022 | Nanpakal Nerathu Mayakkam | Lijo Jose Pellissery | Mammootty Kampany | [ 4 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+2023,Kaathal – The Core,Jeo Baby,False,2023 | Kaathal – The Core | Jeo Baby | Mammootty Kampany | [ 5 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film
+2024,Manjummel Boys,Chidambaram S. Poduval,False,"2024 | Manjummel Boys | Chidambaram S. Poduval | Soubin Shahir , Babu Shahir, Shawn Antony | [ 6 ]",https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Film

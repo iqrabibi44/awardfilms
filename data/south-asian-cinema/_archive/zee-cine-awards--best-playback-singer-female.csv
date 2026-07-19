@@ -1,0 +1,123 @@
+year,film,person,is_winner,raw_text,source_url
+1998,1998,,True,1998,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+1998,Dil To Pagal Hai,Dil To Pagal Hai,True,Lata Mangeshkar | Dil To Pagal Hai | Dil To Pagal Hai,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+1998,I Love My India,Pardes,False,Kavita Krishnamurthy | I Love My India | Pardes,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+1998,Le Gayi,Dil To Pagal Hai,False,Asha Bhosle | Le Gayi | Dil To Pagal Hai,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+1998,Sona Kitna Sona Hai,Hero No. 1,False,Poornima | Sona Kitna Sona Hai | Hero No. 1,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+1999,1999,,True,1999,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+1999,Kuch Kuch Hota Hai,Kuch Kuch Hota Hai,True,Alka Yagnik | Kuch Kuch Hota Hai | Kuch Kuch Hota Hai,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+1999,Chamma Chamma,China Gate,False,Alka Yagnik | Chamma Chamma | China Gate,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+1999,Duplicate,,False,Mere Mehboob Mere Sanam | Duplicate,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+1999,Pyaar Kiya To Darna Kya,,False,Odh Li Chunariya | Pyaar Kiya To Darna Kya,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+1999,Chaiyya Chaiyya,Dil Se..,False,Sapna Awasthi | Chaiyya Chaiyya | Dil Se..,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2000,2000,,True,2000,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2000,Nimbooda,Hum Dil De Chuke Sanam,True,Kavita Krishnamurthy | Nimbooda | Hum Dil De Chuke Sanam,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2000,Taal Se Taal Mila,Taal,False,Alka Yagnik | Taal Se Taal Mila | Taal,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2000,Rang De,Thakshak,False,Asha Bhosle | Rang De | Thakshak,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2000,Mhare Hiwda,Hum Saath-Saath Hain,False,Kavita Krishnamurthy | Mhare Hiwda | Hum Saath-Saath Hain,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2000,Taal,,False,Ishq Bina | Taal,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2001,2001,,True,2001,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2001,Kaho Naa... Pyaar Hai,Kaho Naa... Pyaar Hai,True,Alka Yagnik | Kaho Naa... Pyaar Hai | Kaho Naa... Pyaar Hai,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2002,2002,,True,2002,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2002,Radha Kaise Na Jale,Lagaan,True,Asha Bhosle | Radha Kaise Na Jale | Lagaan,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2003,2003,,True,2003,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2003,Dola Re Dola,Devdas,True,Kavita Krishnamurthy | Dola Re Dola | Devdas,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2003,Shreya Ghoshal,,True,Shreya Ghoshal,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2003,Maar Dala,Devdas,False,Kavita Krishnamurthy | Maar Dala | Devdas,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2003,Khallas,Company,False,Asha Bhosle | Khallas | Company,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2003,Ishq Samundar,Kaante,False,Sunidhi Chauhan | Ishq Samundar | Kaante,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2003,Sur – The Melody of Life,,False,Dil Mein Jaagi Dhadkan | Sur – The Melody of Life,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2004,2004,,True,2004,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2004,Kuch Naa Kaho,Kuch Naa Kaho,True,Sadhana Sargam | Kuch Naa Kaho | Kuch Naa Kaho,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2004,Jaadu Hai Nasha Hai,Jism,False,Shreya Ghoshal | Jaadu Hai Nasha Hai | Jism,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2004,Odhni,Tere Naam,False,Alka Yagnik | Odhni | Tere Naam,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2005,2005,,True,2005,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2005,Dhoom Machale,Dhoom,True,Sunidhi Chauhan | Dhoom Machale | Dhoom,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2005,Aisa Jadoo Daala Re,Khakee,False,Sunidhi Chauhan | Aisa Jadoo Daala Re | Khakee,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2005,Musafir,,False,Ishq Kabhi Kario | Musafir,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2005,Aao Na,Kyun! Ho Gaya Na...,False,Sadhana Sargam | Aao Na | Kyun! Ho Gaya Na...,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2005,Yeh Rishta,Meenaxi,False,Reena Bharadwaz | Yeh Rishta | Meenaxi,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2006,2006,,True,2006,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2006,Piyu Bole,Parineeta,True,Shreya Ghoshal | Piyu Bole | Parineeta,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2006,Kyon Ki Itna,Kyon Ki,False,Alka Yagnik | Kyon Ki Itna | Kyon Ki,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2006,Kaisi Paheli,Parineeta,False,Sunidhi Chauhan | Kaisi Paheli | Parineeta,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2006,Huzoore Ala,Page 3,False,Asha Bhosle | Huzoore Ala | Page 3,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2006,Kajra Re,Bunty Aur Babli,False,Alisha Chinai | Kajra Re | Bunty Aur Babli,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2007,2007,,True,2007,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2007,Tumhi Dekho Naa,Kabhi Alvida Na Kehna,True,Alka Yagnik | Tumhi Dekho Naa | Kabhi Alvida Na Kehna,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2007,So Jaoon Main,Woh Lamhe,False,Shreya Ghoshal | So Jaoon Main | Woh Lamhe,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2007,Beedi Jalaile,Omkara,False,Sunidhi Chauhan | Beedi Jalaile | Omkara,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2007,Golmaal,Golmaal,False,Anushka Manchanda | Golmaal | Golmaal,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2007,Where's The Party Tonight?,Kabhi Alvida Na Kehna,False,Vasundhara Das | Where's The Party Tonight? | Kabhi Alvida Na Kehna,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2008,2008,,True,2008,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2008,Barso Re,Guru,True,Shreya Ghoshal | Barso Re | Guru,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2008,Yeh Ishq Haye,Jab We Met,False,Shreya Ghoshal | Yeh Ishq Haye | Jab We Met,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2008,Salaam-e-Ishq,Salaam-e-Ishq,False,Shreya Ghoshal | Salaam-e-Ishq | Salaam-e-Ishq,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2008,Sadhana Sargam,,False,Sadhana Sargam,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2008,Bolna Halke,Jhoom Barabar Jhoom,False,Mahalakshmi Iyer | Bolna Halke | Jhoom Barabar Jhoom,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2008,Sajnaji Vaari Vaari,Honeymoon Travels Pvt. Ltd.,False,Sunidhi Chauhan | Sajnaji Vaari Vaari | Honeymoon Travels Pvt. Ltd.,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2009,2009,,True,2009,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2009,No Award Given,,False,No Award Given,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2010,2010,,True,2010,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2010,No Award Given,,False,No Award Given,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2011,2011,,True,2011,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2011,Sajda,My Name Is Khan,True,Richa Sharma | Sajda | My Name Is Khan,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2011,Chori Kiya Re Jiya,Dabangg,False,Shreya Ghoshal | Chori Kiya Re Jiya | Dabangg,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2012,2012,,True,2012,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2012,Saibo,Shor in the City,True,Shreya Ghoshal | Saibo | Shor in the City,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2012,Ooh Laa La,The Dirty Picture,False,Shreya Ghoshal | Ooh Laa La | The Dirty Picture,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2012,Bodyguard,,False,Teri Meri | Bodyguard,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2013,2013,,True,2013,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2013,Saans,Jab Tak Hai Jaan,True,Shreya Ghoshal | Saans | Jab Tak Hai Jaan,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2013,Radha,Student of the Year,False,Shreya Ghoshal | Radha | Student of the Year,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2014,2014,,True,2014,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2014,Sunn Raha Hai,Aashiqui 2,True,Shreya Ghoshal | Sunn Raha Hai | Aashiqui 2,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2014,Sawar loon,Lootera,False,Monali Thakur | Sawar loon | Lootera,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2015,2015,,True,2015,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2015,No Award Given,,False,No Award Given,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2016,2016,,True,2016,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2016,Mohe Rang Do Laal,Bajirao Mastani,True,Shreya Ghoshal | Mohe Rang Do Laal | Bajirao Mastani,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2016,Deewani Mastani,Bajirao Mastani,False,Shreya Ghoshal | Deewani Mastani | Bajirao Mastani,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2016,Pinga,,False,Shreya Ghoshal | Pinga,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2016,Vaishali Mhade,,False,Vaishali Mhade,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2016,Moh Moh Ke Dhaage,Dum Laga Ke Haisha,False,Monali Thakur | Moh Moh Ke Dhaage | Dum Laga Ke Haisha,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2017,2017,,True,2017,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2017,Jag Ghoomeya,Sultan,True,Neha Bhasin | Jag Ghoomeya | Sultan,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2018,2018,,True,2018,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2018,Pallo Latke,Shaadi Mein Zaroor Aana,True,Jyotica Tangri | Pallo Latke | Shaadi Mein Zaroor Aana,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2018,Nachdi Phira,Secret Superstar,True,Meghna Mishra | Nachdi Phira | Secret Superstar,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2018,Thodi Der,Half Girlfriend,False,Shreya Ghoshal | Thodi Der | Half Girlfriend,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2019,2019,,True,2019,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2019,Dilbaro,Raazi,True,Harshdeep Kaur | Dilbaro | Raazi,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2019,Vibha Saraf,,True,Vibha Saraf [ 1 ],https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2019,Akh Lad Jaave,Loveyatri,False,Asees Kaur | Akh Lad Jaave | Loveyatri,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2019,Aankh Maarey,Simmba,False,Neha Kakkar | Aankh Maarey | Simmba,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2019,Dilbar,Satyameva Jayate,False,Neha Kakkar & Dhvani Bhanushali | Dilbar | Satyameva Jayate,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2019,Dhadak,Dhadak,False,Shreya Ghoshal | Dhadak | Dhadak,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2019,Padmaavat,,False,Ghoomar | Padmaavat,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2020,2020,,True,2020,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2020,Ghar More Pardesiya,Kalank,True,Shreya Ghoshal & Vaishali Mhade | Ghar More Pardesiya | Kalank,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2020,The Hook Up Song,Student of the Year 2,False,"Neha Kakkar | ""The Hook Up Song"" | Student of the Year 2",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2020,Mere Sohneya,Kabir Singh,False,Parampara Thakur | Mere Sohneya | Kabir Singh,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2020,Pal Pal Dil Ke Paas,,False,"""Pal Pal Dil Ke Paas"" | Pal Pal Dil Ke Paas",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2020,Ghungroo,War,False,Shilpa Rao | Ghungroo | War,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2020,Chandigarh Mein,Good Newwz,False,"Asees Kaur & Lisa Mishra | ""Chandigarh Mein"" | Good Newwz",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2021,NO CEREMONY,,True,2021 | NO CEREMONY,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2022,NO CEREMONY,,True,2022 | NO CEREMONY,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2023,2023,,True,2023,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2023,Rangisari,Jugjugg Jeeyo,True,Kavita Seth | Rangisari | Jugjugg Jeeyo,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2023,Gehraiyaan Title Track,Gehraiyaan,False,"Lothika Jha | ""Gehraiyaan Title Track"" | Gehraiyaan",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2023,Yeh Ek Zindagi,"Monica, O My Darling",False,"Anupama Chakraborty Shrivastava | ""Yeh Ek Zindagi"" | Monica, O My Darling",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2023,Ghodey Pe Sawaar,Qala,False,"Sireesha Bhagavatula | ""Ghodey Pe Sawaar"" | Qala",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2023,Tere Hawaale,Laal Singh Chaddha,False,"Shilpa Rao | ""Tere Hawaale"" | Laal Singh Chaddha",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2023,Dholida,Gangubai Kathiawadi,False,"Janhvi Shrimankar | ""Dholida"" | Gangubai Kathiawadi",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2024,2024,,True,2024,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2024,Besharam Rang,Pathaan,True,Shilpa Rao | Besharam Rang | Pathaan,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2025,2025,,True,2025,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2025,Aaj Ki Raat,Stree 2,True,Madhubanti Bagchi | Aaj Ki Raat | Stree 2,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2026,2026,,True,2026,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2026,Saiyaara Reprise - Female,Saiyaara,True,Shreya Ghoshal | Saiyaara Reprise - Female | Saiyaara,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2026,Aavan Jaavan,War 2,False,"Nikhita Gandhi | ""Aavan Jaavan"" | War 2",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2026,Bol Kaffara Kya Hoga,Ek Deewane Ki Deewaniyat,False,"Neha Kakkar | ""Bol Kaffara Kya Hoga"" | Ek Deewane Ki Deewaniyat",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2026,Uyi Amma,Azaad,False,"Madhubanti Bagchi | ""Uyi Amma"" | Azaad",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female
+2026,Shararat,Dhurandhar,False,"Madhubanti Bagchi & Jasmine Sandlas | ""Shararat"" | Dhurandhar",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Female

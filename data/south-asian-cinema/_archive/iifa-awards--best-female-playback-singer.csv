@@ -1,0 +1,155 @@
+year,film,person,is_winner,raw_text,source_url
+,Shreya Ghoshal,10,False,Most awards | Shreya Ghoshal | 10,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+,29,,False,Most nominations | 29,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+,Shreya Ghoshal,3,False,Most consecutive wins | Shreya Ghoshal (2012-2014) | 3,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+,Shreya Ghoshal,17,False,Most consecutive nominations | Shreya Ghoshal (2006-2016) | 17,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+,Shreya Ghoshal,4,False,Most wins in a decade | Shreya Ghoshal (2000s) | 4,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+,Shreya Ghoshal,4,False,Most nominations in a single year | Shreya Ghoshal (2008) | 4,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+,Meghna Mishra,16,False,Youngest winner | Meghna Mishra (2018) | 16,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+,Sunidhi Chauhan,18,False,Youngest nominee | Sunidhi Chauhan (2001) | 18 [ 2 ],https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+,Asha Bhosle,69,False,Oldest winner | Asha Bhosle (2002) | 69,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+,Lata Mangeshkar,78,False,Oldest nominee | Lata Mangeshkar (2007) | 78,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+,Rekha Bhardwaj,4,False,Most nominations without ever winning | Rekha Bhardwaj | 4,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+,10,"2003, 2004, 2008, 2009, 2012, 2013, 2014, 2020, 2023, 2025",False,"Shreya Ghoshal | 10 | 2003, 2004, 2008, 2009, 2012, 2013, 2014, 2020, 2023, 2025",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+,2,"2000, 2001",False,"Alka Yagnik | 2 | 2000, 2001",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2005,"2005, 2007",,False,"2005, 2007",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2015,"2015, 2017",,False,"2015, 2017",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+,Shreya Ghoshal,29,True,1 | Shreya Ghoshal | 29 | 10,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+,Sunidhi Chauhan,17,False,2 | Sunidhi Chauhan | 17 | 2,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+,Alka Yagnik,13,False,3 | Alka Yagnik | 13,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2000,2000,,True,2000 (1st),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2000,Taal Se Taal,Taal,True,Alka Yagnik † | Taal Se Taal | Taal,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2001,2001,,True,2001 (2nd),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2001,Kaho Naa Pyaar Hai,Kaho Naa... Pyaar Hai,True,Alka Yagnik | Kaho Naa Pyaar Hai | Kaho Naa... Pyaar Hai,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2001,Dil Ne Yeh Kaha,Dhadkan,False,Alka Yagnik † | Dil Ne Yeh Kaha | Dhadkan,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2001,Aey Dil Laya Hai Bahar,Kya Kehna,False,Kavita Krishnamurthy | Aey Dil Laya Hai Bahar | Kya Kehna,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2001,Piya Piya,Har Dil Jo Pyar Karega,False,Preeti & Pinky ‡ | Piya Piya | Har Dil Jo Pyar Karega,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2001,Mehboob Mere,Fiza,False,Sunidhi Chauhan ‡ | Mehboob Mere | Fiza,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2002,2002,,True,2002 (3rd),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2002,Radha Kaisa Na Jale,Lagaan,True,Asha Bhosle | Radha Kaisa Na Jale | Lagaan,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2002,Jaane Kyun,Dil Chahta Hai,False,Alka Yagnik ‡ | Jaane Kyun | Dil Chahta Hai,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2002,Bole Chudiyan,Kabhi Khushi Kabhie Gham,False,Alka Yagnik | Bole Chudiyan | Kabhi Khushi Kabhie Gham,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2002,Suraj Hua Maddham,,False,Suraj Hua Maddham,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2002,So Gaye Hain,Zubeidaa,False,Lata Mangeshkar | So Gaye Hain | Zubeidaa,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2003,2003,,True,2003 (4th),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2003,Dola Re Dola,Devdas,True,Kavita Krishnamurthy † | Dola Re Dola | Devdas,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2003,Shreya Ghoshal,,True,Shreya Ghoshal †,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2004,2004,,True,2004 (5th),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2004,Jaadu Hai Nasha Hai,Jism,True,Shreya Ghoshal † | Jaadu Hai Nasha Hai | Jism,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2004,Kal Ho Naa Ho,Kal Ho Naa Ho,False,Alka Yagnik | Kal Ho Naa Ho (Sad Version) | Kal Ho Naa Ho,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2004,LOC Kargil,,False,Seemaaye Bulaaye | LOC Kargil,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2004,Oodhni,Tere Naam,False,Alka Yagnik ‡ | Oodhni | Tere Naam,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2004,Dekhle Aankhon Mein Aankhien Daal,Munna Bhai M.B.B.S.,False,Sunidhi Chauhan | Dekhle Aankhon Mein Aankhien Daal | Munna Bhai M.B.B.S.,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2005,2005,,True,2005 (6th),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2005,Dhoom Machale,Dhoom,True,Sunidhi Chauhan ‡ | Dhoom Machale | Dhoom,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2005,Aankhen Bandh Karke,Aitraaz,False,Alka Yagnik | Aankhen Bandh Karke | Aitraaz,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2005,Hum Tum,Hum Tum,False,Alka Yagnik † | Hum Tum | Hum Tum,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2005,Lal Dupatta,Mujhse Shaadi Karogi,False,Alka Yagnik ‡ | Lal Dupatta | Mujhse Shaadi Karogi,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2005,Sajna Ve,Chameli,False,Sunidhi Chauhan | Sajna Ve | Chameli,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2006,2006,,True,2006 (7th),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2006,Kajra Re,Bunty Aur Babli,True,Alisha Chinai † | Kajra Re | Bunty Aur Babli,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2006,Main Vaari Vaari,Mangal Pandey: The Rising,False,Kavita Krishnamurthy | Main Vaari Vaari | Mangal Pandey: The Rising,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2006,Piyu Bole,Parineeta,False,Shreya Ghoshal ‡ | Piyu Bole | Parineeta,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2006,Deedar De,Dus,False,Sunidhi Chauhan ‡ | Deedar De | Dus,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2006,Parineeta,,False,Kaisi Paheli | Parineeta,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2007,2007,,True,2007 (8th),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2007,Beedi,Omkara,True,Sunidhi Chauhan † | Beedi | Omkara,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2007,Kabhi Alvida Naa Kehna,Kabhi Alvida Naa Kehna,False,Alka Yagnik ‡ | Kabhi Alvida Naa Kehna | Kabhi Alvida Naa Kehna,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2007,Luka Chhupi,Rang De Basanti,False,Lata Mangeshkar | Luka Chhupi | Rang De Basanti,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2007,Pal Pal,Lage Raho Munnabhai,False,Shreya Ghoshal ‡ | Pal Pal | Lage Raho Munnabhai,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2007,Crazy Kiya Re,Dhoom 2,False,Sunidhi Chauhan | Crazy Kiya Re | Dhoom 2,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2008,2008,,True,2008 (9th),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2008,Barso Re,Guru,True,Shreya Ghoshal † | Barso Re | Guru,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2008,Dholna,Bhool Bhulaiyaa,False,Shreya Ghoshal | Dholna | Bhool Bhulaiyaa,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2008,Saawariya,,False,Thode Badmaash | Saawariya,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2008,Ye Ishq Haye,Jab We Met,False,Shreya Ghoshal ‡ | Ye Ishq Haye | Jab We Met,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2008,Aaja Nachle,Aaja Nachle,False,Sunidhi Chauhan ‡ | Aaja Nachle | Aaja Nachle,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2009,2009,,True,2009 (10th),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2009,Teri Ore,Singh Is Kinng,True,Shreya Ghoshal † | Teri Ore | Singh Is Kinng,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2009,Man Mohana,Jodhaa Akbar,False,Bela Shende | Man Mohana | Jodhaa Akbar,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2009,Zara Zara Touch Me,Race,False,Monali Thakur | Zara Zara Touch Me | Race,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2009,Khuda Jaane,Bachna Ae Haseeno,False,Shilpa Rao ‡ | Khuda Jaane | Bachna Ae Haseeno,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2009,Desi Girl,Dostana,False,Sunidhi Chauhan | Desi Girl | Dostana,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2010,2010,,True,2010 (11th),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2010,Iktara,Wake Up Sid,True,Kavita Seth † | Iktara | Wake Up Sid,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2010,Sasural Genda Phool,Delhi-6,False,Rekha Bhardwaj † | Sasural Genda Phool | Delhi-6,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2010,Mudi Mudi,Paa,False,Shilpa Rao ‡ | Mudi Mudi | Paa,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2010,Zoobi Doobi,3 Idiots,False,Shreya Ghoshal ‡ | Zoobi Doobi | 3 Idiots,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2010,Chor Baazari,Love Aaj Kal,False,Sunidhi Chauhan ‡ | Chor Baazari | Love Aaj Kal,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2010,Haafiz Khuda,8 x 10 Tasveer,False,Tulsi Kumar | Haafiz Khuda | 8 x 10 Tasveer,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2011,2011,,True,2011 (12th),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2011,Munni Badnaam Hui,Dabangg,True,Mamta Sharma † | Munni Badnaam Hui | Dabangg,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2011,Ab Mujhey Koi,Ishqiya,False,Rekha Bhardwaj | Ab Mujhey Koi | Ishqiya,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2011,Bahara,I Hate Luv Storys,False,Shreya Ghoshal ‡ | Bahara | I Hate Luv Storys,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2011,Ainvayi Ainvayi,Band Baaja Baaraat,False,Sunidhi Chauhan ‡ | Ainvayi Ainvayi | Band Baaja Baaraat,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2011,Sheila Ki Jawani,Tees Maar Khan,False,Sunidhi Chauhan † | Sheila Ki Jawani | Tees Maar Khan,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2012,2012,,True,2012 (13th),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2012,Teri Meri,Bodyguard,True,Shreya Ghoshal ‡ | Teri Meri | Bodyguard,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2012,Katiya Karun,Rockstar,False,Harshdeep Kaur ‡ | Katiya Karun | Rockstar,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2012,Ooh La La,The Dirty Picture,False,Shreya Ghoshal | Ooh La La | The Dirty Picture,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2012,Te Amo,Dum Maaro Dum,False,Sunidhi Chauhan | Te Amo | Dum Maaro Dum,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2012,Darling,7 Khoon Maaf,False,Usha Uthup and Rekha Bhardwaj † | Darling | 7 Khoon Maaf,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2013,2013,,True,2013 (14th),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2013,Chikni Chameli,Agneepath,True,Shreya Ghoshal ‡ | Chikni Chameli | Agneepath,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2013,Tumhi Ho Bandhu,Cocktail,False,Kavita Seth ‡ | Tumhi Ho Bandhu | Cocktail,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2013,Phir Le Aya Dil,Barfi!,False,Rekha Bhardwaj | Phir Le Aya Dil | Barfi!,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2013,Pareshaan,Ishaqzaade,False,Shalmali Kholgade † | Pareshaan | Ishaqzaade,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2013,Aashiyan,Barfi!,False,Shreya Ghoshal | Aashiyan | Barfi!,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2014,2014,,True,2014 (15th),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2014,Sunn Raha Hai,Aashiqui 2,True,Shreya Ghoshal ‡ | Sunn Raha Hai | Aashiqui 2,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2014,Ram Chahe Leela,Goliyon Ki Raasleela Ram-Leela,False,Bhoomi Trivedi | Ram Chahe Leela | Goliyon Ki Raasleela Ram-Leela,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2014,Sawaar Loon,Lootera,False,Monali Thakur † | Sawaar Loon | Lootera,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2014,O Rangrez,Bhaag Milkha Bhaag,False,Shreya Ghoshal | O Rangrez | Bhaag Milkha Bhaag,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2015,2015,,True,2015 (16th),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2015,Baby Doll,Ragini MMS 2,True,Kanika Kapoor † | Baby Doll | Ragini MMS 2,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2015,Patakha Guddi,Highway,False,Jyoti Nooran and Sultana Nooran ‡ | Patakha Guddi | Highway,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2015,Samjhawan,Humpty Sharma Ki Dulhania,False,Shreya Ghoshal | Samjhawan | Humpty Sharma Ki Dulhania,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2016,2016,,True,2016 (17th),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2016,Moh Moh Ke Dhaage,Dum Laga Ke Haisha,True,Monali Thakur ‡ | Moh Moh Ke Dhaage | Dum Laga Ke Haisha,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2016,Chittiyaan Kalaiyaan,Roy,False,Kanika Kapoor | Chittiyaan Kalaiyaan | Roy,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2016,Deewani Mastani,Bajirao Mastani,False,Shreya Ghoshal † | Deewani Mastani | Bajirao Mastani,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2016,Girls Like To Swing,Dil Dhadakne Do,False,Sunidhi Chauhan | Girls Like To Swing | Dil Dhadakne Do,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2017,2017,,True,2017 (18th),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2017,Soch Na Sake,Airlift,True,Tulsi Kumar | Soch Na Sake | Airlift,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2017,Da Da Dasse,Udta Punjab,True,Kanika Kapoor ‡ | Da Da Dasse | Udta Punjab,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2017,Jag Ghoomeya,Sultan,False,Neha Bhasin † | Jag Ghoomeya | Sultan,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2018,2018,,True,2018 (19th),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2018,Main Kaun Hoon,Secret Superstar,True,Meghna Mishra † | Main Kaun Hoon | Secret Superstar,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2019,2019,,True,2019 (20th),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2019,Dilbaro,Raazi,True,Harshdeep Kaur ‡ | Dilbaro | Raazi,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2019,Vibha Saraf,,True,Vibha Saraf ‡,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2019,Ghoomar,Padmaavat,False,Shreya Ghoshal † | Ghoomar | Padmaavat,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2019,Ae Watan,Raazi,False,Sunidhi Chauhan ‡ | Ae Watan | Raazi,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2019,Main Badhiya Tu Bhi Badhiya,Sanju,False,Sunidhi Chauhan | Main Badhiya Tu Bhi Badhiya | Sanju,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2019,Paniyon Sa,Satyameva Jayate,False,Tulsi Kumar | Paniyon Sa | Satyameva Jayate,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2020,2020,,True,2020 (21st) [ 3 ],https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2020,Yeh Aaina,Kabir Singh,True,Shreya Ghoshal ‡ | Yeh Aaina | Kabir Singh,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2020,Naina Yeh,Article 15,False,Aakanksha Sharma | Naina Yeh | Article 15,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2020,Jahan Tu Chala,Gully Boy,False,Jasleen Royal | Jahan Tu Chala | Gully Boy,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2020,Kab Se Kab Tak,,False,Vibha Saraf | Kab Se Kab Tak,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2020,Ghungroo,War,False,Shilpa Rao † | Ghungroo | War,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2021,AWARDS NOT HELD DUE TO COVID-19 PANDEMIC,,True,2021 | AWARDS NOT HELD DUE TO COVID-19 PANDEMIC,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2022,2022,,True,2022 (22nd),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2022,Rataan Lambiya,Shershaah,True,Asees Kaur † | Rataan Lambiya | Shershaah,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2022,Ranjha,Shershaah,False,Jasleen Royal | Ranjha | Shershaah,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2022,Kalle Kalle,Chandigarh Kare Aashiqui,False,Priya Saraiya | Kalle Kalle | Chandigarh Kare Aashiqui,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2022,Chaka Chak,Atrangi Re,False,Shreya Ghoshal ‡ | Chaka Chak | Atrangi Re,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2022,Mimi,,False,Param Sundari | Mimi,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2023,2023,,True,2023 (23rd) [ 4 ],https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2023,Rasiya,Brahmāstra: Part One – Shiva,True,Shreya Ghoshal | Rasiya | Brahmāstra: Part One – Shiva,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2023,Deva Deva,Brahmāstra: Part One – Shiva,False,Jonita Gandhi ‡ | Deva Deva | Brahmāstra: Part One – Shiva,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2023,Rangisari,Jugjugg Jeeyo,False,Kavita Seth † | Rangisari | Jugjugg Jeeyo,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2023,Doobey,Gehraiyaan,False,Lothika Jha | Doobey | Gehraiyaan,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2023,Jab Saiyaan,Gangubai Kathiawadi,False,Shreya Ghoshal ‡ | Jab Saiyaan | Gangubai Kathiawadi,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2024,2024,,True,2024 (24th) [ 5 ],https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2024,Chaleya,Jawan,True,Shilpa Rao ‡ | Chaleya | Jawan,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2024,Aararaari Raaro,Jawan,False,Deepthi Suresh ‡ | Aararaari Raaro | Jawan,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2024,Besharam Rang,Pathaan,False,Shilpa Rao † | Besharam Rang | Pathaan,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2024,Kashmir,Animal,False,Shreya Ghoshal | Kashmir | Animal,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2024,Tum Kya Mile,Rocky Aur Rani Kii Prem Kahaani,False,Shreya Ghoshal ‡ | Tum Kya Mile | Rocky Aur Rani Kii Prem Kahaani,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2025,2025,,True,2025 (25th) [ 1 ],https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2025,Ami Je Tomar 3.0,Bhool Bhulaiyaa 3,True,Shreya Ghoshal | Ami Je Tomar 3.0 | Bhool Bhulaiyaa 3,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2025,Aaj Ki Raat,Stree 2,False,Madhubanti Bagchi | Aaj Ki Raat | Stree 2,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2025,Nikat,Kill,False,Rekha Bhardwaj | Nikat | Kill,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2025,Ishq Jaisa Kuch,Fighter,False,Shilpa Rao | Ishq Jaisa Kuch | Fighter,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer
+2025,Dheeme Dheeme,Laapataa Ladies,False,Shreya Ghoshal | Dheeme Dheeme | Laapataa Ladies,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Female_Playback_Singer

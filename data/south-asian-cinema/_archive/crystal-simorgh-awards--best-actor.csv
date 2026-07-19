@@ -1,0 +1,100 @@
+year,film,person,is_winner,raw_text,source_url
+,No award given that year,,False,1983 (1st) | No award given that year,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Hossein Parvaresh,The Weak Point,True,1984 (2nd) | Hossein Parvaresh | The Weak Point | نقطه ضعف | The Interrogator,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Jamshid Mashayekhi,"Kamalolmolk , Chrysanthemums",True,"1985 (3rd) | Jamshid Mashayekhi | Kamalolmolk , Chrysanthemums | کمال‌الملک, گل‌های داوودی | Kamal-ol-molk , Ostovar Hedayat",https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Hadi Eslami,The Bus,True,1986 (4th) | Hadi Eslami | The Bus | اتوبوس | ,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,The Finish Line,خط پایان,False,Iraj Tahmasb | The Finish Line | خط پایان | Khalil Samandar,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Dariush Arjmand,Captain Khorshid,True,1987 (5th) | Dariush Arjmand | Captain Khorshid | ناخدا خورشید | Captain Khorshid,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,The Lodgers,اجاره‌نشین‌ها,False,Ezzatolah Entezami | The Lodgers | اجاره‌نشین‌ها | Abbas,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,The Stone Lion,شیر سنگی,False,Ali Nassirian | The Stone Lion | شیر سنگی | Aliyar,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Faramarz Gharibian,Train,True,1988 (6th) | Faramarz Gharibian | Train | ترن | Poulad,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Off-Limits,خارج از محدوده,False,Mehdi Hashemi | Off-Limits | خارج از محدوده | Mohammad Javad Halimi,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Gifts,تحفه‌ها,False,Mehdi Fathi | Gifts | تحفه‌ها | Mafakher,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Beyond the Fire,آن سوی آتش,False,Khosrow Shojazadeh | Beyond the Fire | آن سوی آتش | Nozar,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,The First Lawyer,وکیل اول,False,Esmaeel Mehrabi | The First Lawyer | وکیل اول | ,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Ezzatolah Entezami,Grand Cinema,True,1989 (7th) | Ezzatolah Entezami | Grand Cinema | گراند سینما | Aghaiev,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Pomegranate and Cane,نار و نی,True,Jahangir Almasi | Pomegranate and Cane | نار و نی | Kamali,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,The Years of Ash,سال‌های خاکستر,False,Ali Nassirian | The Years of Ash | سال‌های خاکستر | ,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,The Lead,سرب,False,Hadi Eslami | The Lead | سرب | Noori,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,The Scout,دیده‌بان,False,Mehrdad Soleimani | The Scout | دیده‌بان | ,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Khosrow Shakibai,Hamoun,True,1990 (8th) | Khosrow Shakibai | Hamoun | هامون | Hamid Hamoun,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Mother,مادر,False,Mohammad Ali Keshavarz | Mother | مادر | Mohammad Ebrahim,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Snake Fang,دندان مار,False,Faramarz Sadighi | Snake Fang | دندان مار | Reza,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,The Immigrant,مهاجر,False,Seyed Ali Reza Khatami | The Immigrant | مهاجر | Asad,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,The Searcher,جستجوگر,False,Dariush Arjmand | The Searcher | جستجوگر | Harmas,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Mehdi Hashemi,"One Ticket, Two Movies!",True,"1991 (9th) | Mehdi Hashemi | One Ticket, Two Movies! | دو فیلم با یک بلیت | ",https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,The Shadow of Imagination,سایه خیال,True,Hossein Panahi | The Shadow of Imagination | سایه خیال | Hossein Panahi,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,The Bride,عروس,False,Abolfazl Poorarab | The Bride | عروس | Hamid,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,"One Ticket, Two Movies!",دو فیلم با یک بلیت,False,"Dariush Farhang | One Ticket, Two Movies! | دو فیلم با یک بلیت | ",https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Love and Death,عشق و مرگ,False,Jamshid Hashempour | Love and Death | عشق و مرگ | Dr. Manoochehr Matin,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Faramarz Sadighi,Attorney General,True,1992 (10th) | Faramarz Sadighi | Attorney General | دادستان | Hossein Dadgar,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,"Once Upon a Time, Cinema",ناصرالدین‌شاه آکتور سینما,False,"Ezzatolah Entezami | Once Upon a Time, Cinema | ناصرالدین‌شاه آکتور سینما | Naser al-Din Shah Qajar / Mozaffar ad-Din Shah Qajar / Mash Hassan",https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,The Quiet Home,خانه خلوت,False,Ezzatolah Entezami | The Quiet Home | خانه خلوت | Amir Jalaleddin,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Avinar,اوینار,False,Parviz Poorhosseini | Avinar | اوینار | Tiva Bashir,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Baduk,بدوک,False,Mohamad Kasebi | Baduk | بدوک | Abdollah,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Narges,نرگس,False,Abolfazl Poorarab | Narges | نرگس | ,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Hamid Farrokhnezhad,Give Back,True,2013 (32rd) | Hamid Farrokhnezhad | Give Back | استرداد | Faramarz Takin,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,The Corridor,دهلیز,False,Reza Attaran | The Corridor | دهلیز | Behzad,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Notoriety,رسوایی,False,Akbar Abdi | Notoriety | رسوایی | Haj Yousef,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Bending the Rules,قاعدهٔ تصادف,False,Amir Jafari | Bending the Rules | قاعدهٔ تصادف | Shahrzad's Father,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,The Bright Day,روز روشن,False,Mehran Ahmadi | The Bright Day | روز روشن | Mr. Kiani,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Reza Attaran,Sensitive Floor,True,2014 (32rd) | Reza Attaran | Sensitive Floor | طبقهٔ حساس | Mr. Kamali,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,I'm Not Angry!,عصبانی نیستم,False,Navid Mohammadzadeh | I'm Not Angry! | عصبانی نیستم | Navid,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Today,امروز,False,Parviz Parastui | Today | امروز | Younes,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Hard Makeup,آرایش غلیظ,False,Hamed Behdad | Hard Makeup | آرایش غلیظ | Masoud Torabi,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Hussein Who Said No,رستاخیز,False,Arash Aasefi | Hussein Who Said No | رستاخیز | Bokair,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,"Azar, Shahdokht, Parviz And Others",آذر، شهدخت، پرویز و دیگران,False,"Mehdi Fakhimzadeh | Azar, Shahdokht, Parviz And Others | آذر، شهدخت، پرویز و دیگران | Parviz Divan Beigi",https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Saeed Aghakhani,The Long Farewell,True,2015 (33rd) | Saeed Aghakhani | The Long Farewell | خداحافظی طولانی | Yahya,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Iran Burger,ایران برگر,False,Mosen Tanabandeh | Iran Burger | ایران برگر | Fathollah Khan,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Time to Love,دوران عاشقی,False,Shahab Hosseini | Time to Love | دوران عاشقی | Hamid,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Mazar-i-Sharif,مزار شریف,False,Hossein Yari | Mazar-i-Sharif | مزار شریف | Shahsavan,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Confessions of My Dangerous Mind,اعترافات ذهن خطرناک من,False,Siamak Safari | Confessions of My Dangerous Mind | اعترافات ذهن خطرناک من | Naser,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Parviz Parastui,Bodyguard,True,2016 (34th) | Parviz Parastui | Bodyguard | بادیگارد | Heydar Zabihei,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Daughter,دختر,False,Farhad Aslani | Daughter | دختر | Ahmad Azizi,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Where Are My Shoes?,کفشهایم کو؟,False,Reza Kianian | Where Are My Shoes? | کفشهایم کو؟ | Habib Kaveh,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Sound and Fury,خشم و هیاهو,False,Navid Mohammadzadeh | Sound and Fury | خشم و هیاهو | Khosrow Parsa,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Life and a Day,ابد و یک روز,False,Payman Maadi | Life and a Day | ابد و یک روز | Morteza,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Mohsen Tanabandeh,Ferrari,True,2017 (35th) | Mohsen Tanabandeh | Ferrari | فراری | Nader,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,"No Date, No Signature",بدون تاریخ، بدون امضاء,False,"Amir Aghaei | No Date, No Signature | بدون تاریخ، بدون امضاء | Dr. Nariman",https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Searing Summer,تابستان داغ,False,Ali Mosaffa | Searing Summer | تابستان داغ | Iman,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,"The Good, the Bad, the Corny",خوب بد جلف,False,"Hamid Farrokhnezhad | The Good, the Bad, the Corny | خوب بد جلف | Major Shademan",https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Midday Adventures,ماجرای نیمروز,False,Mehrdad Sedighian | Midday Adventures | ماجرای نیمروز | Hamed,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Amir Jadidi,"The Lost Strait , Cold Sweat",True,"2018 (36th) | Amir Jadidi | The Lost Strait , Cold Sweat | تنگه ابوقریب, عرق سرد | Hassan, Yaser Shahhosseini",https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Flaming,شعله‌ور,True,Amin Hayai | Flaming | شعله‌ور | Farid,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Cypress Under Water,سرو زیر آب,False,Babak Hamidian | Cypress Under Water | سرو زیر آب | Jahanbakhsh,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Confiscation,مصادره,False,Raza Attaran | Confiscation | مصادره | Esmail Yarjanlo,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Sheeple,مغزهای کوچک زنگ‌زده,False,Navid Mohammadzadeh | Sheeple | مغزهای کوچک زنگ‌زده | Shahin,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,The Truck,کامیون,False,Saeed Aghakhani | The Truck | کامیون | ,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Hootan Shakiba,When the Moon Was Full,True,2019 (37th) | Hootan Shakiba | When the Moon Was Full | شبی‌ که ماه کامل شد | Abdolhamid Rigi,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,The Warden,سرخ‌پوست,False,Navid Mohammadzadeh | The Warden | سرخ‌پوست | Nemat Jahed,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Just 6.5,متری شیش و نیم,False,Payman Maadi | Just 6.5 | متری شیش و نیم | Samad,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Castle of Dreams,قصر شیرین,False,Hamed Behdad | Castle of Dreams | قصر شیرین | Jalal,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Darkhoongah,درخونگاه,False,Amin Hayai | Darkhoongah | درخونگاه | Reza Misagh,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Payman Maadi,Walnut Tree,True,2020 (38th) | Payman Maadi | Walnut Tree | درخت گردو | Qader Molanpour,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Tooman,تومان,False,Mirsaeed Molavian | Tooman | تومان | Davood,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Exodus,خروج,False,Faramarz Gharibian | Exodus | خروج | Rahmat,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Day Zero,روز صفر,False,Amir Jadidi | Day Zero | روز صفر | Reza / Siavash,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Drowning in Holy Water,مردن در آب مطهر,False,Ali Shadman | Drowning in Holy Water | مردن در آب مطهر | Sohrab,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Raza Attaran,Bright House,True,2021 (39th) | Raza Attaran | Bright House | روشن | Roshan,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Majority,بی همه چیز,False,Parviz Parastui | Majority | بی همه چیز | Amir,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Zalava,زالاوا,False,Navid Pourfaraj | Zalava | زالاوا | Masoud Ahmadi,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,"Once Upon a Time, Abadan",روزی روزگاری آبادان,False,"Mohsen Tanabandeh | Once Upon a Time, Abadan | روزی روزگاری آبادان | Mosayeb",https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Mom,مامان,False,Amir Norouzi | Mom | مامان | Fereydoun,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Yadoo,یدو,False,Milad Soveylavi | Yadoo | یدو | Yadoo,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Amin Hayai,The Last Snow,True,2022 (40th) | Amin Hayai | The Last Snow | برف آخر | Yousef,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Grassland,علف زار,False,Pejman Jamshidi | Grassland | علف زار | Amir Hossein,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,The Night Guardian,نگهبان شب,False,Touraj Alvand | The Night Guardian | نگهبان شب | Rasool,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Anti,ضد,False,Mehdi Nosrati | Anti | ضد | Saeed,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Ali Nassirian,Seven Orange Blossoms,True,2023 (41st) | Ali Nassirian | Seven Orange Blossoms | هفت بهار نارنج | ,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Number 10,شماره ۱۰,True,Majid Salehi | Number 10 | شماره ۱۰ | ,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,The Orange Forest,جنگل پرتقال,False,Mirsaeed Molavian | The Orange Forest | جنگل پرتقال | ,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Leather Jacket Man,کت چرمی,False,Javad Ezzati | Leather Jacket Man | کت چرمی | ,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,My Name Is Love,یادگار جنوب,False,Vahid Rahbani | My Name Is Love | یادگار جنوب | ,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Fragrant,عطر آلود,False,Mostafa Zamani | Fragrant | عطر آلود | ,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Mud Room,اتاقک گلی,False,Touraj Alvand | Mud Room | اتاقک گلی | ,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Arastou Khoshrazm,The Morning of The Execution,True,2024 (42nd) | Arastou Khoshrazm | The Morning of The Execution | صبح اعدام | Haj Esmaeil Rezaei,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Majnoon,مجنون,False,Sajjad Babaee | Majnoon | مجنون | Mehdi Zeinoddin,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Parviz Khan,پرویز خان,False,Saeed Poursamimi | Parviz Khan | پرویز خان | Parviz Dehdari,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,The Heart of Raqqa,قلب رقه,False,Shahram Haghighat Doost | The Heart of Raqqa | قلب رقه | Reza,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Summer Time,تابستان همان سال,False,Ali Shadman | Summer Time | تابستان همان سال | ,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor
+,Alligator Blood,تمساح خونی,False,Javad Ezzati | Alligator Blood | تمساح خونی | Houman,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Actor

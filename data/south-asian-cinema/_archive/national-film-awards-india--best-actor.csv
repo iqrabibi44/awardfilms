@@ -1,0 +1,76 @@
+year,film,person,is_winner,raw_text,source_url
+,Indicates the year in which the film was censored by the Central Board of Film Certification,,False,Year | Indicates the year in which the film was censored by the Central Board of Film Certification (CBFC),https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+,Indicates a joint award for that year,,False,† | Indicates a joint award for that year,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+,Indicates that the winner won the award for two performances in that year,,False,‡ | Indicates that the winner won the award for two performances in that year,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+,Amitabh Bachchan,,False,4 | Amitabh Bachchan,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+,"Kamal Haasan , Mammootty , Ajay Devgn",,False,"3 | Kamal Haasan , Mammootty , Ajay Devgn",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+,"Om Puri , Naseeruddin Shah , Mithun Chakraborty , Sanjeev Kumar , Mohanlal , Dhanush",,False,"2 | Om Puri , Naseeruddin Shah , Mithun Chakraborty , Sanjeev Kumar , Mohanlal , Dhanush",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+1967,Uttam Kumar,Anthony Firingee,False,1967 (15th) ‡ | Uttam Kumar | Anthony Firingee | Antony Firingee | Bengali | [ 9 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+1967,Chiriyakhana,,False,Byomkesh Bakshi | Chiriyakhana,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+1968,Ashok Kumar,"Shivnath ""Joggi Thakur"" Choudhary",False,"1968 (16th) | Ashok Kumar | Shivnath ""Joggi Thakur"" Choudhary | Aashirwad | Hindi | [ 10 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+1969,Utpal Dutt,Bhuvan Shome,False,1969 (17th) | Utpal Dutt | Bhuvan Shome | Bhuvan Shome | Hindi | [ 11 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+1970,Sanjeev Kumar,Hamid Ahmed,False,1970 (18th) | Sanjeev Kumar | Hamid Ahmed | Dastak | Hindi | [ 12 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+1971,M. G. Ramachandran,Selvam,False,1971 (19th) | M. G. Ramachandran | Selvam | Rickshawkaran | Tamil | [ 13 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+1972,Sanjeev Kumar,Hari Charan Mathur,False,1972 (20th) | Sanjeev Kumar | Hari Charan Mathur | Koshish | Hindi | [ 12 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+1973,P. J. Antony,Velichapad,False,1973 (21st) | P. J. Antony | Velichapad | Nirmalyam | Malayalam | [ 2 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+1974,Sadhu Meher,Kishtayya,False,1974 (22nd) | Sadhu Meher | Kishtayya | Ankur | Hindi | [ 3 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+1975,M. V. Vasudeva Rao,Choma,False,1975 (23rd) | M. V. Vasudeva Rao | Choma | Chomana Dudi | Kannada | [ 14 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+1976,Mithun Chakraborty,Ghinua,False,1976 (24th) | Mithun Chakraborty | Ghinua | Mrigayaa | Hindi | [ 15 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+1977,Bharath Gopi,Shankaran Kutty,False,1977 (25th) | Bharath Gopi | Shankaran Kutty | Kodiyettam | Malayalam | [ 16 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+1978,Arun Mukherjee,Parasuram,False,1978 (26th) | Arun Mukherjee | Parasuram | Parasuram | Bengali | [ 17 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+1979,Naseeruddin Shah,Anirudh Parmar,False,1979 (27th) | Naseeruddin Shah | Anirudh Parmar | Sparsh | Hindi | [ 18 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+1980,Balan K. Nair,Govindan,False,1980 (28th) | Balan K. Nair | Govindan | Oppol | Malayalam | [ 19 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+1981,Om Puri,Hari Mondal,False,1981 (29th) | Om Puri | Hari Mondal | Arohan | Hindi | [ 20 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+1982,Kamal Haasan,R. Srinivas,False,1982 (30th) | Kamal Haasan | R. Srinivas (Cheenu) | Moondram Pirai | Tamil | [ 21 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+1983,Om Puri,Anant Velankar,False,1983 (31st) | Om Puri | Anant Velankar | Ardh Satya | Hindi | [ 22 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+1984,Naseeruddin Shah,Naurangia,False,1984 (32nd) | Naseeruddin Shah | Naurangia | Paar | Hindi | [ 18 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+1985,Shashi Kapoor,Vikas Pande,False,1985 (33rd) | Shashi Kapoor | Vikas Pande | New Delhi Times | Hindi | [ 23 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+1986,Charuhasan,Tabara Shetty,False,1986 (34th) | Charuhasan | Tabara Shetty | Tabarana Kathe | Kannada | [ 24 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+1987,Kamal Haasan,Sakthivelu Nayakar,False,1987 (35th) | Kamal Haasan | Sakthivelu Nayakar [ c ] | Nayakan | Tamil | [ 26 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+1988,Premji,Raghava Chakyar,False,1988 (36th) | Premji | Raghava Chakyar | Piravi | Malayalam | [ 27 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+1989,Mammootty,Vaikom Muhammad Basheer,False,1989 (37th) ‡ | Mammootty | Vaikom Muhammad Basheer [ d ] | Mathilukal | Malayalam | [ 29 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+1989,Oru Vadakkan Veeragatha,,False,Chandu Chekavar | Oru Vadakkan Veeragatha,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+1990,Amitabh Bachchan,Vijay Deenanath Chauhan,False,1990 (38th) | Amitabh Bachchan | Vijay Deenanath Chauhan | Agneepath | Hindi | [ 30 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+1991,Mohanlal,Kalliyur Gopinathan,False,1991 (39th) | Mohanlal | Kalliyur Gopinathan | Bharatham | Malayalam | [ 31 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+1992,Mithun Chakraborty,Shibnath,False,1992 (40th) | Mithun Chakraborty | Shibnath | Tahader Katha | Bengali | [ 15 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+1993,Mammootty,Ponthan Mada,False,1993 (41st) ‡ | Mammootty | Ponthan Mada | Ponthan Mada | Malayalam | [ 29 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+1993,Vidheyan,,False,Bhaskara Patelar | Vidheyan,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+1994,Nana Patekar,Pratap Narayan Tilak,False,1994 (42nd) | Nana Patekar | Pratap Narayan Tilak | Krantiveer | Hindi | [ 32 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+1995,Rajit Kapur,Mahatma Gandhi,False,1995 (43rd) | Rajit Kapur | Mahatma Gandhi | The Making of the Mahatma | English | [ 33 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+1996,Kamal Haasan,"Senapathy , Chandrabose",False,"1996 (44th) | Kamal Haasan | Senapathy (Indian) , Chandrabose (Chandru) | Indian | Tamil | [ 34 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+1997,Balachandra Menon,Ismail,False,1997 (45th) † | Balachandra Menon | Ismail | Samaantharangal | Malayalam | [ 35 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+1997,Kannan Perumalayan,Kaliyattam,False,Suresh Gopi | Kannan Perumalayan | Kaliyattam | Malayalam,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+1998,Ajay Devgn,Ajay R. Desai,False,1998 (46th) † | Ajay Devgn | Ajay R. Desai | Zakhm | Hindi | [ 7 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+1998,B. R. Ambedkar,Dr. Babasaheb Ambedkar,False,Mammootty | B. R. Ambedkar | Dr. Babasaheb Ambedkar | English,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+1999,Mohanlal,Kunjikuttan,False,1999 (47th) | Mohanlal | Kunjikuttan | Vanaprastham | Malayalam | [ 36 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+2000,Anil Kapoor,Major Jaidev Rajvansh,False,2000 (48th) | Anil Kapoor | Major Jaidev Rajvansh | Pukar | Hindi | [ 37 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+2001,Murali,Appa Mestry,False,2001 (49th) | Murali | Appa Mestry | Neythukaran | Malayalam | [ 38 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+2002,Ajay Devgn,Bhagat Singh,False,2002 (50th) | Ajay Devgn | Bhagat Singh | The Legend of Bhagat Singh | Hindi | [ 39 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+2003,Vikram,Chithan,False,2003 (51st) | Vikram | Chithan | Pithamagan | Tamil | [ 40 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+2004,Saif Ali Khan,Karan Kapoor,False,2004 (52nd) | Saif Ali Khan | Karan Kapoor | Hum Tum | Hindi | [ 41 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+2005,Amitabh Bachchan,Debraj Sahai,False,2005 (53rd) | Amitabh Bachchan | Debraj Sahai | Black | Hindi | [ 42 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+2006,Soumitra Chatterjee,Shashanka Palit,False,2006 (54th) | Soumitra Chatterjee | Shashanka Palit | Podokkhep | Bengali | [ 43 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+2007,Prakash Raj,Vengadam,False,2007 (55th) | Prakash Raj | Vengadam | Kanchivaram | Tamil | [ 44 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+2008,Upendra Limaye,Tayappa,False,2008 (56th) | Upendra Limaye | Tayappa | Jogwa | Marathi | [ 45 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+2009,Amitabh Bachchan,Auro,False,2009 (57th) | Amitabh Bachchan | Auro | Paa | Hindi | [ 46 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+2010,Dhanush,K. P. Karuppu,False,2010 (58th) † | Dhanush | K. P. Karuppu | Aadukalam | Tamil | [ 47 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+2010,Abu,Adaminte Makan Abu,False,Salim Kumar | Abu | Adaminte Makan Abu | Malayalam,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+2011,Girish Kulkarni,Keshya,False,2011 (59th) | Girish Kulkarni | Keshya | Deool | Marathi | [ 48 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+2012,Irrfan Khan,Paan Singh Tomar,False,2012 (60th) † | Irrfan Khan | Paan Singh Tomar | Paan Singh Tomar | Hindi | [ 4 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+2012,Ratnakar,Anumati,False,Vikram Gokhale | Ratnakar | Anumati | Marathi,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+2013,Rajkummar Rao,Shahid Azmi,False,2013 (61st) † | Rajkummar Rao | Shahid Azmi | Shahid | Hindi | [ 49 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+2013,Father,Perariyathavar,False,Suraj Venjaramoodu | Father [ e ] | Perariyathavar | Malayalam,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+2014,Sanchari Vijay,Madesha,False,2014 (62nd) | Sanchari Vijay | Madesha (Vidya) [ f ] | Naanu Avanalla...Avalu | Kannada | [ 50 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+2015,Amitabh Bachchan,Bhashkor Banerjee,False,2015 (63rd) | Amitabh Bachchan | Bhashkor Banerjee | Piku | Hindi | [ 51 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+2016,Akshay Kumar,Commander Rustom Pavri,False,2016 (64th) | Akshay Kumar | Commander Rustom Pavri | Rustom [ g ] | Hindi | [ 54 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+2017,Riddhi Sen,Parimal,False,2017 (65th) | Riddhi Sen | Parimal (Puti) [ h ] | Nagarkirtan | Bengali | [ 55 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+2018,Ayushmann Khurrana,Akash,False,2018 (66th) † | Ayushmann Khurrana | Akash | Andhadhun | Hindi | ,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+2018,Major Vihaan Singh Shergill,Uri: The Surgical Strike,False,Vicky Kaushal | Major Vihaan Singh Shergill | Uri: The Surgical Strike | Hindi,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+2019,Manoj Bajpayee,Ganpath Bhonsle,False,2019 (67th) † | Manoj Bajpayee | Ganpath Bhonsle | Bhonsle | Hindi | [ 56 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+2019,Sivasaami,Asuran,False,Dhanush | Sivasaami | Asuran | Tamil,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+2020,Suriya,Nedumaaran Rajangam,False,2020 (68th) † | Suriya | Nedumaaran Rajangam (Maara) | Soorarai Pottru | Tamil | [ 57 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+2020,Tanaji Malusare,Tanhaji: The Unsung Warrior,False,Ajay Devgn | Tanaji Malusare | Tanhaji: The Unsung Warrior | Hindi,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+2021,Allu Arjun,Pushpa Raj,False,2021 (69th) | Allu Arjun | Pushpa Raj | Pushpa: The Rise | Telugu | [ 58 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+2022,Rishab Shetty,Shiva,False,2022 (70th) | Rishab Shetty | Shiva | Kantara | Kannada | [ 59 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+2023,Vikrant Massey,Manoj Kumar Sharma,False,2023 (71st) † | Vikrant Massey | Manoj Kumar Sharma | 12th Fail | Hindi | [ 60 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor
+2023,"Azad Rathore, Captain Vikram Rathore",Jawan,False,"Shah Rukh Khan | Azad Rathore, Captain Vikram Rathore | Jawan | Hindi",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actor

@@ -1,0 +1,87 @@
+year,film,person,is_winner,raw_text,source_url
+,Ashutosh Rana,2 awards,False,Most Awards | Ashutosh Rana | 2 awards | From 2 nominations,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+,From 3 nominations,,False,Nana Patekar | From 3 nominations,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+,Amrish Puri,7 nominations,False,Most Nominations | Amrish Puri | 7 nominations | 0 awards [ 1 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+,Ashutosh Rana,,False,2 | Ashutosh Rana,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+,Amrish Puri,,False,7 | Amrish Puri,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+,Danny Denzongpa,,False,5 | Danny Denzongpa,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+,Naseeruddin Shah,,False,4 | Naseeruddin Shah,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+,"Shah Rukh Khan , Ajay Devgn , Nana Patekar",,False,"3 | Shah Rukh Khan , Ajay Devgn , Nana Patekar",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+,"Ashish Vidyarthi , Milind Gunaji , Sadashiv Amrapurkar , Manoj Bajpayee , Suniel Shetty , John Abraham",,False,"2 | Ashish Vidyarthi , Milind Gunaji , Sadashiv Amrapurkar , Manoj Bajpayee , Suniel Shetty , John Abraham",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+1992,,Sadashiv Amrapurkar,True,1992 (37th) |  | Sadashiv Amrapurkar ‡ | Maharani | Sadak | [ 3 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+1992,Chuniya Chand Chaukhan a.k.a. Chuniya Mama,Saudagar,False,Amrish Puri | Chuniya Chand Chaukhan a.k.a. Chuniya Mama | Saudagar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+1992,Bhaktawar,Hum,False,Danny Dengzongpa | Bhaktawar | Hum,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+1992,Suraj Narayan Singh a.k.a. Baapji,Narsimha,False,Om Puri | Suraj Narayan Singh a.k.a. Baapji | Narsimha,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+1992,Daroga Shahbaz Khan,Henna,False,Raza Murad | Daroga Shahbaz Khan | Henna,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+1993,,Nana Patekar,True,1993 (38th) |  | Nana Patekar ‡ | Majid Khan | Angaar | [ 4 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+1993,General Dong,Tahalka,False,Amrish Puri | General Dong | Tahalka,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+1993,Pasha,Khuda Gawah,False,Kiran Kumar | Pasha | Khuda Gawah,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+1994,,Paresh Rawal,True,1994 (39th) |  | Paresh Rawal ‡ | Velji | Sir | [ 5 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+1994,Barrister Indrajit Chaddha,Damini,False,Amrish Puri | Barrister Indrajit Chaddha | Damini,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+1994,Chhappan Tikli a.k.a. Jimmy,Sir,False,Gulshan Grover | Chhappan Tikli a.k.a. Jimmy | Sir,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+1994,Jagannath Tripathi,Dalaal,False,Raj Babbar | Jagannath Tripathi | Dalaal,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+1994,Rahul Mehra,Darr,False,Shah Rukh Khan | Rahul Mehra | Darr,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+1995,,Shah Rukh Khan,True,1995 (40th) |  | Shah Rukh Khan ‡ | Vijay Agnihotri | Anjaam | [ 6 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+1995,Chatur Singh Chitah,Krantiveer,False,Danny Denzongpa | Chatur Singh Chitah | Krantiveer,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+1995,Vijaypath,,False,Dilawar Singh | Vijaypath,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+1995,Mr. Jindal,Mohra,False,Naseeruddin Shah | Mr. Jindal | Mohra,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+1996,,Mithun Chakraborty,True,1996 (41st) |  | Mithun Chakraborty ‡ | Amavas a.k.a. Vijay Bahadur Kunwar / Police Inspector Kranti Kumar | Jallaad | [ 7 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+1996,Durjan Singh,Karan Arjun,False,Amrish Puri | Durjan Singh | Karan Arjun,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+1996,Commander Bhadra,Drohkaal,False,Ashish Vidyarthi | Commander Bhadra | Drohkaal,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+1996,ACP Negi,Barsaat,False,Danny Denzongpa | ACP Negi | Barsaat,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+1996,Kooka,Trimurti,False,Mohan Agashe | Kooka | Trimurti,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+1997,,Arbaaz Khan,True,1997 (42nd) |  | Arbaaz Khan ‡ | Vikram | Daraar | [ 8 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+1997,Ramanbhai,Is Raat Ki Subah Nahin,False,Ashish Vidyarthi | Ramanbhai | Is Raat Ki Subah Nahin,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+1997,Katya,Ghatak,False,Danny Denzongpa | Katya | Ghatak,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+1997,Indrajeet Saxena,Fareb,False,Milind Gunaji | Indrajeet Saxena | Fareb,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+1997,Ajay Narang,Chaahat,False,Naseeruddin Shah | Ajay Narang | Chaahat,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+1998,,Kajol,True,1998 (43rd) |  | Kajol ‡ | Isha Diwan | Gupt: The Hidden Truth | [ 9 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+1998,Siddharth Chaudhary,Yes Boss,False,Aditya Pancholi | Siddharth Chaudhary | Yes Boss,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+1998,Bali Thakur,Virasat,False,Milind Gunaji | Bali Thakur | Virasat,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+1998,Raja Sahab,Koyla,False,Amrish Puri | Raja Sahab | Koyla,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+1998,Ranjit Rai,Ishq,False,Sadashiv Amrapurkar | Ranjit Rai | Ishq,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+1999,,Ashutosh Rana,True,1999 (44th) |  | Ashutosh Rana ‡ | Gokul Pandit | Dushman | [ 10 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+1999,Thakurdas Jhawle a.k.a. Bhau,Satya,False,Govind Namdev | Thakurdas Jhawle a.k.a. Bhau | Satya,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+1999,Jageera,China Gate,False,Mukesh Tiwari | Jageera | China Gate,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+1999,Manu Dada,Duplicate,False,Shah Rukh Khan | Manu Dada | Duplicate,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+1999,"Raunak ""Ronnie"" Singh",Ghulam,False,"Sharat Saxena | Raunak ""Ronnie"" Singh | Ghulam",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+2000,,Ashutosh Rana,True,2000 (45th) |  | Ashutosh Rana ‡ | Lajja Shankar Pandey | Sangharsh | [ 11 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+2000,Surya Singh Thapar,Baadshah,False,Amrish Puri | Surya Singh Thapar | Baadshah,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+2000,Gulfam Hassan,Sarfarosh,False,Naseeruddin Shah | Gulfam Hassan | Sarfarosh,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+2000,Sunny,Thakshak,False,Rahul Bose | Sunny | Thakshak,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+2000,"Bacchu ""Bhaiyyaji"" Yadav",Shool,False,"Sayaji Shinde | Bacchu ""Bhaiyyaji"" Yadav | Shool",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+2001,,Suniel Shetty,True,2001 (46th) |  | Suniel Shetty ‡ | Dev Ranjan Chopra | Dhadkan | [ 12 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+2001,Om Srivastav / Mahendra Pratap Singhania,Shikari,False,Govinda | Om Srivastav / Mahendra Pratap Singhania | Shikari,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+2001,Hilal Kohistani,Mission Kashmir,False,Jackie Shroff | Hilal Kohistani | Mission Kashmir,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+2001,Naseer Ahmed,Champion,False,Rahul Dev | Naseer Ahmed | Champion,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+2001,Prakash Sharma,Josh,False,Sharad Kapoor | Prakash Sharma | Josh,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+2002,,Akshay Kumar,True,"2002 (47th) |  | Akshay Kumar ‡ | Vikram ""Vicky"" Bajaj | Ajnabee | [ 13 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+2002,Shekhar Saxena,Kasoor,False,Aftab Shivdasani | Shekhar Saxena | Kasoor,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+2002,Mayor Ashraf Ali,Gadar: Ek Prem Katha,False,Amrish Puri | Mayor Ashraf Ali | Gadar: Ek Prem Katha,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+2002,Raghavan Ghatge,Aks,False,Manoj Bajpayee | Raghavan Ghatge | Aks,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+2002,Ria Jaiswal,Pyaar Tune Kya Kiya,False,Urmila Matondkar | Ria Jaiswal | Pyaar Tune Kya Kiya,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+2003,,Ajay Devgn,True,2003 (48th) |  | Ajay Devgn ‡ | Tarang / Ranjeet Bharadwaj | Deewangee | [ 14 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+2003,Karan Malhotra,Humraaz,False,Akshaye Khanna | Karan Malhotra | Humraaz,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+2003,Babu,Road,False,Manoj Bajpayee | Babu | Road,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+2003,Narsimha,Shakti: The Power,False,Nana Patekar | Narsimha | Shakti: The Power,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+2003,Makdee,Makdee,False,Shabana Azmi | Makdee | Makdee,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+2004,,Irrfan Khan,True,2004 (49th) |  | Irrfan Khan ‡ | Ranvijay Singh | Haasil | [ 15 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+2004,Sonia Khanna,Jism,False,Bipasha Basu | Sonia Khanna | Jism,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+2004,Saba Karim Shah,Janasheen,False,Feroz Khan | Saba Karim Shah | Janasheen,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+2004,Sonia Sinha,Armaan,False,Preity Zinta | Sonia Sinha | Armaan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+2004,Sunder Yadav,Gangaajal,False,Yashpal Sharma | Sunder Yadav | Gangaajal,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+2005,,Priyanka Chopra,True,2005 (50th) |  | Priyanka Chopra ‡ | Sonia Roy | Aitraaz | [ 16 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+2005,Lallan Singh,Yuva,False,Abhishek Bachchan | Lallan Singh | Yuva,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+2005,Yashwant Angre,Khakee,False,Ajay Devgn | Yashwant Angre | Khakee,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+2005,Kabir Sharma,Dhoom,False,John Abraham | Kabir Sharma | Dhoom,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+2005,Raghavan Singh Dutta,Main Hoon Na,False,Suniel Shetty | Raghavan Singh Dutta | Main Hoon Na,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+2006,,Nana Patekar,True,2006 (51st) |  | Nana Patekar ‡ | Tabrez Alam | Apaharan | [ 17 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+2006,Kaali Pratap Singh,Kaal,False,Ajay Devgn | Kaali Pratap Singh | Kaal,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+2006,Simi Roy,Kalyug,False,Amrita Singh | Simi Roy | Kalyug,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+2006,Vishnu Nagre,Sarkar,False,Kay Kay Menon | Vishnu Nagre | Sarkar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+2006,Himmat Mehndi / Jambwal,Dus,False,Pankaj Kapoor | Himmat Mehndi / Jambwal | Dus,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+2007,,Saif Ali Khan,True,"2007 (52nd) |  | Saif Ali Khan ‡ | Ishwar ""Langda"" Tyagi | Omkara | [ 18 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+2007,Lucky Singh,Lage Raho Munna Bhai,False,Boman Irani | Lucky Singh | Lage Raho Munna Bhai,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+2007,Akash Kapadia,Gangster: A Love Story,False,Emraan Hashmi | Akash Kapadia | Gangster: A Love Story,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+2007,Rohit Chopra,Zinda,False,John Abraham | Rohit Chopra | Zinda,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role
+2007,Dr. Siddhant Arya,Krrish,False,Naseeruddin Shah | Dr. Siddhant Arya | Krrish,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Performance_in_a_Negative_Role

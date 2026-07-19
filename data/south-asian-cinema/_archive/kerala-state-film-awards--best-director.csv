@@ -1,0 +1,57 @@
+year,film,person,is_winner,raw_text,source_url
+1969,A. Vincent,Nadhi,False,1969 | A. Vincent | Nadhi | [ 9 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+1970,K. S. Sethumadhavan,Aranazhika Neram,False,1970 | K. S. Sethumadhavan | Aranazhika Neram | [ 10 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+1971,K. S. Sethumadhavan,Karakanakadal,False,1971 | K. S. Sethumadhavan | Karakanakadal | [ 11 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+1972,K. S. Sethumadhavan,Panitheeratha Veedu,False,1972 | K. S. Sethumadhavan | Panitheeratha Veedu | [ 11 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+1973,M. T. Vasudevan Nair,Nirmaalyam,False,1973 | M. T. Vasudevan Nair | Nirmaalyam | [ 11 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+1974,G. Aravindan,Uttarayanam,False,1974 | G. Aravindan | Uttarayanam | [ 11 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+1975,P. A. Backer,Kabani Nadi Chuvannappol,False,1975 | P. A. Backer | Kabani Nadi Chuvannappol | [ 11 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+1976,T. Rajeevnath,Thanal,False,1976 | T. Rajeevnath | Thanal | [ 11 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+1977,Adoor Gopalakrishnan,Kodiyettam,False,1977 | Adoor Gopalakrishnan | Kodiyettam | [ 11 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+1978,G. Aravindan,Thampu,False,1978 | G. Aravindan | Thampu | [ 11 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+1979,G. Aravindan,Esthappan,False,1979 | G. Aravindan | Esthappan | [ 11 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+1980,K. S. Sethumadhavan,Oppol,False,1980 | K. S. Sethumadhavan | Oppol | [ 11 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+1981,G. Aravindan,Pokkuveyil,False,1981 | G. Aravindan | Pokkuveyil | [ 12 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+1982,Bharathan,Marmaram,False,1982 | Bharathan | Marmaram | [ 12 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+1983,Fazil,Ente Mamattukkuttiyammakku,False,1983 | Fazil | Ente Mamattukkuttiyammakku | [ 12 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+1984,Adoor Gopalakrishnan,Mukhamukham,False,1984 | Adoor Gopalakrishnan | Mukhamukham | [ 12 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+1985,G. Aravindan,Chidambaram,False,1985 | G. Aravindan | Chidambaram | [ 12 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+1986,G. Aravindan,Oridathu,False,1986 | G. Aravindan | Oridathu | [ 12 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+1987,Adoor Gopalakrishnan,Anantaram,False,1987 | Adoor Gopalakrishnan | Anantaram | [ 12 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+1988,K. P. Kumaran,Rugmini,False,1988 | K. P. Kumaran | Rugmini | [ 12 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+1989,I. V. Sasi,Mrugaya,False,1989 | I. V. Sasi | Mrugaya | [ 12 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+1990,G. Aravindan,Vasthuhara,False,1990 | G. Aravindan | Vasthuhara | [ 12 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+1991,Kamal,Ulladakkam,False,1991 | Kamal | Ulladakkam | [ 13 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+1992,Hariharan,Sargam,False,1992 | Hariharan | Sargam | [ 13 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+1993,Adoor Gopalakrishnan,Vidheyan,False,1993 | Adoor Gopalakrishnan | Vidheyan | [ 13 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+1994,Shaji N. Karun,Swaham,False,1994 | Shaji N. Karun | Swaham | [ 13 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+1995,Adoor Gopalakrishnan,Kathapurushan,False,1995 | Adoor Gopalakrishnan | Kathapurushan | [ 13 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+1996,Jayaraj,Desadanam,False,1996 | Jayaraj | Desadanam | [ 13 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+1997,T. V. Chandran,Mangamma,False,1997 | T. V. Chandran | Mangamma | [ 13 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+1998,Shyamaprasad,Agnisakshi,False,1998 | Shyamaprasad | Agnisakshi | [ 13 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+1999,Shaji N. Karun,Vanaprastham,False,1999 | Shaji N. Karun | Vanaprastham | [ 13 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+2000,M. T. Vasudevan Nair,Oru Cheru Punchiri,False,2000 | M. T. Vasudevan Nair | Oru Cheru Punchiri | [ 14 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+2001,T. V. Chandran,Dany,False,2001 | T. V. Chandran | Dany | [ 14 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+2002,No winner,,False,2002 | No winner | [ 7 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+2003,Sibi Malayil,Ente Veedu Appuvinteyum,False,2003 | Sibi Malayil | Ente Veedu Appuvinteyum | [ 14 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+2004,Shyamaprasad,Akale,False,2004 | Shyamaprasad | Akale | [ 14 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+2005,Blessy,Thanmathra,False,2005 | Blessy | Thanmathra | [ 14 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+2006,Lenin Rajendran,Rathri Mazha,False,2006 | Lenin Rajendran | Rathri Mazha | [ 14 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+2007,M. G. Sasi,Atayalangal,False,2007 | M. G. Sasi | Atayalangal | [ 14 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+2008,Adoor Gopalakrishnan,Oru Pennum Randaanum,False,2008 | Adoor Gopalakrishnan | Oru Pennum Randaanum | [ 14 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+2009,Hariharan,Kerala Varma Pazhassi Raja,False,2009 | Hariharan | Kerala Varma Pazhassi Raja | [ 14 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+2010,Shyamaprasad,Elektra,False,2010 | Shyamaprasad | Elektra | [ 14 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+2011,Blessy,Pranayam,False,2011 | Blessy | Pranayam | [ 14 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+2012,Lal Jose,Ayalum Njanum Thammil,False,2012 | Lal Jose | Ayalum Njanum Thammil | [ 14 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+2013,Shyamaprasad,Artist,False,2013 | Shyamaprasad | Artist | [ 15 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+2014,Sanal Kumar Sasidharan,Oraalppokkam,False,2014 | Sanal Kumar Sasidharan | Oraalppokkam | [ 16 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+2015,Martin Prakkat,Charlie,False,2015 | Martin Prakkat | Charlie | [ 17 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+2016,Vidhu Vincent,Manhole,False,2016 | Vidhu Vincent | Manhole | [ 18 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+2017,Lijo Jose Pellissery,Ee.Ma.Yau.,False,2017 | Lijo Jose Pellissery | Ee.Ma.Yau. | [ 19 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+2018,Shyamaprasad,Oru Njayarazhcha,False,2018 | Shyamaprasad | Oru Njayarazhcha | [ 20 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+2019,Lijo Jose Pellissery,Jellikkettu,False,2019 | Lijo Jose Pellissery | Jellikkettu | [ 21 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+2020,Sidhartha Siva,Ennivar,False,2020 | Sidhartha Siva | Ennivar | [ 22 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+2021,Dileesh Pothan,Joji,False,2021 | Dileesh Pothan | Joji | [ 23 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+2022,Mahesh Narayan,Ariyippu,False,2022 | Mahesh Narayan | Ariyippu | [ 24 ] [ 25 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+2023,Blessy,Aadujeevitham,False,2023 | Blessy | Aadujeevitham | [ 26 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director
+2024,Chidambaram S. Poduval,Manjummel Boys,False,2024 | Chidambaram S. Poduval | Manjummel Boys | [ 27 ],https://en.wikipedia.org/wiki/Kerala_State_Film_Award_for_Best_Director

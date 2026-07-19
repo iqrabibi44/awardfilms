@@ -1,0 +1,75 @@
+year,film,person,is_winner,raw_text,source_url
+,Kamal Bose,,False,5 | Kamal Bose,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+,"Jal Mistry , Radhu Karmakar",,False,"4 | Jal Mistry , Radhu Karmakar",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+,"Santosh Sivan , Binod Pradhan",,False,"3 | Santosh Sivan , Binod Pradhan",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+,"V. K. Murthy , Krishnarao Vashirda, Faredoon Irani , Fali Mistry , Jaywant Pathare , Govind Nihalani , Manmohan Singh , Ravi K. Chandran , Avik Mukhopadhyay , Sudeep Chatterjee",,False,"2 | V. K. Murthy , Krishnarao Vashirda, Faredoon Irani , Fali Mistry , Jaywant Pathare , Govind Nihalani , Manmohan Singh , Ravi K. Chandran , Avik Mukhopadhyay , Sudeep Chatterjee",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+2025,Rafey Mehmood,Kill,False,2025 | Rafey Mehmood | Kill,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+2024,Avinash Arun,Three of Us,False,2024 | Avinash Arun | Three of Us,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+2023,Sudeep Chatterjee,Gangubai Kathiawadi,False,2023 | Sudeep Chatterjee | Gangubai Kathiawadi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+2022,Avik Mukhopadhyay,Sardar Udham,False,2022 | Avik Mukhopadhyay | Sardar Udham,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+2021,Gulabo Sitabo,,False,2021 | Gulabo Sitabo,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+2020,Jay Oza,Gully Boy,False,2020 | Jay Oza | Gully Boy,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+2019,Pankaj Kumar,Tumbbad,False,2019 | Pankaj Kumar | Tumbbad,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+2018,Sirsha Ray,A Death in the Gunj,False,2018 | Sirsha Ray | A Death in the Gunj,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+2017,Mitesh Mirchandani,Neerja,False,2017 | Mitesh Mirchandani | Neerja,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+2016,Manu Anand,Dum Laga Ke Haisha,False,2016 | Manu Anand | Dum Laga Ke Haisha,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+2015,Bobby Singh and Siddharth Diwan,Queen,False,2015 | Bobby Singh (posthumously) and Siddharth Diwan | Queen,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+2014,Kamaljeet Negi,Madras Cafe,False,2014 | Kamaljeet Negi | Madras Cafe,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+2013,Satyajit Pande,Kahaani,False,2013 | Satyajit Pande (Setu) | Kahaani,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+2012,Carlos Catalan,Zindagi Na Milegi Dobara,False,2012 | Carlos Catalan | Zindagi Na Milegi Dobara,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+2011,Mahendra J. Shetty,Udaan,False,2011 | Mahendra J. Shetty | Udaan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+2010,Rajeev Ravi,Dev.D,False,2010 | Rajeev Ravi | Dev.D,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+2009,Jason West,Rock On!!,False,2009 | Jason West | Rock On!!,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+2008,Sudeep Chatterjee,Chak De India,False,2008 | Sudeep Chatterjee | Chak De India,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+2007,Binod Pradhan,Rang De Basanti,False,2007 | Binod Pradhan | Rang De Basanti,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+2006,Ravi K. Chandran,Black,False,2006 | Ravi K. Chandran | Black,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+2005,Christopher Popp,Lakshya,False,2005 | Christopher Popp | Lakshya,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+2004,Aseem Bajaj,Chameli,False,2004 | Aseem Bajaj | Chameli,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+2003,Binod Pradhan,Devdas,False,2003 | Binod Pradhan | Devdas,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+2002,Santosh Sivan,Asoka,False,2002 | Santosh Sivan | Asoka,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+2001,Bashir Ali,Refugee,False,2001 | Bashir Ali | Refugee,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+2000,Kabir Lal,Taal,False,2000 | Kabir Lal | Taal,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1999,Santosh Sivan,Dil Se..,False,1999 | Santosh Sivan | Dil Se..,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1997,Ashok Mehta,Bandit Queen,False,1997 | Ashok Mehta | Bandit Queen,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1996,Santosh Sivan,Barsaat,False,1996 | Santosh Sivan | Barsaat,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1995,Binod Pradhan,1942: A Love Story,False,1995 | Binod Pradhan | 1942: A Love Story,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1994,Manmohan Singh,Darr,False,1994 | Manmohan Singh | Darr,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1993,S. Kumar,Muskurahat,False,1993 | S. Kumar | Muskurahat,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1992,Radhu Karmakar,Henna,False,1992 | Radhu Karmakar | Henna,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1991,Rajan Kothari,Ghayal,False,1991 | Rajan Kothari | Ghayal,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1990,Manmohan Singh,Chandni,False,1990 | Manmohan Singh | Chandni,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1989,Kiran Deohans,Qayamat Se Qayamat Tak,False,1989 | Kiran Deohans | Qayamat Se Qayamat Tak,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1988,No Ceremony Held,No Ceremony Held,False,1988 | No Ceremony Held | No Ceremony Held,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1987,1987,,False,1987,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1986,S. M. Anwar,Saagar,False,1986 | S. M. Anwar | Saagar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1985,P. L. Raj,Jaag Utha Insaan,False,1985 | P. L. Raj | Jaag Utha Insaan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1984,Govind Nihalani,Vijeta,False,1984 | Govind Nihalani | Vijeta,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1983,Jaywant Pathare,Bemisal,False,1983 | Jaywant Pathare | Bemisal,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1982,Jal Mistry,Kudrat,False,1982 | Jal Mistry | Kudrat [ 2 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1981,S. M. Anwar,Shaan,False,1981 | S. M. Anwar | Shaan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1980,Govind Nihalani,Junoon,False,1980 | Govind Nihalani | Junoon,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1979,Radhu Karmakar,Satyam Shivam Sundaram,False,1979 | Radhu Karmakar | Satyam Shivam Sundaram,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1978,Munir Khan,Hum Kisise Kum Naheen,False,1978 | Munir Khan | Hum Kisise Kum Naheen,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1977,Fali Mistry,Fakira,False,1977 | Fali Mistry | Fakira,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1976,Kamal Bose,Dharmatma,False,1976 | Kamal Bose | Dharmatma,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1975,A. Vincent,Prem Nagar,False,1975 | A. Vincent | Prem Nagar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1974,Jal Mistry,Jheel Ke Us Paar,False,1974 | Jal Mistry | Jheel Ke Us Paar [ 2 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1973,K Vaikunth,Seeta Aur Geeta,False,1973 | K Vaikunth | Seeta Aur Geeta,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1972,Kamal Bose Radhu Karmakar,Dastak Mera Naam Joker,False,1972 | Kamal Bose Radhu Karmakar | Dastak (B&W) Mera Naam Joker (Color),https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1971,Kamal Bose Jal Mistry,Khamoshi Heer Raanjha,False,1971 | Kamal Bose Jal Mistry | Khamoshi (B&W) Heer Raanjha (Color) [ 2 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1970,Kamal Bose Faredoon Irani,Anokhi Raat Duniya,False,1970 | Kamal Bose Faredoon Irani | Anokhi Raat (B&W) Duniya (Color),https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1969,Nariman A. Irani G. Singh,Saraswatichandra Aankhen,False,1969 | Nariman A. Irani G. Singh | Saraswatichandra (B&W) Aankhen (Color),https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1968,Jal Mistry M. N. Malhotra,Baharon Ke Sapne Humraaz,False,1968 | Jal Mistry M. N. Malhotra | Baharon Ke Sapne (B&W) [ 2 ] Humraaz (Color),https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1967,Jaywant Pathare Fali Mistry,Anupama Guide,False,1967 | Jaywant Pathare Fali Mistry | Anupama (B&W) Guide (Color) [ 3 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1966,S. Ramachandra Dharam Chopra,Yaadein Waqt,False,1966 | S. Ramachandra Dharam Chopra | Yaadein (B&W) Waqt (Color),https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1965,K. H. Kapadia Krishnarao Vashirda,Woh Kaun Thi? Geet Gaya Patharon Ne,False,1965 | K. H. Kapadia Krishnarao Vashirda | Woh Kaun Thi? (B&W) Geet Gaya Patharon Ne (Color),https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1964,Kamal Bose Krishnarao Vashirda,Bandini Sehra,False,1964 | Kamal Bose Krishnarao Vashirda | Bandini (B&W) Sehra (Color),https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1963,V. K. Murthy,Sahib Bibi Aur Ghulam,False,1963 | V. K. Murthy | Sahib Bibi Aur Ghulam (B&W),https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1962,V. Balasaheb,Ganga Jamuna,False,1962 | V. Balasaheb | Ganga Jamuna (Color),https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1961,R. D. Mathur,Mughal-e-Azam,False,1961 | R. D. Mathur | Mughal-e-Azam (B&W),https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1960,V. K. Murthy,Kaagaz Ke Phool,False,1960 | V. K. Murthy | Kaagaz Ke Phool (B&W),https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1959,Dilip Gupta,Madhumati,False,1959 | Dilip Gupta | Madhumati (B&W),https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1958,Faredoon A. Irani,Mother India,False,1958 | Faredoon A. Irani | Mother India (Color),https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1957,Radhu Karmakar,Shree 420,False,1957 | Radhu Karmakar | Shree 420 (B&W),https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1956,Dwarka Divecha,Yasmin,False,1956 | Dwarka Divecha | Yasmin (B&W),https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography
+1955,Tara Dutt,Boot Polish,False,1955 | Tara Dutt | Boot Polish (B&W),https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Cinematography

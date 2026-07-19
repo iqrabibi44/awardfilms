@@ -1,0 +1,27 @@
+year,film,person,is_winner,raw_text,source_url
+,Year,Actress,False,# | Year | Actress | Film (English) | Film (Korean),https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1999,Shim Eun-ha,False,36 | 1999 | Shim Eun-ha | Art Museum by the Zoo | 미술관 옆 동물원,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2000,Jeon Do-yeon,False,37 | 2000 | Jeon Do-yeon | The Harmonium in My Memory | 내 마음의 풍금,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2001,Ko So-young,False,38 | 2001 | Ko So-young | A Day | 하루,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2002,Jun Ji-hyun,False,39 | 2002 | Jun Ji-hyun | My Sassy Girl | 엽기적인 그녀,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2003,Lee Mi-yeon,False,40 | 2003 | Lee Mi-yeon | Addicted | 중독,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2004,Moon So-ri,False,41 | 2004 | Moon So-ri | A Good Lawyer's Wife | 바람난 가족,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2005,Kim Hye-soo,False,42 | 2005 | Kim Hye-soo | Hypnotized | 얼굴없는 미녀,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2006,Jeon Do-yeon,False,43 | 2006 | Jeon Do-yeon | You Are My Sunshine | 너는 내 운명,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2007,Kim Ah-joong,False,44 | 2007 | Kim Ah-joong | 200 Pounds Beauty | 미녀는 괴로워,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2008,Kim Yun-jin,False,45 | 2008 | Kim Yun-jin | Seven Days | 세븐 데이즈,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2009,Soo Ae,False,46 | 2009 | Soo Ae | Sunny | 님은 먼곳에,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2010,Yoon Jeong-hee,False,47 | 2010 | Yoon Jeong-hee | Poetry | 시,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2011,Kim Ha-neul,False,48 | 2011 | Kim Ha-neul | Blind | 블라인드,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2012,Jo Min-su,False,49 | 2012 | Jo Min-su | Pietà | 피에타,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2013,Uhm Jung-hwa,False,50 | 2013 | Uhm Jung-hwa | Montage | 몽타주,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2014,Son Ye-jin,False,51 | 2014 | Son Ye-jin | The Pirates | 해적: 바다로 간 산적,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2015,Jun Ji-hyun,False,52 | 2015 | Jun Ji-hyun | Assassination | 암살,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2016,Son Ye-jin,False,53 | 2016 | Son Ye-jin | The Last Princess | 덕혜옹주,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2017,Choi Hee-seo,False,54 | 2017 | Choi Hee-seo | Anarchist from Colony | 박열,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2018,Na Moon-hee,False,55 | 2018 | Na Moon-hee | I Can Speak | 아이 캔 스피크,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2019,Jung Yu-mi,False,56 | 2019 | Jung Yu-mi | Kim Ji-young: Born 1982 | 82년생 김지영,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2020,N/a,False,57 | 2020 | — N/a,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+2021,2021,,False,2021,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+2021,2022,Yum Jung-ah,False,58 | 2022 | Yum Jung-ah | Life Is Beautiful | 인생은 아름다워,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+2021,2023,Kim Seo-hyung,False,59 | 2023 | Kim Seo-hyung | Greenhouse | 비닐하우스,https://en.wikipedia.org/wiki/Grand_Bell_Awards

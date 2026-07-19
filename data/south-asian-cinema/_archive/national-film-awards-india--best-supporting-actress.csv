@@ -1,0 +1,46 @@
+year,film,person,is_winner,raw_text,source_url
+,Indicates a joint award for that year,,False,† | Indicates a joint award for that year,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+1984,Rohini Hattangadi,Mohini Barve,False,1984 (32nd) | Rohini Hattangadi | Mohini Barve | Party | Hindi | [ 2 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+1985,Vijaya Mehta,Mausi,False,1985 (33rd) | Vijaya Mehta | Mausi | Rao Saheb | Hindi | [ 12 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+1986,Manjula Kanwar,Champa,False,1986 (34th) | Manjula Kanwar | Champa | Bhangala Silata | Odia | [ 13 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+1987,Surekha Sikri,Rajo,False,1987 (35th) | Surekha Sikri | Rajo | Tamas | Hindi | [ 14 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+1988,Uttara Baokar,Sudha,False,1988 (36th) | Uttara Baokar | Sudha | Ek Din Achanak | Hindi | [ 15 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+1989,Manorama,Unknown,False,1989 (37th) | Manorama | Unknown | Pudhea Paadhai | Tamil | [ 16 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+1990,K. P. A. C. Lalitha,Bhargavi,False,1990 (38th) | K. P. A. C. Lalitha | Bhargavi | Amaram | Malayalam | [ 17 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+1991,Santha Devi,Unknown,False,1991 (39th) | Santha Devi | Unknown | Yamanam | Malayalam | [ 18 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+1992,Revathi,Panchavarnam,False,1992 (40th) | Revathi | Panchavarnam | Thevar Magan | Tamil | [ 19 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+1993,Neena Gupta,Geeta Devi,False,1993 (41st) | Neena Gupta | Geeta Devi | Woh Chokri | Hindi | [ 20 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+1994,Surekha Sikri,Fayyazi,False,1994 (42nd) | Surekha Sikri | Fayyazi | Mammo | Hindi | [ 21 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+1995,Aranmula Ponnamma,Grandmother,False,1995 (43rd) | Aranmula Ponnamma | Grandmother | Kathapurushan | Malayalam | [ 22 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+1996,Rajeshwari Sachdev,Sakina,False,1996 (44th) | Rajeshwari Sachdev | Sakina | Sardari Begum | Urdu | [ 23 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+1997,Karisma Kapoor,Nisha Sandhu,False,1997 (45th) | Karisma Kapoor | Nisha Sandhu | Dil To Pagal Hai | Hindi | [ 24 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+1998,Suhasini Mulay,Maltibai Barve,False,1998 (46th) | Suhasini Mulay | Maltibai Barve | Hu Tu Tu | Hindi | [ 25 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+1999,Sudipta Chakraborty,Malati,False,1999 (47th) † | Sudipta Chakraborty | Malati | Bariwali | Bengali | [ 26 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+1999,Khuku,Paromitar Ek Din,False,Sohini Sengupta | Khuku | Paromitar Ek Din | Bengali,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+2000,K. P. A. C. Lalitha,Narayani,False,2000 (48th) | K. P. A. C. Lalitha | Narayani | Shantham | Malayalam | [ 27 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+2001,Ananya Khare,Deepa Pandey,False,2001 (49th) | Ananya Khare | Deepa Pandey | Chandni Bar | Hindi | [ 28 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+2002,Rakhee Gulzar,Ranga Pishima,False,2002 (50th) | Rakhee Gulzar | Ranga Pishima | Shubho Mahurat | Bengali | [ 29 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+2003,Sharmila Tagore,Aparna,False,2003 (51st) | Sharmila Tagore | Aparna | Abar Aranye | Bengali | [ 30 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+2004,Sheela,Margaret D'Costa,False,2004 (52nd) | Sheela | Margaret D'Costa | Akale | Malayalam | [ 31 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+2005,Urvashi,K. P. Vanaja,False,2005 (53rd) | Urvashi | K. P. Vanaja | Achuvinte Amma | Malayalam | [ 6 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+2006,Konkona Sen Sharma,Indu Tyagi,False,2006 (54th) | Konkona Sen Sharma | Indu Tyagi | Omkara | Hindi | [ 32 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+2007,Shefali Shah,Vandana,False,2007 (55th) | Shefali Shah | Vandana | The Last Lear | English | [ 33 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+2008,Kangana Ranaut,Shonali Gujral,False,2008 (56th) | Kangana Ranaut | Shonali Gujral | Fashion | Hindi | [ 34 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+2009,Arundathi Nag,"Bhumi ""Bum"" Bhardwaj",False,"2009 (57th) | Arundathi Nag | Bhumi ""Bum"" Bhardwaj | Paa | Hindi | [ 35 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+2010,Sukumari,Ammini Amma,False,2010 (58th) | Sukumari | Ammini Amma | Namma Gramam | Tamil | [ 36 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+2011,Leishangthem Tonthoingambi Devi,Yaipabhee,False,2011 (59th) | Leishangthem Tonthoingambi Devi | Yaipabhee | Phijigee Mani | Meitei | [ 37 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+2012,Dolly Ahluwalia,Dolly Arora,False,2012 (60th) † | Dolly Ahluwalia | Dolly Arora | Vicky Donor | Hindi | [ 38 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+2012,Razia Beevi,Thanichalla Njan,False,Kalpana | Razia Beevi | Thanichalla Njan | Malayalam,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+2013,Amruta Subhash,Channamma,False,2013 (61st) † | Amruta Subhash | Channamma | Astu | Marathi | [ 10 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+2013,Aliya Kamal,Ship of Theseus,False,Aida El-Kashef | Aliya Kamal | Ship of Theseus | English / Hindi,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+2014,Baljinder Kaur,Unknown,False,2014 (62nd) | Baljinder Kaur | Unknown | Pagdi – The Honour | Haryanvi | [ 39 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+2015,Tanvi Azmi,Radhabai,False,2015 (63rd) | Tanvi Azmi | Radhabai | Bajirao Mastani | Hindi | [ 40 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+2016,Zaira Wasim,Young Geeta Phogat,False,2016 (64th) | Zaira Wasim | Young Geeta Phogat | Dangal | Hindi | [ 41 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+2017,Divya Dutta,Ramadeep Braitch,False,2017 (65th) | Divya Dutta | Ramadeep Braitch | Irada | Hindi | [ 42 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+2018,Surekha Sikri,Durga Devi Kaushik,False,"2018 (66th) | Surekha Sikri | Durga Devi Kaushik (""Dadi"") | Badhaai Ho | Hindi | [ 43 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+2019,Pallavi Joshi,Ayisha Ali Shah,False,2019 (67th) | Pallavi Joshi | Ayisha Ali Shah | The Tashkent Files | Hindi | [ 44 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+2020,Lakshmi Priyaa Chandramouli,Sivaranjini,False,2020 (68th) | Lakshmi Priyaa Chandramouli | Sivaranjini | Sivaranjiniyum Innum Sila Pengalum | Tamil | [ 45 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+2021,Pallavi Joshi,Radhika Menon,False,2021 (69th) | Pallavi Joshi | Radhika Menon | The Kashmir Files | Hindi | [ 46 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+2022,Neena Gupta,Shabina Siddiqui,False,2022 (70th) | Neena Gupta | Shabina Siddiqui | Uunchai | Hindi | [ 47 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+2023,Janki Bodiwala,Aarya,False,2023 (71st) † | Janki Bodiwala | Aarya | Vash | Gujarati | [ 48 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress
+2023,Leelamma,Ullozhukku,False,Urvashi | Leelamma | Ullozhukku | Malayalam,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Supporting_Actress

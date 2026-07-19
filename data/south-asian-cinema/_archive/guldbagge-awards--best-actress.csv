@@ -1,0 +1,141 @@
+year,film,person,is_winner,raw_text,source_url
+,Ingrid Thulin,The Silence,True,1963/64 (1st) | Ingrid Thulin ‡ | The Silence | Ester | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Eva Dahlbeck,The Cats,True,1964/65 (2nd) | Eva Dahlbeck ‡ | The Cats | Marta Alleus | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Christina Schollin,Ormen,True,1965/66 (3rd) | Christina Schollin ‡ | Ormen | Iréne Sandström | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Bibi Andersson,Persona,True,"1966/67 (4th) | Bibi Andersson ‡ | Persona | Alma, the Nurse | ",https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Lena Nyman,I Am Curious I Am Curious,True,1967/68 (5th) | Lena Nyman ‡ | I Am Curious (Yellow) I Am Curious (Blue) | Lena | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Liv Ullmann,Shame,True,1968/69 (6th) | Liv Ullmann ‡ | Shame | Eva Rosenberg | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Anita Ekström,Jänken,True,1969/70 (7th) | Anita Ekström ‡ | Jänken | Inger | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Monica Zetterlund,The Apple War The New Land,True,1971/72 (8th) | Monica Zetterlund ‡ | The Apple War The New Land | Anna Lindberg Ulrika | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Harriet Andersson,Cries and Whispers,True,1972/73 (9th) | Harriet Andersson ‡ | Cries and Whispers | Agnes | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Inga Tidblad,Pistol,True,1973/74 (10th) | Inga Tidblad ‡ | Pistol | Alisia von Swärd | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Lis Nilheim,Maria,True,1974/75 (11th) | Lis Nilheim ‡ | Maria | Maria Widén | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Margaretha Krook,Release the Prisoners to Spring,True,1975/76 (12th) | Margaretha Krook ‡ | Release the Prisoners to Spring | Flora | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Birgitta Valberg,Summer Paradise,True,1976/77 (13th) | Birgitta Valberg ‡ | Summer Paradise | Katha Wik | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Lil Terselius,Games of Love and Loneliness,True,1977/78 (14th) | Lil Terselius ‡ | Games of Love and Loneliness | Lydia Stille | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Sif Ruud,A Walk in the Sun,True,1978/79 (15th) | Sif Ruud ‡ | A Walk in the Sun | Siv Gustavsson | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Gunn Wållgren,Sally and Freedom,True,1980/81 (17th) | Gunn Wållgren ‡ | Sally and Freedom | Sally's Mother | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Sunniva Lindekleiv,Little Ida,True,1981/82 (18th) | Sunniva Lindekleiv ‡ | Little Ida | Ida | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Ida's mother,,True,Lise Fjeldstad ‡ | Ida's mother ‡,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Mrs. Revaasen,,True,Rønnaug Alten | Mrs. Revaasen,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Malin Ek,Mamma,True,1982/83 (19th) | Malin Ek ‡ | Mamma | Gerd | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Second Dance,Anna,True,Kim Anderzon ‡ | Second Dance | Anna,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Gunilla Nyroos,A Hill on the Dark Side of the Moon,True,1984 (20th) | Gunilla Nyroos ‡ | A Hill on the Dark Side of the Moon | Sofia Kovalevskaya | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Malin Ek,False as Water,True,1985 (21st) | Malin Ek ‡ | False as Water | Clara | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Stina Ekblad,Amorosa The Serpent's Way,True,1986 (22nd) | Stina Ekblad ‡ | Amorosa The Serpent's Way | Agnes von Krusenstjerna Tea | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Lene Brøndum,Hip hip hurra!,True,1987 (23rd) | Lene Brøndum ‡ | Hip hip hurra! | Lille | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Lena T. Hansson,Lethal Film,True,1988 (24th) | Lena T. Hansson ‡ | Lethal Film | Ingrid Stromboli | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Viveka Seldahl,S/Y Joy,True,1989 (25th) | Viveka Seldahl ‡ | S/Y Joy | Maja-Lena Skoog | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Malin Ek,The Guardian Angel,True,1990 (26th) | Malin Ek ‡ | The Guardian Angel | Livia Birkman | [ 4 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Gunilla Röör,Freud Leaving Home,True,1991 (27th) | Gunilla Röör ‡ | Freud Leaving Home | Freud | [ 5 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Freud Leaving Home,Rosha Cohen,False,Ghita Nørby | Freud Leaving Home | Rosha Cohen,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Agnes Cecilia - en sällsam historia,Nora,False,Gloria Tapia | Agnes Cecilia - en sällsam historia | Nora,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Pernilla August,The Best Intentions,True,1992 (28th) | Pernilla August ‡ | The Best Intentions | Anna Åkerblom Bergman | [ 6 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,House of Angels,Fanny Zander,False,Helena Bergström | House of Angels | Fanny Zander,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Svart Lucia,Mikaela,False,Tova Magnusson Norling | Svart Lucia | Mikaela,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Helena Bergström,The Ferris Wheel Sista dansen,True,1993 (29th) | Helena Bergström ‡ | The Ferris Wheel Sista dansen | Kickan Tove Särlefalk | [ 7 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,The Slingshot,Zipa Schütt,False,Basia Frydman | The Slingshot | Zipa Schütt,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Dreaming of Rita Grandpa's Journey,Rita Karin,False,Marika Lagercrantz | Dreaming of Rita Grandpa's Journey | Rita Karin,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Suzanne Reuter,Yrrol,True,1994 (30th) | Suzanne Reuter ‡ | Yrrol | Various roles | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,The Daughter of the Puma,Aschlop Pérez Pérez,False,Ángeles Cruz | The Daughter of the Puma | Aschlop Pérez Pérez,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,House of Angels – The Second Summer,Rut Flogfält,False,Viveka Seldahl | House of Angels – The Second Summer | Rut Flogfält,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Gunilla Röör,Between Summers,True,1995 (31st) | Gunilla Röör ‡ | Between Summers | Torun Hagberg | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,All Things Fair,Viola,False,Marika Lagercrantz | All Things Fair | Viola,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Like It Never Was Before,Gunnel Runeberg,False,Stina Ekblad | Like It Never Was Before | Gunnel Runeberg,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Ghita Nørby,Hamsun,True,1996 (32nd) | Ghita Nørby ‡ | Hamsun | Marie Hamsun | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Rusar i hans famn,Monica,False,Gunilla Nyroos | Rusar i hans famn | Monica,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Winter Bay,Elisabeth,False,Lina Englund | Winter Bay | Elisabeth,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Johanna Sällström,Beneath the Surface,True,1997 (33rd) | Johanna Sällström ‡ | Beneath the Surface | Sandra | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Run for Your Life,Catti,False,Camilla Lundén | Run for Your Life | Catti,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Run for Your Life,Ingrid,False,Lena Endre | Run for Your Life | Ingrid,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Alexandra Dahlström,Show Me Love,True,1998 (34th) | Alexandra Dahlström ‡ | Show Me Love | Elin | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Agnes,,True,Rebecka Liljeberg ‡ | Agnes,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,True Moments,Viivi,False,Lena Endre | True Moments | Viivi,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Love Fools,Vivianne,False,Anna Wallander | Love Fools | Vivianne,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Katarina Ewerlöf,In Bed with Santa,True,1999 (35th) | Katarina Ewerlöf ‡ | In Bed with Santa | Sara | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Happy End,Marja Levander,False,Harriet Andersson | Happy End | Marja Levander,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,The Lake,Lisa,False,Regina Lund | The Lake | Lisa,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Lena Endre,Faithless,True,2000 (36th) | Lena Endre ‡ | Faithless | Marianne | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Wings of Glass,Nazli,False,Sara Sommerfeld | Wings of Glass | Nazli,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,The New Country,Louise,False,Lia Boysen | The New Country | Louise,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Viveka Seldahl,A Song for Martin,True,2001 (37th) | Viveka Seldahl ‡ | A Song for Martin | Barbara | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Family Secrets,Mona Bendricks,False,Maria Lundqvist | Family Secrets | Mona Bendricks,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Deadline,Annika Bengtzon,False,Helena Bergström | Deadline | Annika Bengtzon,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Oksana Akinshina,Lilja 4-ever,True,2002 (38th) | Oksana Akinshina ‡ | Lilja 4-ever | Lilja | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Grabben i graven bredvid,Desirée Wallin,False,Elisabet Carlsson | Grabben i graven bredvid | Desirée Wallin,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Den osynlige,Annelie,False,Tuva Novotny | Den osynlige | Annelie,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Ann Petrén,Daybreak,True,2003 (39th) | Ann Petrén ‡ | Daybreak | Anita | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Details,Ann,False,Pernilla August | Details | Ann,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Miffo,Carola Christiansson,False,Livia Millhagen | Miffo | Carola Christiansson,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Maria Kulle,Four Shades of Brown,True,2004 (40th) | Maria Kulle ‡ | Four Shades of Brown | Anna | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Dalecarlians,Mia,False,Sofia Helin | Dalecarlians | Mia,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,As It Is in Heaven,Lena,False,Frida Hallgren | As It Is in Heaven | Lena,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Maria Lundqvist,Mother of Mine,True,2005 (41st) | Maria Lundqvist ‡ | Mother of Mine | Anna | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Four Weeks in June,Sandra,False,Tuva Novotny | Four Weeks in June | Sandra,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Harry's Daughters,Ninni,False,Amanda Ooms | Harry's Daughters | Ninni,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Haddy Jallow,Säg att du älskar mig,True,2006 (42nd) | Haddy Jallow ‡ | Säg att du älskar mig | Fatou | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,When Darkness Falls,Leyla,False,Oldoz Javidi | When Darkness Falls | Leyla,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Search,Lisa,False,Amanda Ooms | Search | Lisa,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Sofia Ledarp,To Love Someone,True,2007 (43rd) | Sofia Ledarp ‡ | To Love Someone | Lena | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,The New Man,Gertrud,False,Julia Högberg | The New Man | Gertrud,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Darling,Eva,False,Michelle Meadows | Darling | Eva,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Maria Heiskanen,Everlasting Moments,True,2008 (44th) | Maria Heiskanen ‡ | Everlasting Moments | Maria Larsson | [ 8 ] [ 9 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Heaven's Heart,Susanna,False,Lena Endre | Heaven's Heart | Susanna,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Involuntary,Cecilia,False,Cecilia Milocco | Involuntary | Cecilia,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Noomi Rapace,The Girl with the Dragon Tattoo,True,2009 (45th) | Noomi Rapace ‡ | The Girl with the Dragon Tattoo | Lisbeth Salander | [ 10 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,In Your Veins,Eva,False,Malin Crépin | In Your Veins | Eva,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,A Rational Solution,Maj Fjellgren,False,Stina Ekblad | A Rational Solution | Maj Fjellgren,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Alicia Vikander,Pure,True,2010 (46th) | Alicia Vikander ‡ | Pure | Katarina | [ 11 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Beyond,Leena,False,Noomi Rapace | Beyond | Leena,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Miss Kicki,Kicki,False,Pernilla August | Miss Kicki | Kicki,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Ann Petrén,Happy End,True,2011 (47th) | Ann Petrén ‡ | Happy End | Jonna | [ 12 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Simon and the Oaks,Karin Larsson,False,Helen Sjöholm | Simon and the Oaks | Karin Larsson,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Between 2 Fires,Marta,False,Magdalena Poplawska | Between 2 Fires | Marta,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Nermina Lukac,Eat Sleep Die,True,2012 (48th) | Nermina Lukac ‡ | Eat Sleep Die | Raša | [ 13 ] [ 14 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Call Girl,Dagmar Glans,False,Pernilla August | Call Girl | Dagmar Glans,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Bitch Hug,Kristin,False,Linda Molin | Bitch Hug | Kristin,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Edda Magnason,Waltz for Monica,True,2013 (49th) | Edda Magnason ‡ | Waltz for Monica | Monica Zetterlund | [ 15 ] [ 16 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,The Reunion,Anna,False,Anna Odell | The Reunion | Anna,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Once a Year,Maria,False,Gunilla Röör | Once a Year | Maria,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Saga Becker,Something Must Break,True,2014 (50th) | Saga Becker ‡ | Something Must Break | Sebastian | [ 17 ] [ 18 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Force Majeure,Ebba,False,Lisa Loven Kongsli | Force Majeure | Ebba,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,My So-Called Father,Malin,False,Vera Vitali | My So-Called Father | Malin,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Malin Levanon,Drifters,True,2015 (51st) | Malin Levanon ‡ | Drifters | Minna | [ 19 ] [ 20 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,She´s Wild Again Tonight,Shima,False,Shima Niavarani | She´s Wild Again Tonight | Shima,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Young Sophie Bell,Sophie Bell,False,Felice Jankell | Young Sophie Bell | Sophie Bell,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Maria Sundbom,"Flickan, mamman och demonerna",True,"2016 (52nd) | Maria Sundbom ‡ | Flickan, mamman och demonerna | Siri | [ 21 ] [ 22 ]",https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,A Serious Game,Lydia Stille,False,Karin Franz Körlof | A Serious Game | Lydia Stille,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Girls Lost,Kim,False,Tuva Jagell | Girls Lost | Kim,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,The Garbage Helicopter,Enesa,False,Jessica Szoppe | The Garbage Helicopter | Enesa,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Lene Cecilia Sparrok,Sami Blood,True,2017 (53rd) | Lene Cecilia Sparrok ‡ | Sami Blood | Elle Marja | [ 23 ] [ 24 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Beyond Dreams,Mirja,False,Evin Ahmad | Beyond Dreams | Mirja,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,All Inclusive,Malin,False,Jennie Silfverhjelm | All Inclusive | Malin,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Solsidan,Anna,False,Mia Skäringer | Solsidan | Anna,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Eva Melander,Border,True,2018 (54th) | Eva Melander ‡ | Border | Tina | [ 25 ] [ 26 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Becoming Astrid,Astrid Lindgren,False,Alba August | Becoming Astrid | Astrid Lindgren,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Amateurs,Aida,False,Zahraa Aldoujaili | Amateurs | Aida,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,The Real Estate,Nojet,False,Leonore Ekstrand | The Real Estate | Nojet,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Emelie Garbers,Aniara,True,2019 (55th) | Emelie Garbers ‡ | Aniara | Mimaroben | [ 27 ] [ 28 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Britt-Marie Was Here,Britt-Marie,False,Pernilla August | Britt-Marie Was Here | Britt-Marie,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,The Birdcatcher's Son,Johanna,False,Vigdis Hentze Björck | The Birdcatcher's Son | Johanna,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Call Mom!,Niki,False,Sanna Sundqvist | Call Mom! | Niki,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Ane Dahl Torp,Charter,True,2020 (56th) | Ane Dahl Torp ‡ | Charter | Alice | [ 29 ] [ 30 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Inland,X,False,Irma von Platen | Inland | X,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Psychosis in Stockholm,The Mother,False,Josefin Neldén | Psychosis in Stockholm | The Mother,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Psychosis in Stockholm,The Daughter,False,Josefine Stofkoper | Psychosis in Stockholm | The Daughter,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Sofia Kappel,Pleasure,True,2021 (57th) | Sofia Kappel ‡ | Pleasure | Linnéa / Bella Cherry | [ 31 ] [ 32 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Utvandrarna,Kristina,False,Lisa Carlehed | Utvandrarna | Kristina,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Clara Sola,Clara,False,Wendy Chinchilla Araya | Clara Sola | Clara,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Knackningar,Molly,False,Cecilia Milocco | Knackningar | Molly,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Sigrid Johnson,Comedy Queen,True,2022 (58th) | Sigrid Johnson ‡ | Comedy Queen | Sasha | [ 33 ] [ 34 ] [ 35 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Maya Nilo,Nilo,False,Bahar Pars | Maya Nilo (Laura) | Nilo,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Länge leve Bonusfamiljen,Lisa,False,Vera Vitali | Länge leve Bonusfamiljen | Lisa,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,The Year I Started Masturbating,Hanna,False,Katia Winter | The Year I Started Masturbating | Hanna,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Marall Nasiri,Opponent,True,2023 (59th) | Marall Nasiri ‡ | Opponent | Maryam | [ 36 ] [ 37 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,En dag kommer allt det här bli ditt,Lisa,False,Karin Franz Körlof | En dag kommer allt det här bli ditt | Lisa,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Andra Akten,Eva,False,Lena Olin | Andra Akten | Eva,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,"Thank You, I'm Sorry",Sara,False,"Sanna Sundqvist | Thank You, I'm Sorry | Sara",https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Bianca Kronlöf,Så länge hjärtat slår,True,2024 (60th) | Bianca Kronlöf ‡ | Så länge hjärtat slår | Hanne | [ 38 ] [ 39 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,Crossing,Lia,False,Mzia Arabuli | Crossing | Lia,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,The Hypnosis,Vera,False,Asta Kamma August | The Hypnosis | Vera,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress
+,The Swedish Torpedo,Sally,False,Josefin Neldén | The Swedish Torpedo | Sally,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Actress

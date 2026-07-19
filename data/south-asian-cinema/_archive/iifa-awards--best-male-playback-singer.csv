@@ -1,0 +1,147 @@
+year,film,person,is_winner,raw_text,source_url
+,Arijit Singh,5,False,Most awards | Arijit Singh | 5,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+,18,,False,Most nominations | 18,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+,KK,6,False,Most nominations without ever winning | KK | 6,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+,Sonu Nigam Arijit Singh,3,False,Most consecutive wins | Sonu Nigam (2002-2004) Arijit Singh (2018-2020) | 3,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+,Arijit Singh,18,False,Most consecutive nominations | Arijit Singh (2014-2025) | 18,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+,Udit Narayan Arijit Singh,3,False,Most nominations in a single year | Udit Narayan (2002) Arijit Singh (2022) | 3,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2000,2000,,True,2000 (1st),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2000,Chand Chupa Badal Mein,Hum Dil De Chuke Sanam,True,Udit Narayan † | Chand Chupa Badal Mein | Hum Dil De Chuke Sanam,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2000,Tadap Tadap,Hum Dil De Chuke Sanam,False,"KK | ""Tadap Tadap"" | Hum Dil De Chuke Sanam",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2000,Aankhon Ki Gustakhiyan,,False,"Kumar Sanu | ""Aankhon Ki Gustakhiyan""",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2000,Ishq Bina,Taal,False,"Sonu Nigam | ""Ishq Bina"" | Taal",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2000,Ramta Jogi,Taal,False,"Sukhwinder Singh | ""Ramta Jogi"" | Taal",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2001,2001,,True,2001 (2nd),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2001,Ek Pal Ka Jeena,Kaho Naa... Pyaar Hai,True,Lucky Ali | Ek Pal Ka Jeena | Kaho Naa... Pyaar Hai,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2001,Tum Dil Ki Dhadkan Mein,Dhadkan,False,"Abhijeet | ""Tum Dil Ki Dhadkan Mein"" | Dhadkan",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2001,Panchhi Nadiyan Pawan Ke Jhoken,Refugee,False,"Sonu Nigam | ""Panchhi Nadiyan Pawan Ke Jhoken"" | Refugee",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2001,Aaja Mahiya,Fiza,False,"Udit Narayan | ""Aaja Mahiya"" | Fiza",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2001,Kaho Naa... Pyaar Hai,,False,"""Kaho Naa... Pyaar Hai"" | Kaho Naa... Pyaar Hai",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2002,2002,,True,2002 (3rd),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2002,Suraj Hua Maddham,Kabhi Khushi Kabhie Gham,True,Sonu Nigam | Suraj Hua Maddham | Kabhi Khushi Kabhie Gham ‡,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2002,You Are My Soniya,Kabhi Khushi Kabhie Gham,False,"Sonu Nigam | ""You Are My Soniya"" | Kabhi Khushi Kabhie Gham",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2002,Kaisi Hai Yeh Rut,Dil Chahta Hai,False,"Srinivas | ""Kaisi Hai Yeh Rut"" | Dil Chahta Hai",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2002,Udja Kale Kawan - Folk,Gadar: Ek Prem Katha,False,"Udit Narayan | ""Udja Kale Kawan - Folk"" | Gadar: Ek Prem Katha ‡",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2002,Kabhi Khushi Kabhie Gham,,False,"""Bole Chudiyan"" | Kabhi Khushi Kabhie Gham",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2002,Lagaan,,False,"""Mitwa"" | Lagaan †",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2003,2003,,True,2003 (4th),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2003,Saathiya,Saathiya,True,Sonu Nigam | Saathiya | Saathiya †,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2004,2004,,True,2004 (5th),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2004,Kal Ho Naa Ho,Kal Ho Naa Ho,True,Sonu Nigam | Kal Ho Naa Ho | Kal Ho Naa Ho †,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2004,Main Yahan Tu Wahan,Baghban,False,"Amitabh Bachchan | ""Main Yahan Tu Wahan"" | Baghban",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2004,Tu Aashiqui Hai,Jhankaar Beats,False,"KK | ""Tu Aashiqui Hai"" | Jhankaar Beats",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2004,Koi Mil Gaya,Koi... Mil Gaya,False,"Udit Narayan | ""Koi Mil Gaya"" | Koi... Mil Gaya",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2004,Tere Naam,,False,"""Tere Naam"" | Tere Naam ‡",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2005,2005,,True,2005 (6th),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2005,Bheegay Hooth Tere,Murder,True,Kunal Ganjawala | Bheegay Hooth Tere | Murder †,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2005,Main Hoon Na,Main Hoon Na,False,"Sonu Nigam | ""Main Hoon Na"" | Main Hoon Na ‡",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2005,Aakhe Bandh Karke,Aitraaz,False,"Udit Narayan | ""Aakhe Bandh Karke"" | Aitraaz",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2005,Mujhse Shaadi Karogi,,False,"""Lal Dupatta"" | Mujhse Shaadi Karogi",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2005,Swades,,False,"""Yeh Tara Woh Tara"" | Swades",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2006,2006,,True,2006 (7th),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2006,Aashiq Banaya Apne,Aashiq Banaya Apne,True,Himesh Reshammiya | Aashiq Banaya Apne | Aashiq Banaya Apne †,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2006,Woh Lamhe Woh Baatein,Zeher,False,"Atif Aslam | ""Woh Lamhe Woh Baatein"" | Zeher ‡",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2006,Jiya Dhadak Dhadak Jaye,Kalyug,False,"Rahat Fateh Ali Khan | ""Jiya Dhadak Dhadak Jaye"" | Kalyug",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2006,Dus Bahane,Dus,False,"Shaan and KK | "" Dus Bahane "" | Dus",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2006,Piya Bole,Parineeta,False,"Sonu Nigam | ""Piya Bole"" | Parineeta",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2007,2007,,True,2007 (8th),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2007,Chand Sifarish,Fanaa,True,Shaan | Chand Sifarish | Fanaa †,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2007,Ru Baroo,Rang De Basanti,False,"A. R. Rahman and Naresh Iyer | ""Ru Baroo"" | Rang De Basanti",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2007,Tu Hi Meri Shab Hai,Gangster,False,"KK | ""Tu Hi Meri Shab Hai"" | Gangster",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2007,Kabhi Alvida Naa Kehna,Kabhi Alvida Naa Kehna,False,"Sonu Nigam | ""Kabhi Alvida Naa Kehna"" | Kabhi Alvida Naa Kehna",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2007,Ya Ali,Gangster,False,"Zubeen Garg | ""Ya Ali"" | Gangster ‡",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2008,2008,,True,2008 (9th),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2008,Jab Se Tere Naina,Saawariya,True,Shaan | Jab Se Tere Naina | Saawariya †,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2008,Bhool Bhulaiyaa,Bhool Bhulaiyaa,False,"Neeraj Shridhar | ""Bhool Bhulaiyaa"" | Bhool Bhulaiyaa",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2008,Ajab Si,Om Shanti Om,False,"KK | ""Ajab Si"" | Om Shanti Om ‡",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2008,Chak De! India,Chak De! India,False,"Sukhwinder Singh | "" Chak De! India | Chak De! India ‡",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2008,Soni De Nakhre,Partner,False,"Wajid Ali | ""Soni De Nakhre"" | Partner",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2009,2009,,True,2009 (10th),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2009,Jashan-e-Baharaa,Jodhaa Akbar,True,Javed Ali | Jashan-e-Baharaa | Jodhaa Akbar,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2009,Pehli Nazar Mein,Race,False,"Atif Aslam | ""Pehli Nazar Mein"" | Race",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2009,Socha Hai,Rock On!!,False,"Farhan Akhtar | ""Socha Hai"" | Rock On!! ‡",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2009,Khuda Jaane,Bachna Ae Haseeno,False,"KK | ""Khuda Jaane"" | Bachna Ae Haseeno ‡",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2009,Haule Haule,Rab Ne Bana Di Jodi,False,"Sukhwinder Singh | ""Haule Haule"" | Rab Ne Bana Di Jodi †",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2010,2010,,True,2010 (11th),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2010,Behti Hawa Sa Tha Woh,3 Idiots,True,"Shaan | ""Behti Hawa Sa Tha Woh"" | 3 Idiots",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2010,Tu Jaane Na,Ajab Prem Ki Ghazab Kahani,False,"Atif Aslam | "" Tu Jaane Na "" | Ajab Prem Ki Ghazab Kahani ‡",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2010,Masakali,Delhi-6,False,"Mohit Chauhan | "" Masakali "" | Delhi-6 †",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2010,Ajj Din Chadheya,Love Aaj Kal,False,"Rahat Fateh Ali Khan | ""Ajj Din Chadheya"" | Love Aaj Kal ‡",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2010,All Izz Well,3 Idiots,False,"Sonu Nigam | ""All Izz Well"" | 3 Idiots",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2010,Dhan Te Nan,Kaminey,False,"Vishal Dadlani & Sukhwinder Singh | ""Dhan Te Nan"" | Kaminey ‡",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2011,2011,,True,2011 (12th),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2011,Tere Mast Mast Do Nain,Dabangg,True,"Rahat Fateh Ali Khan | "" Tere Mast Mast Do Nain "" | Dabangg",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2011,Pee Loon,Once Upon A Time In Mumbaai,False,"Mohit Chauhan | ""Pee Loon"" | Once Upon A Time In Mumbaai ‡",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2011,Dil To Bachcha Hai,Ishqiya,False,"Rahat Fateh Ali Khan | ""Dil To Bachcha Hai"" | Ishqiya †",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2011,Bin Tere,I Hate Luv Storys,False,"Shafqat Amanat Ali | ""Bin Tere"" | I Hate Luv Storys ‡",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2011,Uff Teri Adaa,Karthik Calling Karthik,False,"Shankar Mahadevan | ""Uff Teri Adaa"" | Karthik Calling Karthik",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2011,Adhoore,Break Ke Baad,False,"Vishal Dadlani | ""Adhoore"" | Break Ke Baad",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2012,2012,,True,2012 (13th),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2012,Nadaan Parindey,Rockstar,True,"Mohit Chauhan | Nadaan Parindey "" | Rockstar",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2012,I Love You,Bodyguard,False,"Ash King | ""I Love You"" | Bodyguard",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2012,Subha Hone Na De,Desi Boyz,False,"Mika Singh | ""Subha Hone Na De"" | Desi Boyz",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2012,Ishq Sufiana,The Dirty Picture,False,"Kamal Khan | ""Ishq Sufiana"" | The Dirty Picture",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2012,Teri Meri,Bodyguard,False,"Rahat Fateh Ali Khan | "" Teri Meri "" | Bodyguard ‡",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2013,2013,,True,2013 (14th),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2013,Abhi Mujh Mein Kahin,Agneepath,True,"Sonu Nigam | "" Abhi Mujh Mein Kahin "" | Agneepath",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2013,Deva Shree Ganesha,Agneepath,False,"Ajay Gogavale | ""Deva Shree Ganesha"" | Agneepath",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2013,Pani Da Rang,Vicky Donor,False,"Ayushmann Khurrana | "" Pani Da Rang "" | Vicky Donor †",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2013,Pungi,Agent Vinod,False,"Mika Singh | "" Pungi "" | Agent Vinod",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2013,"Main Kya Karoon"" ‡, ""Aashiyan",Barfi!,False,"Nikhil Paul George | ""Main Kya Karoon"" ‡, ""Aashiyan"" | Barfi!",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2014,2014,,True,2014 (15th),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2014,Tum Hi Ho,Aashiqui 2,True,"Arijit Singh | "" Tum Hi Ho "" | Aashiqui 2 †",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2014,Sunn Raha Hai,Aashiqui 2,False,"Ankit Tiwari | "" Sunn Raha Hai "" | Aashiqui 2 ‡",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2014,Zinda,Bhaag Milkha Bhaag,False,"Siddharth Mahadevan | ""Zinda"" | Bhaag Milkha Bhaag ‡",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2015,2015,,True,2015 (16th),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2015,Galliyan,Ek Villain,True,"Ankit Tiwari | "" Galliyan "" | Ek Villain †",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2015,Muskurane,CityLights,False,"Arijit Singh | "" Muskurane "" | CityLights",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2015,Jumme Ki Raat,Kick,False,"Mika Singh | ""Jumme Ki Raat"" | Kick",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2015,Bismil,Haider,False,"Sukhwinder Singh | ""Bismil"" | Haider",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2016,2016,,True,2016 (17th),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2016,Moh Moh Ke Dhaage,Dum Laga Ke Haisha,True,"Papon | ""Moh Moh Ke Dhaage"" | Dum Laga Ke Haisha ‡",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2016,Hamari Adhuri Kahani,Hamari Adhuri Kahani,False,"Arijit Singh | ""Hamari Adhuri Kahani"" | Hamari Adhuri Kahani",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2016,Roy,,False,"""Sooraj Dooba Hain"" | Roy †",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2017,2017,,True,2017 (18th),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2017,Bulleya,Ae Dil Hai Mushkil,True,"Amit Mishra | ""Bulleya"" | Ae Dil Hai Mushkil ‡",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2017,Besabriyaan,M.S. Dhoni: The Untold Story,False,"Armaan Malik | ""Besabriyaan"" | M.S. Dhoni: The Untold Story",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2017,Channa Mereya,Ae Dil Hai Mushkil,False,"Arijit Singh | "" Channa Mereya "" | Ae Dil Hai Mushkil ‡",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2017,Ikk Kudi,Udta Punjab,False,"Diljit Dosanjh | ""Ikk Kudi"" | Udta Punjab",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2018,2018,,True,2018 (19th),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2018,Hawayein,Jab Harry Met Sejal,True,"Arijit Singh | ""Hawayein"" | Jab Harry Met Sejal",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2019,2019,,True,2019 (20th),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2019,Ae Watan,Raazi,True,"Arijit Singh | ""Ae Watan"" | Raazi †",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2019,Mera Naam Tu,Zero,False,"Abhay Jodhpurkar | ""Mera Naam Tu"" | Zero ‡",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2019,Nina Da Kya Kasoor,Andhadhun,False,"Amit Trivedi | ""Nina Da Kya Kasoor"" | Andhadhun",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2019,Tera Yaar Hoon Main,Sonu Ke Titu Ki Sweety,False,"Arijit Singh | ""Tera Yaar Hoon Main"" | Sonu Ke Titu Ki Sweety ‡",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2019,Kar Har Maidan Fateh,Sanju,False,"Sukhwinder Singh | ""Kar Har Maidan Fateh"" | Sanju",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2020,2020,,True,2020 (21st),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2020,Ghungroo,War,True,"Arijit Singh | ""Ghungroo"" | War",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2020,Dil Hi Toh Hai,The Sky Is Pink,False,"Arijit Singh | ""Dil Hi Toh Hai"" | The Sky Is Pink",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2020,Teri Mitti,Kesari,False,"B Praak | "" Teri Mitti "" | Kesari ‡",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2020,Mere Gully Mein,Gully Boy,False,"Divine , Naezy and Ranveer Singh | ""Mere Gully Mein"" | Gully Boy",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2020,Bekhayali,Kabir Singh,False,"Sachet Tandon | ""Bekhayali"" | Kabir Singh ‡",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2021,AWARDS NOT HELD DUE TO COVID-19 PANDEMIC,,True,2021 | AWARDS NOT HELD DUE TO COVID-19 PANDEMIC,https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2022,2022,,True,2022 (22nd),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2022,Raatan Lambiyan,Shershaah,True,"Jubin Nautiyal [ 1 ] | "" Raatan Lambiyan "" | Shershaah",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2022,Lehra Do,83,False,"Arijit Singh | ""Lehra Do"" | 83",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2022,Atrangi Re,,False,"""Rait Zara Si"" | Atrangi Re",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2022,Ludo,,False,"""Aabaad Barbaad"" | Ludo",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2022,Mann Bharya,Shershaah,False,"B Praak | "" Mann Bharya"" | Shershaah",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2023,2023,,True,2023 (23rd),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2023,Kesariya,Brahmāstra: Part One – Shiva,True,"Arijit Singh [ 2 ] | "" Kesariya "" | Brahmāstra: Part One – Shiva",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2023,Behene Do,Rocketry: The Nambi Effect,False,"Aditya Rao | ""Behene Do"" | Rocketry: The Nambi Effect",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2023,Deva Deva,Brahmāstra: Part One – Shiva,False,"Arijit Singh | ""Deva Deva"" | Brahmāstra: Part One – Shiva",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2023,Gehraiyaan,Gehraiyaan,False,"Mohit Chauhan | ""Gehraiyaan (Reprise)"" | Gehraiyaan",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2023,Rangisari,Jugjugg Jeeyo,False,"Kanish Seth | "" Rangisari "" | Jugjugg Jeeyo",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2024,2024,,True,2024 (24th),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2024,Arjan Vailly,Animal,True,"Bhupinder Babbal | ""Arjan Vailly"" | Animal †",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2024,Satranga,Animal,False,"Arijit Singh | ""Satranga"" | Animal ‡",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2024,Pathaan,,False,""" Jhoome Jo Pathaan "" | Pathaan",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2024,Banda,Dunki,False,"Diljit Dosanjh | ""Banda"" | Dunki",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2024,Pehle Bhi Main,Animal,False,"Vishal Mishra | ""Pehle Bhi Main"" | Animal",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2025,2025,,True,2025 (25th),https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2025,Dua,Article 370,True,"Jubin Nautiyal | ""Dua"" | Article 370",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2025,Sajni,Laapataa Ladies,False,"Arijit Singh | "" Sajni "" | Laapataa Ladies",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2025,Naina,Crew,False,"Diljit Dosanjh , Badshah | ""Naina"" | Crew",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2025,Tauba Tauba,Bad Newz,False,"Karan Aujla | "" Tauba Tauba "" | Bad Newz",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer
+2025,Akhiyaan Gulaab,Teri Baaton Mein Aisa Uljha Jiya,False,"Mitraz | ""Akhiyaan Gulaab"" | Teri Baaton Mein Aisa Uljha Jiya",https://en.wikipedia.org/wiki/IIFA_Award_for_Best_Male_Playback_Singer

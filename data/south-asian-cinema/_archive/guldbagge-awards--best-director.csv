@@ -1,0 +1,125 @@
+year,film,person,is_winner,raw_text,source_url
+,Ingmar Bergman,The Silence,True,1963/64 (1st) | Ingmar Bergman ‡ | The Silence | [ 6 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Arne Sucksdorff,My Home Is Copacabana,True,1964/65 (2nd) | Arne Sucksdorff ‡ | My Home Is Copacabana | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Alf Sjöberg,Ön,True,1965/66 (3rd) | Alf Sjöberg ‡ | Ön | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Jan Troell,Here's Your Life,True,1966/67 (4th) | Jan Troell ‡ | Here's Your Life | [ 7 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Kjell Grede,Hugo and Josephine,True,1967/68 (5th) | Kjell Grede ‡ | Hugo and Josephine | [ 8 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Bo Widerberg,Ådalen 31,True,1968/69 (6th) | Bo Widerberg ‡ | Ådalen 31 | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Lars Lennart Forsberg,Mistreatment,True,1969/70 (7th) | Lars Lennart Forsberg ‡ | Mistreatment | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Tage Danielsson,The Apple War,True,1971/72 (8th) | Tage Danielsson ‡ | The Apple War | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Johan Bergenstråhle,Foreigners,True,1972/73 (9th) | Johan Bergenstråhle ‡ | Foreigners | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Vilgot Sjöman,A Handful of Love,True,1973/74 (10th) | Vilgot Sjöman ‡ | A Handful of Love | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Hans Alfredson,Egg! Egg! A Hardboiled Story,True,1974/75 (11th) | Hans Alfredson ‡ | Egg! Egg! A Hardboiled Story | [ 9 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Jan Halldoff,Buddies,True,1975/76 (12th) | Jan Halldoff ‡ | Buddies | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Marianne Ahrne,Near and Far Away,True,1976/77 (13th) | Marianne Ahrne ‡ | Near and Far Away | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Olle Hellbom,The Brothers Lionheart,True,1977/78 (14th) | Olle Hellbom ‡ | The Brothers Lionheart | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Stefan Jarl,A Respectable Life,True,1978/79 (15th) | Stefan Jarl ‡ | A Respectable Life | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Kay Pollak,Children's Island,True,1980/81 (17th) | Kay Pollak ‡ | Children's Island | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Hans Alfredson,The Simple-Minded Murderer,True,1981/82 (18th) | Hans Alfredson ‡ | The Simple-Minded Murderer | [ 9 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Ingmar Bergman,Fanny and Alexander,True,1982/83 (19th) | Ingmar Bergman ‡ | Fanny and Alexander | [ 6 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Hrafn Gunnlaugsson,When the Raven Flies,True,1984 (20th) | Hrafn Gunnlaugsson ‡ | When the Raven Flies | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Hans Alfredson,False as Water,True,1985 (21st) | Hans Alfredson | False as Water | [ 9 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Suzanne Osten,The Mozart Brothers,True,1986 (22nd) | Suzanne Osten ‡ | The Mozart Brothers | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Kjell Grede,Hip hip hurra!,True,1987 (23rd) | Kjell Grede ‡ | Hip hip hurra! | [ 8 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Max von Sydow,Katinka,True,1988 (24th) | Max von Sydow ‡ | Katinka | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Åke Sandgren,The Miracle in Valby,True,1989 (25th) | Åke Sandgren ‡ | The Miracle in Valby | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Kjell Grede,"Good Evening, Mr. Wallenberg",True,"1990 (26th) | Kjell Grede ‡ | Good Evening, Mr. Wallenberg | [ 8 ] [ 10 ]",https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Anders Grönros,Agnes Cecilia – en sällsam historia,True,1991 (27th) | Anders Grönros ‡ | Agnes Cecilia – en sällsam historia | [ 11 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Freud Leaving Home,,False,Susanne Bier | Freud Leaving Home,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Underground Secrets,,False,Clas Lindberg | Underground Secrets,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Colin Nutley,House of Angels,True,1992 (28th) | Colin Nutley ‡ | House of Angels | [ 12 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Night of the Orangutan,,False,Kjell-Åke Andersson | Night of the Orangutan,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,The Best Intentions,,False,Bille August | The Best Intentions,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Clas Lindberg,The Ferris Wheel,True,1993 (29th) | Clas Lindberg ‡ | The Ferris Wheel | [ 13 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,The Man on the Balcony,,False,Daniel Alfredson | The Man on the Balcony,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,The Slingshot,,False,Åke Sandgren | The Slingshot,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Ulf Hultberg ‡ Åsa Faringer,The Daughter of the Puma,True,1994 (30th) | Ulf Hultberg ‡ Åsa Faringer ‡ | The Daughter of the Puma | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Sixten,,False,Catti Edfeldt | Sixten,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,A Pizza in Jordbro,,False,Rainer Hartleb | A Pizza in Jordbro,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Bo Widerberg,All Things Fair,True,1995 (31st) | Bo Widerberg ‡ | All Things Fair | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Between Summers,,False,Kristian Petri | Between Summers,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Bert: The Last Virgin,,False,Tomas Alfredson | Bert: The Last Virgin,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Kjell Sundvall,The Hunters,True,1996 (32nd) | Kjell Sundvall ‡ | The Hunters | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Christmas Oratorio,,False,Kjell-Åke Andersson | Christmas Oratorio,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,The Dream Prince,,False,Ella Lemhagen | The Dream Prince,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Daniel Alfredson,Tic Tac,True,1997 (33rd) | Daniel Alfredson ‡ | Tic Tac | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Adam & Eva,,False,Måns Herngren Hannes Holm | Adam & Eva,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Sanning eller konsekvens,,False,Christina Olofson | Sanning eller konsekvens,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Lukas Moodysson,Show Me Love,True,1998 (34th) | Lukas Moodysson ‡ | Show Me Love | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Nelio's Story,,False,Solveig Nordlund | Nelio's Story,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Waiting for the Tenor,,False,Lisa Ohlin | Waiting for the Tenor,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Ella Lemhagen,"Tsatsiki, morsan och polisen",True,"1999 (35th) | Ella Lemhagen ‡ | Tsatsiki, morsan och polisen | ",https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Zero Tolerance,,False,Anders Nilsson | Zero Tolerance,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,In Bed with Santa,,False,Kjell Sundvall | In Bed with Santa,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Roy Andersson,Songs from the Second Floor,True,2000 (36th) | Roy Andersson ‡ | Songs from the Second Floor | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,The New Country,,False,Geir Hansteen Jörgensen | The New Country,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Together,,False,Lukas Moodysson | Together,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Jan Troell,As White as in Snow,True,2001 (37th) | Jan Troell ‡ | As White as in Snow | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Days Like This,,False,Mikael Håfström | Days Like This,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,A Song for Martin,,False,Bille August | A Song for Martin,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Lukas Moodysson,Lilya 4-ever,True,2002 (38th) | Lukas Moodysson ‡ | Lilya 4-ever | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,We Can Be Heroes!,,False,Ulf Malmros | We Can Be Heroes!,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Grabben i graven bredvid,,False,Kjell Sundvall | Grabben i graven bredvid,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Björn Runge,Daybreak,True,2003 (39th) | Björn Runge ‡ | Daybreak | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Evil,,False,Mikael Håfström | Evil,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Details,,False,Kristian Petri | Details,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Tomas Alfredson,Four Shades of Brown,True,2004 (40th) | Tomas Alfredson ‡ | Four Shades of Brown | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Dalecarlians,,False,Maria Blom | Dalecarlians,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,As It Is in Heaven,,False,Kay Pollak | As It Is in Heaven,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Ulf Malmros,Tjenare kungen,True,2005 (41st) | Ulf Malmros ‡ | Tjenare kungen | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Zozo,,False,Josef Fares | Zozo,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Mouth to Mouth,,False,Björn Runge | Mouth to Mouth,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Catti Edfeldt ‡ Ylva Gustavsson,Kidz in da Hood,True,2006 (42nd) | Catti Edfeldt ‡ Ylva Gustavsson ‡ | Kidz in da Hood | ,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Falkenberg Farewell,,False,Jesper Ganslandt | Falkenberg Farewell,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,When Darkness Falls,,False,Anders Nilsson | When Darkness Falls,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Roy Andersson,"You, the Living",True,"2007 (43rd) | Roy Andersson ‡ | You, the Living | ",https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Leo,,False,Josef Fares | Leo,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Darling,,False,Johan Kling | Darling,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Tomas Alfredson,Let the Right One In,True,2008 (44th) | Tomas Alfredson ‡ | Let the Right One In | [ 14 ] [ 15 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Everlasting Moments,,False,Jan Troell | Everlasting Moments,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Involuntary,,False,Ruben Östlund | Involuntary,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Lisa Siwe,Glowing Stars,True,2009 (45th) | Lisa Siwe ‡ | Glowing Stars | [ 16 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Starring Maja,,False,Teresa Fabik | Starring Maja,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,The Girl,,False,Fredrik Edfeldt | The Girl,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Pernilla August,Beyond,True,2010 (46th) | Pernilla August ‡ | Beyond | [ 17 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Pure,,False,Lisa Langseth | Pure,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Sebbe,,False,Babak Najafi | Sebbe,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Ruben Östlund,Play,True,2011 (47th) | Ruben Östlund ‡ | Play | [ 18 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,She Monkeys,,False,Lisa Aschan | She Monkeys,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Simon and the Oaks,,False,Lisa Ohlin | Simon and the Oaks,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Gabriela Pichler,Eat Sleep Die,True,2012 (48th) | Gabriela Pichler ‡ | Eat Sleep Die | [ 19 ] [ 20 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Call Girl,,False,Mikael Marcimain | Call Girl,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,The Last Sentence,,False,Jan Troell | The Last Sentence,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Per Fly,Waltz for Monica,True,2013 (49th) | Per Fly ‡ | Waltz for Monica | [ 21 ] [ 22 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,The Reunion,,False,Anna Odell | The Reunion,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Shed No Tears,,False,Måns Mårlind Björn Stein | Shed No Tears,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Ruben Östlund,Force Majeure,True,2014 (50th) | Ruben Östlund ‡ | Force Majeure | [ 23 ] [ 24 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Gentlemen,,False,Mikael Marcimain | Gentlemen,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,A Pigeon Sat on a Branch Reflecting on Existence,,False,Roy Andersson | A Pigeon Sat on a Branch Reflecting on Existence,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Magnus von Horn,The Here After,True,2015 (51st) | Magnus von Horn ‡ | The Here After | [ 25 ] [ 26 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,My Skinny Sister,,False,Sanna Lenken | My Skinny Sister,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Drifters,,False,Peter Grönlund | Drifters,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Goran Kapetanović,My Aunt in Sarajevo,True,2016 (52nd) | Goran Kapetanović ‡ | My Aunt in Sarajevo | [ 27 ] [ 28 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,The 101-Year Old Man Who Skipped Out on the Bill and Disappeared,,False,Felix Herngren Måns Herngren | The 101-Year Old Man Who Skipped Out on the Bill and Disappeared,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Granny´s Dancing on the Table,,False,Hanna Sköld | Granny´s Dancing on the Table,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Girls Lost,,False,Alexandra-Therese Keining | Girls Lost,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Ruben Östlund,The Square,True,2017 (53rd) | Ruben Östlund ‡ | The Square | [ 29 ] [ 30 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Sami Blood,,False,Amanda Kernell | Sami Blood,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Borg McEnroe,,False,Janus Metz Pedersen | Borg McEnroe,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,The Nile Hilton Incident,,False,Tarik Saleh | The Nile Hilton Incident,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Carl Javér,Reconstructing Utøya,True,2018 (54th) | Carl Javér | Reconstructing Utøya | [ 31 ] [ 32 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Border,,False,Ali Abbasi | Border,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,The Real Estate,,False,Måns Månsson and Axel Petersén | The Real Estate,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Amateurs,,False,Gabriela Pichler | Amateurs,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Hugo Lilja and Pella Kågerman,Aniara,True,2019 (55th) | Hugo Lilja and Pella Kågerman ‡ | Aniara | [ 33 ] [ 34 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,And Then We Danced,,False,Levan Akin | And Then We Danced,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,About Endlessness,,False,Roy Andersson | About Endlessness,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Sune – Best Man,,False,Jon Holmberg | Sune – Best Man [ sv ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Amanda Kernell,Charter,True,2020 (56th) | Amanda Kernell ‡ | Charter | [ 35 ] [ 36 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Greta,,False,Nathan Grossman | Greta,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Psychosis in Stockholm,,False,Maria Bäck | Psychosis in Stockholm,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Spring Uje spring,,False,Henrik Schyffert | Spring Uje spring,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Nathalie Álvarez Mesén,Clara Sola,True,2021 (57th) | Nathalie Álvarez Mesén ‡ | Clara Sola | [ 37 ],https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Children of the Enemy,,False,Gorki Glaser-Müller | Children of the Enemy,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Pleasure,,False,Ninja Thyberg | Pleasure,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director
+,Tigers,,False,Ronnie Sandahl | Tigers,https://en.wikipedia.org/wiki/Guldbagge_Award_for_Best_Director

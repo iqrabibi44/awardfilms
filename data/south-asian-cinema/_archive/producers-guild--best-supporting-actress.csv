@@ -1,0 +1,75 @@
+year,film,person,is_winner,raw_text,source_url
+,Tabu,2,False,Actress with most awards | Tabu | 2,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+,Divya Dutta Konkona Sen Sharma,3,False,Actress with most nominations | Divya Dutta Konkona Sen Sharma | 3,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+,Supriya Pathak Kalki Koechlin Dimple Kapadia Anushka Sharma,2,False,Actress with most nominations without ever winning | Supriya Pathak Kalki Koechlin Dimple Kapadia Anushka Sharma | 2,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2004,2004,,True,2004,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2004,Kal Ho Naa Ho,Jennifer Kapur,True,Jaya Bachchan † | Kal Ho Naa Ho | Jennifer Kapur,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2004,Joggers' Park,Chatterjee's daughter,False,Divya Dutta | Joggers' Park | Chatterjee's daughter,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2004,Jhankaar Beats,Shanti,False,Juhi Chawla | Jhankaar Beats | Shanti,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2004,Waisa Bhi Hota Hai Part II,Gangu Tai,False,Pratima Kazmi | Waisa Bhi Hota Hai Part II | Gangu Tai,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2004,Armaan,Sonia Kapoor,False,Preity Zinta | Armaan | Sonia Kapoor,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2004,Pinjar,Lajjo,False,Sandali Sinha | Pinjar | Lajjo,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2005,No award,--,True,2005 | No award | -- | --,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2006,2006,,True,2006,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2006,Black,Michelle McNally,True,Ayesha Kapur † | Black | Michelle McNally,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2006,Hum Tum,Parminder Prakash/Bobby,False,Kirron Kher | Hum Tum | Parminder Prakash/Bobby,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2006,Page 3,Madhvi Sharma,False,Konkona Sen Sharma | Page 3 | Madhvi Sharma,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2006,Aitraaz,Sonia Roy,False,Priyanka Chopra ‡ | Aitraaz | Sonia Roy,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2006,Veer-Zaara,Saamiya Siddiqui,False,Rani Mukerji ‡ | Veer-Zaara | Saamiya Siddiqui,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2007,No award,--,True,2007 | No award | -- | --,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2008,2008,,True,2008,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2008,Life in a... Metro,Shruti,True,Konkona Sen Sharma † | Life in a... Metro | Shruti,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2008,Johnny Gaddaar,Varsha,False,Ashwini Kalsekar | Johnny Gaddaar | Varsha,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2008,Chak De! India,Chak De girls,False,Chak De girls | Chak De! India | Chak De girls,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2008,Honeymoon Travels Pvt. Ltd.,Milly Sen,False,Raima Sen | Honeymoon Travels Pvt. Ltd. | Milly Sen,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2008,"Gandhi, My Father",Kasturba Gandhi,False,"Shefali Shah | Gandhi, My Father | Kasturba Gandhi",https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2009,2009,,True,2009,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2009,Fashion,Shonali Gujral,True,Kangana Ranaut † | Fashion | Shonali Gujral,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2009,Welcome to Sajjanpur,Ramsakhi Pannawali,False,Ila Arun | Welcome to Sajjanpur | Ramsakhi Pannawali,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2009,Race,Sophia,False,Katrina Kaif | Race | Sophia,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2009,Rock On!!,Debbie,False,Shahana Goswami ‡ | Rock On!! | Debbie,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2009,Sarkar Raj,Pushpa Nagre,False,Supriya Pathak | Sarkar Raj | Pushpa Nagre,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2010,2010,,True,2010,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2010,Kurbaan,Aapa,True,Kirron Kher § | Kurbaan | Aapa,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2010,Luck by Chance,Neena Walia,False,Dimple Kapadia ‡ | Luck by Chance | Neena Walia,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2010,Dev.D,Lené/Chanda,False,Kalki Koechlin † | Dev.D | Lené/Chanda (Chandramukhi),https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2010,Ajab Prem Ki Ghazab Kahani,Sharda Sharma,False,Smita Jaykar | Ajab Prem Ki Ghazab Kahani | Sharda Sharma,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2010,Wake Up Sid,Sarita,False,Supriya Pathak ‡ | Wake Up Sid | Sarita,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2011,2011,,True,2011,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2011,Once Upon a Time in Mumbaai,Mumtaz,True,Prachi Desai ‡ | Once Upon a Time in Mumbaai | Mumtaz,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2011,Peepli Live,Amma,False,Farrukh Jaffar | Peepli Live | Amma,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2011,Raavan,Jamuni,False,Priyamani | Raavan | Jamuni,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2011,Golmaal 3,Geeta,False,Ratna Pathak Shah ‡ | Golmaal 3 | Geeta,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2011,Guzaarish,Devyani Dutta,False,Shernaz Patel | Guzaarish | Devyani Dutta,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2012,2012,,True,2012,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2012,Ladies vs Ricky Bahl,Dimple Chaddha,True,Parineeti Chopra ‡ | Ladies vs Ricky Bahl | Dimple Chaddha,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2012,Rockstar,Sheena,False,Aditi Rao Hydari | Rockstar | Sheena,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2012,Stanley Ka Dabba,Rosy Miss,False,Divya Dutta | Stanley Ka Dabba | Rosy Miss,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2012,Murder 2,Reshma,False,Sulagna Panigrahi | Murder 2 | Reshma,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2012,Tanu Weds Manu,Payal,False,Swara Bhaskar ‡ | Tanu Weds Manu | Payal,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2013,2013,,True,2013,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2013,Vicky Donor,Mrs. Arora,True,Dolly Ahluwalia ‡ | Vicky Donor | Mrs. Arora,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2013,Jab Tak Hai Jaan,Akira Rai,False,Anushka Sharma † | Jab Tak Hai Jaan | Akira Rai,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2013,Cocktail,Meera Sahni,False,Diana Penty | Cocktail | Meera Sahni,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2013,Ishaqzaade,Chand Bibi,False,Gauahar Khan | Ishaqzaade | Chand Bibi,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2013,English Vinglish,Radha,False,Priya Anand | English Vinglish | Radha,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2014,2014,,True,2014,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2014,Bhaag Milkha Bhaag,Ishri Kaur,True,Divya Dutta ‡ | Bhaag Milkha Bhaag | Ishri Kaur,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2014,Inkaar,Mrs. Kamdhar,False,Deepti Naval | Inkaar | Mrs. Kamdhar,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2014,Yeh Jawaani Hai Deewani,Aditi Mehra,False,Kalki Koechlin ‡ | Yeh Jawaani Hai Deewani | Aditi Mehra,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2014,Krrish 3,Kaya,False,Kangana Ranaut | Krrish 3 | Kaya,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2014,Madras Cafe,Ruby Singh,False,Raashi Khanna | Madras Cafe | Ruby Singh,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2014,Goliyon Ki Raasleela Ram-Leela,Rasila,False,Richa Chaddha | Goliyon Ki Raasleela Ram-Leela | Rasila,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2015,2015,,True,2015,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2015,Haider,Ghazala Meer,True,Tabu † | Haider | Ghazala Meer,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2015,2 States,Kavita Malhotra,False,Amrita Singh ‡ | 2 States | Kavita Malhotra,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2015,Finding Fanny,"Mrs. Rosalina ""Rosie"" Eucharistica",False,"Dimple Kapadia ‡ | Finding Fanny | Mrs. Rosalina ""Rosie"" Eucharistica",https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2015,Dedh Ishqiya,Muniya,False,Huma Qureshi | Dedh Ishqiya | Muniya,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2015,Queen,Vijaylakshmi,False,Lisa Haydon ‡ | Queen | Vijaylakshmi,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2015,2 States,Radha Swaminathan,False,Revathy | 2 States | Radha Swaminathan,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2016,2016,,True,2016,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2016,Drishyam,Inspector General Meera Deshmukh,True,Tabu ‡ | Drishyam | Inspector General Meera Deshmukh,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2016,Bajirao Mastani,Radhabai,True,Tanvi Azmi ‡ | Bajirao Mastani | Radhabai,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2016,Dil Dhadakne Do,Farah Ali,False,Anushka Sharma ‡ | Dil Dhadakne Do | Farah Ali,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2016,Talvar,Nutan Tandon,False,Konkona Sen Sharma | Talvar | Nutan Tandon,https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role
+2016,Badlapur,Kanchan,False,Radhika Apte | Badlapur | Kanchan (Koko),https://en.wikipedia.org/wiki/Producers_Guild_Film_Award_for_Best_Actress_in_a_Supporting_Role

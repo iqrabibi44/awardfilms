@@ -1,0 +1,37 @@
+year,film,person,is_winner,raw_text,source_url
+1990,Philippe Noiret,Cinema Paradiso,True,1990 | Philippe Noiret | Cinema Paradiso | Alfredo,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actor_of_the_Year
+1991,Gérard Depardieu,Cyrano de Bergerac,True,1991 | Gérard Depardieu | Cyrano de Bergerac | Cyrano de Bergerac,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actor_of_the_Year
+1992,Robert Downey Jr.,Chaplin,True,1992 | Robert Downey Jr. | Chaplin | Charlie Chaplin,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actor_of_the_Year
+1993,Anthony Hopkins,The Remains of the Day,True,1993 | Anthony Hopkins | The Remains of the Day | Mr. James Stevens,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actor_of_the_Year
+1994,John Travolta,Pulp Fiction,True,1994 | John Travolta | Pulp Fiction | Vincent Vega,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actor_of_the_Year
+1995,Johnny Depp,"Ed Wood , Don Juan DeMarco",True,"1995 | Johnny Depp | Ed Wood , Don Juan DeMarco | Edward D. Wood, Jr. , Don Juan /John R. DeMarco",https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actor_of_the_Year
+1996,Morgan Freeman,Seven,True,1996 | Morgan Freeman | Seven | Detective Lieutenant William Somerset,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actor_of_the_Year
+1997,Geoffrey Rush,Shine,True,1997 | Geoffrey Rush | Shine | David Helfgott,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actor_of_the_Year
+1998,Jack Nicholson,As Good as It Gets,True,1998 | Jack Nicholson | As Good as It Gets | Melvin Udall,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actor_of_the_Year
+1999,Kevin Spacey,American Beauty,True,1999 | Kevin Spacey | American Beauty | Lester Burnham,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actor_of_the_Year
+2000,Russell Crowe,Gladiator,True,2000 | Russell Crowe | Gladiator | Maximus Decimus Meridius,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actor_of_the_Year
+2001,Billy Bob Thornton,The Man Who Wasn't There,True,2001 | Billy Bob Thornton | The Man Who Wasn't There | Ed Crane,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actor_of_the_Year
+2002,Michael Caine,The Quiet American,True,2002 | Michael Caine | The Quiet American | Thomas Fowler,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actor_of_the_Year
+2003,Sean Penn,Mystic River,True,2003 | Sean Penn | Mystic River | Jimmy Markum,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actor_of_the_Year
+2004,Jamie Foxx,Ray,True,2004 | Jamie Foxx | Ray | Ray Charles,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actor_of_the_Year
+2005,Bruno Ganz,Downfall,True,2005 | Bruno Ganz | Downfall (Der Untergang) | Adolf Hitler,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actor_of_the_Year
+2006,Forest Whitaker,The Last King of Scotland,True,2006 | Forest Whitaker | The Last King of Scotland | Idi Amin,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actor_of_the_Year
+2007,Daniel Day-Lewis,There Will Be Blood,True,2007 | Daniel Day-Lewis | There Will Be Blood | Daniel Plainview,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actor_of_the_Year
+2008,Mickey Rourke,The Wrestler,True,2008 | Mickey Rourke | The Wrestler | Randy Robinson,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actor_of_the_Year
+2009,Christoph Waltz,Inglourious Basterds,True,2009 | Christoph Waltz | Inglourious Basterds | Standartenführer Hans Landa,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actor_of_the_Year
+2010,Colin Firth,The King's Speech,True,2010 | Colin Firth | The King's Speech | King George VI,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actor_of_the_Year
+2011,Jean Dujardin,The Artist,True,2011 | Jean Dujardin | The Artist | George Valentin,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actor_of_the_Year
+2012,Joaquin Phoenix,The Master,True,2012 | Joaquin Phoenix | The Master | Freddie Quell,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actor_of_the_Year
+2013,Chiwetel Ejiofor,12 Years a Slave,True,2013 | Chiwetel Ejiofor | 12 Years a Slave | Solomon Northup,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actor_of_the_Year
+2014,Michael Keaton,Birdman,True,2014 | Michael Keaton | Birdman | Riggan Thomson,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actor_of_the_Year
+2015,Tom Courtenay,45 Years,True,2015 | Tom Courtenay | 45 Years | Geoff Mercer,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actor_of_the_Year
+2016,Casey Affleck,Manchester by the Sea,True,2016 | Casey Affleck | Manchester by the Sea | Lee Chandler,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actor_of_the_Year
+2017,Timothée Chalamet,Call Me by Your Name,True,2017 | Timothée Chalamet | Call Me by Your Name | Elio Perlman,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actor_of_the_Year
+2018,Ethan Hawke,First Reformed,True,2018 | Ethan Hawke | First Reformed | Reverend Ernst Toller,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actor_of_the_Year
+2019,Joaquin Phoenix,Joker,True,2019 | Joaquin Phoenix | Joker | Arthur Fleck / Joker,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actor_of_the_Year
+2020,Chadwick Boseman,Ma Rainey's Black Bottom,True,2020 | Chadwick Boseman | Ma Rainey's Black Bottom | Levee Green,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actor_of_the_Year
+2021,Benedict Cumberbatch,The Power of the Dog,True,2021 | Benedict Cumberbatch | The Power of the Dog | Phil Burbank,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actor_of_the_Year
+2022,Colin Farrell,The Banshees of Inisherin,True,2022 | Colin Farrell | The Banshees of Inisherin | Pádraic Súilleabháin,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actor_of_the_Year
+2023,Andrew Scott,All of Us Strangers,True,2023 | Andrew Scott | All of Us Strangers | Adam,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actor_of_the_Year
+2024,Ralph Fiennes,Conclave,True,2024 | Ralph Fiennes | Conclave | Thomas Cardinal Lawrence,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actor_of_the_Year
+2025,Timothée Chalamet,Marty Supreme,True,2025 | Timothée Chalamet | Marty Supreme | Marty Mauser,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Actor_of_the_Year

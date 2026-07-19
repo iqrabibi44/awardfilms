@@ -1,0 +1,43 @@
+year,film,person,is_winner,raw_text,source_url
+,Saroj Khan,,False,8 | Saroj Khan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+,Farah Khan,,False,7 | Farah Khan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+,Bosco–Caesar,,False,4 | Bosco–Caesar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+,Chinni Prakash,,False,3 | Chinni Prakash,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+,"Ahmed Khan , Ganesh Acharya , Vijay Ganguly , Kruti Mahesh",,False,"2 | Ahmed Khan , Ganesh Acharya , Vijay Ganguly , Kruti Mahesh",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+2025,Bosco–Caesar,Tauba Tauba,False,2025 | Bosco–Caesar | Tauba Tauba | Bad Newz,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+2024,Ganesh Acharya,What Jhumka?,False,2024 | Ganesh Acharya | What Jhumka? | Rocky Aur Rani Kii Prem Kahaani,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+2023,Kruti Mahesh,Dholida,False,2023 | Kruti Mahesh | Dholida | Gangubai Kathiawadi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+2022,Vijay Ganguly,Chaka Chak,False,2022 | Vijay Ganguly | Chaka Chak | Atrangi Re,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+2021,Farah Khan,Dil Bechara,False,2021 | Farah Khan | Dil Bechara | Dil Bechara,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+2020,Remo D'Souza,Ghar More Paradesiya,False,2020 | Remo D'Souza | Ghar More Paradesiya | Kalank,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+2019,Kruti Mahesh & Jyothi D Tommar,Ghoomar,False,2019 | Kruti Mahesh & Jyothi D Tommar | Ghoomar | Padmaavat,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+2018,Vijay Ganguly & Ruel Dausan Varindani,Galti Se Mistake,False,2018 | Vijay Ganguly & Ruel Dausan Varindani | Galti Se Mistake | Jagga Jasoos,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+2017,Aadil Sheikh,Kar Gayi Chull,False,2017 | Aadil Sheikh | Kar Gayi Chull | Kapoor and Sons,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+2016,Pandit Birju Maharaj,Mohe Rang Do Laal,False,2016 | Pandit Birju Maharaj | Mohe Rang Do Laal | Bajirao Mastani,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+2015,Ahmed Khan,Jumme Ki Raat,False,2015 | Ahmed Khan | Jumme Ki Raat | Kick,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+2014,Samir & Arsh Tanna,Lahu Muh Lag Gaya,False,2014 | Samir & Arsh Tanna | Lahu Muh Lag Gaya | Goliyon Ki Raasleela Ram-Leela,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+2013,Bosco-Caesar,Aunty Ji,False,2013 | Bosco-Caesar | Aunty Ji | Ek Main Aur Ekk Tu,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+2012,Senorita,Zindagi Na Milegi Dobara,False,2012 | Senorita | Zindagi Na Milegi Dobara,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+2011,Farah Khan,Sheila Ki Jawani,False,2011 | Farah Khan | Sheila Ki Jawani | Tees Mar Khan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+2010,Bosco-Caesar,Chor Bazaari,False,2010 | Bosco-Caesar | Chor Bazaari | Love Aaj Kal,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+2009,Longinus Fernandes,Pappu Can't Dance,False,2009 | Longinus Fernandes | Pappu Can't Dance | Jaane Tu Ya Jaane Na,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+2008,Saroj Khan,Barso Re,False,2008 | Saroj Khan | Barso Re | Guru,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+2007,Ganesh Acharya,Beedi,False,2007 | Ganesh Acharya | Beedi | Omkara,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+2006,Howard Rosemeyer,Kaisi Paheli Zindagani,False,2006 | Howard Rosemeyer | Kaisi Paheli Zindagani | Parineeta,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+2005,Prabhu Deva,Main Aisa Kyun Hoon,False,2005 | Prabhu Deva | Main Aisa Kyun Hoon | Lakshya,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+2004,Farah Khan,Idhar Chala Main Udhar Chala,False,2004 | Farah Khan | Idhar Chala Main Udhar Chala | Koi... Mil Gaya,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+2003,Saroj Khan,Dola Re Dola,False,2003 | Saroj Khan | Dola Re Dola | Devdas,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+2002,Farah Khan,Woh Ladki Hai Kahaan,False,2002 | Farah Khan | Woh Ladki Hai Kahaan | Dil Chahta Hai,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+2001,Ek Pal Ka Jeena,Kaho Naa... Pyaar Hai,False,2001 | Ek Pal Ka Jeena | Kaho Naa... Pyaar Hai,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+2000,Saroj Khan,Nimbooda,False,2000 | Saroj Khan | Nimbooda | Hum Dil De Chuke Sanam,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+1999,Farah Khan,Chaiyya Chaiyya,False,1999 | Farah Khan | Chaiyya Chaiyya | Dil Se..,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+1998,Dhol Bajne Laga,Virasat,False,1998 | Dhol Bajne Laga | Virasat,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+1997,Chinni Prakash,Sheher Ki Ladki,False,1997 | Chinni Prakash | Sheher Ki Ladki | Rakshak,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+1996,Ahmed Khan,Rangeela Re,False,1996 | Ahmed Khan | Rangeela Re | Rangeela,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+1995,Chinni Prakash,Tu Cheez Badi Hai Mast,False,1995 | Chinni Prakash | Tu Cheez Badi Hai Mast | Mohra,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+1994,Saroj Khan,Choli Ke Peeche Kya Hai,False,1994 | Saroj Khan | Choli Ke Peeche Kya Hai | Khalnayak,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+1993,Dhak Dhak Karne Laga,Beta,False,1993 | Dhak Dhak Karne Laga | Beta,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+1992,Chinni Prakash,Jumma Chumma De De,False,1992 | Chinni Prakash | Jumma Chumma De De | Hum,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+1991,Saroj Khan,Humko Aaj Kal Hai Intezaar,False,1991 | Saroj Khan | Humko Aaj Kal Hai Intezaar | Sailaab,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+1990,Na Jaane Kahan Se Aayi Hai,Chaalbaaz,False,1990 | Na Jaane Kahan Se Aayi Hai | Chaalbaaz,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography
+1989,Ek Do Teen Char,Tezaab,False,1989 | Ek Do Teen Char | Tezaab,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Choreography

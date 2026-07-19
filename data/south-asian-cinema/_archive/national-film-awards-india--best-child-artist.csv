@@ -1,0 +1,94 @@
+year,film,person,is_winner,raw_text,source_url
+,Recipient,Role,False,Year | Recipient(s) | Role(s) | Film(s) | Language | Refs.,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+1968,Baby Rani,Geetha,False,1968 (16th) | Baby Rani | Geetha | Kuzhanthaikkaga | Tamil | [ 1 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+1969,No Award,,False,1969 (17th) | No Award | [ 2 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+1970,Rishi Kapoor,Young Raju,False,1970 (18th) | Rishi Kapoor | Young Raju | Mera Naam Joker | Hindi | [ 3 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+1971,Sachin Pilgaonkar,,False,1971 (19th) | Sachin Pilgaonkar |  | Ajab Tujhe Sarkar | Marathi | [ 4 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+1972,Neera Malia,,False,1972 (20th) | Neera Malia |  | Ranur Pratham Bhag | Bengali | [ 5 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+1973,G. S. Nataraj,Kitty,False,1973 (21st) | G. S. Nataraj | Kitty | Kaadu | Kannada | [ 6 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+1974,Kushal Chakraborty,Mukul Dhar,False,1974 (22nd) | Kushal Chakraborty | Mukul Dhar | Sonar Kella | Bengali | [ 7 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+1975,No Award,,False,1975 (23rd) | No Award | [ 8 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+1976,Raju Shrestha,Deepak Kumar Agnihotri,False,1976 (24th) | Raju Shrestha | Deepak Kumar Agnihotri (Deepu) | Chitchor | Hindi | [ 4 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+1977,Ajith Kumar,Naani,False,1977 (25th) | Ajith Kumar | Naani | Ghatashraddha | Kannada | [ 9 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+1978,Kanchan De Biswas,,False,1978 (26th) | Kanchan De Biswas |  | Ganadevata | Bengali | [ 10 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+1979,Geeta Khanna,Bhavana,False,1979 (27th) | Geeta Khanna | Bhavana | Aangan Ki Kali | Hindi | ,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+1980,Aravind,Appu,False,1980 (28th) | Aravind | Appu | Oppol | Malayalam | [ 11 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+1981,Leikhendra Singh,Thoithoi,False,1981 (29th) | Leikhendra Singh | Thoithoi | Imagi Ningthem | Meitei | [ 12 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+1982,Vimal,Rajesh,False,1982 (30th) | Vimal | Rajesh (Unni) | Aaroodam | Malayalam | [ 13 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+1983,Suresh,Kayama,False,1983 (31st) | Suresh | Kayama (Younger Ramachandran) | Malamukalile Daivam | Malayalam | [ 14 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+1984,Aravind,Vinod,False,1984 (32nd) | Aravind | Vinod | My Dear Kuttichathan | Malayalam | [ 15 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+1984,Vijay,,False,Suresh | Vijay,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+1984,Lakshmi,,False,Sonia | Lakshmi,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+1985,Puneeth Rajkumar,Ramu,False,1985 (33rd) | Puneeth Rajkumar | Ramu | Bettada Hoovu | Kannada | [ 16 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+1986,Aniket Sengupta,Kanu,False,1986 (34th) | Aniket Sengupta | Kanu | Phera | Bengali | [ 17 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+1987,Manjunath,Swamy,False,1987 (35th) | Manjunath | Swamy | Swamy | Hindi | [ 18 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+1988,Shafiq Syed,Krishna,False,1988 (36th) | Shafiq Syed | Krishna (Chipau) | Salaam Bombay! | Hindi | [ 19 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+1989,Mrinmayee Chandorkar,Chhakuli,False,1989 (37th) | Mrinmayee Chandorkar | Chhakuli | Kalat Nakalat | Marathi | [ 20 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+1990,Shamili,Anjali,False,1990 (38th) | Shamili | Anjali | Anjali | Tamil | [ 21 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+1990,Arjun,,False,Tarun | Arjun,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+1990,Anu,,False,Shruthi | Anu,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+1991,Santhosh Reddy,,False,1991 (39th) | Santhosh Reddy |  | Bhadram Koduko | Telugu | [ 22 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+1992,Amit Phalke,,False,1992 (40th) | Amit Phalke |  | Mujhse Dosti Karoge | Hindi | [ 23 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+1993,Tarasankar Misra,,False,1993 (41st) | Tarasankar Misra |  | Lavanya Preethi | Oriya | [ 24 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+1994,Vijay Raghavendra,Kotresha,False,1994 (42nd) | Vijay Raghavendra | Kotresha | Kotreshi Kanasu | Kannada | [ 25 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+1995,Vishwas,Murthy,False,1995 (43rd) | Vishwas | Murthy | Kraurya | Kannada | [ 26 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+1996,Annapareddy Kavya,Bunny,False,1996 (44th) | Annapareddy Kavya | Bunny | Little Soldiers | Telugu | [ 27 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+1996,Parameswaran,Desadanam,False,Kumar | Parameswaran (Pachu) | Desadanam | Malayalam,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+1997,Dhanraj,,False,1997 (45th) | Dhanraj |  | Dhanna | Hindi | [ 28 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+1998,P. Shwetha,Malli,False,1998 (46th) | P. Shwetha | Malli | Malli | Tamil | [ 29 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+1999,Aswin Thampy,,False,1999 (47th) | Aswin Thampy |  | Jalamarmaram | Malayalam | [ 30 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2000,Udayaraj,Balasubramaniam,False,2000 (48th) | Udayaraj | Balasubramaniam (Pulli) | Nila Kaalam | Tamil | [ 31 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2001,P. Shwetha,Kannamma,False,2001 (49th) | P. Shwetha | Kannamma (Kutty) | Kutty | Tamil | [ 32 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2002,Shweta Prasad,• Chunni • Munni,False,2002 (50th) | Shweta Prasad | • Chunni • Munni | Makdee | Hindi | [ 33 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2002,Amudha,Kannathil Muthamittal,False,P. S. Keerthana | Amudha | Kannathil Muthamittal | Tamil,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2003,Ashwin Chitale,Parashuram Vichare,False,2003 (51st) | Ashwin Chitale | Parashuram Vichare | Shwaas | Marathi | [ 34 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2003,Vasudev,Ente Veedu Appoontem,False,Kalidas Jayaram | Vasudev | Ente Veedu Appoontem | Malayalam,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2004,Om Bhutkar,Joze,False,2004 (52nd) | Om Bhutkar | Joze | Chhota Sipahi | Hindi | [ 35 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2005,Sai Kumar,,False,2005 (53rd) | Sai Kumar |  | Bommalata | Telugu | [ 36 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2006,Divya Chaphadkar,,False,2006 (54th) | Divya Chaphadkar |  | Antarnad | Konkani | [ 37 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2007,Sharad Goekar,Tingya,False,2007 (55th) | Sharad Goekar | Tingya | Tingya | Marathi | [ 38 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2008,Shams Patel,Municipality,False,2008 (56th) | Shams Patel | Municipality | Thanks Maa | Hindi | [ 39 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2009,Kishore,Anbukkarasu,False,2009 (57th) | Kishore | Anbukkarasu | Pasanga | Tamil | [ 40 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2009,Jeeva Nithyanandham,,False,Sree Raam | Jeeva Nithyanandham,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2010,Harsh Mayar,Chotu,False,2010 (58th) | Harsh Mayar | Chotu (Kalam) | I Am Kalam | Hindi | [ 41 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2010,Sanjya,Champions,False,Shantanu Ranganekar | Sanjya | Champions | Marathi,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2010,Raju,,False,Machindra Gadkar | Raju,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2010,Baboo,Baboo Band Baaja,False,Vivek Chabukswar | Baboo | Baboo Band Baaja | Marathi,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2011,Partho Gupte,Stanley Fernandes,False,2011 (59th) | Partho Gupte | Stanley Fernandes | Stanley Ka Dabba | Hindi | [ 42 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2011,Fatka,Chillar Party,False,Irrfan Khan | Fatka | Chillar Party | Hindi,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2011,Arjun / Encyclopedia,,False,Sanath Menon | Arjun / Encyclopedia,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2011,Rishabh / Ronny / Ramashanker Iyer / Akram,,False,Rohan Grover | Rishabh / Ronny / Ramashanker Iyer / Akram,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2011,Balwan / Jhangiya,,False,Naman Jain | Balwan / Jhangiya,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2011,Aflatoon,,False,Aarav Khanna | Aflatoon,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2011,Lakshman / Second Hand,,False,Vishesh Tiwari | Lakshman / Second Hand,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2011,Lucky / Panauti,,False,Chinmai Chandranshuh | Lucky / Panauti,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2011,Silencer,,False,Vedant Desai | Silencer,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2011,Shaolin,,False,Divij Handa | Shaolin,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2011,Toothpaste,,False,Shriya Sharma | Toothpaste,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2012,Virendra Pratap,Ghumroo,False,2012 (60th) | Virendra Pratap | Ghumroo | Dekh Indian Circus | Hindi | [ 43 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2012,Anilkumar Bokaro,101 Chodyangal,False,Minon | Anilkumar Bokaro | 101 Chodyangal | Malayalam,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2013,Somnath Awghade,Jambuvant Kachru Mane,False,2013 (61st) | Somnath Awghade | Jambuvant Kachru Mane (Jabya) | Fandry | Marathi | [ 44 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2013,Chellamma,Thanga Meenkal,False,Sadhana | Chellamma | Thanga Meenkal | Tamil,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2014,J. Vignesh,Periya Kaaka Muttai,False,2014 (62nd) | J. Vignesh | Periya Kaaka Muttai | Kaaka Muttai | Tamil | [ 45 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2014,Chinna Kaaka Muttai,,False,Ramesh | Chinna Kaaka Muttai,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2015,Gourav Menon,Ben,False,2015 (63rd) | Gourav Menon | Ben | Ben | Malayalam | [ 46 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2016,Adish Praveen,Joseph / Ousepachan,False,2016 (64th) | Adish Praveen | Joseph / Ousepachan | Kunju Daivam | Malayalam | [ 47 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2016,Chhotu,Sahaj Paather Gappo,False,Noor Islam | Chhotu | Sahaj Paather Gappo | Bengali,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2016,Gopal,,False,Samiul Alam | Gopal,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2016,Jollu,Railway Children,False,Manohara K. | Jollu | Railway Children | Kannada,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2017,Bhanita Das,Dhunu,False,2017 (65th) | Bhanita Das | Dhunu | Village Rockstars | Assamese | ,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2018,P. V. Rohith,Sameera,False,2018 (66th) | P. V. Rohith | Sameera | Ondalla Eradalla | Kannada | [ 48 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2018,Young Harjeet Singh,Harjeeta,False,Sameep Singh | Young Harjeet Singh | Harjeeta | Punjabi,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2018,Hamid,Hamid,False,Talha Ahmed Reshi | Hamid | Hamid | Urdu,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2018,Chaitanya Bhosale,Naal,False,Shrinivas Pokale | Chaitanya Bhosale (Chaitya) | Naal | Marathi,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2019,Naga Vishal,Kutty,False,2019 (67th) | Naga Vishal | Kutty | Karuppudurai | Tamil | [ 49 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2020,Akanksha Pingle,Sumati,False,2020 (68th) | Akanksha Pingle | Sumati | Sumi | Marathi | [ 50 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2020,Chinmay,,False,Divyesh Indulkar | Chinmay,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2020,Vishal,Tak-Tak,False,Anish Mangesh Gosavi | Vishal | Tak-Tak,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2021,Bhavin Rabari,Samay,False,2021 (69th) | Bhavin Rabari | Samay | Last Film Show | Gujarati | ,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2022,Sreepath Yan,Piyush Unni,False,2022 (70th) | Sreepath Yan | Piyush Unni | Malikappuram | Malayalam | [ 51 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2023,Sukriti Veni Bandreddi,Gandhi,False,2023 (71st) | Sukriti Veni Bandreddi | Gandhi | Gandhi Tatha Chettu | Telugu | ,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2023,Jotya,Gypsy,False,Kabir Khandare | Jotya | Gypsy | Marathi,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2023,Chimi aka Revati,Naal 2,False,Treesha Thosar | Chimi aka Revati | Naal 2 | Marathi,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2023,"Chaitanya ""Chaitya"" Bhosale",,False,"Shrinivas Pokale | Chaitanya ""Chaitya"" Bhosale",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist
+2023,Mani,,False,Bhargav Jagtap | Mani,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Child_Artist

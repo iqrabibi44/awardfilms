@@ -1,0 +1,29 @@
+year,film,person,is_winner,raw_text,source_url
+,Anil Kapoor,,False,4 | Anil Kapoor,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Actor_in_a_Supporting_Role_%E2%80%93_Male
+,Abhishek Bachchan,,False,3 | Abhishek Bachchan,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Actor_in_a_Supporting_Role_%E2%80%93_Male
+,Saif Ali Khan,,False,2 | Saif Ali Khan,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Actor_in_a_Supporting_Role_%E2%80%93_Male
+1998,Akshaye Khanna,Border,False,1998 | Akshaye Khanna | Border,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Actor_in_a_Supporting_Role_%E2%80%93_Male
+1999,Manoj Bajpai,Satya,False,1999 | Manoj Bajpai | Satya,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Actor_in_a_Supporting_Role_%E2%80%93_Male
+2000,Anil Kapoor,Taal,False,2000 | Anil Kapoor | Taal,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Actor_in_a_Supporting_Role_%E2%80%93_Male
+2001,Sunil Shetty,Dhadkan,False,2001 | Sunil Shetty | Dhadkan,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Actor_in_a_Supporting_Role_%E2%80%93_Male
+2002,Saif Ali Khan,Dil Chahta Hai,False,2002 | Saif Ali Khan | Dil Chahta Hai,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Actor_in_a_Supporting_Role_%E2%80%93_Male
+2003,Vivek Oberoi,Company,False,2003 | Vivek Oberoi | Company,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Actor_in_a_Supporting_Role_%E2%80%93_Male
+2004,Saif Ali Khan,Kal Ho Naa Ho,False,2004 | Saif Ali Khan | Kal Ho Naa Ho,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Actor_in_a_Supporting_Role_%E2%80%93_Male
+2005,Abhishek Bachchan,Phir Milenge,False,2005 | Abhishek Bachchan | Phir Milenge,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Actor_in_a_Supporting_Role_%E2%80%93_Male
+2006,Sarkar,,False,2006 | Sarkar,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Actor_in_a_Supporting_Role_%E2%80%93_Male
+2007,Kabhi Alvida Naa Kehna,,False,2007 | Kabhi Alvida Naa Kehna,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Actor_in_a_Supporting_Role_%E2%80%93_Male
+2008,Govinda,Partner,False,2008 | Govinda | Partner,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Actor_in_a_Supporting_Role_%E2%80%93_Male
+2011,Arjun Rampal,Raajneeti,False,2011 | Arjun Rampal | Raajneeti,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Actor_in_a_Supporting_Role_%E2%80%93_Male
+2012,Farhan Akhtar,Zindagi Na Milegi Dobara,False,2012 | Farhan Akhtar | Zindagi Na Milegi Dobara,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Actor_in_a_Supporting_Role_%E2%80%93_Male
+2013,Nawazuddin Siddiqui,Talaash,False,2013 | Nawazuddin Siddiqui | Talaash,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Actor_in_a_Supporting_Role_%E2%80%93_Male
+2014,Rajkummar Rao,Kai Po Che,False,2014 | Rajkummar Rao | Kai Po Che,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Actor_in_a_Supporting_Role_%E2%80%93_Male
+2015,Inaamulhaq,Filmistaan,False,2015 | Inaamulhaq | Filmistaan,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Actor_in_a_Supporting_Role_%E2%80%93_Male
+2016,Sanjay Mishra,Masaan,False,2016 | Sanjay Mishra | Masaan,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Actor_in_a_Supporting_Role_%E2%80%93_Male
+2017,Rishi Kapoor,Kapoor & Sons,False,2017 | Rishi Kapoor | Kapoor & Sons,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Actor_in_a_Supporting_Role_%E2%80%93_Male
+2018,Anil Kapoor,Mubarakan,False,2018 | Anil Kapoor | Mubarakan,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Actor_in_a_Supporting_Role_%E2%80%93_Male
+2019,Vicky Kaushal,Sanju,False,2019 | Vicky Kaushal | Sanju,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Actor_in_a_Supporting_Role_%E2%80%93_Male
+2020,Soham Majumdar,Kabir Singh,False,2020 | Soham Majumdar | Kabir Singh,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Actor_in_a_Supporting_Role_%E2%80%93_Male
+2023,Anil Kapoor,Jugjugg Jeeyo,False,2023 | Anil Kapoor | Jugjugg Jeeyo,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Actor_in_a_Supporting_Role_%E2%80%93_Male
+2024,Anil Kapoor,Animal,False,2024 | Anil Kapoor | Animal,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Actor_in_a_Supporting_Role_%E2%80%93_Male
+2025,Ravi Kishan,Laapataa Ladies,False,2025 | Ravi Kishan | Laapataa Ladies,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Actor_in_a_Supporting_Role_%E2%80%93_Male
+2026,Vineet Kumar Singh,Chhaava,False,2026 | Vineet Kumar Singh | Chhaava,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Actor_in_a_Supporting_Role_%E2%80%93_Male

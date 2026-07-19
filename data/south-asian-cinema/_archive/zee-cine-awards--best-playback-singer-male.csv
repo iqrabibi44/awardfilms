@@ -1,0 +1,160 @@
+year,film,person,is_winner,raw_text,source_url
+,Arijit Singh,7,False,Most awards | Arijit Singh | 7,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+,16,,False,Most nominations | 16,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+,Shafqat Amanat Ali,4,False,Most nominations without ever winning | Shafqat Amanat Ali | 4,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+,Arijit Singh,3,False,"Most nominations in a single year | Arijit Singh | 3 (2016, 2018)",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+,3 & 4,,False,"Most consecutive awards | 3 (2014, 2016, 2017) & 4 (2019, 2023, 2024, 2025) [ 2 ]",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+,16,,False,Most consecutive nominations | 16 (2014-2025) [ 3 ],https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+,Udit Narayan,45,False,Oldest winner | Udit Narayan | 45 (2000),https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+,Sonu Nigam,25,False,Youngest winner | Sonu Nigam | 25 (1998),https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+,7,"2014, 2016, 2017, 2020, 2023, 2024, 2025",False,"Arijit Singh | 7 | 2014, 2016, 2017, 2020, 2023, 2024, 2025",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+,4,"1998, 2002, 2003, 2013",False,"Sonu Nigam | 4 | 1998, 2002, 2003, 2013",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+,3,"2004, 2007, 2008 2011, 2012, 2016",False,"Shaan Mohit Chauhan | 3 | 2004, 2007, 2008 2011, 2012, 2016",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+1998,1998,,True,1998,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+1998,Sandese Aate Hai,Border,True,Sonu Nigam | Sandese Aate Hai | Border,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+1998,Meri Mehbooba,Pardes,False,Kumar Sanu | Meri Mehbooba | Pardes,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+1998,Bholi Si Surat,Dil To Pagal Hai,False,Udit Narayan | Bholi Si Surat | Dil To Pagal Hai,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+1999,1999,,True,1999,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+1999,Chaiyya Chaiyya,Dil Se..,True,Sukhwinder Singh | Chaiyya Chaiyya | Dil Se..,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+1999,Kuch Kuch Hota Hai,Kuch Kuch Hota Hai,False,Udit Narayan | Kuch Kuch Hota Hai | Kuch Kuch Hota Hai,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+1999,Ae Ajnabi,Dil Se..,False,Udit Narayan | Ae Ajnabi | Dil Se..,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+1999,Aati Kya Khandala,Ghulam,False,Aamir Khan | Aati Kya Khandala | Ghulam,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+1999,O O Jaane Jaana,Pyaar Kiya To Darna Kya,False,Kamaal Khan | O O Jaane Jaana | Pyaar Kiya To Darna Kya,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2000,2000,,True,2000,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2000,Chand Chupa Badal Mein,Hum Dil De Chuke Sanam,True,Udit Narayan | Chand Chupa Badal Mein | Hum Dil De Chuke Sanam,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2000,Taal Se Taal,Taal,False,Udit Narayan | Taal Se Taal | Taal,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2000,Ishq Bina,Taal,False,"Sonu Nigam , A.R. Rahman | Ishq Bina | Taal",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2000,Biwi No.1,Biwi No.1,False,Abhijeet | Biwi No.1 | Biwi No.1,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2000,Zindagi Maut Na Ban Jaye,Sarfarosh,False,"Roop Kumar Rathod , Sonu Nigam | Zindagi Maut Na Ban Jaye | Sarfarosh",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2001,2001,,True,2001,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2001,Na Tum Jaano,Kaho Naa... Pyaar Hai,True,Lucky Ali | Na Tum Jaano | Kaho Naa... Pyaar Hai,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2001,Tum Dil Ki Dhadkan Mein,Dhadkan,False,Abhijeet Bhattacharya | Tum Dil Ki Dhadkan Mein | Dhadkan,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2001,Panchi Nadiya Pawan Ke,Refugee,False,Sonu Nigam | Panchi Nadiya Pawan Ke | Refugee,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2001,Humko Humise Chura Lo,Mohabbatein,False,Udit Narayan | Humko Humise Chura Lo | Mohabbatein,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2001,Dil Ne Yeh Kaha Hain Dil Se,Dhadkan,False,"Udit Narayan , Kumar Sanu | Dil Ne Yeh Kaha Hain Dil Se | Dhadkan",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2002,2002,,True,2002,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2002,Suraj Hua Maddham,Kabhi Khushi Kabhie Gham,True,Sonu Nigam | Suraj Hua Maddham | Kabhi Khushi Kabhie Gham,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2002,Roshni Se,Aśoka,False,Abhijeet Bhattacharya | Roshni Se | Aśoka,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2002,Dil Chahta Hai,Dil Chahta Hai,False,Shankar Mahadevan | Dil Chahta Hai | Dil Chahta Hai,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2002,Tanhayee,,False,Sonu Nigam | Tanhayee,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2002,Mitwa,Lagaan,False,Udit Narayan | Mitwa | Lagaan,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2003,2003,,True,2003,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2003,Saathiya,Saathiya,True,Sonu Nigam | Saathiya | Saathiya,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2003,Nikamma Kiya Is Dil Ne,Kyaa Dil Ne Kahaa,False,Shaan | Nikamma Kiya Is Dil Ne | Kyaa Dil Ne Kahaa,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2003,Mere Rang De Basanti,The Legend Of Bhagat Singh,False,"Sonu Nigam , Manmohan Waris | Mere Rang De Basanti | The Legend Of Bhagat Singh",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2003,Des Mere Des,The Legend Of Bhagat Singh,False,"Sukhwinder Singh , A. R. Rahman | Des Mere Des | The Legend Of Bhagat Singh",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2003,Aap Mujhe Achche Lagne Lage,Aap Mujhe Achche Lagne Lage,False,Abhijeet Bhattacharya | Aap Mujhe Achche Lagne Lage | Aap Mujhe Achche Lagne Lage,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2004,2004,,True,2004,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2004,Suno Na,Jhankaar Beats,True,Shaan | Suno Na | Jhankaar Beats,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2004,Tauba Tumhare Yeh Ishaare,Chalte Chalte,False,Abhijeet Bhattacharya | Tauba Tumhare Yeh Ishaare | Chalte Chalte,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2004,Kal Ho Naa Ho,Kal Ho Naa Ho,False,Sonu Nigam | Kal Ho Naa Ho | Kal Ho Naa Ho,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2004,Meri Makhna,Baghban,False,Sudesh Bhosale | Meri Makhna | Baghban,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2004,Tere Naam,Tere Naam,False,Udit Narayan | Tere Naam | Tere Naam,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2005,2005,,True,2005,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2005,Bheege Hont Tere,Murder,True,Kunal Ganjawala | Bheege Hont Tere | Murder,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2005,Yeh Jo Des Hai Tera,Swades,False,A. R. Rahman | Yeh Jo Des Hai Tera | Swades,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2005,Main Yahaan H,Veer-Zaara,False,Udit Narayan | Main Yahaan H | Veer-Zaara,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2005,Wada Raha,Khakee,False,Arnab Chakravorty | Wada Raha (I) | Khakee,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2005,Main Hoon Na,Main Hoon Na,False,Sonu Nigam | Main Hoon Na | Main Hoon Na,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2006,2006,,True,2006,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2006,Aashiq Banaya Aapne,Aashiq Banaya Aapne,True,Himesh Reshammiya | Aashiq Banaya Aapne | Aashiq Banaya Aapne,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2006,Dheere Jalna,Paheli,False,Sonu Nigam | Dheere Jalna | Paheli,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2006,Piyu Bole,Parineeta,False,Sonu Nigam | Piyu Bole | Parineeta,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2006,Dus Bahane,Dus,False,"KK , Shaan | Dus Bahane | Dus",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2006,Woh Lamhe,Zeher,False,Atif Aslam | Woh Lamhe | Zeher,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2006,Jiya Dhadak Dhadak Jaye,Kalyug,False,Rahat Fateh Ali Khan | Jiya Dhadak Dhadak Jaye | Kalyug,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2007,2007,,True,2007,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2007,Chand Sifarish,Fanaa,True,Shaan | Chand Sifarish | Fanaa,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2007,Tu Hi Meri Shab Hai,Gangster,False,KK | Tu Hi Meri Shab Hai | Gangster,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2007,Mitwa,Kabhi Alvida Naa Kehna,False,Shafqat Amanat Ali | Mitwa | Kabhi Alvida Naa Kehna,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2007,Kabhi Alvida Naa Kehna,,False,Sonu Nigam | Kabhi Alvida Naa Kehna,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2007,Ya Ali,Gangster,False,Zubeen Garg | Ya Ali | Gangster,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2008,2008,,True,2008,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2008,Jab Se Tere Naina,Saawariya,True,Shaan | Jab Se Tere Naina | Saawariya,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2008,Main Agar Kahoon,Om Shanti Om,False,Sonu Nigam | Main Agar Kahoon | Om Shanti Om,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2008,Ajab Si,Om Shanti Om,False,KK | Ajab Si | Om Shanti Om,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2008,In Dino,Life in a... Metro,False,Soham Chakrabarty | In Dino | Life in a... Metro,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2008,Chak De! India,Chak De! India,False,"Sukhwinder Singh , Salim–Sulaiman , Marianne D'Cruz | Chak De! India | Chak De! India",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2009,NO CEREMONY,,True,2009 | NO CEREMONY,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2010,NO CEREMONY,,True,2010 | NO CEREMONY,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2011,2011,,True,2011,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2011,Pee Loon,Once Upon a Time in Mumbaai,True,Mohit Chauhan | Pee Loon | Once Upon a Time in Mumbaai,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2011,Zor Ka Jhatka,Action Replayy,False,Daler Mehndi | Zor Ka Jhatka | Action Replayy,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2011,Tere Mast,Dabangg,False,Rahat Fateh Ali Khan | Tere Mast | Dabangg,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2011,Bin Tere,I Hate Luv Storys,False,Shafqat Amanat Ali | Bin Tere | I Hate Luv Storys,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2011,My Name Is Khan,,False,Tere Naina | My Name Is Khan,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2011,Tees Maar Khan,Tees Maar Khan,False,Sonu Nigam | Tees Maar Khan | Tees Maar Khan,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2012,2012,,True,2012,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2012,Jo Bhi Main,Rockstar,True,Mohit Chauhan | Jo Bhi Main | Rockstar,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2012,Chammak Challo,Ra.One,False,Akon | Chammak Challo | Ra.One,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2012,Oh La La,The Dirty Picture,False,Bappi Lahiri | Oh La La | The Dirty Picture,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2012,Dhinka Chika,Ready,False,Mika Singh | Dhinka Chika | Ready,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2012,Sadda Haq,Rockstar,False,Mohit Chauhan | Sadda Haq | Rockstar,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2012,Dildaara,Ra.One,False,Shafqat Amanat Ali | Dildaara | Ra.One,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2013,2013,,True,2013,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2013,Abhi Mujh Mein Kahin,Agneepath,True,Sonu Nigam | Abhi Mujh Mein Kahin | Agneepath,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2013,Ishaqzaade,Ishaqzaade,False,Javed Ali | Ishaqzaade | Ishaqzaade,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2013,Chinta Ta Ta Chita Chita,Rowdy Rathore,False,Mika Singh & Wajid Khan | Chinta Ta Ta Chita Chita | Rowdy Rathore,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2013,Ala Barfi,Barfi!,False,Mohit Chauhan | Ala Barfi | Barfi!,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2013,Challa,Jab Tak Hai Jaan,False,Rabbi Shergill | Challa | Jab Tak Hai Jaan,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2013,Tu Hi Mera,Jannat 2,False,Shafqat Amanat Ali | Tu Hi Mera | Jannat 2,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2014,2014,,True,2014,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2014,Tum Hi Ho,Aashiqui 2,True,Arijit Singh | Tum Hi Ho | Aashiqui 2,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2014,Tera Rastaa Chhodoon Na,Chennai Express,False,Amitabh Bhattacharya | Tera Rastaa Chhodoon Na | Chennai Express,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2014,Jeene Laga Hoon,Ramaiya Vastavaiya,False,Atif Aslam | Jeene Laga Hoon | Ramaiya Vastavaiya,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2014,Zinda,Bhaag Milkha Bhaag,False,Siddharth Mahadevan | Zinda | Bhaag Milkha Bhaag,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2014,Badtameez Dil,Yeh Jawaani Hai Deewani,False,Benny Dayal | Badtameez Dil | Yeh Jawaani Hai Deewani,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2014,Lungi Dance,Chennai Express,False,Yo Yo Honey Singh | Lungi Dance | Chennai Express,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2015,2015,,True,2015,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2015,Muskurane,CityLights,True,Arijit Singh | Muskurane | CityLights,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2015,Sunny Sunny,Yaariyan,False,Yo Yo Honey Singh | Sunny Sunny | Yaariyan,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2015,Gaaliyan,Ek Villain,False,Ankit Tiwari | Gaaliyan | Ek Villain,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2015,India Waale,Happy New Year,False,KK | India Waale | Happy New Year,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2015,Whistle Baja,Heropanti,False,Manj Musik | Whistle Baja | Heropanti,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2016,2016,,True,2016 [ 4 ],https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2016,Sooraj Dooba Hain,Roy,True,Arijit Singh | Sooraj Dooba Hain | Roy,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2016,Matargashti,Tamasha,True,Mohit Chauhan | Matargashti | Tamasha,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2016,Gerua,Dilwale,False,Arijit Singh | Gerua | Dilwale,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2016,Moh Moh Ke Dhaage,Dum Laga Ke Haisha,False,Papon | Moh Moh Ke Dhaage | Dum Laga Ke Haisha,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2016,Malhari,Bajirao Mastani,False,Vishal Dadlani | Malhari | Bajirao Mastani,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2017,2017,,True,2017,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2017,Ae Dil Hai Mushkil,Ae Dil Hai Mushkil,True,Arijit Singh | Ae Dil Hai Mushkil | Ae Dil Hai Mushkil,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2017,Alizeh,Ae Dil Hai Mushkil,False,Arijit Singh | Alizeh | Ae Dil Hai Mushkil,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2017,Channa Mereya,,False,Channa Mereya,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2017,Bulleya,,False,Amit Mishra | Bulleya,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2017,Jag Ghoomeya,Sultan,False,Rahat Fateh Ali Khan | Jag Ghoomeya | Sultan,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2017,Sultan,,False,Sukhwinder Singh | Sultan,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2018,2018,,True,2018,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2018,Humsafar,Badrinath Ki Dulhania,True,Akhil Sachdeva | Humsafar | Badrinath Ki Dulhania,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2018,Hawayein,Jab Harry Met Sejal,False,Arijit Singh | Hawayein | Jab Harry Met Sejal,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2018,Half Girlfriend,,False,Phir Bhi Tumko Chaahunga | Half Girlfriend,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2018,Raees,,False,Zaalima | Raees,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2018,Baarish,Half Girlfriend,False,Ash King | Baarish | Half Girlfriend,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2018,Nazm Nazm,Bareilly Ki Barfi,False,Arko Pravo Mukherjee | Nazm Nazm | Bareilly Ki Barfi,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2019,2019,,True,2019,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2019,Naino Ne Baandhi,Gold,True,Yaseer Desai | Naino Ne Baandhi | Gold,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2019,Ae Watan,Raazi,False,Arijit Singh | Ae Watan | Raazi,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2019,Mere Naam Tu,Zero,False,Abhay Jodhpurkar | Mere Naam Tu | Zero,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2019,Dhadak,Dhadak,False,Ajay Gogavale | Dhadak | Dhadak,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2019,Chogada,Loveyatri,False,Darshan Raval | Chogada | Loveyatri,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2019,Kar Har Maidaan Fateh,Sanju,False,Sukhwinder Singh | Kar Har Maidaan Fateh | Sanju,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2020,2020,,True,2020,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2020,Kalank,Kalank,True,Arijit Singh | Kalank | Kalank,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2020,Ve Maahi,Kesari,False,Arijit Singh | Ve Maahi | Kesari,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2020,Teri Mitti,,False,B Praak | Teri Mitti,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2020,Slow Motion,Bharat,False,Nakash Aziz | Slow Motion | Bharat,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2020,Bekhayali,Kabir Singh,False,Sachet Tandon | Bekhayali | Kabir Singh,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2020,Kaise Hua,,False,Vishal Mishra | Kaise Hua,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2021,NO CEREMONY,,True,2021 | NO CEREMONY,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2022,NO CEREMONY,,True,2022 | NO CEREMONY,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2023,2023,,True,2023,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2023,Kesariya,Brahmāstra: Part One – Shiva,True,Arijit Singh | Kesariya | Brahmāstra: Part One – Shiva,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2023,Maiyya Mainu,Jersey,False,"Sachet Tandon | ""Maiyya Mainu"" | Jersey",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2023,Main Ki Karaan,Laal Singh Chaddha,False,"Sonu Nigam | ""Main Ki Karaan"" | Laal Singh Chaddha",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2023,Kahani,,False,"Mohan Kannan | ""Kahani""",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2023,Apna Bana Le,Bhediya,False,"Arijit Singh | ""Apna Bana Le"" | Bhediya",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2023,Tere Saath Hoon Main,Raksha Bandhan,False,"Nihal Tauro | ""Tere Saath Hoon Main"" | Raksha Bandhan",https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2024,2024,,True,2024,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2024,Jhoome Jo Pathaan,Pathaan,True,Arijit Singh | Jhoome Jo Pathaan | Pathaan,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2025,Arijit Singh,Sajni,True,2025 | Arijit Singh | Sajni | Laapataa Ladies,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male
+2026,Faheem Abdhullah,Saiyaara title song,True,2026 | Faheem Abdhullah | Saiyaara title song | Saiyaara,https://en.wikipedia.org/wiki/Zee_Cine_Award_for_Best_Playback_Singer_%E2%80%93_Male

@@ -1,0 +1,67 @@
+year,film,person,is_winner,raw_text,source_url
+,Indicates the year in which the film was censored by the Central Board of Film Certification,,False,Year | Indicates the year in which the film was censored by the Central Board of Film Certification (CBFC),https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+,Indicates a joint award for that year,,False,† | Indicates a joint award for that year,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+,Indicates that the winner won the award for two performances in that year,,False,‡ | Indicates that the winner won the award for two performances in that year,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+1967,Nargis Dutt,Varuna / Peggy,False,1967 (15th) | Nargis Dutt | Varuna / Peggy [ c ] | Raat Aur Din | Hindi | [ 13 ] [ 14 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+1968,Sharada,Vijaya,False,1968 (16th) | Sharada | Vijaya | Thulabharam | Malayalam | [ 15 ] [ 16 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+1969,Madhabi Mukherjee,Supriya,False,1969 (17th) | Madhabi Mukherjee | Supriya | Dibratrir Kabya | Bengali | [ 17 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+1970,Rehana Sultan,Salma Ahmed,False,1970 (18th) | Rehana Sultan | Salma Ahmed | Dastak | Hindi | [ 17 ] [ 18 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+1971,Waheeda Rehman,Reshma,False,1971 (19th) | Waheeda Rehman | Reshma | Reshma Aur Shera | Hindi | [ 19 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+1972,Sharada,Sita,False,1972 (20th) | Sharada | Sita | Swayamvaram | Malayalam | [ 20 ] [ 21 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+1973,Nandini Bhaktavatsala,Kamali,False,1973 (21st) | Nandini Bhaktavatsala | Kamali | Kaadu | Kannada | [ 3 ] [ 22 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+1974,Shabana Azmi,Lakshmi,False,1974 (22nd) | Shabana Azmi | Lakshmi | Ankur | Hindi | [ 4 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+1975,Sharmila Tagore,"Chanda Thapa, Kajli",False,"1975 (23rd) | Sharmila Tagore | Chanda Thapa, Kajli [ d ] | Mausam | [ 24 ] [ 25 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+1976,Lakshmi,Ganga,False,1976 (24th) | Lakshmi | Ganga | Sila Nerangalil Sila Manithargal | Tamil | [ 26 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+1977,Smita Patil,Urvashi / Usha,False,1977 (25th) | Smita Patil | Urvashi / Usha [ e ] | Bhumika | Hindi | [ 27 ] [ 28 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+1978,Sharada,Bharathi,False,1978 (26th) | Sharada | Bharathi | Nimajjanam | Telugu | [ 29 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+1979,Shoba,Kuppamma,False,1979 (27th) | Shoba | Kuppamma | Pasi | Tamil | [ 30 ] [ 31 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+1980,Smita Patil,Amma,False,1980 (28th) | Smita Patil | Amma | Chakra | Hindi | [ 32 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+1981,Rekha,Amiran,False,1981 (29th) | Rekha | Amiran (Umrao Jaan) [ f ] | Umrao Jaan | Urdu | [ 34 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+1982,Shabana Azmi,Pooja Inder Malhotra,False,1982 (30th) | Shabana Azmi | Pooja Inder Malhotra | Arth | Hindi | [ 35 ] [ 36 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+1983,Jamini,Khandhar,False,1983 (31st) | Jamini | Khandhar | [ 37 ] [ 38 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+1984,Rama,Paar,False,1984 (32nd) | Rama | Paar | [ 39 ] [ 40 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+1985,Suhasini,Sindhu,False,1985 (33rd) | Suhasini | Sindhu | Sindhu Bhairavi | Tamil | [ 41 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+1986,Monisha Unni,Gouri,False,1986 (34th) | Monisha Unni | Gouri | Nakhakshathangal | Malayalam | [ 9 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+1987,Archana,Sudha,False,1987 (35th) | Archana | Sudha | Veedu | Tamil | [ 42 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+1988,Kamalakshi,Daasi,False,1988 (36th) | Kamalakshi | Daasi | Telugu | [ 43 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+1989,Sreelekha Mukherji,Lakkhi,False,1989 (37th) | Sreelekha Mukherji | Lakkhi | Parshuramer Kuthar | Bengali | [ 44 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+1990,Vijayashanti,Vyjayanthi,False,1990 (38th) | Vijayashanti | Vyjayanthi | Karthavyam | Telugu | [ 45 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+1991,Moloya Goswami,Ritu,False,1991 (39th) | Moloya Goswami | Ritu | Firingoti | Assamese | [ 46 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+1992,Dimple Kapadia,Shanichari,False,1992 (40th) | Dimple Kapadia | Shanichari | Rudaali | Hindi | [ 47 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+1993,Shobana,Ganga / Nagavalli,False,1993 (41st) | Shobana | Ganga / Nagavalli [ g ] | Manichitrathazhu | Malayalam | [ 48 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+1994,Debashree Roy,Dr. Aditi Sen,False,1994 (42nd) | Debashree Roy | Dr. Aditi Sen | Unishe April | Bengali | [ 49 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+1995,Seema Biswas,Phoolan Devi,False,1995 (43rd) | Seema Biswas | Phoolan Devi | Bandit Queen | Hindi | [ 50 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+1996,Tabu,Virender Kaur,False,1996 (44th) | Tabu | Virender Kaur | Maachis | [ 51 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+1997,Indrani Haldar,Jhinuk,False,1997 (45th) † | Indrani Haldar | Jhinuk | Dahan | Bengali | [ 52 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+1997,Romita Chaudhury,,False,Rituparna Sengupta | Romita Chaudhury,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+1998,Shabana Azmi,Rambhi,False,1998 (46th) | Shabana Azmi | Rambhi [ h ] | Godmother | Hindi | [ 54 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+1999,Kirron Kher,Banalata,False,1999 (47th) | Kirron Kher | Banalata | Bariwali | Bengali | [ 55 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+2000,Raveena Tandon,Durga Saikia,False,2000 (48th) | Raveena Tandon | Durga Saikia | Daman: A Victim of Marital Violence | Hindi | [ 56 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+2001,Tabu,Mumtaz Ali Ansari,False,2001 (49th) † | Tabu | Mumtaz Ali Ansari | Chandni Bar | [ 57 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+2001,Lakshmi,"Mitr, My Friend",False,"Shobana | Lakshmi | Mitr, My Friend | English",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+2002,Konkona Sen Sharma,Meenakshi S. Iyer,False,2002 (50th) | Konkona Sen Sharma | Meenakshi S. Iyer | Mr. and Mrs. Iyer | [ 58 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+2003,Meera Jasmine,Shahina,False,2003 (51st) | Meera Jasmine | Shahina | Paadam Onnu: Oru Vilapam | Malayalam | [ 59 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+2004,Tara,Hasina,False,2004 (52nd) | Tara | Hasina | Hasina | Kannada | [ 60 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+2005,Sarika,Shernaz,False,2005 (53rd) | Sarika | Shernaz | Parzania | English | [ 61 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+2006,Priyamani,Muththazhagu,False,2006 (54th) | Priyamani | Muththazhagu | Paruthiveeran | Tamil | [ 62 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+2007,Umashree,Gulabi,False,2007 (55th) | Umashree | Gulabi | Gulabi Talkies | Kannada | [ 63 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+2008,Priyanka Chopra,Meghna Mathur,False,2008 (56th) | Priyanka Chopra | Meghna Mathur | Fashion | Hindi | [ 64 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+2009,Ananya Chatterjee,Shikha Sarkar,False,2009 (57th) | Ananya Chatterjee | Shikha Sarkar (Srimati Sarkar) [ i ] | Abohomaan | Bengali | [ 65 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+2010,Mitalee Jagtap Varadkar,Shirmi,False,2010 (58th) † | Mitalee Jagtap Varadkar | Shirmi | Baboo Band Baaja | Marathi | [ 66 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+2010,Veerayi,Thenmerku Paruvakaatru,False,Saranya Ponvannan | Veerayi | Thenmerku Paruvakaatru | Tamil,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+2011,Vidya Balan,Reshma,False,2011 (59th) | Vidya Balan | Reshma (Silk) [ j ] | The Dirty Picture | Hindi | [ 68 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+2012,Usha Jadhav,Yashoda,False,2012 (60th) | Usha Jadhav | Yashoda | Dhag | Marathi | [ 69 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+2013,Geetanjali Thapa,Kamala,False,2013 (61st) | Geetanjali Thapa | Kamala | Liar's Dice | Hindi | [ 70 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+2014,Kangana Ranaut,Rani Mehra,False,2014 (62nd) | Kangana Ranaut | Rani Mehra | Queen | [ 71 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+2015,"Tanuja ""Tanu"" Trivedi, Kusum ""Datto"" Sangwan",Tanu Weds Manu Returns,False,"2015 (63rd) | Tanuja ""Tanu"" Trivedi, Kusum ""Datto"" Sangwan [ k ] | Tanu Weds Manu Returns | [ 73 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+2016,Surabhi Lakshmi,Mother,False,2016 (64th) | Surabhi Lakshmi | Mother [ l ] | Minnaminungu – the Firefly | Malayalam | [ 74 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+2017,Sridevi,Devki Sabarwal,False,2017 (65th) | Sridevi [ m ] | Devki Sabarwal | Mom | Hindi | [ 76 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+2018,Keerthy Suresh,Savitri,False,2018 (66th) | Keerthy Suresh | Savitri [ n ] | Mahanati | Telugu | [ 78 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+2019,Kangana Ranaut,Rani Lakshmi Bai,False,2019 (67th) ‡ | Kangana Ranaut | Rani Lakshmi Bai [ 79 ] | Manikarnika: The Queen of Jhansi | Hindi | [ 79 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+2019,Panga,,False,Jaya Nigam | Panga,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+2020,Aparna Balamurali,"Sundari ""Bommi"" Nedumaaran",False,"2020 (68th) | Aparna Balamurali | Sundari ""Bommi"" Nedumaaran | Soorarai Pottru | Tamil | [ 80 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+2021,Alia Bhatt,Gangubai Kathiawadi,False,2021 (69th) † | Alia Bhatt | Gangubai Kathiawadi | Gangubai Kathiawadi | Hindi | [ 81 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+2021,Mimi Rathore,Mimi,False,Kriti Sanon | Mimi Rathore | Mimi,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+2022,Nithya Menen,Shobana,False,2022 (70th) † | Nithya Menen | Shobana | Thiruchitrambalam | Tamil | [ 82 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+2022,Monghi,Kutch Express,False,Manasi Parekh | Monghi | Kutch Express | Gujarati,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress
+2023,Rani Mukerji,Debika Chatterjee,False,2023 (71st) | Rani Mukerji | Debika Chatterjee | Mrs. Chatterjee vs Norway | Hindi | [ 83 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Actress

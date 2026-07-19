@@ -1,0 +1,12 @@
+year,film,person,is_winner,raw_text,source_url
+,Shaan Shahid,Waar,True,2013 (1st) | Shaan Shahid | Waar | Mujtaba | [ 2 ],https://en.wikipedia.org/wiki/ARY_Film_Award_for_Best_Actor
+,Main Hoon Shahid Afridi,Akbar,False,Humayun Saeed | Main Hoon Shahid Afridi | Akbar,https://en.wikipedia.org/wiki/ARY_Film_Award_for_Best_Actor
+,Lamha,Raza,False,Mohib Mirza | Lamha | Raza,https://en.wikipedia.org/wiki/ARY_Film_Award_for_Best_Actor
+,Ishq Khuda,Ahsan,False,Ahsan Khan | Ishq Khuda | Ahsan,https://en.wikipedia.org/wiki/ARY_Film_Award_for_Best_Actor
+,Zinda Bhaag,Khaldi,False,Khurram Patras | Zinda Bhaag | Khaldi,https://en.wikipedia.org/wiki/ARY_Film_Award_for_Best_Actor
+,Josh,Gulsher,False,Adnan Shah | Josh | Gulsher,https://en.wikipedia.org/wiki/ARY_Film_Award_for_Best_Actor
+,Humayun Saeed,Jawani Phir Nahi Ani,True,2015 (2nd) | Humayun Saeed | Jawani Phir Nahi Ani | Sherry | [ 3 ],https://en.wikipedia.org/wiki/ARY_Film_Award_for_Best_Actor
+,Wrong No.,Sallu/Shehryar,False,Danish Taimoor | Wrong No. | Sallu/Shehryar,https://en.wikipedia.org/wiki/ARY_Film_Award_for_Best_Actor
+,Manto,Manto,False,Sarmad Sultan Khoosat | Manto | Manto,https://en.wikipedia.org/wiki/ARY_Film_Award_for_Best_Actor
+,Moor,Wahid Khan,False,Hameed Sheikh | Moor | Wahid Khan,https://en.wikipedia.org/wiki/ARY_Film_Award_for_Best_Actor
+,Shah,Hussain Shah,False,Adnan Sarwar | Shah | Hussain Shah,https://en.wikipedia.org/wiki/ARY_Film_Award_for_Best_Actor

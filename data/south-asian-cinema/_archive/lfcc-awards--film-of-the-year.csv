@@ -1,0 +1,71 @@
+year,film,person,is_winner,raw_text,source_url
+1980,1980,,True,1980 (1st),https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1980,Francis Ford Coppola,Francis Ford Coppola,True,Apocalypse Now | Francis Ford Coppola | Francis Ford Coppola,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1981,1981,,True,1981 (2nd),https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1981,Hugh Hudson,David Puttnam,True,Chariots of Fire | Hugh Hudson | David Puttnam,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1982,1982,,True,1982 (3rd),https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1982,Costa-Gavras,"Edward Lewis , Mildred Lewis",True,"Missing | Costa-Gavras | Edward Lewis , Mildred Lewis",https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1983,1983,,True,1983 (4th),https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1983,Martin Scorsese,Arnon Milchan,True,The King of Comedy | Martin Scorsese | Arnon Milchan,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1984,1984,,True,1984 (5th),https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1984,Wim Wenders,Anatole Dauman and Don Guest,True,"Paris, Texas | Wim Wenders | Anatole Dauman and Don Guest",https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1985,1985,,True,1985 (6th),https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1985,Woody Allen,Robert Greenhut and Woody Allen,True,The Purple Rose of Cairo | Woody Allen | Robert Greenhut and Woody Allen,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1986,1986,,True,1986 (7th),https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1986,James Ivory,Ismail Merchant and James Ivory,True,A Room with a View | James Ivory | Ismail Merchant and James Ivory,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1987,1987,,True,1987 (8th),https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1987,John Boorman,John Boorman,True,Hope and Glory | John Boorman | John Boorman,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1988,1988,,True,1988 (9th),https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1988,David Mamet,Michael Hausman,True,House of Games | David Mamet | Michael Hausman,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1989,1989,,True,1989 (10th),https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1989,Terence Davies,Jennifer Howarth,True,"Distant Voices, Still Lives | Terence Davies | Jennifer Howarth",https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1990,1990,,True,1990 ( 11th ),https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1990,Woody Allen,Robert Greenhut,True,Crimes and Misdemeanors | Woody Allen | Robert Greenhut,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1991,1991,,True,1991 ( 12th ),https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1991,Ridley Scott,Mimi Polk Gitlin,True,Thelma & Louise | Ridley Scott | Mimi Polk Gitlin,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1992,1992,,True,1992 ( 13th ),https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1992,Clint Eastwood,Clint Eastwood,True,Unforgiven | Clint Eastwood | Clint Eastwood,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1993,1993,,True,1993 ( 14th ),https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1993,Jane Campion,Jan Chapman,True,The Piano | Jane Campion | Jan Chapman,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1994,1994,,True,1994 ( 15th ),https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1994,Steven Spielberg,"Branko Lustig , Gerald R. Molen , Steven Spielberg",True,"Schindler's List | Steven Spielberg | Branko Lustig , Gerald R. Molen , Steven Spielberg",https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1995,1995,,True,1995 ( 16th ),https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1995,Chris Noonan,"Bill Miller , George Miller and Doug Mitchell",True,"Babe | Chris Noonan | Bill Miller , George Miller and Doug Mitchell",https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1996,1996,,True,1996 ( 17th ),https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1996,Joel Coen,Ethan Coen,True,Fargo | Joel Coen | Ethan Coen,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1997,1997,,True,1997 ( 18th ),https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1997,Curtis Hanson,"Curtis Hanson , Arnon Milchan and Michael Nathanson",True,"L.A. Confidential | Curtis Hanson | Curtis Hanson , Arnon Milchan and Michael Nathanson",https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1998,1998,,True,1998 ( 19th ),https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1998,Steven Spielberg,"Ian Bryce , Mark Gordon , Gary Levinsohn and Steven Spielberg",True,"Saving Private Ryan | Steven Spielberg | Ian Bryce , Mark Gordon , Gary Levinsohn and Steven Spielberg",https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1998,Paul Thomas Anderson,"Paul Thomas Anderson , Lloyd Levin , John Lyons and JoAnne Sellar",False,"Boogie Nights | Paul Thomas Anderson | Paul Thomas Anderson , Lloyd Levin , John Lyons and JoAnne Sellar",https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1998,James Cameron,James Cameron and Jon Landau,False,Titanic | James Cameron | James Cameron and Jon Landau,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1998,Ang Lee,"Ang Lee , Ted Hope and James Schamus",False,"The Ice Storm | Ang Lee | Ang Lee , Ted Hope and James Schamus",https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1998,Peter Weir,"Scott Rudin , Andrew Niccol , Edward S. Feldman and Adam Schroeder",False,"The Truman Show | Peter Weir | Scott Rudin , Andrew Niccol , Edward S. Feldman and Adam Schroeder",https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1999,1999,,True,1999 ( 20th ),https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+1999,Sam Mendes,Bruce Cohen and Dan Jinks,True,American Beauty | Sam Mendes | Bruce Cohen and Dan Jinks,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+,Being John Malkovich,Spike Jonze,False,0 0 2000 ( 21st ) | Being John Malkovich | Spike Jonze,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+,Moulin Rouge!,Baz Luhrmann,False,0 0 2001 ( 22nd ) | Moulin Rouge! | Baz Luhrmann,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+,About Schmidt,Alexander Payne,False,0 0 2002 ( 23rd ) | About Schmidt | Alexander Payne,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+,Master and Commander: The Far Side of the World,Peter Weir,False,0 0 2003 ( 24th ) | Master and Commander: The Far Side of the World | Peter Weir,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+,Sideways,Alexander Payne,False,0 0 2004 ( 25th ) | Sideways | Alexander Payne (2),https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+,Brokeback Mountain,Ang Lee,False,0 0 2005 ( 26th ) | Brokeback Mountain | Ang Lee,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+,United 93,Paul Greengrass,False,0 0 2006 ( 27th ) | United 93 | Paul Greengrass,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+,No Country for Old Men,Joel and Ethan Coen,False,0 0 2007 ( 28th ) | No Country for Old Men | Joel and Ethan Coen (2),https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+,The Wrestler,Darren Aronofsky,False,0 0 2008 ( 29th ) | The Wrestler | Darren Aronofsky,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+,A Prophet,Jacques Audiard,False,0 0 2009 ( 30th ) | A Prophet | Jacques Audiard,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+,The Social Network,David Fincher,False,0 0 2010 ( 31st ) | The Social Network | David Fincher,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+,The Artist,Michel Hazanavicius,False,0 0 2011 ( 32nd ) | The Artist | Michel Hazanavicius,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+,Amour,Michael Haneke,False,0 0 2012 ( 33rd ) | Amour | Michael Haneke,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+,12 Years a Slave,Steve McQueen,False,0 0 2013 ( 34th ) | 12 Years a Slave | Steve McQueen,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+,Boyhood,Richard Linklater,False,0 0 2014 ( 35th ) | Boyhood | Richard Linklater,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+,Mad Max: Fury Road,George Miller,False,0 0 2015 ( 36th ) | Mad Max: Fury Road | George Miller,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+,La La Land,Damien Chazelle,False,0 0 2016 ( 37th ) | La La Land | Damien Chazelle,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+,"Three Billboards Outside Ebbing, Missouri",Martin McDonagh,False,"0 0 2017 ( 38th ) | Three Billboards Outside Ebbing, Missouri | Martin McDonagh",https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+,Roma,Alfonso Cuarón,False,0 0 2018 ( 39th ) | Roma | Alfonso Cuarón,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+,Parasite,Bong Joon-ho,False,0 0 2019 ( 40th ) | Parasite | Bong Joon-ho,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+,Nomadland,Chloé Zhao,False,0 0 2020 ( 41st ) | Nomadland | Chloé Zhao,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+,The Power of the Dog,Jane Campion,False,0 0 2021 ( 42nd ) | The Power of the Dog | Jane Campion (2),https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+,Tár,Todd Field,False,0 0 2022 ( 43rd ) | Tár | Todd Field,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+,The Zone of Interest,Jonathan Glazer,False,0 0 2023 ( 44th ) | The Zone of Interest | Jonathan Glazer,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+,The Brutalist,Brady Corbet,False,0 0 2024 ( 45th ) | The Brutalist | Brady Corbet,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year
+,One Battle After Another,Paul Thomas Anderson,False,0 0 2025 ( 46th ) | One Battle After Another | Paul Thomas Anderson,https://en.wikipedia.org/wiki/London_Film_Critics%27_Circle_Award_for_Film_of_the_Year

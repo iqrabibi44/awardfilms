@@ -1,0 +1,96 @@
+year,film,person,is_winner,raw_text,source_url
+,Shreya Ghoshal,8,False,Most awards | Shreya Ghoshal | 8,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+,22,,False,Most nominations | 22,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+,3,,False,"Most awards in a decade | 3 (2000s, 2010s)",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+,4,,False,Most nominations in a year | 4 (2020),https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+,2,,False,Most consecutive awards | 2 (2011-2012),https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+,11,,False,Most consecutive nominations | 11 (2006-2014),https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+,8,"2004, 2006, 2008, 2011, 2012, 2014, 2020, 2026",False,"Shreya Ghoshal | 8 | 2004, 2006, 2008, 2011, 2012, 2014, 2020, 2026",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+,2,"1997, 2000",False,"Kavita Krishnamurthy | 2 | 1997, 2000",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+1996,"1996, 2001",,False,"1996, 2001",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2005,"2005, 2007",,False,"2005, 2007",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+1995,1995,,True,1995,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+1995,Mayi Ni Mayi,Hum Aapke Hain Koun..!,True,Lata Mangeshkar | Mayi Ni Mayi | Hum Aapke Hain Koun..!,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+1996,1996,,True,1996,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+1996,Dil Ne Dil Se,Haqeeqat,True,Alka Yagnik | Dil Ne Dil Se | Haqeeqat,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+1997,1997,,True,1997,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+1997,Aaj Main Upar,Khamoshi: The Musical,True,Kavita Krishnamurthy | Aaj Main Upar | Khamoshi: The Musical,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+1998,1998,,True,1998,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+1998,Paayale Chhun Mun,Virasat,True,K. S. Chithra | Paayale Chhun Mun | Virasat,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+1999,1999,,True,1999,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+1999,Pyaar To Hona Hi Tha,Pyaar To Hona Hi Tha,True,Jaspinder Narula | Pyaar To Hona Hi Tha | Pyaar To Hona Hi Tha,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2000,2000,,True,2000,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2000,Hum Dil De Chuke Sanam,Hum Dil De Chuke Sanam,True,Kavita Krishnamurthy | Hum Dil De Chuke Sanam | Hum Dil De Chuke Sanam,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2001,2001,,True,2001,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2001,Panchhi Nadiyan,Refugee,True,Alka Yagnik | Panchhi Nadiyan | Refugee,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2002,2002,,True,2002,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2002,Radha Kaise Na Jale,Lagaan,True,Asha Bhosle | Radha Kaise Na Jale | Lagaan,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2003,2003,,True,2003,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2003,Chupke Se,Saathiya,True,Sadhana Sargam | Chupke Se | Saathiya,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2004,2004,,True,2004,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2004,Jaadu Hai Nasha Hai,Jism,True,Shreya Ghoshal | Jaadu Hai Nasha Hai | Jism,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2005,2005,,True,2005,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2005,Sajna Ve Sajna,Chameli,True,Sunidhi Chauhan | Sajna Ve Sajna | Chameli,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2006,2006,,True,2006,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2006,Piyu Bole,Parineeta,True,Shreya Ghoshal | Piyu Bole | Parineeta,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2007,2007,,True,2007,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2007,Beedi,Omkara,True,Sunidhi Chauhan | Beedi | Omkara,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2007,O Saathi Re,Omkara,False,Shreya Ghoshal | O Saathi Re | Omkara,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2008,2008,,True,2008,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2008,Barso Re,Guru,True,Shreya Ghoshal | Barso Re | Guru,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2008,Yeh Ishq Haye,Jab We Met,False,Shreya Ghoshal | Yeh Ishq Haye | Jab We Met,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2009,2009,,True,2009,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2009,Khuda Jaane,Bachna Ae Haseeno,True,Shilpa Rao | Khuda Jaane | Bachna Ae Haseeno,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2009,Teri Ore,Singh Is Kinng,False,Shreya Ghoshal | Teri Ore | Singh Is Kinng,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2010,2010,,True,2010,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2010,Iktara,Wake Up Sid,True,Kavita Seth | Iktara | Wake Up Sid,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2010,Zoobi Doobi,3 Idiots,False,Shreya Ghoshal | Zoobi Doobi | 3 Idiots,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2011,2011,,True,2011,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2011,Munni Badnaam Hui,Dabangg,True,Mamta Sharma | Munni Badnaam Hui | Dabangg,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2011,Bahara,I Hate Luv Storys,True,Shreya Ghoshal | Bahara | I Hate Luv Storys,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2011,Noor-e-Khuda,My Name Is Khan,False,Shreya Ghoshal | Noor-e-Khuda | My Name Is Khan,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2012,2012,,True,2012,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2012,Ooh Laa La,The Dirty Picture,True,Shreya Ghoshal | Ooh Laa La | The Dirty Picture,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2013,2013,,True,2013,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2013,Pareshaan,Ishaqzaade,True,Shalmali Kholgade | Pareshaan | Ishaqzaade,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2013,Radha,Student of the Year,False,Shreya Ghoshal | Radha | Student of the Year,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2014,2014,,True,2014,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2014,Sunn Raha Hai,Aashiqui 2,True,Shreya Ghoshal | Sunn Raha Hai | Aashiqui 2,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2014,Titli,Chennai Express,False,Chinmayi Sripada | Titli | Chennai Express,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2014,Sawaar Loon,Lootera,False,Monali Thakur | Sawaar Loon | Lootera,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2014,Balam Pichkari,Yeh Jawaani Hai Deewani,False,Shalmali Kholgade | Balam Pichkari | Yeh Jawaani Hai Deewani,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2014,Ambarsariya,Fukrey,False,Sona Mohapatra | Ambarsariya | Fukrey,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2015,2015,,True,2015,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2015,Pathaka Guddi,Highway,True,Jyoti Nooran & Sultana Nooran | Pathaka Guddi | Highway,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2015,Yaar Na Miley,Kick,False,Jasmine Sandlas | Yaar Na Miley | Kick,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2015,Baby Doll,Ragini MMS 2,False,Kanika Kapoor | Baby Doll | Ragini MMS 2,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2015,Happy New Year,,False,Lovely | Happy New Year,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2015,Hamari Atariya Pe,Dedh Ishqiya,False,Rekha Bhardwaj | Hamari Atariya Pe | Dedh Ishqiya,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2016,2016,,True,2016,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2016,Moh Moh Ke Dhaage,Dum Laga Ke Haisha,True,Monali Thakur | Moh Moh Ke Dhaage | Dum Laga Ke Haisha,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2017,2017,,True,2017,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2017,Kaun Tujhe,M.S. Dhoni: The Untold Story,True,Palak Muchhal | Kaun Tujhe | M.S. Dhoni: The Untold Story,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2018,2018,,True,2018,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2018,Kanha,Shubh Mangal Saavdhan,True,Shashaa Tirupati | Kanha | Shubh Mangal Saavdhan,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2018,Thodi Der,Half Girlfriend,False,Shreya Ghoshal | Thodi Der | Half Girlfriend,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2019,2019,,True,2019,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2019,Chonch Ladhiyaan,Manmarziyaan,True,Harshdeep Kaur | Chonch Ladhiyaan | Manmarziyaan,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2019,Raazi,,True,Dilbaro | Raazi,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2019,Chaav Laaga,Sui Dhaaga,False,Ronkini Gupta | Chaav Laaga | Sui Dhaaga,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2019,Ghoomar,Padmaavat,False,Shreya Ghoshal | Ghoomar | Padmaavat,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2020,2020,,True,2020,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2020,Ghar More Pardesiya,Kalank,True,Shreya Ghoshal | Ghar More Pardesiya | Kalank,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2020,Vaishali Mhade,,True,Vaishali Mhade,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2020,Dil Hi Toh Hai,The Sky Is Pink,False,Antara Mitra | Dil Hi Toh Hai | The Sky Is Pink,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2020,Rajaji,Manikarnika: The Queen of Jhansi,False,Pratibha Singh Patel | Rajaji | Manikarnika: The Queen of Jhansi,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2020,Ghungroo,War,False,Shilpa Rao | Ghungroo | War,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2020,Sapna Hai Sach Hai,Panipat,False,Shreya Ghoshal | Sapna Hai Sach Hai | Panipat,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2020,Kalank,,False,Tabaah Ho Gaye | Kalank,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2020,Kabir Singh,,False,Yeh Aaina | Kabir Singh,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2026,2026,,True,2026,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2026,Saiyaara Title Track,Saiyaara,True,Shreya Ghoshal | Saiyaara Title Track | Saiyaara,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2026,Shararat,Dhurandhar,False,Jasmine Sandlas | Shararat | Dhurandhar,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2026,Madhubanti Bagchi,,False,Madhubanti Bagchi,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2026,Qayde Se,Metro… In Dino,False,Shreya Ghoshal | Qayde Se | Metro… In Dino,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2026,Barbaad,Saiyaara,False,Shilpa Rao | Barbaad | Saiyaara,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback
+2026,Humsafar,,False,Parampara Tandon | Humsafar,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Female_Playback

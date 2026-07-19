@@ -1,0 +1,216 @@
+year,film,person,is_winner,raw_text,source_url
+,Not awarded,,True,1983 1 | Not awarded | [ 1 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,No winner,,True,1984 2 | No winner [ a ] | [ 2 ] [ 3 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,The Scarecrow,Mostazafan Foundation 's West Azerbaijan Province branch,True,1985 3 | The Scarecrow [ a ] [ b ] | Mostazafan Foundation 's West Azerbaijan Province branch | [ 5 ] [ 6 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,No absolute winner,,True,1986 4 | No absolute winner [ a ] | [ 7 ] [ 8 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Farabi Cinema Foundation,,True,Frosty Roads [ a ] [ b ] | Farabi Cinema Foundation [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Peikar Company,,True,The Grandfather [ fa ] [ a ] [ b ] | Peikar Company,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Eifa Cinema Organization,,True,The Finish Line [ fa ] [ a ] [ b ] | Eifa Cinema Organization,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Ayat Film,,True,The Bus [ fa ] [ a ] [ b ] | Ayat Film,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,The Flight in the Night,Rasoul Mollagholipour,True,1987 5 | The Flight in the Night [ b ] | Rasoul Mollagholipour | [ 9 ] [ 10 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Alireza Zarrin,,False,Where Is the Friend's Home? | Alireza Zarrin [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Haroun Yashayaei and Mohammad-Ali Soltan-Zadeh,,False,Captain Khorshid | Haroun Yashayaei and Mohammad-Ali Soltan-Zadeh,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Haroun Yashayaei and Mohammad-Ali Soltan-Zadeh,,False,The Lodgers | Haroun Yashayaei and Mohammad-Ali Soltan-Zadeh,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Masoud Jafari Jozani and Alireza Shoja Nouri,,False,The Stony Lion [ fa ] | Masoud Jafari Jozani and Alireza Shoja Nouri,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,No winner,,True,1988 6 | No winner | [ 11 ] [ 12 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Eye of the Hurricane,Haroun Yashayaei,True,1989 7 | Eye of the Hurricane | Haroun Yashayaei | [ 13 ] [ 14 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Farabi Cinema Foundation,,False,The Scout | Farabi Cinema Foundation [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Aliakbar Erfani and Hassan Hedayat,,False,Grand Cinema | Aliakbar Erfani and Hassan Hedayat [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Saeed Ebrahimifar and Hossein Irie,,False,Pomegranate and Cane [ fa ] | Saeed Ebrahimifar [ fa ] and Hossein Irie [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Mostazafan Foundation 's Cinematic Affairs Institute,,False,The Cyclist | Mostazafan Foundation 's Cinematic Affairs Institute,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,The Immigrant,AIIPO,True,1990 8 | The Immigrant | AIIPO [ fa ] | [ 15 ] [ 16 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Dariush Mehrjui and Haroun Yashayaei,,False,Hamoun | Dariush Mehrjui and Haroun Yashayaei,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Alireza Zarrin,,False,Close-Up | Alireza Zarrin [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Seif-Ali Seyed-Kosarinejad,,False,Savalan [ fa ] | Seif-Ali Seyed-Kosarinejad,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,"Ahmad Zahabzadeh , Abolfazl Entezari , Ali Sepaseh and Sha'ban-Ali Eslami",,False,"The Seeker [ fa ] | Ahmad Zahabzadeh , Abolfazl Entezari , Ali Sepaseh and Sha'ban-Ali Eslami",https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Apartment No.13,Yadollah Samadi and Hamrah Filmmaking Group,True,1991 9 | Apartment No.13 | Yadollah Samadi and Hamrah Filmmaking Group | [ 17 ] [ 18 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Gholamreza Moayeri and CSCIFI,,False,"One Ticket, Two Movies! [ fa ] | Gholamreza Moayeri and CSCIFI",https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,The Need,Alireza Davoodnejad and Ali Vajed-Samii,True,1992 10 | The Need [ fa ] | Alireza Davoodnejad and Ali Vajed-Samii [ fa ] | [ 19 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,"Bahram Beyzai , Khosrow Khosravi , Majid Roudiani and Abbas Sheikhzadeh",,False,"Travellers [ fa ] | Bahram Beyzai , Khosrow Khosravi , Majid Roudiani and Abbas Sheikhzadeh",https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Rakhshan Bani-Etemad and Arman Film,,False,Nargess | Rakhshan Bani-Etemad and Arman Film,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Masoud Jafari Jozani and Mohammad-Mehdi Dadgoo,,False,"Once Upon a Time, Cinema | Masoud Jafari Jozani and Mohammad-Mehdi Dadgoo [ fa ]",https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,From Karkheh to Rhein,Sina Film,True,1993 11 | From Karkheh to Rhein | Sina Film | [ 20 ] [ 21 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Majid Modarresi,,False,Once for Ever [ fa ] | Majid Modarresi [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Dariush Mehrjui and Hashem Seifi,,False,Sara | Dariush Mehrjui and Hashem Seifi,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,IRIB TV1,,False,Shame [ fa ] | IRIB TV1,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,IRIB TV2 and CYALAH,,False,Shadows of Assault [ fa ] | IRIB TV2 and CYALAH,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,No winner,,True,1994 12 | No winner | [ 22 ] [ 23 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,The Fateful Day,Farabi Cinema Foundation,True,1995 13 | The Fateful Day | Farabi Cinema Foundation [ fa ] | [ 24 ] [ 25 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Pakhshiran,,False,Kimia [ fa ] | Pakhshiran,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,"Dariush Mehrjui , Amir-Hossein Sharifi and Hashem Seifi",,False,"Pari | Dariush Mehrjui , Amir-Hossein Sharifi [ fa ] and Hashem Seifi",https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,"Alireza Davoodnejad , Mahvash Jazayeri and Farabi Cinema Foundation",,False,"The Disarmament [ fa ] | Alireza Davoodnejad , Mahvash Jazayeri and Farabi Cinema Foundation [ fa ]",https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Majid Modarresi and Fariborz Pourmand,,False,The Blue-Veiled | Majid Modarresi [ fa ] and Fariborz Pourmand,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,The Father,Documentary and Experimental Film Center,True,1996 14 | The Father | Documentary and Experimental Film Center [ fa ] | [ 26 ] [ 27 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Kiumars Pourahmad and Soureh Cinema Development Organization,,False,Strange Sisters | Kiumars Pourahmad and Soureh Cinema Development Organization [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Mostazafan Foundation 's Cinematic Affairs Institute,,False,The Red Circle [ fa ] | Mostazafan Foundation 's Cinematic Affairs Institute,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Khalil Doroudchi and Khalil Mahmoudi,,False,Gabbeh | Khalil Doroudchi and Khalil Mahmoudi,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,"Manouchehr Mohammadi , Manouchehr Asgarinasab and Seifollah Dad",,False,"The Survivor | Manouchehr Mohammadi , Manouchehr Asgarinasab [ fa ] and Seifollah Dad",https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Children of Heaven,IIDCYA,True,1997 15 | Children of Heaven | IIDCYA | [ 28 ] [ 29 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Farabi Cinema Foundation,,False,Land of the Sun [ fa ] | Farabi Cinema Foundation [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,"Dariush Mehrjui , Faramarz Farazmand",,False,"Leila | Dariush Mehrjui , Faramarz Farazmand [ fa ]",https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Kourosh Mazkouri and IRIB TV2,,False,The Traveller from the South [ fa ] | Kourosh Mazkouri and IRIB TV2,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,The Glass Agency,Varahonar and Farabi Cinema Foundation,True,1998 16 | The Glass Agency | Varahonar and Farabi Cinema Foundation [ fa ] | [ 30 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Mohammadreza Sarhangi and IRIB TV2,,False,The Tree of Life [ fa ] | Mohammadreza Sarhangi [ fa ] and IRIB TV2,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,"Dariush Mehrjui , Faramarz Farazmand and Farabi Cinema Foundation",,False,"The Pear Tree | Dariush Mehrjui , Faramarz Farazmand [ fa ] and Farabi Cinema Foundation [ fa ]",https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Alireza Raisian and Jahangir Kosari,,False,The May Lady [ fa ] | Alireza Raisian [ fa ] and Jahangir Kosari [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,SimaFilm,,False,Birth of A Butterfly [ fa ] | SimaFilm,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Heeva,Negin Film and Soureh Cinema Development Organization,True,1999 17 | Heeva [ fa ] | Negin Film and Soureh Cinema Development Organization [ fa ] | [ 31 ] [ 32 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Varahonar,,False,The Color of Paradise | Varahonar,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Arman Film and Arta Film,,False,Two Women | Arman Film and Arta Film,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Fereshteh Taerpoor,,False,Son of Maryam | Fereshteh Taerpoor,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Gholamreza Mousavi and Habib Esmaeili,,False,Red [ fa ] | Gholamreza Mousavi [ fa ] and Habib Esmaeili [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Alireza Davoodnejad and Ali Vajed-Samii,,False,Sweet Agony [ fa ] | Alireza Davoodnejad and Ali Vajed-Samii [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,"Smell of Camphor, Scent of Jasmine",Morteza Shayesteh,True,"2000 18 | Smell of Camphor, Scent of Jasmine | Morteza Shayesteh [ fa ] | [ 33 ] [ 34 ]",https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Masoud Kimiai,,False,Protest [ fa ] | Masoud Kimiai,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Abolhassan Davoudi,,False,Rain Man [ fa ] | Abolhassan Davoudi [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Tamasha Cultural Institute and Soureh Cinema Development Organization,,False,Born Under Libra [ fa ] | Tamasha Cultural Institute and Soureh Cinema Development Organization [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,"Masoud Jafari Jozani , Fathollah Jafari Jozani and Abbas Haghighi",,False,"Maturity [ fa ] | Masoud Jafari Jozani , Fathollah Jafari Jozani and Abbas Haghighi [ fa ]",https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Baran,Majid Majidi and Fouad Nahas,True,2001 19 | Baran | Majid Majidi and Fouad Nahas | [ 35 ] [ 36 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Manouchehr Mohammadi,,False,Under the Moonlight | Manouchehr Mohammadi,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Bahram Beyzai,,False,Killing Mad Dogs | Bahram Beyzai,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Ali Vajed-Samii,,False,Paradise for you [ fa ] | Ali Vajed-Samii [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Namaadin,,False,End of the Game [ fa ] | Namaadin,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,A House Built on Water,Bahman Farmanara,True,2002 20 | A House Built on Water | Bahman Farmanara | [ 37 ] [ 38 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Rasul Sadr Ameli,,False,"I'm Taraneh, 15 | Rasul Sadr Ameli",https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Manouchehr Mohammadi,,False,Low Heights | Manouchehr Mohammadi,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,"Dariush Mehrjui , Tahmineh Milani and Mohammad Nikbin",,False,"To Stay Alive | Dariush Mehrjui , Tahmineh Milani and Mohammad Nikbin [ fa ]",https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Hassan Tavakkolnia,,False,Unruled Paper | Hassan Tavakkolnia,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Rasoul Mollagholipour,,False,The Poisonous Mushroom [ fa ] | Rasoul Mollagholipour,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,The Insane Flew Away,Mohammad-Reza Takht-Keshian,True,2003 21 | The Insane Flew Away [ fa ] | Mohammad-Reza Takht-Keshian [ fa ] | [ 39 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Alireza Shoja Nouri,,False,The Wind Carpet | Alireza Shoja Nouri,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Reza Mirkarimi,,False,"Here, A Shining Light [ fa ] | Reza Mirkarimi",https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Amir Samavati,,False,Deep Breath | Amir Samavati [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Mohammad Nikbin,,False,The Fifth Reaction | Mohammad Nikbin [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Mum's Guest,Dariush Mehrjui and SimaFilm,True,2004 22 | Mum's Guest | Dariush Mehrjui and SimaFilm | [ 40 ] [ 41 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Tamasha Cultural Institute,,False,Duel | Tamasha Cultural Institute,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Mahmoud Fallah,,False,Tradition of Lover Killing [ fa ] | Mahmoud Fallah,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Iraj Taghipour and Neshaneh Film Production,,False,The Beautiful City | Iraj Taghipour and Neshaneh Film Production,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,"Mohammad-Reza Takht-Keshian , IRIB TV1 and Farabi Cinema Foundation",,False,"Ghadamgah [ fa ] | Mohammad-Reza Takht-Keshian [ fa ] , IRIB TV1 and Farabi Cinema Foundation [ fa ]",https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,"So Close, So Far",Reza Mirkarimi,True,"2005 23 | So Close, So Far | Reza Mirkarimi | [ 42 ] [ 43 ]",https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Majid Majidi,,False,The Willow Tree | Majid Majidi,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Mohammad Khazaee,,False,Behind the Curtain of Fog [ fa ] | Mohammad Khazaee [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Hassan Beshkufeh,,False,A Place to Live [ fa ] | Hassan Beshkufeh,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Amir Samavati,,False,Café Transit | Amir Samavati [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Mohammad-Reza Takht-Keshian,,False,We Are All Fine [ fa ] | Mohammad-Reza Takht-Keshian [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,In the Name of the Father,Ebrahim Hatamikia,True,2006 24 | In the Name of the Father | Ebrahim Hatamikia | [ 44 ] [ 45 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Nasser Shafagh and Saeed Hajimiri,,False,The Incident [ fa ] | Nasser Shafagh [ fa ] and Saeed Hajimiri [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Jamal Sadatian,,False,Fireworks Wednesday | Jamal Sadatian,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Jahangir Kosari,,False,Friday Evening [ fa ] | Jahangir Kosari [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,The Third Day,Alireza Jalali,True,2007 25 | The Third Day | Alireza Jalali | [ 46 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Amir-Shahab Razavian,,False,Colors of Memory | Amir-Shahab Razavian,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Mehdi Homayounfar,,False,The Night Bus | Mehdi Homayounfar,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,As Simple as That,Reza Mirkarimi,True,2008 26 | As Simple as That | Reza Mirkarimi | [ 47 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Majid Majidi,,False,The Song of Sparrows | Majid Majidi,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Fathollah Jafari Jozani,,False,Wind Blows in the Meadow [ fa ] | Fathollah Jafari Jozani,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Doubt,Saeed Sa'di,True,2009 27 | Doubt | Saeed Sa'di [ fa ] | [ 48 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Pouran Derakhshandeh,,False,Twenty [ fa ] | Pouran Derakhshandeh,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Javad Norouzbeigi,,False,The Postman Doesn't Knock 3 Times [ fa ] | Javad Norouzbeigi [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Asghar Farhadi,,False,About Elly | Asghar Farhadi,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Abolhassan Davoudi,,False,Motherland [ fa ] | Abolhassan Davoudi [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Bahram Beyzai,,False,When We're All Asleep [ fa ] | Bahram Beyzai,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,In Amethyst Color,Jamal Sadatian,True,2010 28 | In Amethyst Color | Jamal Sadatian | [ 49 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Alireza Raisian,,False,Forty Years Old | Alireza Raisian [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Seyyed Ahmad Mir-Alaei,,False,The Fateful Night [ fa ] | Seyyed Ahmad Mir-Alaei,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Manouchehr Mohammadi,,False,Gold and Copper | Manouchehr Mohammadi,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Mojtaba Faravardeh,,False,The Kingdom of Solomon | Mojtaba Faravardeh,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Jamal Sadatian,,False,Seven Minutes to Fall [ fa ] | Jamal Sadatian,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Crime,Masoud Kimiai,True,2011 29 | Crime [ fa ] | Masoud Kimiai | [ 50 ] [ 51 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,SimaFilm,,False,Beloved Sky | SimaFilm,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Asghar Farhadi,,False,A Separation | Asghar Farhadi,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Saeed Sa'di,,False,Alzheimer | Saeed Sa'di [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Mehdi Homayounfar,,False,33 Days [ fa ] | Mehdi Homayounfar,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,No winner,,True,2012 30 | No winner | [ 52 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Saeed Sa'di,,False,Days of Life [ fa ] | Saeed Sa'di [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Reza Rakhshan,,False,Bulletproof [ fa ] | Reza Rakhshan [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Abolghasem Hosseini,,False,The Queen | Abolghasem Hosseini,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Dariush Mehrjui,,False,Orange Suit | Dariush Mehrjui,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Ali Sartipi and Mehdi Davari,,False,The Wooden Bridge | Ali Sartipi [ fa ] and Mehdi Davari,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Manouchehr Mohammadi,,False,Kissing the Moon-Like Face [ fa ] | Manouchehr Mohammadi,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Give Back,Mohsen Ali-Akbari,True,2013 31 | Give Back [ fa ] | Mohsen Ali-Akbari [ fa ] | [ 53 ] [ 54 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Amir Samavati,,False,Trapped | Amir Samavati [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Mahmoud Razavi,,False,The Corridor | Mahmoud Razavi [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Faramarz Gharibian,,False,Sinners [ fa ] | Faramarz Gharibian,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Siamak Poursharif,,False,Berlin -7° [ fa ] | Siamak Poursharif,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Hussein Who Said No,Taghi Aligholizadeh,True,2014 32 | Hussein Who Said No | Taghi Aligholizadeh [ fa ] | [ 55 ] [ 56 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Behrouz Afkhami and Jamal Sadatian,,True,"Azar, Shahdokht, Parviz and Others [ fa ] | Behrouz Afkhami and Jamal Sadatian",https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Farabi Cinema Foundation,,False,Che | Farabi Cinema Foundation [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Mohammad-Hossein Ghasemi and Abouzar Pourmohammadi,,False,Track 143 | Mohammad-Hossein Ghasemi [ fa ] and Abouzar Pourmohammadi,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Rakhshan Bani-Etemad,,False,Tales | Rakhshan Bani-Etemad,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Crazy Rook,Bita Mansouri,True,2015 33 | Crazy Rook | Bita Mansouri [ fa ] | [ 57 ] [ 58 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Farzad Motamen and Ali Hazrati,,False,The Long Farewell [ fa ] | Farzad Motamen and Ali Hazrati,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Alireza Raisian,,False,Time to Love [ fa ] | Alireza Raisian [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Manouchehr Shahsavari,,False,Mazar Sharif [ fa ] | Manouchehr Shahsavari [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Javad Norouzbeigi,,False,I Am Diego Maradona | Javad Norouzbeigi [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Standing in the Dust,Habibollah Valinejad,True,2016 34 | Standing in the Dust | Habibollah Valinejad | [ 59 ] [ 60 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Saeid Malekan,,False,Life and A Day | Saeid Malekan,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Kamal Tabrizi,,False,Mina's Choice [ fa ] | Kamal Tabrizi,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Reza Mirkarimi,,False,Daughter | Reza Mirkarimi,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Farzad Motamen,,False,When Did You See Sahar Last Time? [ fa ] | Farzad Motamen,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Midday Adventures,Mahmoud Razavi,True,2017 35 | Midday Adventures | Mahmoud Razavi [ fa ] | [ 61 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Ali Jalilvand,,False,"No Date, No Signature | Ali Jalilvand",https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Javad Norouzbeigi,,False,Searing Summer [ fa ] | Javad Norouzbeigi [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Jahangir Kosari,,False,Ferrari [ fa ] | Jahangir Kosari [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Pouran Derakhshandeh,,False,Under the Smokey Roof | Pouran Derakhshandeh,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,The Lost Strait,Saeid Malekan,True,2018 36 | The Lost Strait | Saeid Malekan | [ 62 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Mohammad Khazaee,,False,Damascus Time | Mohammad Khazaee [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Payman Maadi and Ehsan Rasoulof,,False,Bomb: A Love Story | Payman Maadi and Ehsan Rasoulof,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Mahmoud Razavi,,False,Axing [ fa ] | Mahmoud Razavi [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Hamed Hosseini,,False,Under Water Cypress [ fa ] | Hamed Hosseini,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Kambuzia Partovi,,False,Truck [ fa ] | Kambuzia Partovi,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Saeed Sa'di,,False,Sheeple [ fa ] | Saeed Sa'di [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,When the Moon Was Full,Mohammad-Hossein Ghasemi,True,2019 37 | When the Moon Was Full | Mohammad-Hossein Ghasemi [ fa ] | [ 63 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Mahmoud Razavi,,False,Midday Adventures: Trace of Blood | Mahmoud Razavi [ fa ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Majid Motalebi,,False,The Warden | Majid Motalebi,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Saeid Malekan,,False,Gholamreza Takhti | Saeid Malekan,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Jamal Sadatian,,False,Just 6.5 | Jamal Sadatian,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Reza Mirkarimi,,False,Castle of Dreams | Reza Mirkarimi,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,The Sun,Majid Majidi and Amir Banan,True,2020 38 | The Sun | Majid Majidi and Amir Banan [ fa ] | [ 64 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Rasul Sadr Ameli,,False,Butterfly Stroke | Rasul Sadr Ameli,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Mostafa Ahmadi,,False,Walnut Tree | Mostafa Ahmadi,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Saeid Malekan,,False,Day Zero | Saeid Malekan,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Niki Karimi,,False,Atabai | Niki Karimi,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Yadoo,Mohammad Reza Mesbah,True,2021 39 | Yadoo [ fa ] | Mohammad Reza Mesbah [ fa ] | [ 65 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Mohammadhossein Ghasemi,,False,Pinto | Mohammadhossein Ghasemi,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Javad Norouzbeigi,,False,Without Everything | Javad Norouzbeigi,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Roohollah Baradari and Samira Baradari,,False,Zalava | Roohollah Baradari and Samira Baradari,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,The Situation of Mehdi,Habibollah Valinejad,True,2022 40 | The Situation of Mehdi | Habibollah Valinejad | [ 66 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Bahram Radan,,False,Grassland | Bahram Radan,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Hassan Mostafavi,,False,The Last Snow | Hassan Mostafavi,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Reza Mirkarimi,,False,The Night Guardian | Reza Mirkarimi,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Metropol Cinema,Hamed Hosseini,True,2023 41 | Metropol Cinema | Hamed Hosseini | [ 67 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Hamed Jafari,,True,Smart Kid | Hamed Jafari,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Ebrahim Asghari,,False,Number Ten | Ebrahim Asghari,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Mohammadreza Mesbah,,False,In the Arms of the Tree | Mohammadreza Mesbah,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Davoud Sabouri,,False,Mud Room | Davoud Sabouri,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Kamran Hejazi,,False,The Leather Jacket Man | Kamran Hejazi,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Mojtaba Rashvand,,False,My Name is Love | Mojtaba Rashvand,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Majnoon,Abbas Naderan,True,2024 42 | Majnoon | Abbas Naderan | [ 68 ],https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Ali Oji,,False,Summer Time | Ali Oji,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Ata Panahi,,False,Parviz Khan | Ata Panahi,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Ali Shirmohammadi,,False,The Morning of The Execution | Ali Shirmohammadi,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Habibollah Valinejad,,False,The West Sky | Habibollah Valinejad,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Dariush Mehrjui,,False,8 | Dariush Mehrjui,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Manouchehr Mohammadi,,False,5 | Manouchehr Mohammadi,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Haroun Yashayaei,,False,4 | Haroun Yashayaei,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Alireza Davoodnejad,,False,3 | Alireza Davoodnejad,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,Reza Mirkarimi,,False,2 | Reza Mirkarimi,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,9,3,False,Farabi Cinema Foundation [ fa ] | 9 | 3,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,5,0,False,IRIB | 5 | 0,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,3,1,False,Soureh Cinema Development Organization [ fa ] | 3 | 1,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,3,1,False,SimaFilm | 3 | 1,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,2,1,False,Varahonar | 2 | 1,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,2,0,False,Arman Film | 2 | 0,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,2,0,False,Tamasha Cultural Institute | 2 | 0,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,1,1,False,Peikar Company | 1 | 1,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,1,1,False,Eifa Cinema Organization | 1 | 1,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,1,1,False,Ayat Film | 1 | 1,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,1,1,False,AIIPO [ fa ] | 1 | 1,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,1,1,False,Hamrah Filmmaking Group | 1 | 1,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,1,1,False,Sina Film | 1 | 1,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,1,1,False,Documentary and Experimental Film Center [ fa ] | 1 | 1,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,1,1,False,IIDCYA | 1 | 1,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,1,1,False,Negin Film | 1 | 1,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,1,0,False,Pakhshiran | 1 | 0,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,1,0,False,Arta Film | 1 | 0,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,1,0,False,Namaadin | 1 | 0,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film
+,1,0,False,Neshaneh Film Production | 1 | 0,https://en.wikipedia.org/wiki/Crystal_Simorgh_for_Best_Film

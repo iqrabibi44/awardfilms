@@ -1,0 +1,59 @@
+year,film,person,is_winner,raw_text,source_url
+,Recipient,Film,False,Year | Recipient(s) | Film(s) | Language(s) | Refs.,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+1984,Harudas,Ghare Baire,False,1984 (32nd) | Harudas | Ghare Baire | Bengali | [ 1 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+1984,Bapuldas,,False,Bapuldas,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+1985,Saba Zaidi,Trikal,False,1985 (33rd) | Saba Zaidi | Trikal | Hindi | [ 2 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+1986,Prabhat Jha,Parinati,False,1986 (34th) | Prabhat Jha | Parinati | Hindi | [ 3 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+1987,Ramilla Patel,Pestonjee,False,1987 (35th) | Ramilla Patel | Pestonjee | Hindi | [ 4 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+1987,Mani Rabadi,,False,Mani Rabadi,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+1988,Sudharshan,Daasi,False,1988 (36th) | Sudharshan | Daasi | Telugu | [ 5 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+1989,P. Krishnamoorthy,Oru Vadakkan Veeragatha,False,1989 (37th) | P. Krishnamoorthy | Oru Vadakkan Veeragatha | Malayalam | [ 6 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+1990,Bhanu Athaiya,Lekin...,False,1990 (38th) | Bhanu Athaiya | Lekin... | Hindi | [ 7 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+1991,Neeta Lulla,Lamhe,False,1991 (39th) | Neeta Lulla | Lamhe | Hindi | [ 8 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+1991,Kachins,,False,Kachins,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+1991,Leena Daru,,False,Leena Daru,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+1992,Mala Dey,Rudaali,False,1992 (40th) | Mala Dey | Rudaali | Hindi | [ 9 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+1992,Simple Kapadia,,False,Simple Kapadia,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+1993,Loveleen Bains,Muhafiz,False,1993 (41st) | Loveleen Bains | Muhafiz | Urdu | [ 10 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+1994,Supriya Dasgupta,Amodini,False,1994 (42nd) | Supriya Dasgupta | Amodini | Bengali | [ 11 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+1995,Dolly Ahluwalia,Bandit Queen,False,1995 (43rd) | Dolly Ahluwalia | Bandit Queen | Hindi | [ 12 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+1996,M. Dandapani,Kulam,False,1996 (44th) | M. Dandapani | Kulam | Malayalam | [ 13 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+1997,Vaishali Kasaravalli,Thaayi Saheba,False,1997 (45th) | Vaishali Kasaravalli | Thaayi Saheba | Kannada | [ 14 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+1998,S. B. Satheeshan,Daya,False,1998 (46th) | S. B. Satheeshan | Daya | Malayalam | [ 15 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+1999,Sarika,Hey Ram,False,1999 (47th) | Sarika | Hey Ram | Tamil | [ 16 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+2000,P. Krishnamoorthy,Bharati,False,2000 (48th) | P. Krishnamoorthy | Bharati | Tamil | [ 17 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+2001,Bhanu Athaiya,Lagaan,False,2001 (49th) | Bhanu Athaiya | Lagaan | Hindi | [ 18 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+2002,Neeta Lulla,Devdas,False,2002 (50th) | Neeta Lulla | Devdas | Hindi | [ 19 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+2002,Abu Jani,,False,Abu Jani,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+2002,Sandeep Khosla,,False,Sandeep Khosla,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+2002,Reza Shariffi,,False,Reza Shariffi,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+2003,Bibi Ray,Chokher Bali,False,2003 (51st) | Bibi Ray | Chokher Bali | Bengali | [ 20 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+2003,Sushanto Pal,,False,Sushanto Pal,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+2004,Ishrath Nissar,Hasina,False,2004 (52nd) | Ishrath Nissar | Hasina | Kannada | [ 21 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+2005,Anna Singh,Taj Mahal: An Eternal Love Story,False,2005 (53rd) | Anna Singh | Taj Mahal: An Eternal Love Story | Hindi | [ 22 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+2005,Black,Hindi,False,Sabyasachi Mukherjee | Black | Hindi,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+2006,Manjeet Maan,Waris Shah: Ishq Daa Waaris,False,2006 (54th) | Manjeet Maan | Waris Shah: Ishq Daa Waaris | Punjabi | [ 23 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+2007,Ruma Sengupta,Krishnakanter Will,False,2007 (55th) | Ruma Sengupta | Krishnakanter Will | Bengali | [ 24 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+2008,Neeta Lulla,Jodhaa Akbar,False,2008 (56th) | Neeta Lulla | Jodhaa Akbar | Hindi | [ 25 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+2009,Indrans Jayan,Kutty Srank,False,2009 (57th) | Indrans Jayan | Kutty Srank | Malayalam | [ 26 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+2010,Indrans Jayan,Namma Gramam,False,2010 (58th) | Indrans Jayan | Namma Gramam | Tamil | [ 27 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+2011,Neeta Lulla,Balgandharva,False,2011 (59th) | Neeta Lulla | Balgandharva | Marathi | [ 28 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+2011,The Dirty Picture,Hindi,False,Niharika Khan | The Dirty Picture | Hindi,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+2012,Poornima Ramaswamy,Paradesi,False,2012 (60th) | Poornima Ramaswamy | Paradesi | Tamil | [ 29 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+2013,Sabarni Das,Jaatishwar,False,2013 (61st) | Sabarni Das | Jaatishwar | Bengali | [ 30 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+2014,Dolly Ahluwalia,Haider,False,2014 (62nd) | Dolly Ahluwalia | Haider | Hindi | [ 31 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+2015,Payal Saluja,Nanak Shah Fakir,False,2015 (63rd) | Payal Saluja | Nanak Shah Fakir | Punjabi | [ 32 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+2016,Sachin Lovalekar,Cycle,False,2016 (64th) | Sachin Lovalekar | Cycle | Marathi | [ 33 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+2017,Gobinda Mandal,Nagarkirtan,False,2017 (65th) | Gobinda Mandal | Nagarkirtan | Bengali | [ 34 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+2018,Indrakshi Pattanaik,Mahanati,False,2018 (66th) | Indrakshi Pattanaik | Mahanati | Telugu | [ 35 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+2018,Gaurang Shah,,False,Gaurang Shah,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+2018,Archana Rao,,False,Archana Rao,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+2019,Sujith Sudhakaran,Marakkar: Lion of the Arabian Sea,False,2019 (67th) | Sujith Sudhakaran | Marakkar: Lion of the Arabian Sea | Malayalam | [ 36 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+2019,V. Sai,,False,V. Sai,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+2020,Nachiket Barve,Tanhaji,False,2020 (68th) | Nachiket Barve | Tanhaji | Hindi | [ 37 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+2020,Mahesh Sherla,,False,Mahesh Sherla,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+2021,Veera Kapur Ee,Sardar Udham,False,2021 (69th) | Veera Kapur Ee | Sardar Udham | Hindi | [ 38 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+2022,Niki Joshi,Kutch Express,False,2022 (70th) | Niki Joshi | Kutch Express | Gujarati | [ 39 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+2023,Sachin Lovalekar,Sam Bahadur,False,2023 (71st) | Sachin Lovalekar | Sam Bahadur | Hindi | [ 40 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+2023,Divvya Gambhir,,False,Divvya Gambhir,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design
+2023,Nidhhi Gambhir,,False,Nidhhi Gambhir,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Costume_Design

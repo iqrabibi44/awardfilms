@@ -1,0 +1,352 @@
+year,film,person,is_winner,raw_text,source_url
+,"Dilip Kumar , Shah Rukh Khan",8,False,"Actor with most awards | Dilip Kumar , Shah Rukh Khan | 8",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+,Amitabh Bachchan,34,False,Actor with most nominations | Amitabh Bachchan | 34,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+,Aamir Khan,9,False,Actor with most consecutive nominations | Aamir Khan (1989-97) | 9,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+,Amitabh Bachchan,6,False,Actor with nominations in most decades | Amitabh Bachchan | 6,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+,Amitabh Bachchan Shah Rukh Khan,3,False,"Actor with most nominations in a single year | Amitabh Bachchan (1979, 1983) Shah Rukh Khan (2005) | 3",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+,Salman Khan Ajay Devgn Akshay Kumar,10,False,Actor with most nominations without ever winning | Salman Khan Ajay Devgn Akshay Kumar | 10,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+,Amitabh Bachchan,67,False,Oldest winner | Amitabh Bachchan | 67,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+,80,,False,Oldest nominee | 80,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+,Rishi Kapoor,21,False,Youngest winner | Rishi Kapoor (1973) | 21,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+,Darsheel Safary,"10 years, 11 months",False,"Youngest nominee | Darsheel Safary (2008) | 10 years, 11 months",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+,"Dilip Kumar , Shah Rukh Khan",,False,"8 | Dilip Kumar , Shah Rukh Khan",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+,Amitabh Bachchan,,False,5 | Amitabh Bachchan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+,"Hrithik Roshan , Ranbir Kapoor",,False,"4 | Hrithik Roshan , Ranbir Kapoor",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+,"Rajesh Khanna , Naseeruddin Shah , Aamir Khan , Ranveer Singh",,False,"3 | Rajesh Khanna , Naseeruddin Shah , Aamir Khan , Ranveer Singh",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+,"Raj Kapoor , Dev Anand , Ashok Kumar , Sunil Dutt , Sanjeev Kumar , Anil Kapoor , Irrfan Khan",,False,"2 | Raj Kapoor , Dev Anand , Ashok Kumar , Sunil Dutt , Sanjeev Kumar , Anil Kapoor , Irrfan Khan",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+,Amitabh Bachchan,,False,34 | Amitabh Bachchan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+,Shah Rukh Khan,,False,28 | Shah Rukh Khan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+,"Dilip Kumar , Aamir Khan",,False,"19 | Dilip Kumar , Aamir Khan",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+,Hrithik Roshan,,False,16 | Hrithik Roshan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+,Rajesh Khanna,,False,14 | Rajesh Khanna,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+,Sanjeev Kumar,,False,11 | Sanjeev Kumar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+,"Salman Khan , Ajay Devgn Ranbir Kapoor",,False,"10 | Salman Khan , Ajay Devgn Ranbir Kapoor",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+,Indicates a posthumous winner,,False,† | Indicates a posthumous winner,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1954,,Dilip Kumar,True,1954 (1st) |  | Dilip Kumar ‡ | Shankar | Daag | [ 1 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1954,No Other Nominee,,True,No Other Nominee,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1955,,Bharat Bhushan,True,1955 (2nd) |  | Bharat Bhushan ‡ | Chaitanya Mahaprabhu | Shri Chaitanya Mahaprabhu | [ 2 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1955,No Other Nominee,,True,No Other Nominee,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1956,,Dilip Kumar,True,1956 (3rd) |  | Dilip Kumar ‡ | Kumar / Azaad / Abdul Rahim Khan | Azaad | [ 3 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1956,Mirza Ghalib,Mirza Ghalib,False,Bharat Bhushan | Mirza Ghalib | Mirza Ghalib,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1956,Amar / Raj,Munimji,False,Dev Anand | Amar / Raj | Munimji,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1957,Dilip Kumar,Devdas Mukherjee,True,1957 (4th) | Dilip Kumar ‡ | Devdas Mukherjee | Devdas | [ 4 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1957,Peasant,Jagte Raho,False,Raj Kapoor | Peasant | Jagte Raho,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1958,Dilip Kumar,Shankar,True,1958 (5th) | Dilip Kumar ‡ | Shankar | Naya Daur | [ 5 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1958,No Other Nominee,,True,No Other Nominee,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1959,,Dev Anand,True,1959 (6th) |  | Dev Anand ‡ | Karan Mehra | Kala Pani | [ 6 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1959,Anand/Deven,Madhumati,False,Dilip Kumar | Anand/Deven | Madhumati,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1959,Ram Babu,Phir Subah Hogi,False,Raj Kapoor | Ram Babu | Phir Subah Hogi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1960,,Raj Kapoor,True,1960 (7th) |  | Raj Kapoor ‡ | Raj Kumar | Anari | [ 7 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1960,Sunil Kumar,Love Marriage,False,Dev Anand | Sunil Kumar | Love Marriage,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1960,Ratan Lal,Paigham,False,Dilip Kumar | Ratan Lal | Paigham,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1961,,Dilip Kumar,True,1961 (8th) |  | Dilip Kumar ‡ | Rajkumar Dhivendra Pratap Bahadur Chandrabhan | Kohinoor | [ 8 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1961,Raghuvir,Kala Bazar,False,Dev Anand | Raghuvir | Kala Bazar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1961,Prince Salim,Mughal-e-Azam,False,Dilip Kumar | Prince Salim | Mughal-e-Azam,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1961,Chhalia,Chhalia,False,Raj Kapoor | Chhalia | Chhalia,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1962,,Raj Kapoor,True,1962 (9th) |  | Raj Kapoor ‡ | Raju | Jis Desh Mein Ganga Behti Hai | [ 9 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1962,Capt. Anand/Major. Manohar Lal Verma,Hum Dono,False,Dev Anand | Capt. Anand/Major. Manohar Lal Verma | Hum Dono,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1962,Gungaram,Gunga Jumna,False,Dilip Kumar | Gungaram | Gunga Jumna,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1963,,Ashok Kumar,True,1963 (10th) |  | Ashok Kumar ‡ | Raj Kumar | Rakhi | [ 10 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1963,"Atulya ""Bhootnath"" Chakraborty",Sahib Bibi Aur Ghulam,False,"Guru Dutt | Atulya ""Bhootnath"" Chakraborty | Sahib Bibi Aur Ghulam",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1963,Pritam Khanna,Professor,False,Shammi Kapoor | Pritam Khanna | Professor,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1964,,Sunil Dutt,True,1964 (11th) |  | Sunil Dutt ‡ | Thakur Jarnail Singh | Mujhe Jeene Do | [ 11 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1964,Barrister Ashok,Gumrah,False,Ashok Kumar | Barrister Ashok | Gumrah,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1964,Dr. Dharmesh,Dil Ek Mandir,False,Rajendra Kumar | Dr. Dharmesh | Dil Ek Mandir,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1965,,Dilip Kumar,True,1965 (12th) |  | Dilip Kumar ‡ | Vijay Khanna | Leader | [ 12 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1965,Shyam,Ayee Milan Ki Bela,False,Rajendra Kumar | Shyam | Ayee Milan Ki Bela,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1965,Lieutenant Sundar Khanna,Sangam,False,Raj Kapoor | Lieutenant Sundar Khanna | Sangam,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1966,,Sunil Dutt,True,1966 (13th) |  | Sunil Dutt ‡ | Govind S. Lal | Khandan | [ 13 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1966,Moti,Kaajal,False,Raaj Kumar | Moti | Kaajal,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1966,Gopal Sarju,Arzoo,False,Rajendra Kumar | Gopal Sarju | Arzoo,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1967,,Dev Anand,True,1967 (14th) |  | Dev Anand ‡ | Raju | Guide | [ 14 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1967,"Shakti ""Shaaka"" Singh",Phool Aur Patthar,False,"Dharmendra | Shakti ""Shaaka"" Singh | Phool Aur Patthar",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1967,Shankar / Rajasahab,Dil Diya Dard Liya,False,Dilip Kumar | Shankar / Rajasahab | Dil Diya Dard Liya,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1968,,Dilip Kumar,True,1968 (15th) |  | Dilip Kumar ‡ | Ram Shyam | Ram Aur Shyam | [ 15 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1968,Bharat,Upkar,False,Manoj Kumar | Bharat | Upkar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1968,Gopikishan a.k.a. Gopi,Milan,False,Sunil Dutt | Gopikishan a.k.a. Gopi | Milan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1969,,Shammi Kapoor,True,1969 (16th) |  | Shammi Kapoor ‡ | Brahmachari | Brahmachari | [ 16 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1969,Rajesh Sahab,Aadmi,False,Dilip Kumar | Rajesh Sahab | Aadmi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1969,Sunghursh,,False,Kundan S. Prasad | Sunghursh,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1970,,Ashok Kumar,True,1970 (17th) |  | Ashok Kumar ‡ | Shivnath Choudhary a.k.a. Jogi Thakur | Aashirwad | [ 17 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1970,Arun Prasad Saxena / Suraj Prasad Saxena,Aradhana,False,Rajesh Khanna | Arun Prasad Saxena / Suraj Prasad Saxena | Aradhana,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1970,Ittefaq,,False,Dilip Roy | Ittefaq,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1971,,Rajesh Khanna,True,1971 (18th) |  | Rajesh Khanna ‡ | Bhola / Ranjit Kumar | Sachaa Jhutha | [ 18 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1971,Gopiram a.k.a. Gopi,Gopi,False,Dilip Kumar | Gopiram a.k.a. Gopi | Gopi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1971,Vijay Kamal Singh,Khilona,False,Sanjeev Kumar | Vijay Kamal Singh | Khilona,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1972,Rajesh Khanna,Anand Saigal,True,1972 (19th) | Rajesh Khanna ‡ | Anand Saigal | Anand | [ 19 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1972,Ajit,Mera Gaon Mera Desh,False,Dharmendra | Ajit | Mera Gaon Mera Desh,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1972,Kamal Sinha,Kati Patang,False,Rajesh Khanna | Kamal Sinha | Kati Patang,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1973,,Manoj Kumar,True,1973 (20th) |  | Manoj Kumar ‡ | Mohan | Be-Imaan | [ 20 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1973,Anand Babu,Amar Prem,False,Rajesh Khanna | Anand Babu | Amar Prem,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1973,Dushman,,False,Surjit Singh | Dushman,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1974,,Rishi Kapoor,True,1974 (21st) |  | Rishi Kapoor ‡ | Raj Nath | Bobby | [ 21 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1974,Inspector Vijay Khanna,Zanjeer,False,Amitabh Bachchan | Inspector Vijay Khanna | Zanjeer,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1974,Shankar,Yaadon Ki Baaraat,False,Dharmendra | Shankar | Yaadon Ki Baaraat,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1974,Sunil Kohli,Daag:A Poem of Love,False,Rajesh Khanna | Sunil Kohli | Daag:A Poem of Love,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1974,Hari Charan Mathur,Koshish,False,Sanjeev Kumar | Hari Charan Mathur | Koshish,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1975,,Rajesh Khanna,True,1975 (22nd) |  | Rajesh Khanna ‡ | Amar | Avishkaar | [ 22 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1975,Ajit Singh,Resham Ki Dori,False,Dharmendra | Ajit Singh | Resham Ki Dori,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1975,Sagina,Sagina,False,Dilip Kumar | Sagina | Sagina,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1975,Bharat,Roti Kapda Aur Makaan,False,Manoj Kumar | Bharat | Roti Kapda Aur Makaan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1975,Chhote Kunwar Karan U. Singh,Prem Nagar,False,Rajesh Khanna | Chhote Kunwar Karan U. Singh | Prem Nagar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1976,,Sanjeev Kumar,True,1976 (23rd) |  | Sanjeev Kumar ‡ | J.K. | Aandhi | [ 23 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1976,Vijay Verma,Deewaar,False,Amitabh Bachchan | Vijay Verma | Deewaar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1976,Ram Rai,Sanyasi,False,Manoj Kumar | Ram Rai | Sanyasi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1976,Thakur Baldev Singh,Sholay,False,Sanjeev Kumar | Thakur Baldev Singh | Sholay,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1976,Madhusudan Roy Chaudhary,Amanush,False,Uttam Kumar | Madhusudan Roy Chaudhary | Amanush,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1977,Sanjeev Kumar,Arjun Pandit,True,1977 (24th) | Sanjeev Kumar ‡ | Arjun Pandit | Arjun Pandit | [ 24 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1977,Amitabh Malhotra,Kabhi Kabhie,False,Amitabh Bachchan | Amitabh Malhotra | Kabhi Kabhie,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1977,Arun Pradeep,Chhoti Si Baat,False,Amol Palekar | Arun Pradeep | Chhoti Si Baat,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1977,Kailash / Bholenath,Bairaag,False,Dilip Kumar | Kailash / Bholenath | Bairaag,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1977,Dr. Amarnath Gill,Mausam,False,Sanjeev Kumar | Dr. Amarnath Gill | Mausam,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1978,,Amitabh Bachchan,True,1978 (25th) |  | Amitabh Bachchan ‡ | Anthony Gonzalves | Amar Akbar Anthony | [ 25 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1978,Thakur Dharam Chand / Raju,Adaalat,False,Amitabh Bachchan | Thakur Dharam Chand / Raju | Adaalat,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1978,Anand Narayan,Yehi Hai Zindagi,False,Sanjeev Kumar | Anand Narayan | Yehi Hai Zindagi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1978,Zindagi,,False,Raghu Shukla | Zindagi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1978,Vinod Joshi,Shaque,False,Vinod Khanna | Vinod Joshi | Shaque,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1979,Amitabh Bachchan,Don / Vijay,True,1979 (26th) | Amitabh Bachchan ‡ | Don / Vijay | Don | [ 26 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1979,Sikandar,Muqaddar Ka Sikandar,False,Amitabh Bachchan | Sikandar | Muqaddar Ka Sikandar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1979,Trishul,,False,Vijay Kumar | Trishul,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1979,Tony/Tarun Kumar Gupta,Devata,False,Sanjeev Kumar | Tony/Tarun Kumar Gupta | Devata,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1979,Pati Patni Aur Woh,,False,Ranjeet Chaddha | Pati Patni Aur Woh,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1980,,Amol Palekar,True,1980 (27th) |  | Amol Palekar ‡ | Ram Prasad Sharma / Laxman Prasad Sharma | Golmaal | [ 27 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1980,Vijay Pal Singh,Kaala Patthar,False,Amitabh Bachchan | Vijay Pal Singh | Kaala Patthar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1980,Mr. Natwarlal,,False,Mr. Natwarlal | Mr. Natwarlal,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1980,Raja / Sonu,Amar Deep,False,Rajesh Khanna | Raja / Sonu | Amar Deep,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1980,Raju,Sargam,False,Rishi Kapoor | Raju | Sargam,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1981,,Naseeruddin Shah,True,1981 (28th) |  | Naseeruddin Shah ‡ | Bhaskar Kulkarni | Aakrosh | [ 28 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1981,Vijay Varma,Dostana,False,Amitabh Bachchan | Vijay Varma | Dostana,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1981,Ravi Kapoor,,False,Shatrughan Sinha | Ravi Kapoor,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1981,Ramesh R. Gupta,Insaaf Ka Tarazu,False,Raj Babbar | Ramesh R. Gupta | Insaaf Ka Tarazu,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1981,Arun Kumar Choudhary,Thodisi Bewafaii,False,Rajesh Khanna | Arun Kumar Choudhary | Thodisi Bewafaii,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1981,Amar,Qurbani,False,Vinod Khanna | Amar | Qurbani,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1982,Naseeruddin Shah,Lukka,True,1982 (29th) | Naseeruddin Shah ‡ | Lukka | Chakra | [ 29 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1982,Heera,Lawaaris,False,Amitabh Bachchan | Heera | Lawaaris,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1982,Silsila,,False,Amit Malhotra | Silsila,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1982,"S ""Vasu"" Vasudevan",Ek Duuje Ke Liye,False,"Kamal Haasan | S ""Vasu"" Vasudevan | Ek Duuje Ke Liye",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1982,Deepak Srivastav / Vikas,Dard,False,Rajesh Khanna | Deepak Srivastav / Vikas | Dard,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1983,,Dilip Kumar,True,1983 (30th) |  | Dilip Kumar ‡ | DCP Ashwini Kumar | Shakti | [ 30 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1983,Dr. Sudhir Roy / Adhir Roy,Bemisal,False,Amitabh Bachchan | Dr. Sudhir Roy / Adhir Roy | Bemisal,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1983,Namak Halaal,,False,Arjun Singh | Namak Halaal,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1983,Shakti,,False,Vijay Kumar | Shakti,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1983,Salim,Bazaar,False,Naseeruddin Shah | Salim | Bazaar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1983,Devdhar a.k.a. Dev,Prem Rog,False,Rishi Kapoor | Devdhar a.k.a. Dev | Prem Rog,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1983,Ashok R. Tilak,Angoor,False,Sanjeev Kumar | Ashok R. Tilak | Angoor,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1984,,Naseeruddin Shah,True,1984 (31st) |  | Naseeruddin Shah ‡ | DK Malhotra | Masoom | [ 31 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1984,K. Somprakash a.k.a. Somu,Sadma,False,Kamal Haasan | K. Somprakash a.k.a. Somu | Sadma,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1984,Sub Insp. Anant Velankar,Ardh Satya,False,Om Puri | Sub Insp. Anant Velankar | Ardh Satya,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1984,Avatar Krishan,Avatar,False,Rajesh Khanna | Avatar Krishan | Avatar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1984,Sunny Kapoor,Betaab,False,Sunny Deol | Sunny Kapoor | Betaab,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1985,,Anupam Kher,True,1985 (32nd) |  | Anupam Kher ‡ | B. V. Pradhan | Saaransh | [ 32 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1985,Vicky Kapoor,Sharaabi,False,Amitabh Bachchan | Vicky Kapoor | Sharaabi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1985,Vinod Kumar,Mashaal,False,Dilip Kumar | Vinod Kumar | Mashaal,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1985,Anirudh Parmar,Touch,False,Naseeruddin Shah | Anirudh Parmar | Touch,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1985,Prof. Prabhat Kumar Verma,Aaj Ki Awaaz,False,Raj Babbar | Prof. Prabhat Kumar Verma | Aaj Ki Awaaz,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1986,,Kamal Haasan,True,1986 (33rd) |  | Kamal Haasan ‡ | Raja | Saagar | [ 33 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1986,Raju Singh,Mard,False,Amitabh Bachchan | Raju Singh | Mard,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1986,Arun Verma,Meri Jung,False,Anil Kapoor | Arun Verma | Meri Jung,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1986,Rahul,Janam,False,Kumar Gaurav | Rahul | Janam,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1986,Dawood Mohd. Ali Khan Yousufzai,Tawaif,False,Rishi Kapoor | Dawood Mohd. Ali Khan Yousufzai | Tawaif,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1987,NO CEREMONY,,True,1987 | NO CEREMONY,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1988,NO CEREMONY,,True,1988 | NO CEREMONY,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1989,,Anil Kapoor,True,"1989 (34th) |  | Anil Kapoor ‡ | Mahesh ""Munna"" Deshmukh | Tezaab | [ 34 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1989,Raj,Qayamat Se Qayamat Tak,False,Aamir Khan | Raj | Qayamat Se Qayamat Tak,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1989,Vijay Kumar Srivastav a.k.a. Shahenshah,Shehenshah,False,Amitabh Bachchan | Vijay Kumar Srivastav a.k.a. Shahenshah | Shehenshah,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1990,,Jackie Shroff,True,1990 (35th) |  | Jackie Shroff ‡ | Kishan | Parinda | [ 35 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1990,Amir Hussein,Raakh,False,Aamir Khan | Amir Hussein | Raakh,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1990,Eeshwar Chand Vishnunath Brahmanand,Eeshwar,False,Anil Kapoor | Eeshwar Chand Vishnunath Brahmanand | Eeshwar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1990,Rohit Gupta,Chandni,False,Rishi Kapoor | Rohit Gupta | Chandni,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1990,Prem Choudhary,Maine Pyaar Kiya,False,Salman Khan | Prem Choudhary | Maine Pyaar Kiya,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1991,,Sunny Deol,True,1991 (36th) |  | Sunny Deol ‡ | Ajay Mehra | Ghayal | [ 36 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1991,Raja,Dil,False,Aamir Khan | Raja | Dil,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1991,Vijay Deenanath Chauhan,Agneepath,False,Amitabh Bachchan | Vijay Deenanath Chauhan | Agneepath,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1991,Siddhanth,Pratibandh,False,Chiranjeevi | Siddhanth | Pratibandh,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1992,,Amitabh Bachchan,True,1992 (37th) |  | Amitabh Bachchan ‡ | Shekhar Malhotra alias Tiger | Hum | [ 37 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1992,Raghu Jeitley,Dil Hai Ke Manta Nahin,False,Aamir Khan | Raghu Jeitley | Dil Hai Ke Manta Nahin,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1992,Virendra Pratap Singh,Lamhe,False,Anil Kapoor | Virendra Pratap Singh | Lamhe,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1992,Veeru Singh,Saudagar,False,Dilip Kumar | Veeru Singh | Saudagar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1992,Aman Verma,Saajan,False,Sanjay Dutt | Aman Verma | Saajan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1993,,Anil Kapoor,True,1993 (38th) |  | Anil Kapoor ‡ | Raju | Beta | [ 38 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1993,Sanjaylal Sharma,Jo Jeeta Wohi Sikandar,False,Aamir Khan | Sanjaylal Sharma | Jo Jeeta Wohi Sikandar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1993,Baadshah Khan,Khuda Gawah,False,Amitabh Bachchan | Baadshah Khan | Khuda Gawah,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1994,,Shah Rukh Khan,True,1994 (39th) |  | Shah Rukh Khan ‡ | Ajay Sharma alias Vicky Malhotra | Baazigar | [ 39 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1994,Rahul Malhotra,Hum Hain Rahi Pyaar Ke,False,Aamir Khan | Rahul Malhotra | Hum Hain Rahi Pyaar Ke,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1994,Bunnu / Gulshan / Gaurishankar,Aankhen,False,Govinda | Bunnu / Gulshan / Gaurishankar | Aankhen,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1994,Shiva P. Sathe,Gardish,False,Jackie Shroff | Shiva P. Sathe | Gardish,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1994,Ballu/Balram,Khalnayak,False,Sanjay Dutt | Ballu/Balram | Khalnayak,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1995,,Nana Patekar,True,1995 [ 40 ] (40th) |  | Nana Patekar ‡ | Pratap Narayan Tilak | Krantiveer | [ 41 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1995,Amar Manohar,Andaz Apna Apna,False,Aamir Khan | Amar Manohar | Andaz Apna Apna,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1995,Vijay Saigal,Yeh Dillagi,False,Akshay Kumar | Vijay Saigal | Yeh Dillagi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1995,Narendra Singh,1942: A Love Story,False,Anil Kapoor | Narendra Singh | 1942: A Love Story,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1995,Prem,Hum Aapke Hain Koun..!,False,Salman Khan | Prem | Hum Aapke Hain Koun..! [ 42 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1996,,Shah Rukh Khan,True,1996 (41st) |  | Shah Rukh Khan ‡ | Raj Malhotra | Dilwale Dulhania Le Jayenge | [ 43 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1996,Munna,Rangeela,False,Aamir Khan | Munna | Rangeela,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1996,Jay Bakshi,Naajayaz,False,Ajay Devgan | Jay Bakshi | Naajayaz,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1996,Raju,Coolie No. 1,False,Govinda | Raju | Coolie No. 1,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1996,Karan Singh,Karan Arjun,False,Salman Khan | Karan Singh | Karan Arjun,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1997,,Aamir Khan,True,1997 (42nd) |  | Aamir Khan ‡ | Raja Hindustani | Raja Hindustani | [ 44 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1997,Kashi Nath,Ghatak,False,Sunny Deol | Kashi Nath | Ghatak,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1997,Shyamsundar,Saajan Chale Sasural,False,Govinda | Shyamsundar | Saajan Chale Sasural,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1997,Vishwanath,Agni Sakshi,False,Nana Patekar | Vishwanath | Agni Sakshi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1997,Khamoshi,,False,Joseph Braganza | Khamoshi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1998,,Shah Rukh Khan,True,1998 (43rd) |  | Shah Rukh Khan ‡ | Rahul | Dil To Pagal Hai | [ 45 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1998,Major Kuldip Singh Chandpuri,Border,False,Sunny Deol | Major Kuldip Singh Chandpuri | Border,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1998,Shakti Thakur,Virasat,False,Anil Kapoor | Shakti Thakur | Virasat,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1998,Bunnu,Deewana Mastana,False,Govinda | Bunnu | Deewana Mastana,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1998,Jaiprakash Paswan alias Laxmi Godbole,Chachi 420,False,Kamal Haasan | Jaiprakash Paswan alias Laxmi Godbole | Chachi 420,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1998,Rahul Joshi,Yes Boss,False,Shah Rukh Khan | Rahul Joshi | Yes Boss,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1999,Shah Rukh Khan,Rahul Khanna,True,1999 (44th) | Shah Rukh Khan ‡ | Rahul Khanna | Kuch Kuch Hota Hai | [ 46 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1999,Siddharth Marathe,Ghulam,False,Aamir Khan | Siddharth Marathe | Ghulam,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1999,Ajay R. Desai,Zakhm,False,Ajay Devgan | Ajay R. Desai | Zakhm,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1999,Pyare Mohan a.k.a. Chote Miyan,Bade Miyan Chote Miyan,False,Govinda | Pyare Mohan a.k.a. Chote Miyan | Bade Miyan Chote Miyan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+1999,Suraj Khanna,Pyaar Kiya To Darna Kya,False,Salman Khan | Suraj Khanna | Pyaar Kiya To Darna Kya,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2000,,Sanjay Dutt,True,"2000 (45th) |  | Sanjay Dutt ‡ | Raghunath ""Raghu"" Namdev Shivalkar | Vaastav | [ 47 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2000,Ajay Singh Rathore,Sarfarosh,False,Aamir Khan | Ajay Singh Rathore | Sarfarosh,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2000,Vanraj,Hum Dil De Chuke Sanam,False,Ajay Devgan | Vanraj | Hum Dil De Chuke Sanam,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2000,Sameer Rossellini,,False,Salman Khan | Sameer Rossellini,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2000,Samar Pratap Singh,Shool,False,Manoj Bajpayee | Samar Pratap Singh | Shool,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2001,,Hrithik Roshan,True,2001 (46th) |  | Hrithik Roshan ‡ | Rohit / Raj Chopra | Kaho Naa... Pyaar Hai | [ 48 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2001,Major Jaidev Rajvansh,Pukaar,False,Anil Kapoor | Major Jaidev Rajvansh | Pukaar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2001,Amaan Ikramullah,Fiza,False,Hrithik Roshan | Amaan Ikramullah | Fiza,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2001,SSP Inayat Khan,Mission Kashmir,False,Sanjay Dutt | SSP Inayat Khan | Mission Kashmir,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2001,Raj Aryan Malhotra,Mohabbatein,False,Shah Rukh Khan | Raj Aryan Malhotra | Mohabbatein,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2001,Ram Verma,Dhadkan,False,Akshay Kumar | Ram Verma | Dhadkan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2002,,Aamir Khan,True,2002 (47th) |  | Aamir Khan ‡ | Bhuvan Latha | Lagaan | [ 49 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2002,Tara Singh,Gadar: Ek Prem Katha,False,Sunny Deol | Tara Singh | Gadar: Ek Prem Katha,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2002,Akash Malhotra,Dil Chahta Hai,False,Aamir Khan | Akash Malhotra | Dil Chahta Hai,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2002,Manu Verma,Aks,False,Amitabh Bachchan | Manu Verma | Aks,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2002,Rahul Y. Raichand,Kabhi Khushi Kabhie Gham,False,Shah Rukh Khan | Rahul Y. Raichand | Kabhi Khushi Kabhie Gham,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2003,,Shah Rukh Khan,True,2003 (48th) |  | Shah Rukh Khan ‡ | Devdas Mukherjee | Devdas | [ 50 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2003,Bhagat Singh,The Legend of Bhagat Singh,False,Ajay Devgan | Bhagat Singh | The Legend of Bhagat Singh,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2003,"Yashvardhan ""Major"" Rampal",Kaante,False,"Amitabh Bachchan | Yashvardhan ""Major"" Rampal | Kaante",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2003,Raj Singhania,Humraaz,False,Bobby Deol | Raj Singhania | Humraaz,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2003,Aditya Sehgal,Saathiya,False,Vivek Oberoi | Aditya Sehgal | Saathiya,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2004,,Hrithik Roshan,True,2004 (49th) |  | Hrithik Roshan ‡ | Rohit Mehra | Koi Mil Gaya | [ 51 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2004,Amit Kumar,Gangaajal,False,Ajay Devgan | Amit Kumar | Gangaajal,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2004,Raj Malhotra,Baghban,False,Amitabh Bachchan | Raj Malhotra | Baghban,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2004,Raj Malhotra,Andaaz,False,Akshay Kumar | Raj Malhotra | Andaaz,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2004,Radhe Mohan,Tere Naam,False,Salman Khan | Radhe Mohan | Tere Naam,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2004,Aman Mathur,Kal Ho Naa Ho,False,Shah Rukh Khan | Aman Mathur | Kal Ho Naa Ho,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2005,,Shah Rukh Khan,True,2005 (50th) |  | Shah Rukh Khan ‡ | Mohan Bhargav | Swades | [ 52 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2005,DCP Anant Kumar Shrivastav,Khakee,False,Amitabh Bachchan | DCP Anant Kumar Shrivastav | Khakee,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2005,Karan Shergill,Lakshya,False,Hrithik Roshan | Karan Shergill | Lakshya,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2005,Karan Kapoor,Hum Tum,False,Saif Ali Khan | Karan Kapoor | Hum Tum,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2005,Major Ram Prasad Sharma,Main Hoon Na,False,Shah Rukh Khan | Major Ram Prasad Sharma | Main Hoon Na,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2005,Veer-Zaara,,False,Squadron Leader Veer Pratap Singh | Veer-Zaara,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2006,,Amitabh Bachchan,True,2006 (51st) |  | Amitabh Bachchan ‡ | Debraj Sahai | Black | [ 53 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2006,Mangal Pandey,Mangal Pandey: The Rising,False,Aamir Khan | Mangal Pandey | Mangal Pandey: The Rising,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2006,Subhash Nagre a.k.a. Sarkar,Sarkar,False,Amitabh Bachchan | Subhash Nagre a.k.a. Sarkar | Sarkar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2006,Rakesh Trivedi alias Bunty,Bunty Aur Babli,False,Abhishek Bachchan | Rakesh Trivedi alias Bunty | Bunty Aur Babli,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2006,Shekhar Roy,Parineeta,False,Saif Ali Khan | Shekhar Roy | Parineeta,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2007,,Hrithik Roshan,True,2007 (52nd) |  | Hrithik Roshan ‡ | Aryan alias Mr. A | Dhoom 2 | [ 54 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2007,"Daljeet ""DJ"" Singh / Chandra Shekhar Azad",Rang De Basanti,False,"Aamir Khan | Daljeet ""DJ"" Singh / Chandra Shekhar Azad | Rang De Basanti",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2007,"Krishna ""Krrish"" Mehra",Krrish,False,"Hrithik Roshan | Krishna ""Krrish"" Mehra | Krrish",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2007,Munna Bhai / Murali Prasad Sharma,Lage Raho Munna Bhai,False,Sanjay Dutt | Munna Bhai / Murali Prasad Sharma | Lage Raho Munna Bhai,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2007,Don / Vijay,Don,False,Shah Rukh Khan | Don / Vijay | Don,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2007,Kabhi Alvida Naa Kehna,,False,Dev Saran | Kabhi Alvida Naa Kehna,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2008,,Shah Rukh Khan,True,2008 (53rd) |  | Shah Rukh Khan ‡ | Coach Kabir Khan | Chak De India | [ 55 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2008,"Gurukant ""Guru"" Desai",Guru,False,"Abhishek Bachchan | Gurukant ""Guru"" Desai | Guru",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2008,Arjun Singh,Namastey London,False,Akshay Kumar | Arjun Singh | Namastey London,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2008,Ishaan Awasthi,Taare Zameen Par,False,Darsheel Safary | Ishaan Awasthi | Taare Zameen Par,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2008,Aditya Kashyap,Jab We Met,False,Shahid Kapoor | Aditya Kashyap | Jab We Met,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2008,Om Prakash Makhija / Om Kapoor,Om Shanti Om,False,Shah Rukh Khan | Om Prakash Makhija / Om Kapoor | Om Shanti Om,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2009,,Hrithik Roshan,True,2009 (54th) |  | Hrithik Roshan ‡ | Jalauddin Muhammad Akbar | Jodhaa Akbar | [ 55 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2009,Sanjay Singhania,Ghajini,False,Aamir Khan | Sanjay Singhania | Ghajini,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2009,"Sameer ""Sam"" Kapoor",Dostana,False,"Abhishek Bachchan | Sameer ""Sam"" Kapoor | Dostana",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2009,Happy Singh,Singh Is Kinng,False,Akshay Kumar | Happy Singh | Singh Is Kinng,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2009,The Common Man,A Wednesday,False,Naseeruddin Shah | The Common Man | A Wednesday,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2009,"Surinder ""Suri"" Sahni",Rab Ne Bana Di Jodi,False,"Shah Rukh Khan | Surinder ""Suri"" Sahni | Rab Ne Bana Di Jodi",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2010,,Amitabh Bachchan,True,2010 (55th) |  | Amitabh Bachchan ‡ | Auro | Paa | [ 56 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2010,"Ranchoddas ""Rancho"" Shamaldas Chanchad / Chhote / Phunsukh Wangdu",3 Idiots,False,"Aamir Khan | Ranchoddas ""Rancho"" Shamaldas Chanchad / Chhote / Phunsukh Wangdu | 3 Idiots",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2010,Prem Shankar Sharma,Ajab Prem Ki Ghazab Kahani,False,Ranbir Kapoor | Prem Shankar Sharma | Ajab Prem Ki Ghazab Kahani,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2010,Wake Up Sid,,False,Siddharth Mehra | Wake Up Sid,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2010,Jai Vardhan Singh / Young Veer Singh,Love Aaj Kal,False,Saif Ali Khan | Jai Vardhan Singh / Young Veer Singh | Love Aaj Kal,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2010,Charlie / Guddu,Kaminey,False,Shahid Kapoor | Charlie / Guddu | Kaminey,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2011,,Shah Rukh Khan,True,2011 (56th) |  | Shah Rukh Khan ‡ | Rizwan Khan | My Name Is Khan | [ 57 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2011,Sultan Mirza,Once Upon a Time in Mumbai,False,Ajay Devgn | Sultan Mirza | Once Upon a Time in Mumbai,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2011,Ethan Mascarenhas,Guzaarish,False,Hrithik Roshan | Ethan Mascarenhas | Guzaarish,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2011,Samar Pratap Singh,Raajneeti,False,Ranbir Kapoor | Samar Pratap Singh | Raajneeti,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2011,Chulbul Pandey,Dabangg,False,Salman Khan | Chulbul Pandey | Dabangg,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2012,,Ranbir Kapoor,True,"2012 (57th) |  | Ranbir Kapoor ‡ | Janardhan ""Jordan"" Jakhar | Rockstar | [ 58 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2012,Bajirao Singham,Singham,False,Ajay Devgn | Bajirao Singham | Singham,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2012,Prabhakar Anand,Aarakshan,False,Amitabh Bachchan | Prabhakar Anand | Aarakshan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2012,Arjun Narula,Zindagi Na Milegi Dobara,False,Hrithik Roshan | Arjun Narula | Zindagi Na Milegi Dobara,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2012,Lovely Singh,Bodyguard,False,Salman Khan | Lovely Singh | Bodyguard,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2012,Don,Don 2,False,Shah Rukh Khan | Don | Don 2,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2013,Ranbir Kapoor,Barfi,True,2013 (58th) | Ranbir Kapoor ‡ | Barfi | Barfi | [ 59 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2013,Vijay Deenanath Chauhan,Agneepath,False,Hrithik Roshan | Vijay Deenanath Chauhan | Agneepath,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2013,Paan Singh Tomar,Paan Singh Tomar,False,Irrfan Khan | Paan Singh Tomar | Paan Singh Tomar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2013,Sardar Khan,Gangs of Wasseypur Part I,False,Manoj Bajpayee | Sardar Khan | Gangs of Wasseypur Part I,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2013,Chulbul Pandey,Dabangg 2,False,Salman Khan | Chulbul Pandey | Dabangg 2,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2013,Major Samar Anand,Jab Tak Hai Jaan,False,Shah Rukh Khan | Major Samar Anand | Jab Tak Hai Jaan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2014,,Farhan Akhtar,True,2014 (59th) |  | Farhan Akhtar ‡ | Milkha Singh | Bhaag Milkha Bhaag | [ 60 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2014,Kundan Shankar,Raanjhanaa,False,Dhanush | Kundan Shankar | Raanjhanaa,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2014,Rohit Mehra / Krishna Mehra,Krrish 3,False,Hrithik Roshan | Rohit Mehra / Krishna Mehra | Krrish 3,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2014,"Kabir ""Bunny"" Thapar",Yeh Jawaani Hai Deewani,False,"Ranbir Kapoor | Kabir ""Bunny"" Thapar | Yeh Jawaani Hai Deewani",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2014,Ram Rajari,Ram Leela,False,Ranveer Singh | Ram Rajari | Ram Leela,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2014,Rahul Mithaiwala,Chennai Express,False,Shah Rukh Khan | Rahul Mithaiwala | Chennai Express,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2015,,Shahid Kapoor,True,2015 (60th) |  | Shahid Kapoor ‡ | Haider Meer | Haider | [ 61 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2015,PK,PK,False,Aamir Khan | PK | PK,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2015,Virat Bakshi,Holiday,False,Akshay Kumar | Virat Bakshi | Holiday,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2015,Jai Nanda / Rajveer,Bang Bang,False,Hrithik Roshan | Jai Nanda / Rajveer | Bang Bang,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2015,Raja Ravi Varma,Rang Rasiya,False,Randeep Hooda | Raja Ravi Varma | Rang Rasiya,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2016,,Ranveer Singh,True,2016 61st) |  | Ranveer Singh ‡ | Peshwa Bajirao | Bajirao Mastani | [ 62 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2016,Bhaskor Banerjee,Piku,False,Amitabh Bachchan | Bhaskor Banerjee | Piku,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2016,Ved Vardhan Sahni,Tamasha,False,Ranbir Kapoor | Ved Vardhan Sahni | Tamasha,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2016,Pawan Kumar Chaturvedi,Bajrangi Bhaijaan,False,Salman Khan | Pawan Kumar Chaturvedi | Bajrangi Bhaijaan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2016,Raj Randhir Bakshi a.k.a. Kaali,Dilwale,False,Shah Rukh Khan | Raj Randhir Bakshi a.k.a. Kaali | Dilwale,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2016,"Raghav ""Raghu"" Pratap Singh",Badlapur,False,"Varun Dhawan | Raghav ""Raghu"" Pratap Singh | Badlapur",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2017,,Aamir Khan,True,2017 (62nd) |  | Aamir Khan ‡ | Mahavir Singh Phogat | Dangal | [ 63 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2017,Deepak Sehgal,Pink,False,Amitabh Bachchan | Deepak Sehgal | Pink,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2017,Ayan Sanger,Ae Dil Hai Mushkil,False,Ranbir Kapoor | Ayan Sanger | Ae Dil Hai Mushkil,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2017,"Commander Rustom ""Rusi"" Pavri",Rustom,False,"Akshay Kumar | Commander Rustom ""Rusi"" Pavri | Rustom",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2017,Sultan Ali Khan,Sultan,False,Salman Khan | Sultan Ali Khan | Sultan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2017,"Tejinder ""Tommy"" Singh a.k.a. Gabru",Udta Punjab,False,"Shahid Kapoor | Tejinder ""Tommy"" Singh a.k.a. Gabru | Udta Punjab",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2017,Gaurav Chandna / Aryan Khanna,Fan,False,Shah Rukh Khan | Gaurav Chandna / Aryan Khanna | Fan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2017,Mahendra Singh Dhoni,M.S. Dhoni: The Untold Story,False,Sushant Singh Rajput | Mahendra Singh Dhoni | M.S. Dhoni: The Untold Story,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2018,,Irrfan Khan,True,2018 (63rd) |  | Irrfan Khan ‡ | Mr. Raj Batra | Hindi Medium | [ 64 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2018,Keshav Sharma,Toilet: Ek Prem Katha,False,Akshay Kumar | Keshav Sharma | Toilet: Ek Prem Katha,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2018,Mudit Sharma,Shubh Mangal Saavdhan,False,Ayushmann Khurrana | Mudit Sharma | Shubh Mangal Saavdhan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2018,Rohan Bhatnagar,Kaabil,False,Hrithik Roshan | Rohan Bhatnagar | Kaabil,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2018,Raees Alam,Raees,False,Shah Rukh Khan | Raees Alam | Raees,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2018,"Badrinath ""Badri"" Bansal",Badrinath Ki Dulhania,False,"Varun Dhawan | Badrinath ""Badri"" Bansal | Badrinath Ki Dulhania",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2019,,Ranbir Kapoor,True,2019 (64th) |  | Ranbir Kapoor ‡ | Sanjay Dutt | Sanju | [ 65 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2019,Lakshmikant Chauhan,Padman,False,Akshay Kumar | Lakshmikant Chauhan | Padman,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2019,Akash,Andhadhun,False,Ayushmann Khurrana | Akash | Andhadhun,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2019,Vicky,Stree,False,Rajkummar Rao | Vicky | Stree,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2019,Alauddin Khilji,Padmaavat,False,Ranveer Singh | Alauddin Khilji | Padmaavat,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2019,Bauua Singh,Zero,False,Shah Rukh Khan | Bauua Singh | Zero,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2020,,Ranveer Singh,True,2020 (65th) |  | Ranveer Singh ‡ | Murad Ahmed | Gully Boy | [ 66 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2020,Havildar Ishar Singh,Kesari,False,Akshay Kumar | Havildar Ishar Singh | Kesari,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2020,"Balmukund ""Bala"" Shukla",Bala,False,"Ayushmann Khurrana | Balmukund ""Bala"" Shukla | Bala",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2020,Anand Kumar,Super 30,False,Hrithik Roshan | Anand Kumar | Super 30,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2020,Kabir Singh,Kabir Singh,False,Shahid Kapoor | Kabir Singh | Kabir Singh,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2020,Major Vihaan Singh Shergill,Uri: The Surgical Strike,False,Vicky Kaushal | Major Vihaan Singh Shergill | Uri: The Surgical Strike,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2021,,Irrfan Khan,True,2021 (66th) |  | Irrfan Khan † (posthumous) | Champak Ghasiteram Bansal | Angrezi Medium | [ 67 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2021,Tanaji Malusare,Tanhaji,False,Ajay Devgn | Tanaji Malusare | Tanhaji,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2021,"Chunnan ""Mirza"" Nawab",Gulabo Sitabo,False,"Amitabh Bachchan | Chunnan ""Mirza"" Nawab | Gulabo Sitabo",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2021,Kartik Singh,Shubh Mangal Zyada Saavdhan,False,Ayushmann Khurrana | Kartik Singh | Shubh Mangal Zyada Saavdhan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2021,"Alok ""Alu"" Kumar Gupta",Ludo,False,"Rajkummar Rao | Alok ""Alu"" Kumar Gupta | Ludo",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2021,"Immanuel ""Manny"" Rajkumar Junior",Dil Bechara,False,"Sushant Singh Rajput (posthumous) | Immanuel ""Manny"" Rajkumar Junior | Dil Bechara",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2022,,Ranveer Singh,True,2022 (67th) |  | Ranveer Singh ‡ | Kapil Dev | 83 | [ 67 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2022,S. Venkatesh Vishwanath 'Vishu' Iyer,Atrangi Re,False,Dhanush | S. Venkatesh Vishwanath 'Vishu' Iyer | Atrangi Re,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2022,Vikram Batra,Shershaah,False,Sidharth Malhotra | Vikram Batra | Shershaah,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2022,Udham Singh,Sardar Udham,False,Vicky Kaushal | Udham Singh | Sardar Udham,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2023,,Rajkummar Rao,True,2023 (68th) |  | Rajkummar Rao ‡ | Shardul Thakur | Badhaai Do | [ 68 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2023,Vijay Salgaonkar,Drishyam 2,False,Ajay Devgn | Vijay Salgaonkar | Drishyam 2,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2023,Amit Srivastava,Uunchai,False,Amitabh Bachchan | Amit Srivastava | Uunchai,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2023,Pushkar Nath Pandit,The Kashmir Files,False,Anupam Kher | Pushkar Nath Pandit | The Kashmir Files,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2023,Vedha Betal,Vikram Vedha,False,Hrithik Roshan | Vedha Betal | Vikram Vedha,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2023,"Ruhaan Randhawa ""Rooh Baba",Bhool Bhulaiyaa 2,False,"Kartik Aaryan | Ruhaan Randhawa ""Rooh Baba"" | Bhool Bhulaiyaa 2",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2024,,Ranbir Kapoor,True,2024 (69th) |  | Ranbir Kapoor ‡ | Ranvijay Singh Balbir/Aziz Haque | Animal | [ 69 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2024,Tara Singh,Gadar 2,False,Sunny Deol | Tara Singh | Gadar 2,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2024,Sam Maneckshaw,Sam Bahadur,False,Vicky Kaushal | Sam Maneckshaw | Sam Bahadur,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2024,"Hardayal ""Hardy"" Singh Dhillon",Dunki,False,"Shah Rukh Khan | Hardayal ""Hardy"" Singh Dhillon | Dunki",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2024,Jawan,,False,Captain Vikram Rathore/ Azad Rathore | Jawan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2024,Rocky Randhawa,Rocky Aur Rani Kii Prem Kahaani,False,Ranveer Singh | Rocky Randhawa | Rocky Aur Rani Kii Prem Kahaani,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2025,,Kartik Aaryan,True,2025 (70th) |  | Kartik Aaryan ‡ | Murlikant Petkar | Chandu Champion | [ 70 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2025,Arjun Sen,I Want to Talk,True,Abhishek Bachchan ‡ | Arjun Sen | I Want to Talk,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2025,Syed Abdul Rahim,Maidaan,False,Ajay Devgn | Syed Abdul Rahim | Maidaan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2025,Vir Jagannath Mhatre,Sarfira,False,Akshay Kumar | Vir Jagannath Mhatre | Sarfira,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2025,"Shamsher ""Patty"" Pathania",Fighter,False,"Hrithik Roshan | Shamsher ""Patty"" Pathania | Fighter",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor
+2025,Vicky,Stree 2,False,Rajkumar Rao | Vicky | Stree 2,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor

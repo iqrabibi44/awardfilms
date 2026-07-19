@@ -1,0 +1,245 @@
+year,film,person,is_winner,raw_text,source_url
+1947,Dolores del Río,Las Abandonadas,False,1947 (1st) | Dolores del Río ‡ | Las Abandonadas | [ 8 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1947,La Barraca,,False,Anita Blanch | La Barraca,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1947,El Monje Blanco,,False,María Félix | El Monje Blanco,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1947,Flor de Durazno,,False,Esther Fernández | Flor de Durazno,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1947,María Félix,Enamorada,False,1947 (2nd) | María Félix ‡ | Enamorada | [ 9 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1947,La Otra,,False,Dolores del Río | La Otra,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1947,Pepita Jiménez,,False,Rosita Díaz Gimeno | Pepita Jiménez,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1948,Blanca Estela Pavón,Cuando Lloran los Valientes,False,1948 (3rd) | Blanca Estela Pavón ‡ | Cuando Lloran los Valientes | [ 10 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1948,El Yugo,,False,María Teresa Esquella | El Yugo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1948,La Perla,,False,María Elena Marqués | La Perla,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1949,María Félix,Río Escondido,False,1949 (4th) | María Félix ‡ | Río Escondido | [ 11 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1949,Si Adelita se fuera con otro,,False,Gloria Marín | Si Adelita se fuera con otro,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1949,Ustedes los Ricos,,False,Blanca Estela Pavón | Ustedes los Ricos,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1950,Marga López,Salón México,False,1950 (5th) | Marga López ‡ | Salón México | [ 12 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1950,El Dolor de los Hijos,,False,Rosario Granados | El Dolor de los Hijos,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1950,Al Caer la Tarde,,False,Carmen Montejo | Al Caer la Tarde,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1951,María Félix,Doña Diabla,False,1951 (6th) | María Félix ‡ | Doña Diabla | [ 13 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1951,La Casa Chica,,False,Dolores del Río | La Casa Chica,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1951,Otra Primavera,,False,Libertad Lamarque | Otra Primavera,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1952,Dolores del Río,Doña Perfecta,False,1952 (7th) | Dolores del Río ‡ | Doña Perfecta | [ 14 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1952,Negro es Mi Dolor,,False,Marga López | Negro es Mi Dolor,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1952,Paraíso robado,,False,Irasema Dilián | Paraíso robado,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1953,Stella Inda,El Rebozo de Soledad,False,1953 (8th) | Stella Inda ‡ | El Rebozo de Soledad | [ 15 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1953,La Loca,,False,Libertad Lamarque | La Loca,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1953,Un Rincón Cerca del Cielo,,False,Marga López | Un Rincón Cerca del Cielo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1954,Dolores del Río,El Niño y la Niebla,False,1954 (9th) | Dolores del Río ‡ | El Niño y la Niebla | [ 16 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1954,Las Tres Perfectas Casadas,,False,Laura Hidalgo | Las Tres Perfectas Casadas,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1954,Un Divorcio,,False,Marga López | Un Divorcio,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1955,Marga López,La Entrega,False,1955 (10th) | Marga López ‡ | La Entrega | [ 17 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1955,Camelia,,False,María Félix | Camelia,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1955,Cuando Me Vaya,,False,Libertad Lamarque | Cuando Me Vaya,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1956,Prudencia Grifell,Una Mujer en la Calle,False,1956 (11th) | Prudencia Grifell ‡ | Una Mujer en la Calle | [ 18 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1956,Después de la Tormenta,,False,Marga López | Después de la Tormenta,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1956,Un extraño en la escalera,,False,Silvia Pinal | Un extraño en la escalera,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1957,Silvia Pinal,Locura Pasional,False,1957 (12th) | Silvia Pinal ‡ | Locura Pasional | [ 19 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1957,Talpa,,False,Lilia Prado | Talpa,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1957,Los Amantes,,False,Yolanda Varela | Los Amantes,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1958,Silvia Pinal,La Dulce Enemiga,False,1958 (13th) | Silvia Pinal ‡ | La Dulce Enemiga | [ 20 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1958,La Culta Dama,,False,Marilú Elizaga | La Culta Dama,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1958,"Feliz Año, Amor Mío",,False,"Marga López | Feliz Año, Amor Mío",https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1959,Not awarded,,True,1959 — 1971 | Not awarded | [ 1 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1972,Rita Macedo,Nosotros,False,"1972 (14th) | Rita Macedo ‡ | ""Nosotros"" (episode from Tú, Yo, Nosotros ) | [ 21 ]",https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1972,Nosotros,,False,"Julissa | ""Nosotros"" (episode from Tú, Yo, Nosotros )",https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1972,Las Reglas del Juego,,False,Isela Vega | Las Reglas del Juego,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1973,Lucha Villa,Mecánica Nacional,False,1973 (15th) | Lucha Villa ‡ | Mecánica Nacional | [ 22 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1973,Los Meses y los Días,,False,Maritza Olivares | Los Meses y los Días,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1973,Los Cachorros,,False,Helena Rojo | Los Cachorros,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1974,Katy Jurado,Caridad,False,"1974 (16th) | Katy Jurado ‡ | ""Caridad"" (episode from Fé, Esperanza y Caridad ) | [ 23 ]",https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1974,El Cambio,,False,Ofelia Medina | El Cambio,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1974,El Principio,,False,Lucha Villa | El Principio,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1975,Pilar Pellicer,La Choca,False,1975 (17th) | Pilar Pellicer ‡ | La Choca | [ 24 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1975,La Otra Virginidad,,False,Leticia Perdigón | La Otra Virginidad,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1975,Tráiganme la Cabeza de Alfredo García,,False,Isela Vega | Tráiganme la Cabeza de Alfredo García,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1976,Rocío Brambila,De Todos Modos Juan Te Llamas,False,1976 (18th) | Rocío Brambila ‡ | De Todos Modos Juan Te Llamas | [ 25 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1976,De Todos Modos Juan Te Llamas,,False,Patricia Aspillaga | De Todos Modos Juan Te Llamas,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1976,Actas de Marusia,,False,Diana Bracho | Actas de Marusia,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1977,Martha Navarro,La Pasión Según Berenice,False,1977 (19th) | Martha Navarro ‡ | La Pasión Según Berenice | [ 26 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1977,Las Poquianchis,,False,Leonor Llausás | Las Poquianchis,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1977,El Apando,,False,María Rojo | El Apando,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1978,María Rojo,Naufragio,False,1978 (20th) | María Rojo ‡ | Naufragio | [ 27 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1978,El Jardín de los Cerezos,,False,María Elena Marqués | El Jardín de los Cerezos,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1978,Naufragio,,False,Ana Ofelia Murguía | Naufragio,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1979,Adriana Roel,Anacrusa,False,1979 (21st) | Adriana Roel ‡ | Anacrusa | [ 28 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1979,Amor Libre,,False,Alma Muriel | Amor Libre,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1979,México Norte,,False,Patricia Reyes Spíndola | México Norte,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1980,Norma Herrera,Fuego en el Mar,False,1980 (22nd) | Norma Herrera ‡ | Fuego en el Mar | [ 29 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1980,Perro Callejero,,True,Blanca Guerra ‡ | Perro Callejero,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1980,La Viuda de Montiel,,False,Geraldine Chaplin | La Viuda de Montiel,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1981,Helena Rojo,Misterio,False,1981 (23rd) | Helena Rojo ‡ | Misterio | [ 30 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1981,Traficantes de Pánico,,False,Marissa Meli | Traficantes de Pánico,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1981,Las Grandes Aguas,,False,Tina Romero | Las Grandes Aguas,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1982,Ninón Sevilla,Noche de Carnaval,False,1982 (24th) | Ninón Sevilla ‡ | Noche de Carnaval | [ 31 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1982,La Seducción,,False,Katy Jurado | La Seducción,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1982,Retrato de Una Mujer Casada,,False,Alma Muriel | Retrato de Una Mujer Casada,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1983,Beatriz Sheridan,Confidencias,False,1983 (25th) | Beatriz Sheridan ‡ | Confidencias | [ 4 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1983,La Pachanga,,False,María Rojo | La Pachanga,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1983,La Víspera,,False,María Rojo | La Víspera,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1984,Isela Vega,La Viuda Negra,False,1984 (26th) | Isela Vega ‡ | La Viuda Negra | [ 32 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1984,El Día que Murió Pedro Infante,,False,Delia Casanova | El Día que Murió Pedro Infante,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1984,Motel,,False,Blanca Guerra | Motel,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1985,Ofelia Medina,Frida,False,1985 (27th) | Ofelia Medina ‡ | Frida | [ 33 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1985,Luna de Sangre,,False,Alma Muriel | Luna de Sangre,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1985,De Veras Me Atrapaste,,False,Lucy Reina | De Veras Me Atrapaste,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1986,Patricia Reyes Spíndola,Los Motivos de Luz,False,1986 (28th) | Patricia Reyes Spíndola ‡ | Los Motivos de Luz | [ 34 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1986,Veneno Para Las Hadas,,False,Elsa María Gutiérrez | Veneno Para Las Hadas,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1986,Veneno Para Las Hadas,,False,Ana Patricia Rojo | Veneno Para Las Hadas,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1987,Blanca Guerra,El Imperio de la Fortuna,False,1987 (29th) | Blanca Guerra ‡ | El Imperio de la Fortuna | [ 35 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1987,Terror y Encajes Negros,,False,Maribel Guardia | Terror y Encajes Negros,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1987,Amor a la Vuelta de la Esquina,,False,Gabriela Roel | Amor a la Vuelta de la Esquina,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1988,Blanca Guerra,Días Dificiles,False,1988 (30th) | Blanca Guerra ‡ | Días Dificiles | [ 36 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1988,Lo Que Importa es Vivir,,True,María Rojo ‡ | Lo Que Importa es Vivir,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1988,"Mariana, Mariana",,False,"Elizabeth Aguilar | Mariana, Mariana",https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1989,Delia Casanova,Mentiras Piadosas,False,1989 (31st) | Delia Casanova ‡ | Mentiras Piadosas | [ 37 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1989,El Costo de la Vida,,False,Alma Delfina Martínez | El Costo de la Vida,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1989,El Jinete de la Divina Providencia,,False,Martha Navarro | El Jinete de la Divina Providencia,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1990,Lourdes Elizarrarás,La Ciudad al Desnudo,False,1990 (32nd) | Lourdes Elizarrarás ‡ | La Ciudad al Desnudo | [ 38 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1990,Tres Veces Mojado,,False,Carmen Cardenal | Tres Veces Mojado,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1990,Rosa de Dos Aromas,,False,Patricia Rivera | Rosa de Dos Aromas,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1991,María Rojo,Rojo Amanecer,False,1991 (33rd) | María Rojo ‡ | Rojo Amanecer | [ 39 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1991,Pueblo de Madera,,False,Gabriela Roel | Pueblo de Madera,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1992,Regina Torné,Como Agua Para Chocolate,False,1992 (34th) | Regina Torné ‡ | Como Agua Para Chocolate | [ 40 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1992,Como Agua Para Chocolate,,False,Lumi Cavazos | Como Agua Para Chocolate,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1992,Muerte Ciega,,False,Helena Rojo | Muerte Ciega,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1993,Beatriz Aguirre,Los Años de Greta,False,1993 (35th) | Beatriz Aguirre ‡ | Los Años de Greta | [ 41 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1993,Mi Querido Tom Mix,,False,Ana Ofelia Murguía | Mi Querido Tom Mix,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1993,Ángel de Fuego,,False,Evangelina Sosa | Ángel de Fuego,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1994,Lucía Muñoz,Principio y Fin,False,1994 (36th) | Lucía Muñoz ‡ | Principio y Fin | [ 42 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1994,La Vida Conyugal,,False,Socorro Bonilla | La Vida Conyugal,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1994,Principio y Fin,,False,Julieta Egurrola | Principio y Fin,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1994,Novia Que Te Vea,,False,Claudette Maillé | Novia Que Te Vea,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1994,Novia Que Te Vea,,False,Maya Mishalska | Novia Que Te Vea,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1995,Margarita Sanz,El Callejón de los Milagros,False,1995 (37th) | Margarita Sanz ‡ | El Callejón de los Milagros | [ 43 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1995,En Medio de la Nada,,False,Blanca Guerra | En Medio de la Nada,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1995,Dos Crimenes,,False,Dolores Heredia | Dos Crimenes,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1995,El Callejón de los Milagros,,False,Salma Hayek | El Callejón de los Milagros,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1995,Los Vuelcos del Corazón,,False,María Rojo | Los Vuelcos del Corazón,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1996,Patricia Reyes Spíndola,La Reina de la Noche,False,1996 (38th) | Patricia Reyes Spíndola ‡ | La Reina de la Noche | [ 5 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1996,Sucesos Distantes,,False,Angélica Aragón | Sucesos Distantes,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1996,Entre Pancho Villa y Una Mujer Desnuda,,False,Diana Bracho | Entre Pancho Villa y Una Mujer Desnuda,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1996,El Anzuelo,,False,Ana Ofelia Murguía | El Anzuelo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1996,Mujeres Insumisas,,False,Patricia Reyes Spíndola | Mujeres Insumisas,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1997,Regina Orozco,Profundo Carmesí,False,1997 (39th) | Regina Orozco ‡ | Profundo Carmesí | [ 44 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1997,Cilantro y Perejil,,False,Arcelia Ramírez | Cilantro y Perejil,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1997,De Muerte Natural,,False,Ana Ofelia Murguía | De Muerte Natural,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1998,Leticia Huijara,Por Si No Te Vuelvo a Ver,False,1998 (40th) | Leticia Huijara ‡ | Por Si No Te Vuelvo a Ver | [ 45 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1998,Elisa Antes del Fin del Mundo,,False,Sherlyn González | Elisa Antes del Fin del Mundo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1998,"De Noche Vienes, Esmeralda",,False,"María Rojo | De Noche Vienes, Esmeralda",https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1999,Blanca Guerra,Un Embrujo,False,1999 (41st) | Blanca Guerra ‡ | Un Embrujo | [ 46 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1999,La Primera Noche,,False,Mariana Ávila | La Primera Noche,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+1999,El Cometa,,False,Ana Claudia Talancón | El Cometa,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2000,Susana Zabaleta,"Sexo, Pudor y Lágrimas",False,"2000 (42nd) | Susana Zabaleta ‡ | Sexo, Pudor y Lágrimas | [ 47 ]",https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2000,Santitos,,False,Dolores Heredia | Santitos,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2000,En Un Claroscuro de la Luna,,False,Arcelia Ramírez | En Un Claroscuro de la Luna,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2001,Ximena Ayala,Perfume de Violetas,False,2001 (43rd) | Ximena Ayala ‡ | Perfume de Violetas (Nadie Te Oye) | [ 48 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2001,Su Alteza Serenísima,,True,Ana Bertha Espin ‡ | Su Alteza Serenísima,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2001,Escrito en el Cuerpo de la Noche,,False,Ana Ofelia Murguía | Escrito en el Cuerpo de la Noche,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2002,Maya Zapata,De la Calle,False,2002 (44th) | Maya Zapata ‡ | De la Calle | [ 49 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2002,Demasiado Amor,,False,Karina Gidi [ es ] | Demasiado Amor,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2002,El Segundo Aire,,False,Lisa Owen | El Segundo Aire,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2003,Carmen Beato,Aro Tolbukhin: En la Mente del Asesino,False,2003 (45th) | Carmen Beato ‡ | Aro Tolbukhin: En la Mente del Asesino | [ 50 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2003,Ciudades Oscuras,,False,Zaide Silvia Gutiérrez | Ciudades Oscuras,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2003,El Crimen del Padre Amaro,,False,Ana Claudia Talancón | El Crimen del Padre Amaro,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2004,Rosa María Bianchi,Nicotina,False,2004 (46th) | Rosa María Bianchi ‡ | Nicotina | [ 51 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2004,Japón,,False,Magdalena Flores | Japón,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2004,Nicotina,,False,Carmen Madrid | Nicotina,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2005,Danny Perea,Temporada de Patos,False,2005 (47th) | Danny Perea ‡ | Temporada de Patos | [ 52 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2005,Digna... Hasta el Último Aliento,,False,Vanessa Bauche | Digna... Hasta el Último Aliento,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2005,Manos Libres,,False,Ana Paula Corpus | Manos Libres (Nadie te Habla),https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2005,Voces Inocentes,,False,Leonor Varela | Voces Inocentes,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2006,Mayahuel del Monte,Noticias Lejanas,False,2006 (48th) | Mayahuel del Monte ‡ | Noticias Lejanas | [ 53 ] [ 54 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2006,American Visa,,False,Kate del Castillo | American Visa,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2006,Mezcal,,False,Ana Graham | Mezcal,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2007,Elizabeth Cervantes,Más Que a Nada en el Mundo,False,2007 (49th) | Elizabeth Cervantes ‡ | Más Que a Nada en el Mundo | [ 55 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2007,El Laberinto del Fauno,,True,Maribel Verdú ‡ | El Laberinto del Fauno,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2007,La Niña en la Piedra,,False,Sofia Espinosa | La Niña en la Piedra,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2008,Irene Azuela,Quemar las Naves,False,2008 (50th) | Irene Azuela ‡ | Quemar las Naves | [ 56 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2008,Párpados Azules,,False,Cecilia Suárez | Párpados Azules,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2008,Luz Silenciosa,,False,Miriam Toews | Luz Silenciosa,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2009,Irene Azuela,Bajo la Sal,False,2009 (51st) | Irene Azuela ‡ | Bajo la Sal | [ 57 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2009,I'm Gonna Explode,,False,María Deschamps | I'm Gonna Explode,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2009,Sólo Quiero Caminar,,False,Ariadna Gil | Sólo Quiero Caminar,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2010,Asur Zágada González,Backyard: El Traspatio,False,2010 (52nd) | Asur Zágada González ‡ | Backyard: El Traspatio | [ 58 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2010,Cosas Insignificantes,,False,Paulina Gaitán | Cosas Insignificantes,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2010,Viaje Redondo,,False,Teresa Ruíz | Viaje Redondo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2011,Mónica del Carmen,Año Bisiesto,False,2011 (53rd) | Mónica del Carmen ‡ | Año Bisiesto | [ 59 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2011,Abel,,False,Karina Gidi [ es ] | Abel,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2011,Biutiful,,False,Maricel Álvarez | Biutiful,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2011,Las Buenas Hierbas,,False,Úrsula Pruneda | Las Buenas Hierbas,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2012,Magda Vizcaíno,Martha,False,2012 (54th) | Magda Vizcaíno ‡ | Martha | [ 60 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2012,Victorio,,False,Irán Castillo | Victorio,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2012,Summer of Goliath,,False,Teresita Sánchez | Summer of Goliath,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2013,Úrsula Pruneda,El Sueño de Lú,False,2013 (55th) | Úrsula Pruneda ‡ | El Sueño de Lú | [ 61 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2013,La Demora,,False,Roxana Blanco | La Demora,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2013,Despues de Lucía,,False,Tessa Ia | Despues de Lucía,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2013,El Premio,,False,Paula Galinelli Hertzog | El Premio,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2013,La vida precoz y breve de Sabina Rivas,,False,Greisy Mena | La vida precoz y breve de Sabina Rivas,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2014,Adriana Roel,No Quiero Dormir Sola,False,2014 (56th) | Adriana Roel ‡ | No Quiero Dormir Sola | [ 62 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2014,Los Insólitos Peces Gato,,False,Ximena Ayala | Los Insólitos Peces Gato,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2014,Huérfanos,,False,Dolores Heredia | Huérfanos,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2014,Club Sandwich,,False,María Renée Prudencio | Club Sandwich,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2014,Potosí,,False,Arcelia Ramírez | Potosí,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2015,Adriana Paz,La Tirisia,False,2015 (57th) | Adriana Paz ‡ | La Tirisia | [ 63 ] [ 64 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2015,Las Oscuras Primaveras,,False,Irene Azuela | Las Oscuras Primaveras,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2015,Las Horas Contigo,,False,Cassandra Ciangherotti | Las Horas Contigo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2015,La Guerra de Manuela Jankovic,,False,Karina Gidi [ es ] | La Guerra de Manuela Jankovic,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2015,Güeros,,False,Ilse Salas | Güeros,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2016,Sofía Espinosa,Gloria,False,2016 (58th) | Sofía Espinosa ‡ | Gloria | [ 65 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2016,Dólares de Arena,,False,Geraldine Chaplin | Dólares de Arena,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2016,El Placer es Mío,,False,Flor Edwarda Gurrola [ es ] | El Placer es Mío,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2016,Hilda,,False,Verónica Langer | Hilda,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2016,Un Monstruo de Mil Cabezas,,False,Jana Raluy [ es ] | Un Monstruo de Mil Cabezas,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2017,Verónica Langer,La Caridad,False,2017 (59th) | Verónica Langer ‡ | La Caridad | [ 66 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2017,Todo lo Demas,,False,Adriana Barraza | Todo lo Demas,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2017,Rumbos Paralelos,,False,Ludwika Paleta | Rumbos Paralelos,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2017,Mr. Pig,,False,Maya Rudolph | Mr. Pig,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2017,La Caja Vacía,,False,Claudia Sainte–Luce [ es ] | La Caja Vacía,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2018,Karina Gidi,Los Adioses,False,2018 (60th) | Karina Gidi [ es ] ‡ | Los Adioses | [ 67 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2018,Tamara y la Catarina,,False,Ángeles Cruz | Tamara y la Catarina,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2018,Tiempo Compartido,,False,Cassandra Ciangherotti | Tiempo Compartido,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2018,Tamara y la Catarina,,False,Angelina Peláez [ es ] | Tamara y la Catarina,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2018,Verónica,,False,Arcelia Ramírez | Verónica,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2019,Ilse Salas,Las Niñas Bien,False,2019 (61st) | Ilse Salas ‡ | Las Niñas Bien | [ 68 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2019,Los Días Más Oscuros de Nosotras,,False,Sophie Alexander-Katz | Los Días Más Oscuros de Nosotras,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2019,Roma,,False,Yalitza Aparicio | Roma,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2019,La Camarista,,False,Gabriela Cartol | La Camarista,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2019,Cría Puercos,,False,Concepción Márquez | Cría Puercos,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2020,Flor Edwarda Gurrola,Luciérnagas,False,2020 (62nd) | Flor Edwarda Gurrola [ es ] | Luciérnagas | [ 69 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2020,Solteras,,False,Cassandra Ciangherotti | Solteras,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2020,Clases de Historia,,False,Verónica Langer | Clases de Historia,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2020,Polvo,,False,Mariana Treviño | Polvo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2020,Sonora,,False,Giovanna Zacarías | Sonora,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2021,Mercedes Hernández,Sin señas particulares,False,2021 (63rd) | Mercedes Hernández | Sin señas particulares | [ 69 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2021,El baile de los 41,,False,Mabel Cadena | El baile de los 41,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2021,Nuevo Orden,,False,Mónica del Carmen [ es ] | Nuevo Orden,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2021,Leona,,False,Naian Gonzalez Norvind | Leona,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2021,Los Lobos,,False,Martha Reyes Arias | Los Lobos,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2022,Mónica del Carmen,Una Película de Policías,False,2022 (64th) | Mónica del Carmen [ es ] | Una Película de Policías | [ 70 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2022,Noche de Fuego,,False,Ana Cristina Ordóñez | Noche de Fuego,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2022,El Diablo Entre las Piernas,,False,Sylvia Pasquel | El Diablo Entre las Piernas,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2022,Plaza Catedral,,False,Ilse Salas | Plaza Catedral,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2022,Cosas Imposibles,,False,Nora Velázquez [ es ] | Cosas Imposibles,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2023,Arcelia Ramírez,La civil,False,2023 (65th) | Arcelia Ramírez | La civil | [ 71 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2023,Coraje,,False,Marta Aura | Coraje,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2023,Ruido,,False,Julieta Egurrola | Ruido,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2023,Huesera,,False,Natalia Solián | Huesera,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2023,La caída,,False,Karla Souza | La caída,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2024,Adriana Llabrés,Todo El Silencio,False,2024 (66th) | Adriana Llabrés | Todo El Silencio | [ 72 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2024,El Último Vagón,,False,Adriana Barraza | El Último Vagón,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2024,Familia,,False,Cassandra Ciangherotti | Familia,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2024,Señora Influencer,,False,Mónica Huarte | Señora Influencer,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2024,Familia,,False,Ilse Salas | Familia,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2025,Luisa Huertas,No Nos Moverán,False,2025 (67th) | Luisa Huertas | No Nos Moverán | [ 73 ],https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2025,Corina,,False,Naian González Norvind | Corina,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2025,La Cocina,,False,Rooney Mara | La Cocina,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2025,Un Actor Malo,,False,Fiona Palomo | Un Actor Malo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+2025,Arillo de Hombre Muerto,,False,Adriana Paz | Arillo de Hombre Muerto,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+,Blanca Guerra,,False,4 | Blanca Guerra,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+,Dolores del Río,,False,3 | Dolores del Río,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+,Irene Azuela,,False,2 | Irene Azuela,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+,María Rojo,,False,8 | María Rojo,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+,Marga López,,False,7 | Marga López,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+,Blanca Guerra,,False,6 | Blanca Guerra,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+,Dolores del Río,,False,5 | Dolores del Río,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress
+,Karina Gidi,,False,4 | Karina Gidi,https://en.wikipedia.org/wiki/Ariel_Award_for_Best_Actress

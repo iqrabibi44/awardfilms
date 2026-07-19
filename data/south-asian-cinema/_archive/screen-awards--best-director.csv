@@ -1,0 +1,31 @@
+year,film,person,is_winner,raw_text,source_url
+,Sanjay Leela Bhansali,,False,3 | Sanjay Leela Bhansali,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Director
+,"Rakesh Roshan , Ashutosh Gowariker",,False,"2 | Rakesh Roshan , Ashutosh Gowariker",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Director
+1995,Sooraj R. Barjatya,Hum Aapke Hain Kaun,False,1995 | Sooraj R. Barjatya | Hum Aapke Hain Kaun,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Director
+1996,Aditya Chopra,Dilwale Dulhaniya Le Jayenge,False,1996 | Aditya Chopra | Dilwale Dulhaniya Le Jayenge,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Director
+1997,Dharmesh Darshan,Raja Hindustani,False,1997 | Dharmesh Darshan | Raja Hindustani,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Director
+1998,J. P. Dutta,Border,False,1998 | J. P. Dutta | Border,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Director
+1999,Karan Johar,Kuch Kuch Hota Hai,False,1999 | Karan Johar | Kuch Kuch Hota Hai,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Director
+2000,Sanjay Leela Bhansali,Hum Dil De Chuke Sanam,False,2000 | Sanjay Leela Bhansali | Hum Dil De Chuke Sanam,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Director
+2001,Rakesh Roshan,Kaho Naa... Pyaar Hai,False,2001 | Rakesh Roshan | Kaho Naa... Pyaar Hai,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Director
+2002,Ashutosh Gowariker,Lagaan,False,2002 | Ashutosh Gowariker | Lagaan,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Director
+2003,Sanjay Leela Bhansali,Devdas,False,2003 | Sanjay Leela Bhansali | Devdas,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Director
+2004,Rakesh Roshan,Koi... Mil Gaya,False,2004 | Rakesh Roshan | Koi... Mil Gaya,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Director
+2005,Kunal Kohli,Hum Tum,False,2005 | Kunal Kohli | Hum Tum,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Director
+2006,Sanjay Leela Bhansali,Black,False,2006 | Sanjay Leela Bhansali | Black,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Director
+2007,Rakeysh Omprakash Mehra,Rang De Basanti,False,2007 | Rakeysh Omprakash Mehra | Rang De Basanti,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Director
+2008,Aamir Khan and Shimit Amin,Taare Zameen Par and Chak De India,False,2008 | Aamir Khan and Shimit Amin | Taare Zameen Par and Chak De India,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Director
+2009,Ashutosh Gowariker and Neeraj Pandey,Jodhaa Akbar and A Wednesday,False,2009 | Ashutosh Gowariker and Neeraj Pandey | Jodhaa Akbar and A Wednesday,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Director
+2010,Rajkumar Hirani,3 Idiots,False,2010 | Rajkumar Hirani | 3 Idiots,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Director
+2011,Vikramaditya Motwane,Udaan,False,2011 | Vikramaditya Motwane | Udaan,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Director
+2012,Milan Luthria,The Dirty Picture,False,2012 | Milan Luthria | The Dirty Picture,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Director
+2013,Anurag Basu,Barfi!,False,2013 | Anurag Basu | Barfi!,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Director
+2014,Shoojit Sircar,Madras Cafe,False,2014 | Shoojit Sircar | Madras Cafe,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Director
+2015,Vikas Bahl,Queen,False,2015 | Vikas Bahl | Queen [ 1 ],https://en.wikipedia.org/wiki/Screen_Award_for_Best_Director
+2016,Tinu Suresh Desai,Rustom,False,2016 | Tinu Suresh Desai | Rustom,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Director
+2016,Kabir Khan,Bajrangi Bhaijaan,False,2016 | Kabir Khan | Bajrangi Bhaijaan [ 2 ],https://en.wikipedia.org/wiki/Screen_Award_for_Best_Director
+2017,Ram Madhvani,Neerja,False,2017 | Ram Madhvani | Neerja,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Director
+2018,Nitesh Tiwari,Dangal,False,2018 | Nitesh Tiwari | Dangal,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Director
+2019,Sriram Raghavan,Andhadhun,False,2019 | Sriram Raghavan | Andhadhun,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Director
+2020,Zoya Akhtar,Gully Boy,False,2020 | Zoya Akhtar | Gully Boy,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Director
+2026,Aditya Dhar,Dhurandhar,False,2026 | Aditya Dhar | Dhurandhar,https://en.wikipedia.org/wiki/Screen_Award_for_Best_Director

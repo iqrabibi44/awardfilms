@@ -1,0 +1,33 @@
+year,film,person,is_winner,raw_text,source_url
+,4,"2014, 2015, 2018, 2019",False,"Arijit Singh | 4 | 2014, 2015, 2018, 2019",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Male_Playback
+,3,"2002, 2005, 2006",False,"Sonu Nigam | 3 | 2002, 2005, 2006",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Male_Playback
+,2,"1999, 2000",False,"Sukhwinder Singh | 2 | 1999, 2000",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Male_Playback
+2010,"2010, 2011",,False,"2010, 2011",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Male_Playback
+1997,"1997, 2003",,False,"1997, 2003",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Male_Playback
+1995,Kumar Sanu,Ek Ladki Ko Dekha,False,"1995 | Kumar Sanu | ""Ek Ladki Ko Dekha"" | 1942: A Love Story",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Male_Playback
+1996,Hariharan,Dil Ne Dil Se,False,"1996 | Hariharan | ""Dil Ne Dil Se"" | Haqeeqat",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Male_Playback
+1997,Udit Narayan,Aaye Ho Mere Zindagi Main,False,"1997 | Udit Narayan | ""Aaye Ho Mere Zindagi Main"" | Raja Hindustani",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Male_Playback
+1998,Abhijeet Bhattacharya,Main Koi Aisa Geet,False,"1998 | Abhijeet Bhattacharya | ""Main Koi Aisa Geet"" | Yes Boss",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Male_Playback
+1999,Sukhwinder Singh,Chaiyya Chaiyya,False,"1999 | Sukhwinder Singh | "" Chaiyya Chaiyya "" | Dil Se..",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Male_Playback
+2000,Ramta Jogi,Taal,False,"2000 | ""Ramta Jogi"" | Taal",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Male_Playback
+2001,Lucky Ali,Na Tum Jaano Na Hum,False,"2001 | Lucky Ali | ""Na Tum Jaano Na Hum"" | Kaho Na Pyar Hai",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Male_Playback
+2002,Sonu Nigam,Tanhayi,False,"2002 | Sonu Nigam | ""Tanhayi"" | Dil Chahta Hai",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Male_Playback
+2003,Udit Narayan,Woh Chand Jaisi Ladki,False,"2003 | Udit Narayan | ""Woh Chand Jaisi Ladki"" | Devdas",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Male_Playback
+2004,Kailash Kher,Alla Ke Bande,False,"2004 | Kailash Kher | ""Alla Ke Bande"" | Waisa Bhi Hota Hai Part II",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Male_Playback
+2005,Sonu Nigam,Main Hoon Na,False,"2005 | Sonu Nigam | ""Main Hoon Na"" | Main Hoon Na",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Male_Playback
+2006,Dheere Jalna,Paheli,False,"2006 | ""Dheere Jalna"" | Paheli",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Male_Playback
+2007,Shaan,Chand Sifarish,False,"2007 | Shaan | ""Chand Sifarish"" | Fanaa",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Male_Playback
+2008,Soham Chakraborty,In Dino,False,"2008 | Soham Chakraborty | ""In Dino"" | Life In A... Metro",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Male_Playback
+2009,KK,Khuda Jaane,False,"2009 | KK | ""Khuda Jaane"" | Bachna Ae Haseeno [ 1 ]",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Male_Playback
+2010,Rahat Fateh Ali Khan,Aaj Din Chadheya,False,"2010 | Rahat Fateh Ali Khan | ""Aaj Din Chadheya"" | Love Aaj Kal",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Male_Playback
+2011,Dil Toh Baccha Hai Ji,Ishqiya,False,"2011 | ""Dil Toh Baccha Hai Ji"" | Ishqiya",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Male_Playback
+2012,Mohit Chauhan,"Saadda Haq"" ""Phir Se Ud Chala",False,"2012 | Mohit Chauhan | ""Saadda Haq"" ""Phir Se Ud Chala"" | Rockstar",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Male_Playback
+2013,Javed Ali,Ishaqzaade,False,"2013 | Javed Ali | ""Ishaqzaade"" | Ishaqzaade",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Male_Playback
+2014,Arijit Singh,Tum Hi Ho,False,"2014 | Arijit Singh | "" Tum Hi Ho "" | Aashiqui 2",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Male_Playback
+2015,Muskurane,CityLights,False,"2015 | "" Muskurane "" | CityLights",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Male_Playback
+2016,Papon,Moh Moh Ke Dhaage,False,"2016 | Papon | ""Moh Moh Ke Dhaage"" | Dum Laga Ke Haisha",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Male_Playback
+2017,Amit Mishra,Bulleya,False,"2017 | Amit Mishra | "" Bulleya "" | Ae Dil Hai Mushkil",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Male_Playback
+2018,Arijit Singh,"Zaalima "" ""Galti Se Mistake",False,"2018 | Arijit Singh | "" Zaalima "" ""Galti Se Mistake"" | Raees Jagga Jasoos",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Male_Playback
+2019,Ae Watan,Raazi,False,"2019 | "" Ae Watan "" | Raazi",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Male_Playback
+2020,Sachet Tandon,Bekhayali,False,"2020 | Sachet Tandon | "" Bekhayali "" | Kabir Singh",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Male_Playback
+2026,Faheem Abdullah,Saiyaara,False,"2026 | Faheem Abdullah | "" Saiyaara "" | Saiyaara",https://en.wikipedia.org/wiki/Screen_Award_for_Best_Male_Playback

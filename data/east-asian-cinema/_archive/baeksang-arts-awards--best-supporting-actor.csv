@@ -1,0 +1,72 @@
+year,film,person,is_winner,raw_text,source_url
+1977,Jang Hyuk,Commando on the Nakdong River,True,1977 (13th) | Jang Hyuk ‡ | Commando on the Nakdong River | 낙동강은 흐르는가 | Hwang Sang Sa,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2013,Ma Dong-seok,The Neighbor,True,2013 ( 49th ) | Ma Dong-seok ‡ | The Neighbor | 이웃사람 | Ahn Hyuk-mo,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2013,Perfect Number,용의자X,False,Cho Jin-woong | Perfect Number | 용의자X | Detective Jo Min-beom,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2013,Miracle in Cell No. 7,7번방의 선물,False,Oh Dal-su | Miracle in Cell No. 7 | 7번방의 선물 | So Yang-ho,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2013,New World,신세계,False,Park Sung-woong | New World | 신세계 | Lee Joong-gu,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2013,All About My Wife,내 아내의 모든 것,False,Ryu Seung-ryong | All About My Wife | 내 아내의 모든 것 | Jang Sung-ki,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2014,Lee Jung-jae,The Face Reader,True,2014 ( 50th ) | Lee Jung-jae ‡ | The Face Reader | 관상 | Grand Prince Suyang,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2014,The Suspect,용의자,False,Jo Sung-ha | The Suspect | 용의자 | Kim Seok-ho,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2014,The Face Reader,관상,False,Kim Eui-sung | The Face Reader | 관상 | Han Myeonghoe,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2014,The Attorney,변호인,False,Kwak Do-won | The Attorney | 변호인 | Cha Dong-young,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2014,Venus Talk,관능의 법칙,False,Lee Geung-young | Venus Talk | 관능의 법칙 | Choi Sung-jae,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2015,Yoo Hae-jin,The Pirates,True,2015 ( 51st ) | Yoo Hae-jin ‡ | The Pirates | 해적: 바다로 간 산적 | Chul-bong,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2015,Whistle Blower,제보자,False,Lee Geung-young | Whistle Blower | 제보자 | Lee Jang-hwan,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2015,The Deal,살인의뢰,False,Park Sung-woong | The Deal | 살인의뢰 | Gang-chun,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2015,A Girl at My Door,도희야,False,Song Sae-byeok | A Girl at My Door | 도희야 | Park Yong-ha,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2015,The Royal Tailor,상의원,False,Yoo Yeon-seok | The Royal Tailor | 상의원 | King,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2016,Lee Geung-young,Minority Opinion,True,2016 ( 52nd ) | Lee Geung-young ‡ | Minority Opinion | 소수의견 | Park Jae-ho,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2016,Office,오피스,False,Bae Seong-woo | Office | 오피스 | Kim Byeong-gook,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2016,Assassination,암살,False,"Cho Jin-woong | Assassination | 암살 | Chu Sang-ok AKA ""Big Gun""",https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2016,Veteran,베테랑,False,Oh Dal-su | Veteran | 베테랑 | Team leader Oh,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2016,Coin Locker Girl,차이나타운,False,Uhm Tae-goo | Coin Locker Girl | 차이나타운 | Woo Gon,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2017,Kim Eui-sung,Train to Busan,True,2017 ( 53rd ) | Kim Eui-sung ‡ | Train to Busan | 부산행 | Yong-seok,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2017,Train to Busan,부산행,False,Ma Dong-seok | Train to Busan | 부산행 | Sang-hwa,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2017,The King,더 킹,False,Bae Seong-woo | The King | 더 킹 | Yang Dong-chul,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2017,The Age of Shadows,밀정,False,Uhm Tae-goo | The Age of Shadows | 밀정 | Hashimoto,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2017,The Handmaiden,아가씨,False,Cho Jin-woong | The Handmaiden | 아가씨 | Uncle Kouzuki,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2018,Park Hee-soon,1987: When the Day Comes,True,2018 ( 54th ) | Park Hee-soon ‡ | 1987: When the Day Comes | 1987 | Jo Han-kyung,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2018,Along with the Gods: The Two Worlds,신과함께-죄와 벌,False,Kim Dong-wook | Along with the Gods: The Two Worlds | 신과함께-죄와 벌 | Kim Soo-hong,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2018,The Merciless,불한당: 나쁜 놈들의 세상,False,Kim Hee-won | The Merciless | 불한당: 나쁜 놈들의 세상 | Byung-gab,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2018,Steel Rain,강철비,False,Jo Woo-jin | Steel Rain | 강철비 | Choi Myung-rok,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2018,The Outlaws,범죄도시,False,Jin Seon-kyu | The Outlaws | 범죄도시 | Wi Seong-rak,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2019,Kim Joo-hyuk,Believer,True,2019 ( 55th ) | Kim Joo-hyuk ‡ | Believer | 독전 | Jin Ha-rim,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2019,Believer,독전,False,Park Hae-joon | Believer | 독전 | Seon-chang,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2019,Burning,버닝,False,Steven Yeun | Burning | 버닝 | Ben,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2019,The Drug King,마약왕,False,Jo Woo-jin | The Drug King | 마약왕 | Jo Seong-kang,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2019,Extreme Job,극한직업,False,Jin Seon-kyu | Extreme Job | 극한직업 | Detective Ma,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2020,Lee Kwang-soo,Inseparable Bros,True,2020 ( 56th ) | Lee Kwang-soo ‡ | Inseparable Bros | 나의 특별한 형제 | Dong-goo,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2020,Lucky Chan-sil,찬실이는 복도 많지,False,Kim Young-min | Lucky Chan-sil | 찬실이는 복도 많지 | Jang Guk-young,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2020,Parasite,기생충,False,Park Myung-hoon | Parasite | 기생충 | Geun-sae,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2020,The Divine Move 2: The Wrathful,신의 한 수: 귀수편,False,Won Hyun-joon | The Divine Move 2: The Wrathful | 신의 한 수: 귀수편 | Shaman Jangsung,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2020,The Man Standing Next,남산의 부장들,False,Lee Hee-joon | The Man Standing Next | 남산의 부장들 | Kwak Sang-cheon,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2021,Park Jeong-min,Deliver Us from Evil,True,2021 ( 57th ) | Park Jeong-min ‡ [ 5 ] | Deliver Us from Evil | 다만 악에서 구하소서 | Yui,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2021,Peninsula,반도,False,Koo Kyo-hwan | Peninsula | 반도 | Captain Seo,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2021,Steel Rain 2: Summit,강철비2,False,Shin Jung-geun | Steel Rain 2: Summit | 강철비2 | Jang Ki-sok,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2021,Voice of Silence,소리도 없이,False,Yoo Jae-myung | Voice of Silence | 소리도 없이 | Chang-bok,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2021,Innocence,결백,False,Huh Joon-ho | Innocence | 결백 | Mayor Choo,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2022,Jo Woo-jin,Kingmaker,True,2022 ( 58th ) | Jo Woo-jin ‡ [ 6 ] | Kingmaker | 킹메이커 | Director Lee,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2022,Escape from Mogadishu,모가디슈,False,Koo Kyo-hwan | Escape from Mogadishu | 모가디슈 | Tae Joon-ki,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2022,Spiritwalker,유체이탈자,False,Park Yong-woo | Spiritwalker | 유체이탈자 | Director Park,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2022,Perhaps Love,장르만 로맨스,False,Sung Yoo-bin | Perhaps Love | 장르만 로맨스 | Kim Sung-kyung,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2022,Escape from Mogadishu,모가디슈,False,Huh Joon-ho | Escape from Mogadishu | 모가디슈 | Rim Yong-su,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2023,Byun Yo-han,Hansan: Rising Dragon,True,2023 ( 59th ) | Byun Yo-han ‡ | Hansan: Rising Dragon | 한산: 용의 출현 | Wakisaka,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2023,The Point Men,교섭,False,Kang Ki-young | The Point Men | 교섭 | Qasim / Lee Bong-han,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2023,The Night Owl,올빼미,False,Kim Sung-cheol | The Night Owl | 올빼미 | Crown Prince Sohyeon,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2023,The Roundup,범죄도시2,False,Park Ji-hwan | The Roundup | 범죄도시2 | Jang I-soo,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2023,Emergency Declaration,비상선언,False,Yim Si-wan | Emergency Declaration | 비상선언 | Jin-seok,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2024,Kim Jong-soo,Smugglers,True,2024 ( 60th ) | Kim Jong-soo ‡ | Smugglers | 밀수 | Lee Jang-сhun,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2024,Picnic,소풍,False,Park Geun-hyung | Picnic | 소풍 | Jeong Tae-ho,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2024,Smugglers,밀수,False,Park Jeong-min | Smugglers | 밀수 | Jang Do-ri,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2024,Hopeless,화란,False,Song Joong-ki | Hopeless | 화란 | Chi-geon,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2024,Exhuma,파묘,False,Yoo Hae-jin | Exhuma | 파묘 | Yeong-geun,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2025,Yoo Jae-myung,Land of Happiness,True,2025 ( 61st ) | Yoo Jae-myung ‡ | Land of Happiness | 행복의 나라 | Jeon Sang-doo,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2025,Escape,탈주,False,Koo Kyo-hwan | Escape | 탈주 | Lee Hyun-sang,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2025,Uprising,"전,란",False,"Park Jeong-min | Uprising | 전,란 | Lee Jong-ryeo",https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2025,"I, the Executioner",베테랑2,False,"Jung Hae-in | I, the Executioner | 베테랑2 | Park sun-woo",https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2025,Harbin,하얼빈,False,Jo Woo-jin | Harbin | 하얼빈 | Kim Sang-hyun,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2026,Lee Sung-min,No Other Choice,True,2026 ( 62nd ) | Lee Sung-min ‡ | No Other Choice | 어쩔수가없다 | Goo Beom-mo,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2026,Good News,굿뉴스,False,Ryoo Seung-bum | Good News | 굿뉴스 | Park Sang-hyeon,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2026,Humint,휴민트,False,Park Hae-joon | Humint | 휴민트 | Hwang Chi-seong,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2026,The King's Warden,왕과 사는 남자,False,Yoo Ji-tae | The King's Warden | 왕과 사는 남자 | Han Myŏnghoe,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film
+2026,People and Meat,사람과 고기,False,Jang Yong | People and Meat | 사람과 고기 | U-sik,https://en.wikipedia.org/wiki/Baeksang_Arts_Award_for_Best_Supporting_Actor_–_Film

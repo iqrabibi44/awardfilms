@@ -1,0 +1,24 @@
+year,film,person,is_winner,raw_text,source_url
+,Recipient,Film,False,Year | Recipient | Film(s) | Language(s) | Refs.,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Make-up_Artist
+2006,Anil Motiram Palande,Traffic Signal,False,2006 (54th) | Anil Motiram Palande | Traffic Signal | Hindi | [ 2 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Make-up_Artist
+2007,Pattanam Rasheed,Paradesi,False,2007 (55th) | Pattanam Rasheed | Paradesi | Malayalam | [ 3 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Make-up_Artist
+2008,U. K. Sasi,Naan Kadavul,False,2008 (56th) | U. K. Sasi | Naan Kadavul | Tamil | [ 4 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Make-up_Artist
+2009,Christien Tinsley,Paa,False,2009 (57th) | Christien Tinsley | Paa | Hindi | [ 5 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Make-up_Artist
+2009,Dominie Till,,False,Dominie Till,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Make-up_Artist
+2010,Vikram Gaikwad,Moner Manush,False,2010 (58th) | Vikram Gaikwad | Moner Manush | Bengali | [ 6 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Make-up_Artist
+2011,Vikram Gaikwad,Balgandharva,False,2011 (59th) | Vikram Gaikwad | Balgandharva | Marathi | [ 7 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Make-up_Artist
+2011,Hindi,,False,The Dirty Picture | Hindi,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Make-up_Artist
+2012,Raja,Vazhakku Enn 18/9,False,2012 (60th) | Raja | Vazhakku Enn 18/9 | Tamil | [ 8 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Make-up_Artist
+2013,Vikram Gaikwad,Jaatishwar,False,2013 (61st) | Vikram Gaikwad | Jaatishwar | Bengali | [ 9 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Make-up_Artist
+2014,Raju,Naanu Avanalla...Avalu,False,2014 (62nd) | Raju | Naanu Avanalla...Avalu | Kannada | [ 10 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Make-up_Artist
+2014,Nagaraj,,False,Nagaraj,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Make-up_Artist
+2015,Preetisheel Singh,Nanak Shah Fakir,False,2015 (63rd) | Preetisheel Singh | Nanak Shah Fakir | Punjabi | [ 11 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Make-up_Artist
+2015,Clover Wootton,,False,Clover Wootton,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Make-up_Artist
+2016,N. K. Ramakrishna,Allama,False,2016 (64th) | N. K. Ramakrishna | Allama | Kannada | [ 12 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Make-up_Artist
+2017,Ram Rajjak,Nagarkirtan,False,2017 (65th) | Ram Rajjak | Nagarkirtan | Bengali | [ 13 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Make-up_Artist
+2018,Ranjith,Awe,False,2018 (66th) | Ranjith | Awe | Telugu | [ 14 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Make-up_Artist
+2019,Ranjith Ambady,Helen,False,2019 (67th) | Ranjith Ambady | Helen | Malayalam | [ 15 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Make-up_Artist
+2020,T. V. Ram Babu,Natyam,False,2020 (68th) | T. V.  Ram Babu | Natyam | Telugu | [ 16 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Make-up_Artist
+2021,Preetisheel Singh,Gangubai Kathiawadi,False,2021 (69th) | Preetisheel Singh | Gangubai Kathiawadi | Hindi | [ 17 ] [ 18 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Make-up_Artist
+2022,Somnath Kundu,Aparajito,False,2022 (70th) | Somnath Kundu | Aparajito | Bengali | [ 19 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Make-up_Artist
+2023,Shrikant Desai,Sam Bahadur,False,2023 (71st) | Shrikant Desai | Sam Bahadur | Hindi | [ 20 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Make-up_Artist

@@ -1,0 +1,325 @@
+year,film,person,is_winner,raw_text,source_url
+,Anil Kapoor,4,False,Actor with most awards | Anil Kapoor | 4,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+,"Pran , Amitabh Bachchan",9,False,"Actor with most nominations | Pran , Amitabh Bachchan | 9",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+,Abhishek Bachchan,3,False,Actor with most consecutive wins | Abhishek Bachchan | 3,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+,Naseeruddin Shah,8,False,Actor with most nominations without ever winning | Naseeruddin Shah | 8,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+,"Mehmood , Raaj Kumar , Feroz Khan , Prem Nath , Pran , Amjad Khan , Naseeruddin Shah , Akshay Kumar , Pankaj Tripathi",2,False,"Actors with most nominations in a single year | Mehmood (1962) , Raaj Kumar (1965) , Feroz Khan (1970) , Prem Nath (1974) , Pran (1975) , Amjad Khan (1981) , Naseeruddin Shah (1983) , Akshay Kumar (2005) , Pankaj Tripathi (2021-2022) | 2",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+,"3 Idiots – Boman Irani , R. Madhavan , Sharman Joshi Raajneeti – Arjun Rampal , Manoj Bajpayee , Nana Patekar Kapoor & Sons – Fawad Khan , Rajat Kapoor , Rishi Kapoor",3,False,"Films with most nominations in a single year | 3 Idiots (2010) – Boman Irani , R. Madhavan , Sharman Joshi Raajneeti (2011) – Arjun Rampal , Manoj Bajpayee , Nana Patekar Kapoor & Sons (2017) – Fawad Khan , Rajat Kapoor , Rishi Kapoor | 3",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+,Anil Kapoor,66,False,Oldest winner | Anil Kapoor | 66,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+,Vivek Oberoi,26,False,Youngest winner | Vivek Oberoi | 26,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+,Akshaye Khanna,22,False,Youngest nominee | Akshaye Khanna | 22,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1955,,David Abraham Cheulkar,True,1955 (2nd) |  | David Abraham Cheulkar ‡ | John | Boot Polish | [ 2 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1955,No Other Nominee,,True,No Other Nominee,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1956,,Abhi Bhattacharya,True,1956 (3rd) |  | Abhi Bhattacharya ‡ | Shekhar | Jagriti | [ 3 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1956,Johnny,Railway Platform,False,Johnny Walker | Johnny | Railway Platform,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1956,Inspector Sher Singh,Kundan,False,Ulhas | Inspector Sher Singh | Kundan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1957,,Motilal,True,1957 (4th) |  | Motilal ‡ | Chunni Babu | Devdas | [ 4 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1957,Master,C.I.D.,False,Johnny Walker | Master | C.I.D.,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1958,,Raj Mehra,True,1958 (5th) |  | Raj Mehra ‡ | Kashiram | Sharada | [ 5 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1958,Krishna,Naya Daur,False,Ajit | Krishna | Naya Daur,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1959,,Johnny Walker,True,1959 (6th) |  | Johnny Walker ‡ | Charandas | Madhumati | [ 6 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1959,Rehman,Phir Subha Hogi,False,Rehman | Rehman | Phir Subha Hogi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1959,Ezra,Yahudi,False,Sohrab Modi | Ezra | Yahudi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1960,,Manmohan Krishna,True,1960 (7th) |  | Manmohan Krishna ‡ | Abdul Rasheed | Dhool Ka Phool | [ 7 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1960,Ram Lal,Paigham,False,Raaj Kumar | Ram Lal | Paigham,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1960,Mahesh,Chhoti Bahen,False,Mehmood | Mahesh | Chhoti Bahen,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1961,,Motilal,True,1961 (8th) |  | Motilal ‡ | Sir Jagdish Chandra Roy | Parakh | [ 8 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1961,Agha,Ghunghat,False,Agha | Agha | Ghunghat,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1961,Emperor Akbar,Mughal-e-Azam,False,Prithviraj Kapoor | Emperor Akbar | Mughal-e-Azam,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1961,Pyaare Mohan/Nawab Saheb,Chaudhvin Ka Chand,False,Rehman | Pyaare Mohan/Nawab Saheb | Chaudhvin Ka Chand,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1962,,Nana Palsikar,True,1962 (9th) |  | Nana Palsikar ‡ | Kaalia | Kanoon | [ 9 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1962,Mahesh,Sasural,False,Mehmood | Mahesh | Sasural,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1962,Raka,Jis Desh Men Ganga Behti Hai,False,Pran | Raka | Jis Desh Men Ganga Behti Hai,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1963,,Mehmood,True,1963 (10th) |  | Mehmood ‡ | Anokhe | Dil Tera Diwana | [ 10 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1963,Kasturi,Rakhi,False,Mehmood | Kasturi | Rakhi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1963,Chhote Sarkar,Sahib Bibi Aur Ghulam,False,Rehman | Chhote Sarkar | Sahib Bibi Aur Ghulam,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1964,,Raaj Kumar,True,1964 (11th) |  | Raaj Kumar ‡ | Ram | Dil Ek Mandir | [ 11 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1964,Ghayal,Mere Mehboob,False,Johnny Walker | Ghayal | Mere Mehboob,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1964,Sunder,Ghar Basake Dekho,False,Mehmood | Sunder | Ghar Basake Dekho,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1965,,Nana Palsikar,True,1965 (12th) |  | Nana Palsikar ‡ | Johnny | Shehar Aur Sapna | [ 12 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1965,Ranjit,Ayee Milan Ki Bela,False,Dharmendra | Ranjit | Ayee Milan Ki Bela,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1965,Gopal Verma,Sangam,False,Rajendra Kumar | Gopal Verma | Sangam,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1966,,Raaj Kumar,True,1966 (13th) |  | Raaj Kumar ‡ | Raju | Waqt | [ 13 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1966,The Butler,Gumnaam,False,Mehmood | The Butler | Gumnaam,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1966,Moti,Kaajal,False,Raaj Kumar | Moti | Kaajal,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1967,,Ashok Kumar,True,1967 (14th) |  | Ashok Kumar ‡ | Gopal | Afsana | [ 14 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1967,Thakur Ramesh,Dil Diya Dard Liya,False,Pran | Thakur Ramesh | Dil Diya Dard Liya,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1967,Amjad,Dil Ne Phir Yaad Kiya,False,Rehman | Amjad | Dil Ne Phir Yaad Kiya,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1968,,Pran,True,1968 (15th) |  | Pran ‡ | Malang | Upkar | [ 15 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1968,Shanti Swarup,Mehrban,False,Ashok Kumar | Shanti Swarup | Mehrban,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1968,Gokulchand,Dus Lakh,False,Om Prakash | Gokulchand | Dus Lakh,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1969,,Sanjeev Kumar,True,1969 (16th) |  | Sanjeev Kumar ‡ | Inspector Rai | Shikar | [ 16 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1969,Dr. Shekhar,Aadmi,False,Manoj Kumar | Dr. Shekhar | Aadmi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1969,Chitrasen,Neelkamal,False,Raaj Kumar | Chitrasen | Neelkamal,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1970,,Pran,True,1970 (17th) |  | Pran ‡ | Shambhu Mahadev Rao | Aansoo Ban Gaye Phool | [ 17 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1970,Shivnath 'Joggi Thakur' Choudhary,Aashirwad,False,Ashok Kumar | Shivnath 'Joggi Thakur' Choudhary | Aashirwad,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1970,Kailash Nath Kaushal,Ek Phool Do Mali,False,Balraj Sahni | Kailash Nath Kaushal | Ek Phool Do Mali,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1971,,Feroz Khan,True,"1971 (18th) |  | Feroz Khan ‡ | Jai Kishan ""JK"" | Aadmi Aur Insaan | [ 18 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1971,Boss,Himmat,False,Prem Chopra | Boss | Himmat,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1971,Shekhar Kapoor,Safar,False,Feroz Khan | Shekhar Kapoor | Safar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1972,,Amitabh Bachchan,True,1972 (19th) |  | Amitabh Bachchan ‡ | Dr. Bhaskar K. Bannerjee | Anand | [ 19 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1972,Shikari Banne Khan Bhopali,Adhikar,False,Pran | Shikari Banne Khan Bhopali | Adhikar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1972,Thakur Arjun Singh,Paras,False,Shatrughan Sinha | Thakur Arjun Singh | Paras,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1973,,Pran,True,1973 (20th) |  | Pran ‡ | Ram Singh | Be-Imaan | [ 20 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1973,Khan Badshah,Shor,False,Prem Nath | Khan Badshah | Shor,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1974,,Amitabh Bachchan,True,1974 (21st) |  | Amitabh Bachchan ‡ | Vikram 'Vicky' Maharaj | Namak Haraam | [ 21 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1974,Raja,Victoria No. 203,False,Ashok Kumar | Raja | Victoria No. 203,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1974,Chandru Kriplani,Abhimaan,False,Asrani | Chandru Kriplani | Abhimaan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1974,Sher Khan,Zanjeer,False,Pran | Sher Khan | Zanjeer,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1974,Jack Braganza,Bobby,False,Prem Nath | Jack Braganza | Bobby,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1975,,Vinod Khanna,True,1975 (22nd) |  | Vinod Khanna ‡ | Shankar Kumar | Haath Ki Safai | [ 22 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1975,SP Rajesh,International Crook,False,Feroz Khan | SP Rajesh | International Crook,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1975,Daulatram,Amir Garib,False,Prem Nath | Daulatram | Amir Garib,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1975,Roti Kapda Aur Makaan,,False,Harnam Singh | Roti Kapda Aur Makaan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1975,Gopichand 'Gopi' Sharma,Dost,False,Shatrughan Sinha | Gopichand 'Gopi' Sharma | Dost,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1976,,Shashi Kapoor,True,1976 (23rd) |  | Shashi Kapoor ‡ | Ravi Verma | Deewar | [ 23 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1976,Gabbar Singh,Sholay,False,Amjad Khan | Gabbar Singh | Sholay,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1976,Chaudhary Pratap Rai,Do Jhoot,False,Pran | Chaudhary Pratap Rai | Do Jhoot,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1976,Majboor,,False,Michael D'Souza | Majboor,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1976,Maheem Ghoshal,Amanush,False,Utpal Dutt | Maheem Ghoshal | Amanush,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1977,,Prem Chopra,True,1977 (24th) |  | Prem Chopra ‡ | Ronjit Malik | Do Anjaane | [ 24 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1977,Julius Nagendranath Wilfred Singh,Chhoti Si Baat,False,Ashok Kumar | Julius Nagendranath Wilfred Singh | Chhoti Si Baat,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1977,Appa,Mehbooba,False,Prem Chopra | Appa | Mehbooba,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1977,Vijay Khanna,Kabhi Kabhie,False,Shashi Kapoor | Vijay Khanna | Kabhi Kabhie,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1977,Ajay Pirachand,Hera Pheri,False,Vinod Khanna | Ajay Pirachand | Hera Pheri,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1978,,Shriram Lagoo,True,1978 (25th) |  | Shriram Lagoo ‡ | Mr. Modi | Gharaonda | [ 25 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1978,Architect,Kinara,False,Shriram Lagoo | Architect | Kinara,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1978,Sanjay Khan,Hum Kisise Kum Naheen,False,Tariq | Sanjay Khan | Hum Kisise Kum Naheen,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1978,Chandramohan 'Chander' U. Nath,Aadmi Sadak Ka,False,Vikram | Chandramohan 'Chander' U. Nath | Aadmi Sadak Ka,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1978,Shrikanth Mathur,Anurodh,False,Vinod Mehra | Shrikanth Mathur | Anurodh,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1979,,Saeed Jaffrey,True,1979 (26th) |  | Saeed Jaffrey ‡ | Mir Roshan Ali | Shatranj Ke Khilari | [ 26 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1979,Inspector Lawrence,Devata,False,Danny Denzongpa | Inspector Lawrence | Devata,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1979,Raju,Kasme Vaade,False,Randhir Kapoor | Raju | Kasme Vaade,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1979,Raj Kumar Gupta,Trishul,False,Sanjeev Kumar | Raj Kumar Gupta | Trishul,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1979,Vishal Anand,Muqaddar Ka Sikandar,False,Vinod Khanna | Vishal Anand | Muqaddar Ka Sikandar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1980,,Amjad Khan,True,1980 (27th) |  | Amjad Khan ‡ | Fazlu | Dada | [ 27 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1980,Sarfaraz Khan,Junoon,False,Naseeruddin Shah | Sarfaraz Khan | Junoon,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1980,Mangal Singh,Kaala Patthar,False,Shatrughan Sinha | Mangal Singh | Kaala Patthar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1980,Bhavani Shankar,Gol Maal,False,Utpal Dutt | Bhavani Shankar | Gol Maal,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1980,Kishan,Amar Deep,False,Vinod Mehra | Kishan | Amar Deep,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1981,,Om Puri,True,1981 (28th) |  | Om Puri ‡ | Bhikhu Lahniya | Aakrosh | [ 28 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1981,Inspector Amjad Khan,Qurbani,False,Amjad Khan | Inspector Amjad Khan | Qurbani,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1981,Ravi Kapoor,Aasha,False,Girish Karnad | Ravi Kapoor | Aasha,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1981,Abdullah,Abdullah,False,Raj Kapoor | Abdullah | Abdullah,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1981,Mr. Chandra,Insaf Ka Tarazu,False,Shriram Lagoo | Mr. Chandra | Insaf Ka Tarazu,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1982,,Amjad Khan,True,1982 (29th) |  | Amjad Khan ‡ | Bishan | Yaarana | [ 29 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1982,Havaldar Sher Singh,Love Story,False,Amjad Khan | Havaldar Sher Singh | Love Story,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1982,Anil,Dhanwan,False,Rakesh Roshan | Anil | Dhanwan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1982,Lalan Mian,Chashme Buddoor,False,Saeed Jaffery | Lalan Mian | Chashme Buddoor,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1982,Ram Singh,Laawaris,False,Suresh Oberoi | Ram Singh | Laawaris,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1983,,Shammi Kapoor,True,1983 (30th) |  | Shammi Kapoor ‡ | Gurbaksh | Vidhaata | [ 30 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1983,Rakesh,Teri Kasam,False,Girish Karnad | Rakesh | Teri Kasam,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1983,Abu Baba,Vidhaata,False,Sanjeev Kumar | Abu Baba | Vidhaata,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1983,Raja,Namak Halaal,False,Shashi Kapoor | Raja | Namak Halaal,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1983,Dr. Prashant Chaturvedi,Bemisal,False,Vinod Mehra | Dr. Prashant Chaturvedi | Bemisal,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1984,,Sadashiv Amrapurkar,True,1984 (31st) |  | Sadashiv Amrapurkar ‡ | Rama Shetty | Ardh Satya | [ 31 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1984,Jan Nisar Akhtar Khan,Andha Kanoon,False,Amitabh Bachchan | Jan Nisar Akhtar Khan | Andha Kanoon,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1984,Rajaram Purshottam Joshi,Katha,False,Naseeruddin Shah | Rajaram Purshottam Joshi | Katha,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1984,Mandi,,False,Tungrus | Mandi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1984,Raj Bedi,Agar Tum Na Hote,False,Raj Babbar | Raj Bedi | Agar Tum Na Hote,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1985,,Anil Kapoor,True,1985 (32nd) |  | Anil Kapoor ‡ | Raja | Mashaal | [ 32 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1985,Raghuvir Singh,Kanoon Kya Karega,False,Danny Denzongpa | Raghuvir Singh | Kanoon Kya Karega,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1985,Raghu,Hip Hip Hurray,False,Nikhil Bhagat | Raghu | Hip Hip Hurray,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1985,Inspector Shafi,Aaj Ki Awaaz,False,Shafi Inamdar | Inspector Shafi | Aaj Ki Awaaz,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1985,Rahim,Ghar Ek Mandir,False,Suresh Oberoi | Rahim | Ghar Ek Mandir,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1986,,Amrish Puri,True,1986 (33rd) |  | Amrish Puri ‡ | G D Thakral | Meri Jung | [ 33 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1986,Virendra,Janam,False,Anupam Kher | Virendra | Janam,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1986,Raja,Saagar,False,Kamal Haasan | Raja | Saagar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1986,Havaldar Gopi Dada,Ghulami,False,Kulbhushan Kharbanda | Havaldar Gopi Dada | Ghulami,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1986,Kunj Bihari,Ram Teri Ganga Maili,False,Saeed Jaffery | Kunj Bihari | Ram Teri Ganga Maili,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1986,Badri Prasad Sharma,Saaheb,False,Utpal Dutt | Badri Prasad Sharma | Saaheb,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1987,NO CEREMONY,,True,1987 | NO CEREMONY | ,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1988,NO CEREMONY,,True,1988 | NO CEREMONY | ,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1989,,Anupam Kher,True,1989 (34th) |  | Anupam Kher ‡ | Yodhraj Bhalla | Vijay | [ 34 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1989,Baban,Tezaab,False,Chunky Pandey | Baban | Tezaab,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1989,S.P. Suhas Dandekar,Andha Yudh,False,Nana Patekar | S.P. Suhas Dandekar | Andha Yudh,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1990,,Nana Patekar,True,1990 (35th) |  | Nana Patekar ‡ | Anna | Parinda | [ 35 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1990,Bhairav Singh,Tridev,False,Amrish Puri | Bhairav Singh | Tridev,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1990,Thakur Rajendra Singh,Batwara,False,Mohsin Khan | Thakur Rajendra Singh | Batwara,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1990,Inspector PK,Raakh,False,Pankaj Kapur | Inspector PK | Raakh,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1990,Lalit Khanna,Chandni,False,Vinod Khanna | Lalit Khanna | Chandni,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1991,,Mithun Chakraborty,True,1991 (36th) |  | Mithun Chakraborty ‡ | Krishnan Iyer M.A. | Agneepath | [ 36 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1991,Hazari Prasad,Dil,False,Anupam Kher | Hazari Prasad | Dil,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1991,Joe D'Souza,Ghayal,False,Om Puri | Joe D'Souza | Ghayal,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1991,Gangster,Pratibandh,False,Rami Reddy | Gangster | Pratibandh,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1992,,Danny Denzongpa,True,1992 (37th) |  | Danny Denzongpa ‡ | Sher Khan | Sanam Bewafa | [ 37 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1992,Nageshwar,Phool Aur Kaante,False,Amrish Puri | Nageshwar | Phool Aur Kaante,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1992,Prem Anand,Lamhe,False,Anupam Kher | Prem Anand | Lamhe,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1992,Saudagar,,False,Mandhari | Saudagar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1992,Khan Baba,Henna,False,Saeed Jaffrey | Khan Baba | Henna,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1993,Danny Denzongpa,Khuda Baksh,True,1993 (38th) | Danny Denzongpa ‡ | Khuda Baksh | Khuda Gawah | [ 38 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1993,Gopichand Verma,Muskurahat,False,Amrish Puri | Gopichand Verma | Muskurahat,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1993,Jai,Raju Ban Gaya Gentleman,False,Nana Patekar | Jai | Raju Ban Gaya Gentleman,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1994,,Sunny Deol,True,1994 (39th) |  | Sunny Deol ‡ | Govind | Damini | [ 39 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1994,Purshotam Kashinath Sathe,Gardish,False,Amrish Puri | Purshotam Kashinath Sathe | Gardish,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1994,Ram Kumar Sinha,Khalnayak,False,Jackie Shroff | Ram Kumar Sinha | Khalnayak,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1994,Shivajirao Wagle,Tirangaa,False,Nana Patekar | Shivajirao Wagle | Tirangaa,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1994,Amar Verma,Sir,False,Naseeruddin Shah | Amar Verma | Sir,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1995,,Jackie Shroff,True,1995 (40th) |  | Jackie Shroff ‡ | Shubhankar | 1942: A Love Story | [ 40 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1995,Prof. Siddharth Choudhury,Hum Aapke Hain Koun..!,False,Anupam Kher | Prof. Siddharth Choudhury | Hum Aapke Hain Koun..!,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1995,Rajesh Nath,,False,Mohnish Behl | Rajesh Nath,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1995,Deepak Kumar,Main Khiladi Tu Anari,False,Saif Ali Khan | Deepak Kumar | Main Khiladi Tu Anari,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1995,Vikram Singh,Dilwale,False,Suniel Shetty | Vikram Singh | Dilwale,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1996,Jackie Shroff,Raj Kamal,True,1996 (41st) | Jackie Shroff ‡ | Raj Kamal | Rangeela | [ 41 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1996,Baldev Singh Chaudhary,Dilwale Dulhania Le Jayenge,False,Amrish Puri | Baldev Singh Chaudhary | Dilwale Dulhania Le Jayenge,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1996,Angad Singh / Sikander,Trimurti,False,Anil Kapoor | Angad Singh / Sikander | Trimurti,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1996,Raj Solanki,Naajayaz,False,Naseeruddin Shah | Raj Solanki | Naajayaz,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1996,"Brijnath ""Birju",Raja,False,"Paresh Rawal | Brijnath ""Birju"" | Raja",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1997,,Amrish Puri,True,1997 (42nd) |  | Amrish Puri ‡ | Shambhunath | Ghatak: Lethal | [ 42 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1997,Shambhunath Singh Rathod,Chaahat,False,Anupam Kher | Shambhunath Singh Rathod | Chaahat,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1997,Suraj Kapoor,Agni Sakshi,False,Jackie Shroff | Suraj Kapoor | Agni Sakshi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1997,Sanatan,Maachis,False,Om Puri | Sanatan | Maachis,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1997,"Rajnath ""Raju"" Sahay",Jeet,False,"Salman Khan | Rajnath ""Raju"" Sahay | Jeet",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1998,Amrish Puri,Raja Thakur,True,1998 (43rd) | Amrish Puri ‡ | Raja Thakur | Virasat | [ 43 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1998,Ajay,Dil To Pagal Hai,False,Akshay Kumar | Ajay | Dil To Pagal Hai,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1998,Dharmvir,Border,False,Akshaye Khanna | Dharmvir | Border,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1998,Inspector Udham Singh,Gupt: The Hidden Truth,False,Om Puri | Inspector Udham Singh | Gupt: The Hidden Truth,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1998,Bhairav Singh,Border,False,Suniel Shetty | Bhairav Singh | Border,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1999,,Salman Khan,True,1999 (44th) |  | Salman Khan ‡ | Aman Mehra | Kuch Kuch Hota Hai | [ 44 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1999,Vishal Thakur,Pyaar Kiya To Darna Kya,False,Arbaaz Khan | Vishal Thakur | Pyaar Kiya To Darna Kya,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1999,Bhiku Mhatre,Satya,False,Manoj Bajpai | Bhiku Mhatre | Satya,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1999,Maj. Sarfaraz Khan,China Gate,False,Naseeruddin Shah | Maj. Sarfaraz Khan | China Gate,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+1999,Inspector Khan,Pyaar To Hona Hi Tha,False,Om Puri | Inspector Khan | Pyaar To Hona Hi Tha,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2000,,Anil Kapoor,True,2000 (45th) |  | Anil Kapoor ‡ | Vikrant Kapoor | Taal | [ 45 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2000,Vivek,Hum Saath-Saath Hain,False,Mohnish Bahl | Vivek | Hum Saath-Saath Hain,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2000,Inspector Salim,Sarfarosh,False,Mukesh Rishi | Inspector Salim | Sarfarosh,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2000,"Dhananjay ""Jai"" Pandit",Kachche Dhaage,False,"Saif Ali Khan | Dhananjay ""Jai"" Pandit | Kachche Dhaage",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2000,Dedh Footiya,Vaastav: The Reality,False,Sanjay Narvekar | Dedh Footiya | Vaastav: The Reality,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2001,,Amitabh Bachchan,True,2001 (46th) |  | Amitabh Bachchan ‡ | Narayan Shankar | Mohabbatein | [ 46 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2001,Shriram Abhyankar,Hey Ram,False,Atul Kulkarni | Shriram Abhyankar | Hey Ram,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2001,Ajay,Kya Kehna,False,Chandrachur Singh | Ajay | Kya Kehna,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2001,Havaldar Gopinath Surve Patil,Kurukshetra,False,Sayaji Shinde | Havaldar Gopinath Surve Patil | Kurukshetra,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2001,Ranger Mohammad Ashraf,Refugee,False,Suniel Shetty | Ranger Mohammad Ashraf | Refugee,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2002,,Akshaye Khanna,True,2002 (47th) |  | Akshaye Khanna ‡ | Siddharth 'Sid' Sinha | Dil Chahta Hai | [ 47 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2002,Bulwa,Lajja,False,Ajay Devgn | Bulwa | Lajja,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2002,Yashvardhan 'Yash' Raichand,Kabhi Khushi Kabhie Gham,False,Amitabh Bachchan | Yashvardhan 'Yash' Raichand | Kabhi Khushi Kabhie Gham,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2002,Rohan Y. Raichand,,False,Hrithik Roshan | Rohan Y. Raichand,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2002,Raj Singh Puri,Yaadein,False,Jackie Shroff | Raj Singh Puri | Yaadein,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2003,,Vivek Oberoi,True,2003 (48th) |  | Vivek Oberoi ‡ | Chandrakant 'Chandu' Nagre | Company | [ 48 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2003,Vijay Singh Rajput,Aankhen,False,Amitabh Bachchan | Vijay Singh Rajput | Aankhen,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2003,"Chunnilal ""Chunnibabu",Devdas,False,"Jackie Shroff | Chunnilal ""Chunnibabu"" | Devdas",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2003,Srinivasan,Company,False,Mohanlal | Srinivasan | Company,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2003,Jay 'Ajju' Rehan,Kaante,False,Sanjay Dutt | Jay 'Ajju' Rehan | Kaante,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2004,,Saif Ali Khan,True,2004 (49th) |  | Saif Ali Khan ‡ | Rohit Patel | Kal Ho Naa Ho | [ 49 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2004,Prem Kumar,Main Prem Ki Diwani Hoon,False,Abhishek Bachchan | Prem Kumar | Main Prem Ki Diwani Hoon,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2004,Circuit,Munna Bhai M.B.B.S.,False,Arshad Warsi | Circuit | Munna Bhai M.B.B.S.,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2004,Gen. Yogender Singh Yadav,LOC Kargil,False,Manoj Bajpai | Gen. Yogender Singh Yadav | LOC Kargil,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2004,Alok Raj Malhotra,Baghban,False,Salman Khan | Alok Raj Malhotra | Baghban,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2005,,Abhishek Bachchan,True,2005 (50th) |  | Abhishek Bachchan ‡ | Lallan Singh | Yuva | [ 50 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2005,Inspector Shekhar Verma,Khakee,False,Akshay Kumar | Inspector Shekhar Verma | Khakee,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2005,Mujhse Shaadi Karogi,,False,Sunny Khurana | Mujhse Shaadi Karogi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2005,Chaudhary Sumer Singh,Veer-Zaara,False,Amitabh Bachchan | Chaudhary Sumer Singh | Veer-Zaara,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2005,Laxman Prasad Sharma,Main Hoon Na,False,Zayed Khan | Laxman Prasad Sharma | Main Hoon Na,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2006,Abhishek Bachchan,Shankar Nagre,True,2006 (51st) | Abhishek Bachchan ‡ | Shankar Nagre | Sarkar | [ 51 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2006,DCP Dashrath Singh,Bunty Aur Babli,False,Amitabh Bachchan | DCP Dashrath Singh | Bunty Aur Babli,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2006,Ranjan 'Ron' Mathur,Salaam Namaste,False,Arshad Warsi | Ranjan 'Ron' Mathur | Salaam Namaste,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2006,Mohit,Iqbal,False,Naseeruddin Shah | Mohit | Iqbal,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2006,Girish Sharma,Parineeta,False,Sanjay Dutt | Girish Sharma | Parineeta,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2007,Abhishek Bachchan,Rishi Talwar,True,2007 (52nd) | Abhishek Bachchan ‡ | Rishi Talwar | Kabhi Alvida Naa Kehna | [ 52 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2007,Samarjit 'Sam' Talwar,Kabhi Alvida Naa Kehna,False,Amitabh Bachchan | Samarjit 'Sam' Talwar | Kabhi Alvida Naa Kehna,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2007,Rajat Verma,Baabul,False,John Abraham | Rajat Verma | Baabul,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2007,Aslam,Rang De Basanti,False,Kunal Kapoor | Aslam | Rang De Basanti,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2007,Karan R. Singhania,,False,Siddharth | Karan R. Singhania,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2008,,Irrfan Khan,True,2008 (53rd) |  | Irrfan Khan ‡ | Monty | Life in a... Metro | [ 53 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2008,Ram Shankar Nikumbh,Taare Zameen Par,False,Aamir Khan | Ram Shankar Nikumbh | Taare Zameen Par,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2008,"Sagar ""Majnu"" Panday",Welcome,False,"Anil Kapoor | Sagar ""Majnu"" Panday | Welcome",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2008,Manikdas Gupta,Guru,False,Mithun Chakraborty | Manikdas Gupta | Guru,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2008,Pappu Master,Om Shanti Om,False,Shreyas Talpade | Pappu Master | Om Shanti Om,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2009,,Arjun Rampal,True,2009 (54th) |  | Arjun Rampal ‡ | Joseph 'Joe' Mascarenhas | Rock On!! | [ 54 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2009,Shankar Nagre,Sarkar Raj,False,Abhishek Bachchan | Shankar Nagre | Sarkar Raj,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2009,Amit Mahant,Jaane Tu... Ya Jaane Na,False,Prateik Babbar | Amit Mahant | Jaane Tu... Ya Jaane Na,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2009,Chaudhary Sumer Singh,Jodhaa Akbar,False,Sonu Sood | Chaudhary Sumer Singh | Jodhaa Akbar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2009,Lucky,Golmaal Returns,False,Tusshar Kapoor | Lucky | Golmaal Returns,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2009,Balwinder Khosla,Rab Ne Bana Di Jodi,False,Vinay Pathak | Balwinder Khosla | Rab Ne Bana Di Jodi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2010,,Boman Irani,True,2010 (55th) |  | Boman Irani ‡ | Viru Sahastrabuddhe | 3 Idiots | [ 55 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2010,Sunil Shekhar Bhope,Kaminay,False,Amol Gupte | Sunil Shekhar Bhope | Kaminay,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2010,Omar Aijaz,New York,False,Neil Nitin Mukesh | Omar Aijaz | New York,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2010,Farhan Qureshi,3 Idiots,False,R. Madhavan | Farhan Qureshi | 3 Idiots,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2010,Romy Rolly,Luck By Chance,False,Rishi Kapoor | Romy Rolly | Luck By Chance,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2010,Raju Rastogi,3 Idiots,False,Sharman Joshi | Raju Rastogi | 3 Idiots,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2011,,Ronit Roy,True,2011 (56th) |  | Ronit Roy ‡ | Bhairav Singh | Udaan | [ 56 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2011,Prithviraj Pratap,Raajneeti,False,Arjun Rampal | Prithviraj Pratap | Raajneeti,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2011,Razzak Hussain aka Babban,Ishqiya,False,Arshad Warsi | Razzak Hussain aka Babban | Ishqiya,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2011,Shoaib Khan,Once Upon a Time in Mumbaai,False,Emraan Hashmi | Shoaib Khan | Once Upon a Time in Mumbaai,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2011,Virendra Pratap,Raajneeti,False,Manoj Bajpai | Virendra Pratap | Raajneeti,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2011,Brij Gopal,,False,Nana Patekar | Brij Gopal,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2012,,Farhan Akhtar,True,2012 (57th) |  | Farhan Akhtar ‡ | Imran Habib | Zindagi Na Milegi Dobara | [ 57 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2012,Kabir Dewan,Zindagi Na Milegi Dobara,False,Abhay Deol | Kabir Dewan | Zindagi Na Milegi Dobara,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2012,Suryakanth,The Dirty Picture,False,Naseeruddin Shah | Suryakanth | The Dirty Picture,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2012,Mandook,Shor in the City,False,Pitobash Tripathy | Mandook | Shor in the City,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2012,Arup,Delhi Belly,False,Vir Das | Arup | Delhi Belly,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2013,,Annu Kapoor,True,2013 (58th) |  | Annu Kapoor ‡ | Dr. Baldev Chaddha | Vicky Donor | [ 58 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2013,Krishna Vasudev Yadav,OMG – Oh My God!,False,Akshay Kumar | Krishna Vasudev Yadav | OMG – Oh My God!,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2013,Joginder Parmar,Shanghai,False,Emraan Hashmi | Joginder Parmar | Shanghai,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2013,Taimur,Talaash: The Answer Lies Within,False,Nawazuddin Siddiqui | Taimur | Talaash: The Answer Lies Within,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2013,Rauf Lala,Agneepath,False,Rishi Kapoor | Rauf Lala | Agneepath,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2014,,Nawazuddin Siddiqui,True,2014 (59th) |  | Nawazuddin Siddiqui ‡ | Shaikh | The Lunchbox | [ 59 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2014,Avinash 'Avi' Yog,Yeh Jawaani Hai Deewani,False,Aditya Roy Kapur | Avinash 'Avi' Yog | Yeh Jawaani Hai Deewani,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2014,P. K. Sharma,Special 26,False,Anupam Kher | P. K. Sharma | Special 26,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2014,Harphool Singh Mandola,Matru Ki Bijlee Ka Mandola,False,Pankaj Kapur | Harphool Singh Mandola | Matru Ki Bijlee Ka Mandola,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2014,Govind Patel,Kai Po Che!,False,Rajkummar Rao | Govind Patel | Kai Po Che!,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2014,Kaal,Krrish 3,False,Vivek Oberoi | Kaal | Krrish 3,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2015,,Kay Kay Menon,True,2015 (60th) |  | Kay Kay Menon ‡ | Khurram Meer | Haider | [ 60 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2015,Nandu Bhide / Vicky Grover,Happy New Year,False,Abhishek Bachchan | Nandu Bhide / Vicky Grover | Happy New Year,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2015,Rakesh Mahadkar,Ek Villain,False,Riteish Deshmukh | Rakesh Mahadkar | Ek Villain,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2015,Vikram Malhotra,2 States,False,Ronit Roy | Vikram Malhotra | 2 States,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2015,Karan Rastogi,Mardaani,False,Tahir Raj Bhasin | Karan Rastogi | Mardaani,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2016,,Anil Kapoor,True,2016 (61st) |  | Anil Kapoor ‡ | Kamal Mehra | Dil Dhadakne Do | [ 61 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2016,Pappi Sharma,Tanu Weds Manu Returns,False,Deepak Dobriyal | Pappi Sharma | Tanu Weds Manu Returns,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2016,Raja Awasthi,,False,Jimmy Shergill | Raja Awasthi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2016,Liak Mohammed Tungrekar,Badlapur,False,Nawazuddin Siddiqui | Liak Mohammed Tungrekar | Badlapur,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2016,Vidyadhar Pathak,Masaan,False,Sanjay Mishra | Vidyadhar Pathak | Masaan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2017,,Rishi Kapoor,True,"2017 (62nd) |  | Rishi Kapoor ‡ | Amarjeet ""Dadu"" Kapoor | Kapoor & Sons | [ 62 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2017,ASI Sartaj Singh,Udta Punjab,False,Diljit Dosanjh | ASI Sartaj Singh | Udta Punjab,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2017,Rahul Kapoor,Kapoor & Sons,False,Fawad Khan | Rahul Kapoor | Kapoor & Sons,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2017,Khalil,Neerja,False,Jim Sarbh | Khalil | Neerja,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2017,Deepu Sebastian,Aligarh,False,Rajkummar Rao | Deepu Sebastian | Aligarh,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2017,Harsh Kapoor,Kapoor & Sons,False,Rajat Kapoor | Harsh Kapoor | Kapoor & Sons,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2018,,Rajkummar Rao,True,2018 (63rd) |  | Rajkummar Rao ‡ | Pritam Vidrohi | Bareilly Ki Barfi | [ 63 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2018,Shakti Kumar,Secret Superstar,False,Aamir Khan | Shakti Kumar | Secret Superstar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2018,Shyamprakash Kori,Hindi Medium,False,Deepak Dobriyal | Shyamprakash Kori | Hindi Medium,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2018,Ashok Dubey,Tumhari Sulu,False,Manav Kaul | Ashok Dubey | Tumhari Sulu,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2018,Daya Shankar Kapoor a.k.a. DK,Mom,False,Nawazuddin Siddiqui | Daya Shankar Kapoor a.k.a. DK | Mom,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2018,Assistant Commandant Aatma Singh,Newton,False,Pankaj Tripathi | Assistant Commandant Aatma Singh | Newton,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2019,,Gajraj Rao,True,2019 (64th) |  | Gajraj Rao ‡ | Jeetendra Kaushik | Badhaai Ho | [ 64 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2019,"Kamlesh ""Kamli"" Kanhaiyalal Kapasi",Sanju,True,"Vicky Kaushal ‡ | Kamlesh ""Kamli"" Kanhaiyalal Kapasi | Sanju",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2019,Bittu,Stree,False,Aparshakti Khurana | Bittu | Stree,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2019,Malik Kafur,Padmaavat,False,Jim Sarbh | Malik Kafur | Padmaavat,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2019,Bilal Ali Mohammad,Mulk,False,Manoj Pahwa | Bilal Ali Mohammad | Mulk,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2019,Rudra,Stree,False,Pankaj Tripathi | Rudra | Stree,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2020,,Siddhant Chaturvedi,True,"2020 ( 65th ) |  | Siddhant Chaturvedi ‡ | Shrikant Bhosle ""MC Sher"" | Gully Boy | [ 65 ]",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2020,Honey Batra,Good Newwz,False,Diljit Dosanjh | Honey Batra | Good Newwz,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2020,Karate Mani / Jimmy,Mard Ko Dard Nahi Hota,False,Gulshan Devaiah | Karate Mani / Jimmy | Mard Ko Dard Nahi Hota,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2020,Circle Officer Brahmadatt Singh,Article 15,False,Manoj Pahwa | Circle Officer Brahmadatt Singh | Article 15,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2020,Vakil Singh,Sonchiriya,False,Ranvir Shorey | Vakil Singh | Sonchiriya,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2020,Moeen,Gully Boy,False,Vijay Varma | Moeen | Gully Boy,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2021,,Saif Ali Khan,True,2021 ( 66th ) |  | Saif Ali Khan ‡ | Udaybhan Singh Rathore | Tanhaji | [ 66 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2021,Gopi Ghasiteram Bansal,Angrezi Medium,False,Deepak Dobriyal | Gopi Ghasiteram Bansal | Angrezi Medium,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2021,Shankar Tripathi,Shubh Mangal Zyada Saavdhan,False,Gajraj Rao | Shankar Tripathi | Shubh Mangal Zyada Saavdhan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2021,Sachin Sandhu,Thappad,False,Kumud Mishra | Sachin Sandhu | Thappad,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2021,Anup Saxena,Gunjan Saxena: The Kargil Girl,False,Pankaj Tripathi | Anup Saxena | Gunjan Saxena: The Kargil Girl,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2021,Ludo,,False,Rahul Satyendra “Sattu” Tripathi | Ludo,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2022,,Pankaj Tripathi,True,2022 ( 67th ) |  | Pankaj Tripathi ‡ | Bhanu Pratap Pandey | Mimi | [ 67 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2022,Eeshit Mehta,Rashmi Rocket,False,Abhishek Banerjee | Eeshit Mehta | Rashmi Rocket,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2022,Coach Sarvadhamaan Rajan,Saina,False,Manav Kaul | Coach Sarvadhamaan Rajan | Saina,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2022,PR Man Singh,83,False,Pankaj Tripathi | PR Man Singh | 83,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2022,Kali Krishna Paul,Bob Biswas,False,Paran Bandopadhyay | Kali Krishna Paul | Bob Biswas,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2022,R. N. Veerappan,Thalaivii,False,Raj Arjun | R. N. Veerappan | Thalaivii,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2023,,Anil Kapoor,True,2023 ( 68th ) |  | Anil Kapoor ‡ | Bheem Saini | Jugjugg Jeeyo | [ 68 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2023,Om Sharma,Uunchai,False,Anupam Kher | Om Sharma | Uunchai,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2023,Krishna Pandit,The Kashmir Files,False,Darshan Kumar | Krishna Pandit | The Kashmir Files,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2023,Guru Narayan,Badhaai Do,False,Gulshan Devaiah | Guru Narayan | Badhaai Do,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2023,Bhoora Singh Solanki,An Action Hero,False,Jaideep Ahlawat | Bhoora Singh Solanki | An Action Hero,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2023,Gurpreet Sharma,Jugjugg Jeeyo,False,Manish Paul | Gurpreet Sharma | Jugjugg Jeeyo,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2023,IAS Brahmadutt,The Kashmir Files,False,Mithun Chakraborty | IAS Brahmadutt | The Kashmir Files,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2024,,Vicky Kaushal,True,2024 ( 69th ) |  | Vicky Kaushal ‡ | Sukhi | Dunki | [ 69 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2024,Nibras,Faraaz,False,Aditya Rawal | Nibras | Faraaz,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2024,Balbir Singh and Kailash Petkar,Animal,False,Anil Kapoor | Balbir Singh and Kailash Petkar | Animal,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2024,Abrar Haque,,False,Bobby Deol | Abrar Haque,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2024,Aatish Rehman,Tiger 3,False,Emraan Hashmi | Aatish Rehman | Tiger 3,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2024,Chandon Chatterjee,Rocky Aur Rani Kii Prem Kahaani,False,Tota Roy Chowdhury | Chandon Chatterjee | Rocky Aur Rani Kii Prem Kahaani,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2025,,Ravi Kishan,True,2025 ( 70th ) |  | Ravi Kishan ‡ | Inspector Shyam Manohar | Laapataa Ladies | [ 70 ],https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2025,Rudra Bhaiya,Stree 2,False,Pankaj Tripathi | Rudra Bhaiya | Stree 2,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2025,Paresh Goswami,Sarfira,False,Paresh Rawal | Paresh Goswami | Sarfira,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2025,Vanraj Kashyap,Shaitaan,False,R. Madhavan | Vanraj Kashyap | Shaitaan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor
+2025,Fani Bhushan,Kill,False,Raghav Juyal | Fani Bhushan | Kill,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Supporting_Actor

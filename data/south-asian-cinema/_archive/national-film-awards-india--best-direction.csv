@@ -1,0 +1,59 @@
+year,film,person,is_winner,raw_text,source_url
+1967,Satyajit Ray,Chiriyakhana,False,1967 (15th) | Satyajit Ray | Chiriyakhana | Bengali | [ 13 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+1968,Satyajit Ray,Goopy Gyne Bagha Byne,False,1968 (16th) | Satyajit Ray | Goopy Gyne Bagha Byne | Bengali | [ 14 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+1969,Mrinal Sen,Bhuvan Shome,False,1969 (17th) | Mrinal Sen | Bhuvan Shome | Hindi | [ 15 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+1970,Satyajit Ray,Pratidwandi,False,1970 (18th) | Satyajit Ray | Pratidwandi | Bengali | [ 16 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+1971,B. V. Karanth,Vamsha Vriksha,False,1971 (19th) | B. V. Karanth | Vamsha Vriksha | Kannada | [ 17 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+1971,Girish Karnad,,False,Girish Karnad,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+1972,Adoor Gopalakrishnan,Swayamvaram,False,1972 (20th) | Adoor Gopalakrishnan | Swayamvaram | Malayalam | [ 18 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+1973,Mani Kaul,Duvidha,False,1973 (21st) | Mani Kaul | Duvidha | Hindi | [ 19 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+1974,Satyajit Ray,Sonar Kella,False,1974 (22nd) | Satyajit Ray | Sonar Kella | Bengali | [ 20 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+1975,Satyajit Ray,Jana Aranya,False,1975 (23rd) | Satyajit Ray | Jana Aranya | Bengali | [ 21 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+1976,P. Lankesh,Pallavi,False,1976 (24th) | P. Lankesh | Pallavi | Kannada | [ 22 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+1977,G. Aravindan,Kanchana Sita,False,1977 (25th) | G. Aravindan | Kanchana Sita | Malayalam | [ 23 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+1978,G. Aravindan,Thampu,False,1978 (26th) | G. Aravindan | Thampu | Malayalam | [ 24 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+1979,Mrinal Sen,Ek Din Pratidin,False,1979 (27th) | Mrinal Sen | Ek Din Pratidin | Bengali | [ 25 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+1980,Mrinal Sen,Akaler Shandhaney,False,1980 (28th) | Mrinal Sen | Akaler Shandhaney | Bengali | [ 26 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+1981,Aparna Sen,36 Chowringhee Lane,False,1981 (29th) | Aparna Sen | 36 Chowringhee Lane | English | [ 27 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+1982,Utpalendu Chakrabarty,Chokh,False,1982 (30th) | Utpalendu Chakrabarty | Chokh | Bengali | [ 28 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+1983,Mrinal Sen,Khandhar,False,1983 (31st) | Mrinal Sen | Khandhar | Hindi | [ 29 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+1984,Adoor Gopalakrishnan,Mukhamukham,False,1984 (32nd) | Adoor Gopalakrishnan | Mukhamukham | Malayalam | [ 30 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+1985,Shyam Benegal,Trikal,False,1985 (33rd) | Shyam Benegal | Trikal | Hindi | [ 31 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+1986,G. Aravindan,Oridathu,False,1986 (34th) | G. Aravindan | Oridathu | Malayalam | [ 32 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+1987,Adoor Gopalakrishnan,Anantaram,False,1987 (35th) | Adoor Gopalakrishnan | Anantaram | Malayalam | [ 33 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+1988,Shaji N. Karun,Piravi,False,1988 (36th) | Shaji N. Karun | Piravi | Malayalam | [ 34 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+1989,Adoor Gopalakrishnan,Mathilukal,False,1989 (37th) | Adoor Gopalakrishnan | Mathilukal | Malayalam | [ 35 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+1990,Tapan Sinha,Ek Doctor Ki Maut,False,1990 (38th) | Tapan Sinha | Ek Doctor Ki Maut | Hindi | [ 36 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+1991,Satyajit Ray,Agantuk,False,1991 (39th) | Satyajit Ray | Agantuk | Bengali | [ 37 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+1992,Goutom Ghosh,Padma Nadir Majhi,False,1992 (40th) | Goutom Ghosh | Padma Nadir Majhi | Bengali | [ 38 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+1993,T. V. Chandran,Ponthan Mada,False,1993 (41st) | T. V. Chandran | Ponthan Mada | Malayalam | [ 39 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+1994,Jahnu Barua,Xagoroloi Bohudoor,False,1994 (42nd) | Jahnu Barua | Xagoroloi Bohudoor | Assamese | [ 40 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+1995,Saeed Akhtar Mirza,Naseem,False,1995 (43rd) | Saeed Akhtar Mirza | Naseem | Hindi | [ 41 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+1996,Agathiyan,Kadhal Kottai,False,1996 (44th) | Agathiyan | Kadhal Kottai | Tamil | [ 42 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+1997,Jayaraj,Kaliyattam,False,1997 (45th) | Jayaraj | Kaliyattam | Malayalam | [ 43 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+1998,Rajeevnath,Janani,False,1998 (46th) | Rajeevnath | Janani | Malayalam | [ 44 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+1999,Buddhadeb Dasgupta,Uttara,False,1999 (47th) | Buddhadeb Dasgupta | Uttara | Bengali | [ 45 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+2000,Rituparno Ghosh,Utsab,False,2000 (48th) | Rituparno Ghosh | Utsab | Bengali | [ 46 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+2001,B. Lenin,Ooruku Nooruper,False,2001 (49th) | B. Lenin | Ooruku Nooruper | Tamil | [ 47 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+2002,Aparna Sen,Mr. and Mrs. Iyer,False,2002 (50th) | Aparna Sen | Mr. and Mrs. Iyer | English | [ 48 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+2003,Goutom Ghosh,Abar Aranye,False,2003 (51st) | Goutom Ghosh | Abar Aranye | Bengali | [ 49 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+2004,Buddhadeb Dasgupta,Swapner Din,False,2004 (52nd) | Buddhadeb Dasgupta | Swapner Din | Bengali | [ 50 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+2005,Rahul Dholakia,Parzania,False,2005 (53rd) | Rahul Dholakia | Parzania | English | [ 51 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+2006,Madhur Bhandarkar,Traffic Signal,False,2006 (54th) | Madhur Bhandarkar | Traffic Signal | Hindi | [ 3 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+2007,Adoor Gopalakrishnan,Naalu Pennungal,False,2007 (55th) | Adoor Gopalakrishnan | Naalu Pennungal | Malayalam | [ 52 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+2008,Bala,Naan Kadavul,False,2008 (56th) | Bala | Naan Kadavul | Tamil | [ 53 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+2009,Rituparno Ghosh,Abohomaan,False,2009 (57th) | Rituparno Ghosh | Abohomaan | Bengali | [ 54 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+2010,Vetrimaaran,Aadukalam,False,2010 (58th) | Vetrimaaran | Aadukalam | Tamil | [ 55 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+2011,Gurvinder Singh,Anhe Ghore Da Daan,False,2011 (59th) | Gurvinder Singh | Anhe Ghore Da Daan | Punjabi | [ 56 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+2012,Shivaji Lotan Patil,Dhag,False,2012 (60th) | Shivaji Lotan Patil | Dhag | Marathi | [ 57 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+2013,Hansal Mehta,Shahid,False,2013 (61st) | Hansal Mehta | Shahid | Hindi | [ 58 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+2014,Srijit Mukherji,Chotushkone,False,2014 (62nd) | Srijit Mukherji | Chotushkone | Bengali | [ 59 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+2015,Sanjay Leela Bhansali,Bajirao Mastani,False,2015 (63rd) | Sanjay Leela Bhansali | Bajirao Mastani | Hindi | [ 60 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+2016,Rajesh Mapuskar,Ventilator,False,2016 (64th) | Rajesh Mapuskar | Ventilator | Marathi | [ 61 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+2017,Jayaraj,Bhayanakam,False,2017 (65th) | Jayaraj | Bhayanakam | Malayalam | [ 62 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+2018,Aditya Dhar,Uri: The Surgical Strike,False,2018 (66th) | Aditya Dhar | Uri: The Surgical Strike | Hindi | [ 63 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+2019,Sanjay Puran Singh Chauhan,Bahattar Hoorain,False,2019 (67th) | Sanjay Puran Singh Chauhan | Bahattar Hoorain | Hindi | [ 64 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+2020,Sachy,Ayyappanum Koshiyum,False,2020 (68th) | Sachy | Ayyappanum Koshiyum | Malayalam | ,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+2021,Nikhil Mahajan,Godavari,False,2021 (69th) | Nikhil Mahajan | Godavari | Marathi | ,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+2022,Sooraj Barjatya,Uunchai,False,2022 (70th) | Sooraj Barjatya | Uunchai | Hindi | [ 65 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction
+2023,Sudipto Sen,The Kerala Story,False,2023 (71st) | Sudipto Sen | The Kerala Story | Hindi | [ 66 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Direction

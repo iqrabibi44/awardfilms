@@ -1,0 +1,555 @@
+award_show,year,ceremony_edition,category,nominee_name,work_title,role_or_character,result,language,source_url
+,1946,Nastri d'Argento 1946,Best Actor,Andrea Checchi,Two Anonymous Letters,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1946,Nastri d'Argento 1946,Best Actress,Clara Calamai,The Adulteress,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1946,Nastri d'Argento 1946,Best Director,Alessandro Blasetti,Un giorno nella vita Vittorio De Sica - Shoeshine,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1946,Nastri d'Argento 1946,Best Supporting Actor,Gino Cervi,His Young Wife,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1946,Nastri d'Argento 1946,Best Supporting Actress,Anna Magnani,"Rome, Open City",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1947,Nastri d'Argento 1947,Best Actor,Amedeo Nazzari,The Bandit,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1947,Nastri d'Argento 1947,Best Actress,Alida Valli,Eugenie Grandet,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1947,Nastri d'Argento 1947,Best Director,Roberto Rossellini,Paisan,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1947,Nastri d'Argento 1947,Best Score,Renzo Rossellini,Paisan,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1947,Nastri d'Argento 1947,Best Supporting Actor,Massimo Serato,The Sun Still Rises,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1947,Nastri d'Argento 1947,Best Supporting Actress,Ave Ninchi,To Live in Peace,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1948,Nastri d'Argento 1948,Best Actor,Vittorio De Sica,Heart,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1948,Nastri d'Argento 1948,Best Actress,Anna Magnani,Angelina,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1948,Nastri d'Argento 1948,Best Director,Alberto Lattuada,Flesh Will Surrender Giuseppe De Santis - Tragic Hunt,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1948,Nastri d'Argento 1948,Best Score,Renzo Rossellini,The Brothers Karamazov,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1948,Nastri d'Argento 1948,Best Screenplay,"Gaspare Cataldo, Pala & Alberto Vecchietti",The Brothers Karamazov,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1948,Nastri d'Argento 1948,Best Supporting Actor,Nando Bruno,Flesh Will Surrender,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1948,Nastri d'Argento 1948,Best Supporting Actress,Vivi Gioi,Tragic Hunt,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1949,Nastri d'Argento 1949,Best Actor,Massimo Girotti,In the Name of the Law,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1949,Nastri d'Argento 1949,Best Actress,Anna Magnani,L'Amore,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1949,Nastri d'Argento 1949,Best Director,Vittorio De Sica,Bicycle Thieves,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1949,Nastri d'Argento 1949,Best Score,Alessandro Cicognini,Bicycle Thieves,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1949,Nastri d'Argento 1949,Best Screenplay,"Vittorio De Sica, Cesare Zavattini, Suso Cecchi D'Amico, Oreste Biancoli, Adolfo Franci & Gerardo Guerrieri",Bicycle Thieves,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1949,Nastri d'Argento 1949,Best Supporting Actor,Saro Urzì,In the Name of the Law,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1949,Nastri d'Argento 1949,Best Supporting Actress,Giulietta Masina,Without Pity,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1950,Nastri d'Argento 1950,Best Actor,not awarded,not awarded,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1950,Nastri d'Argento 1950,Best Actress,not awarded,not awarded,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1950,Nastri d'Argento 1950,Best Director,Augusto Genina,Heaven over the Marshes,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1950,Nastri d'Argento 1950,Best Score,Roman Vlad,for all his works,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1950,Nastri d'Argento 1950,Best Screenplay,"Suso Cecchi D'Amico, Cesare Zavattini & Renato Castellani",It's Forever Springtime,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1950,Nastri d'Argento 1950,Best Supporting Actor,not awarded,not awarded,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1950,Nastri d'Argento 1950,Best Supporting Actress,not awarded,not awarded,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1951,Nastri d'Argento 1951,Best Actor,Aldo Fabrizi,Father's Dilemma,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1951,Nastri d'Argento 1951,Best Actress,Pier Angeli,Tomorrow Is Too Late,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1951,Nastri d'Argento 1951,Best Director,Alessandro Blasetti,Father's Dilemma,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1951,Nastri d'Argento 1951,Best Score,Giovanni Fusco,Story of a Love Affair,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1951,Nastri d'Argento 1951,Best Screenplay,Cesare Zavattini & Alessandro Blasetti,Father's Dilemma,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1951,Nastri d'Argento 1951,Best Supporting Actor,Umberto Spadaro,Il Brigante Musolino,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1951,Nastri d'Argento 1951,Best Supporting Actress,Giulietta Masina,Variety Lights,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1952,Nastri d'Argento 1952,Best Actor,Totò,Cops and Robbers,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1952,Nastri d'Argento 1952,Best Actress,Anna Magnani,Bellissima,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1952,Nastri d'Argento 1952,Best Director,Renato Castellani,Two Cents Worth of Hope,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1952,Nastri d'Argento 1952,Best Score,Mario Nascimbene,Rome 11:00,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1952,Nastri d'Argento 1952,Best Screenplay,"Ettore Maria Margadonna, Titina De Filippo & Renato Castellani",Two Cents Worth of Hope,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1952,Nastri d'Argento 1952,Best Supporting Actor,not awarded,not awarded,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1952,Nastri d'Argento 1952,Best Supporting Actress,not awarded,not awarded,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1953,Nastri d'Argento 1953,Best Actor,Renato Rascel,The Overcoat,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1953,Nastri d'Argento 1953,Best Actress,Ingrid Bergman,Europa '51,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1953,Nastri d'Argento 1953,Best Director,Luigi Zampa,The City Stands Trial,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1953,Nastri d'Argento 1953,Best Score,Valentino Bucchi,Eager to Live,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1953,Nastri d'Argento 1953,Best Screenplay,not assigned,not assigned,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1953,Nastri d'Argento 1953,Best Supporting Actor,Gabriele Ferzetti,The Wayward Wife,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1953,Nastri d'Argento 1953,Best Supporting Actress,not awarded,not awarded,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1954,Nastri d'Argento 1954,Best Actor,Nino Taranto,Easy Years,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1954,Nastri d'Argento 1954,Best Actress,Gina Lollobrigida,"Bread, Love and Dreams",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1954,Nastri d'Argento 1954,Best Director,Federico Fellini,I Vitelloni,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1954,Nastri d'Argento 1954,Best Score,Mario Zafred,Chronicle of Poor Lovers,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1954,Nastri d'Argento 1954,Best Screenplay,"Vitaliano Brancati, Sergio Amidei, Vincenzo Talarico & Luigi Zampa",Easy Years,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1954,Nastri d'Argento 1954,Best Supporting Actor,Alberto Sordi,I Vitelloni,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1954,Nastri d'Argento 1954,Best Supporting Actress,not awarded,not awarded,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1955,Nastri d'Argento 1955,Best Actor,Marcello Mastroianni,Days of Love,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1955,Nastri d'Argento 1955,Best Actress,Silvana Mangano,The Gold of Naples,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1955,Nastri d'Argento 1955,Best Director,Federico Fellini,La Strada,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1955,Nastri d'Argento 1955,Best Score,Angelo Francesco Lavagnino,Lost Continent,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1955,Nastri d'Argento 1955,Best Screenplay,not assigned,not assigned,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1955,Nastri d'Argento 1955,Best Supporting Actor,Paolo Stoppa,The Gold of Naples,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1955,Nastri d'Argento 1955,Best Supporting Actress,Tina Pica,"Bread, Love and Jealousy",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1956,Nastri d'Argento 1956,Best Actor,Alberto Sordi,The Bachelor,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1956,Nastri d'Argento 1956,Best Actress,not awarded,not awarded,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1956,Nastri d'Argento 1956,Best Director,Michelangelo Antonioni,Le Amiche,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1956,Nastri d'Argento 1956,Best Score,Angelo Francesco Lavagnino,Vertigine bianca,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1956,Nastri d'Argento 1956,Best Screenplay,"Pasquale Festa Campanile, Massimo Franciosa & Giuseppe Mancione",Wild Love,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1956,Nastri d'Argento 1956,Best Supporting Actor,Memmo Carotenuto,The Bigamist,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1956,Nastri d'Argento 1956,Best Supporting Actress,Valentina Cortese,Le amiche,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1957,Nastri d'Argento 1957,Best Actor,not awarded,not awarded,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1957,Nastri d'Argento 1957,Best Actress,Anna Magnani,The Awakening,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1957,Nastri d'Argento 1957,Best Director,Pietro Germi,The Railroad Man,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1957,Nastri d'Argento 1957,Best Score,Nino Rota,War and Peace,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1957,Nastri d'Argento 1957,Best Screenplay,Cesare Zavattini,The Roof,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1957,Nastri d'Argento 1957,Best Supporting Actor,Peppino De Filippo,"Toto, Peppino and the Outlaws",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1957,Nastri d'Argento 1957,Best Supporting Actress,Marisa Merlini,Time of Vacation,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1958,Nastri d'Argento 1958,Best Actor,Marcello Mastroianni,White Nights,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1958,Nastri d'Argento 1958,Best Actress,Giulietta Masina,Nights of Cabiria,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1958,Nastri d'Argento 1958,Best Director,Federico Fellini,Nights of Cabiria,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1958,Nastri d'Argento 1958,Best Score,Nino Rota,White Nights,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1958,Nastri d'Argento 1958,Best Screenplay,"Valerio Zurlini, Leo Benvenuti, Piero De Bernardi & Alberto Lattuada",Guendalina,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1958,Nastri d'Argento 1958,Best Supporting Actor,Andrea Checchi,Parola di ladro,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1958,Nastri d'Argento 1958,Best Supporting Actress,Franca Marzi,Nights of Cabiria,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1959,Nastri d'Argento 1959,Best Actor,Vittorio Gassman,Big Deal on Madonna Street,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1959,Nastri d'Argento 1959,Best Actress,not awarded,not awarded,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1959,Nastri d'Argento 1959,Best Director,Pietro Germi,A Man of Straw,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1959,Nastri d'Argento 1959,Best Score,Carlo Rustichelli,A Man of Straw,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1959,Nastri d'Argento 1959,Best Screenplay,"Age & Scarpelli, Suso Cecchi D'Amico & Mario Monicelli",Big Deal on Madonna Street,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1959,Nastri d'Argento 1959,Best Supporting Actor,Nino Vingelli,La sfida,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1959,Nastri d'Argento 1959,Best Supporting Actress,Dorian Gray,Mogli pericolose,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1960,Nastri d'Argento 1960,Best Actor,Alberto Sordi,The Great War,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1960,Nastri d'Argento 1960,Best Actress,Eleonora Rossi Drago,Violent Summer,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1960,Nastri d'Argento 1960,Best Director,Roberto Rossellini,General della Rovere,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1960,Nastri d'Argento 1960,Best Score,Mario Nascimbene,Violent Summer,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1960,Nastri d'Argento 1960,Best Screenplay,"Ennio De Concini, Alfredo Giannetti & Pietro Germi",The Facts of Murder,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1960,Nastri d'Argento 1960,Best Supporting Actor,Claudio Gora,The Facts of Murder,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1960,Nastri d'Argento 1960,Best Supporting Actress,Cristina Gajoni,...And the Wild Wild Women,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1961,Nastri d'Argento 1961,Best Actor,Marcello Mastroianni,La Dolce Vita,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1961,Nastri d'Argento 1961,Best Actress,Sophia Loren,Two Women,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1961,Nastri d'Argento 1961,Best Director,Luchino Visconti,Rocco and His Brothers,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1961,Nastri d'Argento 1961,Best Score,Giovanni Fusco,L'Avventura,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1961,Nastri d'Argento 1961,Best Screenplay,"Pasquale Festa Campanile, Suso Cecchi D'Amico, Massimo Franciosa, Enrico Medioli & Luchino Visconti- Rocco and His Brothers","Pasquale Festa Campanile, Suso Cecchi D'Amico, Massimo Franciosa, Enrico Medioli & Luchino Visconti- Rocco and His Brothers",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1961,Nastri d'Argento 1961,Best Supporting Actor,Enrico Maria Salerno,Long Night in 1943,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1961,Nastri d'Argento 1961,Best Supporting Actress,Didi Perego,Kapò,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1962,Nastri d'Argento 1962,Best Actor,Marcello Mastroianni,"Divorce, Italian Style",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1962,Nastri d'Argento 1962,Best Actress,not awarded,not awarded,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1962,Nastri d'Argento 1962,Best Director,Michelangelo Antonioni,La Notte,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1962,Nastri d'Argento 1962,Best Score,Giorgio Gaslini,La Notte,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1962,Nastri d'Argento 1962,Best Screenplay,"Ennio De Concini, Alfredo Giannetti & Pietro Germi",Divorce Italian Style,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1962,Nastri d'Argento 1962,Best Supporting Actor,Salvo Randone,The Assassin,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1962,Nastri d'Argento 1962,Best Supporting Actress,Monica Vitti,La notte,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1963,Nastri d'Argento 1963,Best Actor,Vittorio Gassman,The Easy Life,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1963,Nastri d'Argento 1963,Best Actress,Gina Lollobrigida,Imperial Venus,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1963,Nastri d'Argento 1963,Best Director,Nanni Loy,The Four Days of Naples Francesco Rosi - Salvatore Giuliano,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1963,Nastri d'Argento 1963,Best Score,Piero Piccioni,Salvatore Giuliano,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1963,Nastri d'Argento 1963,Best Screenplay,"Pasquale Festa Campanile, Massimo Franciosa, Carlo Bernari & Nanni Loy- The Four Days of Naples","Pasquale Festa Campanile, Massimo Franciosa, Carlo Bernari & Nanni Loy- The Four Days of Naples",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1963,Nastri d'Argento 1963,Best Supporting Actor,Romolo Valli,A Milanese Story,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1963,Nastri d'Argento 1963,Best Supporting Actress,Regina Bianchi,The Four Days of Naples,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1964,Nastri d'Argento 1964,Best Actor,Ugo Tognazzi,The Conjugal Bed,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1964,Nastri d'Argento 1964,Best Actress,Silvana Mangano,The Verona Trial,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1964,Nastri d'Argento 1964,Best Director,Federico Fellini,8½,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1964,Nastri d'Argento 1964,Best Score,Nino Rota,8½,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1964,Nastri d'Argento 1964,Best Screenplay,"Ennio Flaiano, Tullio Pinelli, Brunello Rondi & Federico Fellini",8½,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1964,Nastri d'Argento 1964,Best Supporting Actor,Folco Lulli,The Organizer,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1964,Nastri d'Argento 1964,Best Supporting Actress,Sandra Milo,8½,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1965,Nastri d'Argento 1965,Best Actor,Saro Urzì,Seduced and Abandoned,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1965,Nastri d'Argento 1965,Best Actress,Claudia Cardinale,Bebo's Girl,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1965,Nastri d'Argento 1965,Best Director,Pier Paolo Pasolini,The Gospel According to St. Matthew,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1965,Nastri d'Argento 1965,Best Score,Ennio Morricone,A Fistful of Dollars,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1965,Nastri d'Argento 1965,Best Screenplay,"Age & Scarpelli, Luciano Vincenzoni & Pietro Germi",Seduced and Abandoned,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1965,Nastri d'Argento 1965,Best Supporting Actor,Leopoldo Trieste,Seduced and Abandoned,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1965,Nastri d'Argento 1965,Best Supporting Actress,Tecla Scarano,Marriage Italian-Style,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1966,Nastri d'Argento 1966,Best Actor,Nino Manfredi,Questa volta parliamo di uomini,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1966,Nastri d'Argento 1966,Best Actress,Giovanna Ralli,The Escape,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1966,Nastri d'Argento 1966,Best Director,Antonio Pietrangeli,I Knew Her Well,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1966,Nastri d'Argento 1966,Best Score,Armando Trovajoli,Seven Golden Men,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1966,Nastri d'Argento 1966,Best Screenplay,"Ruggero Maccari, Ettore Scola & Antonio Pietrangeli",I Knew Her Well,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1966,Nastri d'Argento 1966,Best Supporting Actor,Ugo Tognazzi,I Knew Her Well,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1966,Nastri d'Argento 1966,Best Supporting Actress,Sandra Milo,Juliet of the Spirits,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1967,Nastri d'Argento 1967,Best Actor,Totò,The Hawks and the Sparrows,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1967,Nastri d'Argento 1967,Best Actress,Lisa Gastoni,Wake Up and Die,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1967,Nastri d'Argento 1967,Best Director,Gillo Pontecorvo,The Battle of Algiers,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1967,Nastri d'Argento 1967,Best Score,Carlo Rustichelli,For Love and Gold,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1967,Nastri d'Argento 1967,Best Screenplay,"Age & Scarpelli, Luciano Vincenzoni & Pietro Germi","The Birds, the Bees and the Italians",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1967,Nastri d'Argento 1967,Best Supporting Actor,Gastone Moschin,"The Birds, the Bees and the Italians",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1967,Nastri d'Argento 1967,Best Supporting Actress,Olga Villi,"The Birds, the Bees and the Italians",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1968,Nastri d'Argento 1968,Best Actor,Gian Maria Volonté,We Still Kill the Old Way,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1968,Nastri d'Argento 1968,Best Actress,not awarded,not awarded,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1968,Nastri d'Argento 1968,Best Director,Elio Petri,We Still Kill the Old Way,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1968,Nastri d'Argento 1968,Best Score,Mario Nascimbene,Pronto... c'è una certa Giuliana per te,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1968,Nastri d'Argento 1968,Best Screenplay,Ugo Pirro & Elio Petri,We Still Kill the Old Way,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1968,Nastri d'Argento 1968,Best Supporting Actor,Gabriele Ferzetti,We Still Kill the Old Way,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1968,Nastri d'Argento 1968,Best Supporting Actress,Maria Grazia Buccella,I Married You for Fun,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1969,Nastri d'Argento 1969,Best Actor,Ugo Tognazzi,La bambolona,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1969,Nastri d'Argento 1969,Best Actress,Monica Vitti,The Girl with the Pistol,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1969,Nastri d'Argento 1969,Best Director,Franco Zeffirelli,Romeo and Juliet,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1969,Nastri d'Argento 1969,Best Score,Nino Rota,Romeo and Juliet,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1969,Nastri d'Argento 1969,Best Screenplay,"Dino Maiuri, Massimo De Rita & Carlo Lizzani",Bandits in Milan,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1969,Nastri d'Argento 1969,Best Supporting Actor,Ettore Mattia,The Black Sheep,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1969,Nastri d'Argento 1969,Best Supporting Actress,Pupella Maggio,Be Sick... It's Free,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1970,Nastri d'Argento 1970,Best Actor,Nino Manfredi,The Conspirators,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1970,Nastri d'Argento 1970,Best Actress,Paola Pitagora,Unknown Woman,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1970,Nastri d'Argento 1970,Best Director,Luchino Visconti,The Damned,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1970,Nastri d'Argento 1970,Best Score,Ennio Morricone,Metti una sera a cena,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1970,Nastri d'Argento 1970,Best Screenplay,Fabio Carpi & Nelo Risi,Diary of a Schizophrenic Girl,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1970,Nastri d'Argento 1970,Best Supporting Actor,Umberto Orsini,The Damned Fanfulla – Fellini Satyricon,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1970,Nastri d'Argento 1970,Best Supporting Actress,not awarded,not awarded,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1971,Nastri d'Argento 1971,Best Actor,Gian Maria Volonté,Investigation of a Citizen Above Suspicion,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1971,Nastri d'Argento 1971,Best Actress,Ottavia Piccolo,Metello,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1971,Nastri d'Argento 1971,Best Director,Elio Petri,Investigation of a Citizen Above Suspicion,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1971,Nastri d'Argento 1971,Best Score,Stelvio Cipriani,The Anonymous Venetian,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1971,Nastri d'Argento 1971,Best Screenplay,"Adriano Baracco , Tullio Kezich, Alberto Lattuada & Piero Chiara",Come Have Coffee with Us,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1971,Nastri d'Argento 1971,Best Supporting Actor,Romolo Valli,The Garden of the Finzi-Continis,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1971,Nastri d'Argento 1971,Best Supporting Actress,Francesca Romana Coluzzi,Venga a prendere il caffè da noi,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1972,Nastri d'Argento 1972,Best Actor,Riccardo Cucciolla,Sacco e Vanzetti,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1972,Nastri d'Argento 1972,Best Actress,Mariangela Melato,The Working Class Goes to Heaven,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1972,Nastri d'Argento 1972,Best Director,Luchino Visconti,Death in Venice,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1972,Nastri d'Argento 1972,Best Score,Ennio Morricone,Sacco & Vanzetti,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1972,Nastri d'Argento 1972,Best Screenplay,"Leo Benvenuti, Piero De Bernardi & Nino Manfredi",Between Miracles,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1972,Nastri d'Argento 1972,Best Supporting Actor,Salvo Randone,The Working Class Goes to Heaven,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1972,Nastri d'Argento 1972,Best Supporting Actress,(shared),(shared),,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1973,Nastri d'Argento 1973,Best Actor,Giancarlo Giannini,The Seduction of Mimi,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1973,Nastri d'Argento 1973,Best Actress,Mariangela Melato,The Seduction of Mimi,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1973,Nastri d'Argento 1973,Best Director,Bernardo Bertolucci,Last Tango in Paris,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1973,Nastri d'Argento 1973,Best Score,"Guido De Angelis, Maurizio De Angelis","All the Way, Boys",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1973,Nastri d'Argento 1973,Best Screenplay,Alberto Bevilacqua,Questa specie d'amore,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1973,Nastri d'Argento 1973,Best Supporting Actor,Mario Carotenuto,The Scientific Cardplayer,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1973,Nastri d'Argento 1973,Best Supporting Actress,not awarded,not awarded,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1974,Nastri d'Argento 1974,Best Actor,Giancarlo Giannini,Love and Anarchy,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1974,Nastri d'Argento 1974,Best Actress,Laura Antonelli,Malicious,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1974,Nastri d'Argento 1974,Best Director,Federico Fellini,Amarcord,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1974,Nastri d'Argento 1974,Best Score,Tony Renis,Brothers Blue,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1974,Nastri d'Argento 1974,Best Screenplay,Tonino Guerra & Federico Fellini,Amarcord,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1974,Nastri d'Argento 1974,Best Supporting Actor,Turi Ferro,Malicious,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1974,Nastri d'Argento 1974,Best Supporting Actress,Adriana Asti,A Brief Vacation,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1975,Nastri d'Argento 1975,Best Actor,Vittorio Gassman,Scent of a Woman,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1975,Nastri d'Argento 1975,Best Actress,Lisa Gastoni,Bitter Love,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1975,Nastri d'Argento 1975,Best Director,Luchino Visconti,Conversation Piece,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1975,Nastri d'Argento 1975,Best Score,Giancarlo Chiaramello,Orlando Furioso,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1975,Nastri d'Argento 1975,Best Screenplay,Age & Scarpelli & Ettore Scola,We All Loved Each Other So Much,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1975,Nastri d'Argento 1975,Best Supporting Actor,Aldo Fabrizi,We All Loved Each Other So Much,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1975,Nastri d'Argento 1975,Best Supporting Actress,Giovanna Ralli,We All Loved Each Other So Much,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1976,Nastri d'Argento 1976,Best Actor,Michele Placido,Victory March,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1976,Nastri d'Argento 1976,Best Actress,Monica Vitti,Duck in Orange Sauce,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1976,Nastri d'Argento 1976,Best Director,Michelangelo Antonioni,The Passenger,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1976,Nastri d'Argento 1976,Best Score,Adriano Celentano,Yuppi du,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1976,Nastri d'Argento 1976,Best Screenplay,"Tullio Pinelli, Leo Benvenuti, Piero De Bernardi & Pietro Germi",Amici miei,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1976,Nastri d'Argento 1976,Best Supporting Actor,Ciccio Ingrassia,Todo modo,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1976,Nastri d'Argento 1976,Best Supporting Actress,Maria Teresa Albani,Down the Ancient Staircase,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1977,Nastri d'Argento 1977,Best Actor,Alberto Sordi,An Average Little Man,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1977,Nastri d'Argento 1977,Best Actress,Mariangela Melato,Caro Michele,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1977,Nastri d'Argento 1977,Best Director,Valerio Zurlini,The Desert of the Tartars,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1977,Nastri d'Argento 1977,Best Score,Fred Bongusto,"Oh, Serafina!",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1977,Nastri d'Argento 1977,Best Screenplay,Sergio Amidei & Mario Monicelli,An Average Little Man,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1977,Nastri d'Argento 1977,Best Supporting Actor,Romolo Valli,An Average Little Man,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1977,Nastri d'Argento 1977,Best Supporting Actress,Adriana Asti,The Inheritance,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1978,Nastri d'Argento 1978,Best Actor,Nino Manfredi,In the Name of the Pope King,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1978,Nastri d'Argento 1978,Best Actress,Sophia Loren,A Special Day,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1978,Nastri d'Argento 1978,Best Director,Paolo and Vittorio Taviani,Padre Padrone,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1978,Nastri d'Argento 1978,Best Score,Armando Trovajoli,A Special Day,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1978,Nastri d'Argento 1978,Best Screenplay,"Ruggero Maccari, Ettore Scola & Maurizio Costanzo",A Special Day,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1978,Nastri d'Argento 1978,Best Supporting Actor,Carlo Bagno,In the Name of the Pope King,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1978,Nastri d'Argento 1978,Best Supporting Actress,Virna Lisi,Beyond Good and Evil,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1979,Nastri d'Argento 1979,Best Actor,Flavio Bucci,Ligabue,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1979,Nastri d'Argento 1979,Best Actress,Mariangela Melato,To Forget Venice,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1979,Nastri d'Argento 1979,Best Director,Ermanno Olmi,The Tree of Wooden Clogs,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1979,Nastri d'Argento 1979,Best Score,Nino Rota,Orchestra Rehearsal,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1979,Nastri d'Argento 1979,Best Screenplay,Ermanno Olmi,The Tree of Wooden Clogs,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1979,Nastri d'Argento 1979,Best Supporting Actor,Vittorio Mezzogiorno,A Dangerous Toy,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1979,Nastri d'Argento 1979,Best Supporting Actress,Lea Massari,Christ Stopped at Eboli,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1980,Nastri d'Argento 1980,Best Actor,Nino Manfredi,Café express,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1980,Nastri d'Argento 1980,Best Actress,Ida Di Benedetto,Immacolata and Concetta: The Other Jealousy,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1980,Nastri d'Argento 1980,Best Director,Federico Fellini,City of Women,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1980,Nastri d'Argento 1980,Best Score,Fred Bongusto,The Cricket,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1980,Nastri d'Argento 1980,Best Screenplay,Age & Scarpelli & Ettore Scola,La terrazza,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1980,Nastri d'Argento 1980,Best Supporting Actor,Tomas Milian,La Luna,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1980,Nastri d'Argento 1980,Best Supporting Actress,Stefania Sandrelli,La terrazza,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1981,Nastri d'Argento 1981,Best Actor,Vittorio Mezzogiorno,Three Brothers,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1981,Nastri d'Argento 1981,Best Actress,Mariangela Melato,Help Me Dream,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1981,Nastri d'Argento 1981,Best Director,Francesco Rosi,Tre fratelli,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1981,Nastri d'Argento 1981,Best Score,Riz Ortolani,Help Me Dream,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1981,Nastri d'Argento 1981,Best Screenplay,Ruggero Maccari & Ettore Scola,Passion of Love,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1981,Nastri d'Argento 1981,Best Supporting Actor,Massimo Girotti,Passion of Love,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1981,Nastri d'Argento 1981,Best Supporting Actress,Ida Di Benedetto,Fontamara,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1982,Nastri d'Argento 1982,Best Actor,Ugo Tognazzi,Tragedy of a Ridiculous Man,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1982,Nastri d'Argento 1982,Best Actress,Eleonora Giorgi,Talcum Powder,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1982,Nastri d'Argento 1982,Best Director,Marco Ferreri,Tales of Ordinary Madness,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1982,Nastri d'Argento 1982,Best Score,"Lucio Dalla, Fabio Liberatori",Talcum Powder,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1982,Nastri d'Argento 1982,Best Screenplay,"Tullio Pinelli, Leo Benvenuti, Piero De Bernardi, Bernardino Zapponi & Mario Monicelli- Il Marchese del Grillo","Tullio Pinelli, Leo Benvenuti, Piero De Bernardi, Bernardino Zapponi & Mario Monicelli- Il Marchese del Grillo",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1982,Nastri d'Argento 1982,Best Supporting Actor,Paolo Stoppa,Il Marchese del Grillo,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1982,Nastri d'Argento 1982,Best Supporting Actress,Claudia Cardinale,The Skin,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1983,Nastri d'Argento 1983,Best Actor,Francesco Nuti,The Pool Hustlers,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1983,Nastri d'Argento 1983,Best Actress,Giuliana De Sio,The Pool Hustlers,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1983,Nastri d'Argento 1983,Best Director,Paolo and Vittorio Taviani,The Night of the Shooting Stars,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1983,Nastri d'Argento 1983,Best Score,Angelo Branduardi,State buoni... se potete,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1983,Nastri d'Argento 1983,Best Screenplay,"Paolo & Vittorio Taviani, Tonino Guerra & Giuliani G. De Negri",The Night of the Shooting Stars,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1983,Nastri d'Argento 1983,Best Supporting Actor,Tino Schirinzi,Sciopèn,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1983,Nastri d'Argento 1983,Best Supporting Actress,Virna Lisi,Time for Loving,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1984,Nastri d'Argento 1984,Best Actor,Carlo Delle Piane,A School Outing,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1984,Nastri d'Argento 1984,Best Actress,Lina Sastri,Where's Picone?,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1984,Nastri d'Argento 1984,Best Director,Pupi Avati,A School Outing Federico Fellini - And the Ship Sails On,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1984,Nastri d'Argento 1984,Best Score,Riz Ortolani,A School Outing,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1984,Nastri d'Argento 1984,Best Screenplay,Elvio Porta & Nanni Loy,Where's Picone?,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1984,Nastri d'Argento 1984,Best Supporting Actor,Leo Gullotta,Where's Picone?,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1984,Nastri d'Argento 1984,Best Supporting Actress,Monica Scattini,Away from where,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1985,Nastri d'Argento 1985,Best Actor,Michele Placido,Pizza connection,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1985,Nastri d'Argento 1985,Best Actress,Claudia Cardinale,Claretta,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1985,Nastri d'Argento 1985,Best Director,Sergio Leone,Once Upon a Time in America,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1985,Nastri d'Argento 1985,Best Score,Ennio Morricone,Once Upon a Time in America,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1985,Nastri d'Argento 1985,Best Screenplay,Paolo & Vittorio Taviani & Tonino Guerra,Kaos,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1985,Nastri d'Argento 1985,Best Supporting Actor,Leopoldo Trieste,Henry IV,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1985,Nastri d'Argento 1985,Best Supporting Actress,Marina Confalone,Così parlò Bellavista,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1986,Nastri d'Argento 1986,Best Actor,Marcello Mastroianni,Ginger and Fred,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1986,Nastri d'Argento 1986,Best Actress,Giulietta Masina,Ginger and Fred,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1986,Nastri d'Argento 1986,Best Director,Mario Monicelli,Speriamo che sia femmina,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1986,Nastri d'Argento 1986,Best Score,Tony Esposito,"Camorra (A Story of Streets, Women and Crime)",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1986,Nastri d'Argento 1986,Best Screenplay,"Tullio Pinelli, Leo Benvenuti, Piero De Bernardi, Suso Cecchi D'Amico & Mario Monicelli- Let's Hope It's a Girl","Tullio Pinelli, Leo Benvenuti, Piero De Bernardi, Suso Cecchi D'Amico & Mario Monicelli- Let's Hope It's a Girl",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1986,Nastri d'Argento 1986,Best Supporting Actor,Gastone Moschin,Amici miei – Atto III,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1986,Nastri d'Argento 1986,Best Supporting Actress,Isa Danieli,"Camorra (A Story of Streets, Women and Crime)",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1987,Nastri d'Argento 1987,Best Actor,Roberto Benigni,Down by Law (in English language),,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1987,Nastri d'Argento 1987,Best Actress,Valeria Golino,A Tale of Love,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1987,Nastri d'Argento 1987,Best Director,Ettore Scola,The Family,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1987,Nastri d'Argento 1987,Best Score,Armando Trovajoli,The Family Riz Ortolani - The Inquiry Giovanni Nuti - Stregati,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1987,Nastri d'Argento 1987,Best Screenplay,"Ruggero Maccari, Ettore Scola & Furio Scarpelli",The Family,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1987,Nastri d'Argento 1987,Best Supporting Actor,Diego Abatantuono,Christmas Present,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1987,Nastri d'Argento 1987,Best Supporting Actress,Ottavia Piccolo,The Family,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1988,Nastri d'Argento 1988,Best Actor,Marcello Mastroianni,Dark Eyes,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1988,Nastri d'Argento 1988,Best Actress,Ornella Muti,Me and My Sister,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1988,Nastri d'Argento 1988,Best Director,Bernardo Bertolucci,The Last Emperor,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1988,Nastri d'Argento 1988,Best Score,Ennio Morricone,The Untouchables,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1988,Nastri d'Argento 1988,Best Screenplay,Massimo Troisi & Anna Pavignano,Le vie del Signore sono finite,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1988,Nastri d'Argento 1988,Best Supporting Actor,Enzo Cannavale,32 dicembre,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1988,Nastri d'Argento 1988,Best Supporting Actress,Elena Sofia Ricci,Me and My Sister,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1989,Nastri d'Argento 1989,Best Actor,Gian Maria Volonté,The Abyss (in French language),,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1989,Nastri d'Argento 1989,Best Actress,Ornella Muti,Private Access,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1989,Nastri d'Argento 1989,Best Director,Ermanno Olmi,The Legend of the Holy Drinker,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1989,Nastri d'Argento 1989,Best Score,"Eugenio Bennato, Carlo D'Angiò",Cavalli si nasce,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1989,Nastri d'Argento 1989,Best Screenplay,Tullio Kezich & Ermanno Olmi,The Legend of the Holy Drinker,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1989,Nastri d'Argento 1989,Best Supporting Actor,Fabio Bussotti,Francesco,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1989,Nastri d'Argento 1989,Best Supporting Actress,Stefania Sandrelli,Mignon Has Come to Stay,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1990,Nastri d'Argento 1990,Best Actor,Vittorio Gassman,The Sleazy Uncle,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1990,Nastri d'Argento 1990,Best Actress,Virna Lisi,Merry Christmas... Happy New Year,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1990,Nastri d'Argento 1990,Best Director,Pupi Avati,The Story of Boys & Girls,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1990,Nastri d'Argento 1990,Best Score,Claudio Mattone,Street Kids,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1990,Nastri d'Argento 1990,Best Screenplay,Pupi Avati,The Story of Boys & Girls,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1990,Nastri d'Argento 1990,Best Supporting Actor,Alessandro Haber,Willy Signori e vengo da lontano,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1990,Nastri d'Argento 1990,Best Supporting Actress,Nancy Brilli,Little Misunderstandings,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1991,Nastri d'Argento 1991,Best Actor,Marcello Mastroianni,Towards Evening,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1991,Nastri d'Argento 1991,Best Actress,Margherita Buy,The Station,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1991,Nastri d'Argento 1991,Best Director,Gianni Amelio,Open Doors,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1991,Nastri d'Argento 1991,Best Score,Nicola Piovani,"The Voice of the Moon, In the Name of the Sovereign People, Dark Illness, The Sun Also Shines at Night",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1991,Nastri d'Argento 1991,Best Screenplay,Suso Cecchi D'Amico & Tonino Guerra,Dark Illness,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1991,Nastri d'Argento 1991,Best Supporting Actor,Ennio Fantastichini,Open Doors,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1991,Nastri d'Argento 1991,Best Supporting Actress,Zoe Incrocci,Towards Evening,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1992,Nastri d'Argento 1992,Best Actor,Roberto Benigni,Johnny Stecchino,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1992,Nastri d'Argento 1992,Best Actress,Francesca Neri,"I thought it was love, but it was a barouche",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1992,Nastri d'Argento 1992,Best Director,Gabriele Salvatores,Mediterraneo,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1992,Nastri d'Argento 1992,Best Score,Pino Daniele,Pensavo fosse amore invece era un calesse,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1992,Nastri d'Argento 1992,Best Screenplay,Andrea Barbato & Emidio Greco,A Simple Story,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1992,Nastri d'Argento 1992,Best Supporting Actor,Paolo Bonacelli,Johnny Stecchino,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1992,Nastri d'Argento 1992,Best Supporting Actress,Ilaria Occhini,Welcome to Home Gori,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1993,Nastri d'Argento 1993,Best Actor,Diego Abatantuono,Puerto Escondido,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1993,Nastri d'Argento 1993,Best Actress,Antonella Ponziani,Way South,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1993,Nastri d'Argento 1993,Best Director,Gianni Amelio,The Stolen Children,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1993,Nastri d'Argento 1993,Best Score,Manuel De Sica,Al lupo al lupo,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1993,Nastri d'Argento 1993,Best Screenplay,"Stefano Rulli, Sandro Petraglia & Gianni Amelio",The Stolen Children,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1993,Nastri d'Argento 1993,Best Supporting Actor,Renato Carpentieri,Puerto Escondido,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1993,Nastri d'Argento 1993,Best Supporting Actress,Paola Quattrini,Brothers and Sisters,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1994,Nastri d'Argento 1994,Best Actor,Paolo Villaggio,The Secret of the Old Woods,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1994,Nastri d'Argento 1994,Best Actress,Chiara Caselli,Where Are You? I'm Here,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1994,Nastri d'Argento 1994,Best Director,Nanni Moretti,Caro diario,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1994,Nastri d'Argento 1994,Best Score,Federico De Robertis,Sud,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1994,Nastri d'Argento 1994,Best Screenplay,Francesca Archibugi,The Great Pumpkin,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1994,Nastri d'Argento 1994,Best Supporting Actor,Alessandro Haber,"For Love, Only for Love",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1994,Nastri d'Argento 1994,Best Supporting Actress,Milena Vukotic,Fantozzi in paradiso,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1995,Nastri d'Argento 1995,Best Actor,Alessandro Haber,The True Life of Antonio H.,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1995,Nastri d'Argento 1995,Best Actress,Sabrina Ferilli,Living It Up,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1995,Nastri d'Argento 1995,Best Director,Gianni Amelio,Lamerica,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1995,Nastri d'Argento 1995,Best Score,Luis Enríquez Bacalov,Il Postino: The Postman,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1995,Nastri d'Argento 1995,Best Screenplay,Alessandro D'Alatri,No Skin,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1995,Nastri d'Argento 1995,Best Supporting Actor,Marco Messeri,With Closed Eyes,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1995,Nastri d'Argento 1995,Best Supporting Actress,Virna Lisi,La Reine Margot,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1996,Nastri d'Argento 1996,Best Actor,Sergio Castellitto,The Star Maker,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1996,Nastri d'Argento 1996,Best Actress,Anna Bonaiuto,Nasty Love,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1996,Nastri d'Argento 1996,Best Director,Giuseppe Tornatore,The Star Maker,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1996,Nastri d'Argento 1996,Best Score,Lucio Dalla,Beyond the Clouds,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1996,Nastri d'Argento 1996,Best Screenplay,"Leone Pompucci, Filippo Pichi & Paolo Rossi",Camerieri,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1996,Nastri d'Argento 1996,Best Supporting Actor,Leopoldo Trieste,The Star Maker,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1996,Nastri d'Argento 1996,Best Supporting Actress,Regina Bianchi,Camerieri,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1997,Nastri d'Argento 1997,Best Actor,Leonardo Pieraccioni,Il ciclone,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1997,Nastri d'Argento 1997,Best Actress,Iaia Forte,Luna e l'altra Virna Lisi - Follow Your Heart,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1997,Nastri d'Argento 1997,Best Director,Maurizio Nichetti,Luna e l'altra,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1997,Nastri d'Argento 1997,Best Score,Paolo Conte,How the Toys Saved Christmas,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1997,Nastri d'Argento 1997,Best Screenplay,Giovanni Veronesi & Leonardo Pieraccioni,The Cyclone,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1997,Nastri d'Argento 1997,Best Supporting Actor,Gianni Cavina,Festival,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1997,Nastri d'Argento 1997,Best Supporting Actress,Lucia Poli,Albergo Roma,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1998,Nastri d'Argento 1998,Best Actor,Roberto Benigni,Life Is Beautiful,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1998,Nastri d'Argento 1998,Best Actress,Francesca Neri,Live Flesh (in Spanish language),,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1998,Nastri d'Argento 1998,Best Director,Roberto Benigni,Life Is Beautiful,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1998,Nastri d'Argento 1998,Best Score,Nino D'Angelo,To Die for Tano,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1998,Nastri d'Argento 1998,Best Screenplay,Vincenzo Cerami & Roberto Benigni,Life Is Beautiful,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1998,Nastri d'Argento 1998,Best Supporting Actor,Giustino Durano,Life Is Beautiful,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1998,Nastri d'Argento 1998,Best Supporting Actress,"Mimma De Rosalia, Maria Aliotta, Annamaria Confalone, Adele Aliotta, Francesca Di Cesare, Eleonora Teriaca, Concetta Alfano, Antonia Uzzo",To Die for Tano,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,1999,Nastri d'Argento 1999,Best Actor,Giancarlo Giannini,The Room of the Scirocco,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,1999,Nastri d'Argento 1999,Best Actress,Giovanna Mezzogiorno,Of Lost Love,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,1999,Nastri d'Argento 1999,Best Director,Giuseppe Tornatore,The Legend of 1900,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,1999,Nastri d'Argento 1999,Best Score,Eugenio Bennato,The Room of the Scirocco,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,1999,Nastri d'Argento 1999,Best Screenplay,Giuseppe Tornatore,The Legend of 1900,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,1999,Nastri d'Argento 1999,Best Supporting Actor,"Antonio Catania, Riccardo Garrone, Vittorio Gassman, Giancarlo Giannini, Adalberto Maria Merli, Eros Pagni, Stefano Antonucci, Giorgio Colangeli, Giuseppe Gandini, Valter Lupo, Paolo Merloni, Carlo Molfese, Sergio Nicolai, Corrado Olmi, Mario Patanè, Pierfrancesco Poggi, Francesco Siciliano, Giorgio Tirabassi, Venantino Venantini, Andrea Cambi",The Dinner,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,1999,Nastri d'Argento 1999,Best Supporting Actress,Stefania Sandrelli,La cena,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,2000,Nastri d'Argento 2000,Best Actor,Silvio Orlando,I Prefer the Sound of the Sea,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,2000,Nastri d'Argento 2000,Best Actress,Licia Maglietta,Bread and Tulips,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,2000,Nastri d'Argento 2000,Best Director,Silvio Soldini,Bread and Tulips,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,2000,Nastri d'Argento 2000,Best Score,Ennio Morricone,Canone inverso,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,2000,Nastri d'Argento 2000,Best Screenplay,Doriana Leondeff & Silvio Soldini,Bread and Tulips Antonio & Pupi Avati – Midsummer Night's Dance Bernardo Bertolucci & Clare Peploe – Besieged Enzo Monteleone & Angelo Orlando – Outlaw Gabriele Muccino & Adele Tulli – But Forever in My Mind,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,2000,Nastri d'Argento 2000,Best Supporting Actor,Felice Andreasi,Bread and Tulips,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,2000,Nastri d'Argento 2000,Best Supporting Actress,Marina Massironi,Bread and Tulips,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,2001,Nastri d'Argento 2001,Best Actor,Stefano Accorsi,The Ignorant Fairies,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,2001,Nastri d'Argento 2001,Best Actress,Margherita Buy,The Ignorant Fairies,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,2001,Nastri d'Argento 2001,Best Director,Nanni Moretti,The Son's Room,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,2001,Nastri d'Argento 2001,Best Score,Ennio Morricone,Malèna,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,2001,Nastri d'Argento 2001,Best Screenplay,"Claudio Fava, Marco Tullio Giordana & Monica Zapelli","One Hundred Steps Francesca Archibugi – Domani Leonardo Fasoli & Gianluca Maria Tavarelli – This Is Not Paradise Linda Ferri, Nanni Moretti & Heidrun Schleef – The Son's Room Ferzan Ozpetek & Gianni Romoli – The Ignorant Fairies",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,2001,Nastri d'Argento 2001,Best Supporting Actor,Giancarlo Giannini,Hannibal,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,2001,Nastri d'Argento 2001,Best Supporting Actress,Stefania Sandrelli,The Last Kiss,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,2002,Nastri d'Argento 2002,Best Actor,Sergio Castellitto,My Mother's Smile,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,2002,Nastri d'Argento 2002,Best Actress,Valeria Golino,Respiro,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,2002,Nastri d'Argento 2002,Best Director,Marco Bellocchio,My Mother's Smile,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,2002,Nastri d'Argento 2002,Best Score,Edoardo Bennato,Il principe e il pirata,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,2002,Nastri d'Argento 2002,Best Screenplay,"Giulia Calenda, Cristina Comencini & Lucilla Schiaffino",The Best Day of My Life Marco Bellocchio – My Mother's Smile Emanuele Crialese – Respiro Enzo D'Alò & Umberto Marino – Momo Paolo Sorrentino – One Man Up,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,2002,Nastri d'Argento 2002,Best Supporting Actor,Leo Gullotta,Vajont,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,2002,Nastri d'Argento 2002,Best Supporting Actress,"Margherita Buy, Virna Lisi, Sandra Ceccarelli",The Best Day of My Life,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,2003,Nastri d'Argento 2003,Best Actor,Neri Marcorè – Incantato Gigi Proietti – Febbre da cavallo,La mandrakata,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,2003,Nastri d'Argento 2003,Best Actress,Giovanna Mezzogiorno,The Cruelest Day and Facing Windows,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,2003,Nastri d'Argento 2003,Best Director,Gabriele Salvatores,I'm Not Scared,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,2003,Nastri d'Argento 2003,Best Score,Nicola Piovani,Pinocchio,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,2003,Nastri d'Argento 2003,Best Screenplay,"Gabriele Muccino & Heidrun Schleef – Remember Me, My Love Niccolò Ammaniti & Francesca Marciano – I'm Not Scared Massimo D'Anolfi & Roberta Torre – Angela Roberto Faenza – The Soul Keeper Enzo Monteleone – El Alamein",The Line of Fire Ferzan Ozpetek & Gianni Romoli – Facing Windows,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,2003,Nastri d'Argento 2003,Best Supporting Actor,Diego Abatantuono,I'm Not Scared,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,2003,Nastri d'Argento 2003,Best Supporting Actress,Monica Bellucci,"Remember Me, My Love",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,2004,Nastri d'Argento 2004,Best Actor,"Alessio Boni, Fabrizio Gifuni, Luigi Lo Cascio, Andrea Tidona","The Best of Youth Roberto Herlitzka – Good Morning, Night",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,2004,Nastri d'Argento 2004,Best Actress,"Jasmine Trinca, Adriana Asti, Sonia Bergamasco and Maya Sansa",The Best of Youth,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,2004,Nastri d'Argento 2004,Best Director,Marco Tullio Giordana,The Best of Youth,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,2004,Nastri d'Argento 2004,Best Score,Paolo Fresu,L'isola,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,2004,Nastri d'Argento 2004,Best Screenplay,Sandro Petraglia & Stefano Rulli,"The Best of Youth Franco Battiato & Manlio Sgalambro Lost Love Marco Bellocchio – Good Morning, Night Salvatore Mereu – Three-Step Dance Francesco Bruni & Paolo Virzì – Caterina in the Big City",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,2004,Nastri d'Argento 2004,Best Supporting Actor,Arnoldo Foà,Gente di Roma,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,2004,Nastri d'Argento 2004,Best Supporting Actress,Margherita Buy,Caterina in the Big City,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,2005,Nastri d'Argento 2005,Best Actor,Toni Servillo,The Consequences of Love,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,2005,Nastri d'Argento 2005,Best Actress,Laura Morante,Love Is Eternal While It Lasts,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,2005,Nastri d'Argento 2005,Best Director,Gianni Amelio,The Keys to the House,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,2005,Nastri d'Argento 2005,Best Score,Banda Osiris,First Love,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,2005,Nastri d'Argento 2005,Best Screenplay,Sergio Castellitto & Margaret Mazzantini,"Don't Move Gianni Amelio, Sandro Petraglia & Stefano Rulli – The Keys to the House Pupi Avati – Christmas Rematch Davide Ferrario – After Midnight Andrea Frazzi , Antonio Frazzi , Marcello Fois, Diego De Silva & Ferdinando Vicentini Orgnani – Certi bambini",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,2005,Nastri d'Argento 2005,Best Supporting Actor,Raffaele Pisu,The Consequences of Love,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,2005,Nastri d'Argento 2005,Best Supporting Actress,Giovanna Mezzogiorno,Love Returns,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,2006,Nastri d'Argento 2006,Best Actor,"Pierfrancesco Favino, Kim Rossi Stuart, Claudio Santamaria",Romanzo criminale,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,2006,Nastri d'Argento 2006,Best Actress,Katia Ricciarelli,The Second Wedding Night,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,2006,Nastri d'Argento 2006,Best Director,Michele Placido,Romanzo Criminale,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,2006,Nastri d'Argento 2006,Best Score,"Negramaro, Roy Paci, Fabio Barovero, Simone Fabbroni, Louis Siciliano",The Fever,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,2006,Nastri d'Argento 2006,Best Screenplay,Ugo Chiti & Giovanni Veronesi,"Manual of Love Alessandro D'Alatri, Gennaro Nunziante & Domenico Starnone – The Fever Sandro Petraglia, Stefano Rulli, Giancarlo De Cataldo & Michele Placido – Romanzo criminale Giuseppe Rocca, Laura Sabatino & Antonietta De Lillo – The Remains of Nothing Gabriele Salvatores & Fabio Scamoni – Quo Vadis, Baby?",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,2006,Nastri d'Argento 2006,Best Supporting Actor,Carlo Verdone,Manual of Love,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,2006,Nastri d'Argento 2006,Best Supporting Actress,Angela Finocchiaro,The Beast in the Heart,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,2007,Nastri d'Argento 2007,Best Actor,Silvio Orlando,The Caiman,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,2007,Nastri d'Argento 2007,Best Actress,Margherita Buy,Saturn in Opposition and The Caiman,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,2007,Nastri d'Argento 2007,Best Director,Giuseppe Tornatore,The Unknown Woman,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,2007,Nastri d'Argento 2007,Best Score,Ennio Morricone,The Unknown Woman,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,2007,Nastri d'Argento 2007,Best Screenplay,Ferzan Ozpetek & Gianni Romoli,"Saturn in Opposition Antonio Capuano – Mario's War Emanuele Crialese – Golden Door Linda Ferri, Federico Starnone, Francesco Giammusso & Kim Rossi Stuart – Along the Ridge Mario Monicelli, Alessandro Bencivenni & Domenico Saverni – The Roses of the Desert Giuseppe Tornatore – The Unknown Woman",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,2007,Nastri d'Argento 2007,Best Supporting Actor,Alessandro Haber,The Unknown Woman and The Roses of the Desert,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,2007,Nastri d'Argento 2007,Best Supporting Actress,Ambra Angiolini,Saturn in Opposition,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,2008,Nastri d'Argento 2008,Best Actor,Toni Servillo,The Girl by the Lake,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,2008,Nastri d'Argento 2008,Best Actress,Margherita Buy,Days and Clouds,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,2008,Nastri d'Argento 2008,Best Director,Paolo Virzì,Tutta la vita davanti,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,2008,Nastri d'Argento 2008,Best Score,Paolo Buonvino,Quiet Chaos,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,2008,Nastri d'Argento 2008,Best Screenplay,Sandro Petraglia,"The Girl by the Lake with Daniele Luchetti & Stefano Rulli – My Brother Is an Only Child Francesco Bruni & Paolo Virzì – Your Whole Life Ahead of You Peter Del Monte & Michele Pellegrini – In Your Hands Doriana Leondeff , Francesco Piccolo, Federica Pontremoli & Silvio Soldini – Days and Clouds Michele Pellegrini & Gianni Zanasi – Don't Think About It",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,2008,Nastri d'Argento 2008,Best Supporting Actor,Alessandro Gassman,Quiet Chaos,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,2008,Nastri d'Argento 2008,Best Supporting Actress,Sabrina Ferilli,Your Whole Life Ahead of You,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,2009,Nastri d'Argento 2009,Best Actor,Toni Servillo,Il Divo,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,2009,Nastri d'Argento 2009,Best Actress,Giovanna Mezzogiorno,Vincere,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,2009,Nastri d'Argento 2009,Best Director,Paolo Sorrentino,Il Divo,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,2009,Nastri d'Argento 2009,Best Score,Paolo Buonvino,Italians,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,2009,Nastri d'Argento 2009,Best Screenplay,Paolo Sorrentino,"Il Divo Francesca Archibugi – A Question of the Heart Maurizio Braucci, Ugo Chiti, Gianni Di Gregorio & Matteo Garrone – Gomorrah Fausto Brizzi, Massimiliano Bruno & Marco Martani – Ex Jim Carrington, Andrea Purgatori & Marco Risi – Fort Apache Napoli",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,2009,Nastri d'Argento 2009,Best Supporting Actor,Ezio Greggio,Giovanna's Father,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,2009,Nastri d'Argento 2009,Best Supporting Actress,Francesca Neri,Giovanna's Father,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,2010,Nastri d'Argento 2010,Best Actor,Elio Germano,La nostra vita Christian De Sica – The Youngest Son,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,2010,Nastri d'Argento 2010,Best Actress,"Micaela Ramazzotti, Stefania Sandrelli",The First Beautiful Thing,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,2010,Nastri d'Argento 2010,Best Director,Paolo Virzì,The First Beautiful Thing,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,2010,Nastri d'Argento 2010,Best Score,Rita Marcotulli,Basilicata coast to coast,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,2010,Nastri d'Argento 2010,Best Screenplay,"Francesco Bruni, Francesco Piccolo & Paolo Virzì","The First Beautiful Thing Ivan Cotroneo, Ferzan Ozpetek – Loose Cannons Alessandro Genovesi & Gabriele Salvatores – Happy Family Gabriele Muccino – Baciami ancora Sandro Petraglia, Stefano Rulli & Daniele Luchetti – La nostra vita",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,2010,Nastri d'Argento 2010,Best Supporting Actor,Ennio Fantastichini,Loose Cannons Luca Zingaretti – The Youngest Son and La nostra vita,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,2010,Nastri d'Argento 2010,Best Supporting Actress,(shared),(shared),,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,2011,Nastri d'Argento 2011,Best Actor,Kim Rossi Stuart,Angel of Evil,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,2011,Nastri d'Argento 2011,Best Actress,Alba Rohrwacher,The Solitude of Prime Numbers,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,2011,Nastri d'Argento 2011,Best Director,Nanni Moretti,Habemus Papam,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,2011,Nastri d'Argento 2011,Best Score,Negramaro,Vallanzasca – Gli angeli del male,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,2011,Nastri d'Argento 2011,Best Screenplay,Massimo Gaudioso,Benvenuti al Sud Massimiliano Bruno & Edoardo Falcone with the collaboration of Fausto Brizzi – Escort in Love Antonio Capuano – Dark Love (L'amore buio) Daniele Gaglianone – Pietro Pasquale Scimeca & Nennella Buonaiuto with the collaboration of Tonino Guerra – Malavoglia,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,2011,Nastri d'Argento 2011,Best Supporting Actor,Giuseppe Battiston,"La Passione, Unlikely Revolutionaries and Make a Fake",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,2011,Nastri d'Argento 2011,Best Supporting Actress,Carolina Crescentini,Boris: The Film and 20 Cigarettes,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,2012,Nastri d'Argento 2012,Best Actor,Pierfrancesco Favino,ACAB – All Cops Are Bastards and Piazza Fontana: The Italian Conspiracy,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,2012,Nastri d'Argento 2012,Best Actress,Micaela Ramazzotti,A Flat for Three and The Big Heart of the Girls,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,2012,Nastri d'Argento 2012,Best Director,Paolo Sorrentino,This Must Be the Place,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,2012,Nastri d'Argento 2012,Best Score,Franco Piersanti,"Terraferma, The First Man",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,2012,Nastri d'Argento 2012,Best Screenplay,"Marco Tullio Giordana, Sandro Petraglia & Stefano Rulli – Piazza Fontana: The Italian Conspiracy Carlo Verdone, Pasquale Plastino & Maruska Albertazzi – A Flat for Three Daniele Vicari & Laura Paolucci – Diaz",Don't Clean Up This Blood Paolo Sorrentino & Umberto Contarello – This Must Be the Place Francesco Bruni – Scialla! (Stai sereno),,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,2012,Nastri d'Argento 2012,Best Supporting Actor,Marco Giallini,A Flat for Three and ACAB – All Cops Are Bastards,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,2012,Nastri d'Argento 2012,Best Supporting Actress,Michela Cescon,Piazza Fontana: The Italian Conspiracy,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,2013,Nastri d'Argento 2013,Best Actor,Aniello Arena,Reality,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,2013,Nastri d'Argento 2013,Best Actress,Jasmine Trinca,There Will Come a Day and Miele,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,2013,Nastri d'Argento 2013,Best Director,Giuseppe Tornatore,The Best Offer,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,2013,Nastri d'Argento 2013,Best Score,Ennio Morricone,The Best Offer,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,2013,Nastri d'Argento 2013,Best Screenplay,Roberto Andò & Angelo Pasquini,"Long Live Freedom Marco Bellocchio, Veronica Raimo & Stefano Rulli – Dormant Beauty Giuseppe Piccioni & Francesca Manieri – The Red and the Blue Paolo Sorrentino & Umberto Contarello – The Great Beauty Giuseppe Tornatore – La migliore offerta",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,2013,Nastri d'Argento 2013,Best Supporting Actor,Carlo Verdone,The Great Beauty,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,2013,Nastri d'Argento 2013,Best Supporting Actress,Sabrina Ferilli,The Great Beauty,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,2014,Nastri d'Argento 2014,Best Actor,Fabrizio Bentivoglio and Fabrizio Gifuni,Human Capital,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,2014,Nastri d'Argento 2014,Best Actress,Kasia Smutniak,Fasten Your Seatbelts,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,2014,Nastri d'Argento 2014,Best Director,Paolo Virzì,Human Capital,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,2014,Nastri d'Argento 2014,Best Score,Pivio and Aldo De Scalzi,Song'e Napule,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,2014,Nastri d'Argento 2014,Best Screenplay,"Francesco Bruni, Francesco Piccolo & Paolo Virzì","Human Capital Daniele Luchetti, Sandro Petraglia, Stefano Rulli and Caterina Venturini – Those Happy Years Nicola Lusuardi, Marco Simon Puccioni and Heidrun Schleef – Like the Wind Asia Argento and Barbara Alberti – Misunderstood Alice Rohrwacher – The Wonders",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,2014,Nastri d'Argento 2014,Best Supporting Actor,Carlo Buccirosso e Paolo Sassanelli,"Song'e Napule Alessandro Haber – The Fifth Wheel Ricky Memphis – The Move of the Penguin Giorgio Pasotti – Sapore di te, Nottetempo e A Fairy-Tale Wedding Filippo Timi – A Castle in Italy",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,2014,Nastri d'Argento 2014,Best Supporting Actress,Paola Minaccioni,Fasten Your Seatbelts,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,2015,Nastri d'Argento 2015,Best Actor,Alessandro Gassmann,An Italian Name and The Dinner,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,2015,Nastri d'Argento 2015,Best Actress,Margherita Buy,Mia Madre,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,2015,Nastri d'Argento 2015,Best Director,Paolo Sorrentino,Youth,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,2015,Nastri d'Argento 2015,Best Score,Nicola Piovani,Hungry Hearts,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,2015,Nastri d'Argento 2015,Best Screenplay,"Francesco Munzi, Fabrizio Ruggirello, Maurizio Braucci and Gioacchino Criaco","Black Souls Nanni Moretti, Francesco Piccolo and Valia Santella – Mia Madre Francesca Archibugi and Francesco Piccolo – An Italian Name Matteo Garrone, Edoardo Albinati, Ugo Chiti and Massimo Gaudioso – Tale of Tales Paolo Sorrentino – Youth",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,2015,Nastri d'Argento 2015,Best Supporting Actor,Claudio Amendola,"The Legendary Giulia and Other Miracles Stefano Fresi – Ogni maledetto Natale, La prima volta (di mia figlia) Adriano Giannini – Without Pity, The Ice Forest Luigi Lo Cascio – The Dinner Francesco Scianna – Latin Lover",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,2015,Nastri d'Argento 2015,Best Supporting Actress,Micaela Ramazzotti,An Italian Name,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,2016,Nastri d'Argento 2016,Best Actor,Stefano Accorsi,Italian Race,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,2016,Nastri d'Argento 2016,Best Actress,"Valeria Bruni Tedeschi, Micaela Ramazzotti",Like Crazy,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,2016,Nastri d'Argento 2016,Best Director,Paolo Virzì,Like Crazy,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,2016,Nastri d'Argento 2016,Best Score,Carlo Virzì,Like Crazy,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,2016,Nastri d'Argento 2016,Best Screenplay,Paolo Virzì & Francesca Archibugi,"Like Crazy Sergio Rubini, Carla Cavalluzzi and Diego De Silva – Let's Talk Nicola Guaglianone and Menotti – They Call Me Jeeg Filippo Bologna, Paolo Costella, Paolo Genovese, Paola Mammini and Rolando Ravello – Perfect Strangers Francesca Marciano, Stefano Mordini and Valia Santella – Pericle",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,2016,Nastri d'Argento 2016,Best Supporting Actor,Luca Marinelli,They Call Me Jeeg,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,2016,Nastri d'Argento 2016,Best Supporting Actress,Greta Scarano,Suburra,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,2017,Nastri d'Argento 2017,Best Actor,Renato Carpentieri,Tenderness,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,2017,Nastri d'Argento 2017,Best Actress,Jasmine Trinca,Fortunata,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,2017,Nastri d'Argento 2017,Best Director,Gianni Amelio,Tenderness,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,2017,Nastri d'Argento 2017,Best Score,Enzo Avitabile,Indivisible,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,2017,Nastri d'Argento 2017,Best Screenplay,Francesco Bruni,"Friends by Chance Claudio Giovannesi, Filippo Gravino and Antonella Lattanzi – Fiore Margaret Mazzantini – Fortunata Ugo Chiti, Gianfranco Cabiddu, Salvatore De Mola and Francesco Marino – La stoffa dei sogni Alex Infascelli and Francesca Manieri – Piccoli crimini coniugali",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,2017,Nastri d'Argento 2017,Best Supporting Actor,Alessandro Borghi,Fortunata and I Was a Dreamer,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,2017,Nastri d'Argento 2017,Best Supporting Actress,(shared),(shared),,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,2018,Nastri d'Argento 2018,Best Actor,Marcello Fonte and Edoardo Pesce,Dogman,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,2018,Nastri d'Argento 2018,Best Actress,Elena Sofia Ricci,Loro,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,2018,Nastri d'Argento 2018,Best Director,Matteo Garrone,Dogman,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,2018,Nastri d'Argento 2018,Best Score,Pivio e Aldo De Scalzi,Love and Bullets,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,2018,Nastri d'Argento 2018,Best Screenplay,Paolo Sorrentino and Umberto Contarello,"Loro Gabriele Muccino, Paolo Costella and Sabrina Impacciatore – There's No Place Like Home Matteo Garrone, Ugo Chiti and Massimo Gaudioso – Dogman Leonardo Di Costanzo, Maurizio Braucci and Bruno Oliviero – The Intruder Susanna Nicchiarelli – Nico, 1988",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,2018,Nastri d'Argento 2018,Best Supporting Actor,Riccardo Scamarcio,Loro,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,2018,Nastri d'Argento 2018,Best Supporting Actress,Kasia Smutniak,Loro,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,2019,Nastri d'Argento 2019,Best Actor,Pierfrancesco Favino,The Traitor,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,2019,Nastri d'Argento 2019,Best Actress,Anna Foglietta,If Life Gives You Lemons,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,2019,Nastri d'Argento 2019,Best Director,Marco Bellocchio,The Traitor,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,2019,Nastri d'Argento 2019,Best Score,Nicola Piovani,The Traitor,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,2019,Nastri d'Argento 2019,Best Screenplay,"Marco Bellocchio, Ludovica Rampoldi, Valia Santella, Francesco Piccolo and Francesco La Licata","The Traitor Francesca Marciano, Valia Santella, Valeria Golino and Walter Siti – Euphoria Edoardo De Angelis and Umberto Contarello – The Vice of Hope Claudio Giovannesi, Roberto Saviano and Maurizio Braucci – Piranhas Roberto Andò, Angelo Pasquini and Giacomo Bendotti – The Stolen Caravaggio",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,2019,Nastri d'Argento 2019,Best Supporting Actor,Luigi Lo Cascio,The Traitor Fabrizio Ferracane – The Traitor,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,2019,Nastri d'Argento 2019,Best Supporting Actress,Marina Confalone,The Vice of Hope,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,2020,Nastri d'Argento 2020,Best Actor,Pierfrancesco Favino,Hammamet,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,2020,Nastri d'Argento 2020,Best Actress,Jasmine Trinca,The Goddess of Fortune,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,2020,Nastri d'Argento 2020,Best Director,Matteo Garrone,Pinocchio,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,2020,Nastri d'Argento 2020,Best Score,Brunori Sas,I Hate Summer and Pasquale Catalano - The Goddess of Fortune,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,2020,Nastri d'Argento 2020,Best Screenplay,Damiano and Fabio D'Innocenzo – Bad Tales Mario Martone and Ippolita Di Majo,"The Mayor of Rione Sanità Gianni Romoli, Silvia Ranfagni and Ferzan Özpetek - The Goddess of Fortune Pietro Marcello and Maurizio Braucci - Martin Eden Umberto Contarello and Sara Mosetti - Volare",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,2020,Nastri d'Argento 2020,Best Supporting Actor,Roberto Benigni,Pinocchio,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,2020,Nastri d'Argento 2020,Best Supporting Actress,Valeria Golino,Portrait of a Lady on Fire and 5 Is the Perfect Number,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,2021,Nastri d'Argento 2021,Best Actor,Kim Rossi Stuart,Everything's Gonna Be Alright,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,2021,Nastri d'Argento 2021,Best Actress,Teresa Saponangelo,Il buco in testa,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,2021,Nastri d'Argento 2021,Best Director,Emma Dante,The Macaluso Sisters,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,2021,Nastri d'Argento 2021,Best Score,Stefano Bollani,Carosello Carosone,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,2021,Nastri d'Argento 2021,Best Screenplay,"Francesco Bruni and Kim Rossi Stuart – Everything's Gonna Be Alright Michael Zampino, Heidrun Schleef and Giampaolo Rugo – Governance","Il prezzo del potere Emma Dante, Elena Stancanelli and Giorgio Vasta – The Macaluso Sisters Sydney Sibilia and Francesca Manieri – Rose Island Pietro Castellitto – The Predators",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,2021,Nastri d'Argento 2021,Best Supporting Actor,Massimo Popolizio,Pinocchio,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,2021,Nastri d'Argento 2021,Best Supporting Actress,Sara Serraiocco,Thou Shalt Not Hate,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,2022,Nastri d'Argento 2022,Best Actor,Pierfrancesco Favino,Nostalgia Silvio Orlando – The Inner Cage and The Hidden Child (shared),,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,2022,Nastri d'Argento 2022,Best Actress,Teresa Saponangelo,The Hand of God,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,2022,Nastri d'Argento 2022,Best Director,Mario Martone,Nostalgia and The King of Laughter,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,2022,Nastri d'Argento 2022,Best Score,Nicola Piovani,Leonora addio and I fratelli De Filippo,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,2022,Nastri d'Argento 2022,Best Screenplay,Mario Martone and Ippolita Di Majo,"Nostalgia and The King of Laughter Leonardo Di Costanzo, Bruno Oliviero and Valia Santella – The Inner Cage Paolo Sorrentino – The Hand of God Andrea Ozza, Maurizio De Giovanni and Alessandro Gassmann – Il silenzio grande Monica Zapelli and Donatella Di Pietrantonio – A Girl Returned",,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Screenplay
+,2022,Nastri d'Argento 2022,Best Supporting Actor,Francesco Di Leva and Tommaso Ragno,Nostalgia,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,2022,Nastri d'Argento 2022,Best Supporting Actress,Luisa Ranieri,The Hand of God,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,2023,Nastri d'Argento 2023,Best Actor,Alessandro Borghi and Luca Marinelli,The Eight Mountains (shared),,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,2023,Nastri d'Argento 2023,Best Actress,Barbara Ronchi,Kidnapped,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,2023,Nastri d'Argento 2023,Best Director,Marco Bellocchio,Kidnapped,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,2023,Nastri d'Argento 2023,Best Score,Colapesce Dimartino,La primavera della mia vita,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,2023,Nastri d'Argento 2023,Best Supporting Actor,Paolo Pierobon,Kidnapped,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,2023,Nastri d'Argento 2023,Best Supporting Actress,Barbora Bobuľová,A Brighter Tomorrow,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,2024,Nastri d'Argento 2024,Best Actor,Michele Riondino,Palazzina Laf,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,2024,Nastri d'Argento 2024,Best Actress,Micaela Ramazzotti,Felicità,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,2024,Nastri d'Argento 2024,Best Director,Matteo Garrone,Io capitano,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,2024,Nastri d'Argento 2024,Best Score,Margherita Vicario and Dade,Gloria!,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,2024,Nastri d'Argento 2024,Best Supporting Actor,Elio Germano,Palazzina Laf,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,2024,Nastri d'Argento 2024,Best Supporting Actress,Isabella Rossellini,La chimera,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress
+,2025,Nastri d'Argento 2025,Best Actor,Fabrizio Gifuni,Il tempo che ci vuole,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actor
+,2025,Nastri d'Argento 2025,Best Actress,Valeria Golino,Fuori / Romana Maggiora Vergano – The Time It Takes,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Actress
+,2025,Nastri d'Argento 2025,Best Director,Gabriele Mainetti,Forbidden City,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Director
+,2025,Nastri d'Argento 2025,Best Score,Lele Marchitelli,Parthenope,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Score
+,2025,Nastri d'Argento 2025,Best Supporting Actor,Francesco Di Leva,Familia,,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actor
+,2025,Nastri d'Argento 2025,Best Supporting Actress,Matilda De Angelis / Elodie,Fuori (tie),,Winner,English,https://en.wikipedia.org/wiki/Nastro_d%27Argento_for_Best_Supporting_Actress

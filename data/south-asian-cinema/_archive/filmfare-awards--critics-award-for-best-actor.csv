@@ -1,0 +1,79 @@
+year,film,person,is_winner,raw_text,source_url
+,Amitabh Bachchan,,False,4 | Amitabh Bachchan,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+,"Manoj Bajpayee , Rajkummar Rao",,False,"3 | Manoj Bajpayee , Rajkummar Rao",https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+,"Shah Rukh Khan , Ranbir Kapoor , Ayushmann Khurrana , Sanjay Mishra",,False,"2 | Shah Rukh Khan , Ranbir Kapoor , Ayushmann Khurrana , Sanjay Mishra",https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+,Rajkummar Rao,,False,7 | Rajkummar Rao,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+,Amitabh Bachchan,,False,5 | Amitabh Bachchan,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+,"Ranbir Kapoor , Manoj Bajpayee",,False,"4 | Ranbir Kapoor , Manoj Bajpayee",https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+1991,,Anupam Kher,True,1991 (36th) |  | Anupam Kher ‡ | Anand | Daddy,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+1992,Award Won by an Actress,,True,1992 (37th) | Award Won by an Actress,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+1993,Award Won by an Actress,,True,1993 (38th) | Award Won by an Actress,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+1994,,Shah Rukh Khan,True,1994 (39th) |  | Shah Rukh Khan ‡ | Sunil | Kabhi Haan Kabhi Naa,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+1995,Award Won by an Actress,,True,1995 (40th) | Award Won by an Actress,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+1996,1996,,False,1996 (41st),https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+1997,1997,,False,1997 (42nd),https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+1998,,Anil Kapoor,True,1998 (43rd) |  | Anil Kapoor ‡ | Shakti Thakur | Virasat,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+1999,,Manoj Bajpai,True,1999 (44th) |  | Manoj Bajpai ‡ | Bhiku Mhatre | Satya,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2000,,Manoj Bajpai,True,2000 (45th) |  | Manoj Bajpai ‡ | Inspector Samar Pratap Singh | Shool,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2001,,Shah Rukh Khan,True,2001 (46th) |  | Shah Rukh Khan ‡ | Raj Aryan Malhotra | Mohabbatein,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2002,,Amitabh Bachchan,True,2002 (47th) |  | Amitabh Bachchan ‡ | Inspector Manu Verma | Aks,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2003,,Ajay Devgn,True,2003 (48th) |  | Ajay Devgn ‡ | N. Malik Bhagat Singh | Company The Legend of Bhagat Singh,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2004,,Hrithik Roshan,True,2004 (49th) |  | Hrithik Roshan ‡ | Rohit Mehra | Koi... Mil Gaya,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2005,,Pankaj Kapur,True,2005 (50th) |  | Pankaj Kapur ‡ | Jahangir Khan (Abbaji) | Maqbool,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2006,,Amitabh Bachchan,True,2006 (51st) |  | Amitabh Bachchan ‡ | Debraj Sahai | Black,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2007,,Aamir Khan,True,"2007 (52nd) |  | Aamir Khan ‡ | Daljit ""DJ"" Singh | Rang De Basanti",https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2008,,Darsheel Safary,True,"2008 (53rd) |  | Darsheel Safary ‡ | Ishaan ""Inu"" Awasthi | Taare Zameen Par",https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2009,,Manjot Singh,True,2009 (54th) |  | Manjot Singh ‡ | Young Lucky | Oye Lucky! Lucky Oye!,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2010,,Ranbir Kapoor,True,"2010 (55th) |  | Ranbir Kapoor ‡ | Siddharth ""Sid"" Mehra Prem Shankar Sharma Harpreet Singh Bedi | Wake Up Sid Ajab Prem Ki Ghazab Kahani Rocket Singh: Salesman of the Year",https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2011,,Rishi Kapoor,True,2011 (56th) |  | Rishi Kapoor ‡ | Santosh Duggal | Do Dooni Chaar,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2012,,Ranbir Kapoor,True,"2012 (57th) |  | Ranbir Kapoor ‡ | Janardhan ""Jordan"" Jhakhar / JJ | Rockstar",https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2013,,Irrfan Khan,True,2013 (58th) |  | Irrfan Khan ‡ | Paan Singh Tomar | Paan Singh Tomar,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2014,,Rajkummar Rao,True,2014 (59th) |  | Rajkummar Rao ‡ | Shahid Azmi | Shahid,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2015,,Sanjay Mishra,True,2015 (60th) |  | Sanjay Mishra ‡ | Bauji | Ankhon Dekhi,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2016,,Amitabh Bachchan,True,2016 (61st) |  | Amitabh Bachchan ‡ | Bhashkor Banerjee | Piku,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2017,,Manoj Bajpayee,True,2017 (62nd) [ 1 ] |  | Manoj Bajpayee ‡ | Prof. Ramchandra Siras | Aligarh,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2017,"Tejinder ""Tommy"" Singh a.k.a. Gabru",Udta Punjab,True,"Shahid Kapoor ‡ | Tejinder ""Tommy"" Singh a.k.a. Gabru | Udta Punjab",https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2018,,Rajkummar Rao,True,2018 (63rd) |  | Rajkummar Rao ‡ | Shaurya | Trapped,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2018,Raj Batra,Hindi Medium,False,Irrfan Khan | Raj Batra | Hindi Medium,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2018,"Nutan ""Newton"" Kumar",Newton,False,"Rajkummar Rao | Nutan ""Newton"" Kumar | Newton",https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2018,Jagga,Jagga Jasoos,False,Ranbir Kapoor | Jagga | Jagga Jasoos,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2018,"Shyamal ""Shutu"" Chatterjee",A Death in the Gunj,False,"Vikrant Massey | Shyamal ""Shutu"" Chatterjee | A Death in the Gunj",https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2019,,Ayushmann Khurrana,True,2019 (64th) |  | Ayushmann Khurrana ‡ | Akash Saraf | Andhadhun,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2019,Alauddin Khalji,Padmaavat,True,Ranveer Singh ‡ | Alauddin Khalji | Padmaavat,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2019,Saadat Hasan Manto,Manto,False,Nawazuddin Siddiqui | Saadat Hasan Manto | Manto,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2019,Sanjay Dutt,Sanju,False,Ranbir Kapoor | Sanjay Dutt | Sanju,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2019,"Danish ""Dan"" Walia",October,False,"Varun Dhawan | Danish ""Dan"" Walia | October",https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2019,Shravan Kumar Singh,Mukkabaaz,False,Vineet Kumar Singh | Shravan Kumar Singh | Mukkabaaz,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2020,,Ayushmann Khurrana,True,2020 (65th) |  | Ayushmann Khurrana ‡ | Additional SP Ayan Ranjan | Article 15,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2020,Tarun Saluja,Section 375,False,Akshaye Khanna | Tarun Saluja | Section 375,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2020,"Rafiullah ""Rafi",Photograph,False,"Nawazuddin Siddiqui | Rafiullah ""Rafi"" | Photograph",https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2020,Keshav Kumar / Shravan,Judgementall Hai Kya,False,Rajkummar Rao | Keshav Kumar / Shravan | Judgementall Hai Kya,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2021,,Amitabh Bachchan,True,"2021 (66th) |  | Amitabh Bachchan ‡ | Chunan ""Mirza"" Nawab | Gulabo Sitabo",https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2021,Shankar Tripathi,Shubh Mangal Zyada Saavdhan,False,Gajraj Rao | Shankar Tripathi | Shubh Mangal Zyada Saavdhan,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2021,Champak Ghasiteram Bansal,Angrezi Medium,False,Irrfan Khan | Champak Ghasiteram Bansal | Angrezi Medium,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2021,Alok “Alu” Kumar Gupta,Ludo,False,Rajkummar Rao | Alok “Alu” Kumar Gupta | Ludo,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2021,Sudhir,Kaamyaab,False,Sanjay Mishra | Sudhir | Kaamyaab,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2021,Anjani Prasad,Eeb Allay Ooo!,False,Shardul Bhardwaj | Anjani Prasad | Eeb Allay Ooo!,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2022,,Vicky Kaushal,True,2022 (67th) |  | Vicky Kaushal ‡ | Udham Singh | Sardar Udham,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2022,Bob Biswas,Bob Biswas,False,Abhishek Bachchan | Bob Biswas | Bob Biswas,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2022,Raja Ram Joshi,Bhavai,False,Pratik Gandhi | Raja Ram Joshi | Bhavai,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2022,Kapil Dev,83,False,Ranveer Singh | Kapil Dev | 83,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2022,Rishabh Saxena,Haseen Dilruba,False,Vikrant Massey | Rishabh Saxena | Haseen Dilruba,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2023,,Sanjay Mishra,True,2023 (68th) |  | Sanjay Mishra ‡ | Shambhunath Mishra | Vadh,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2023,Vijay Borade,Jhund,False,Amitabh Bachchan | Vijay Borade | Jhund,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2023,Nambi Narayanan,Rocketry: The Nambi Effect,False,R. Madhavan | Nambi Narayanan | Rocketry: The Nambi Effect,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2023,Shardul Thakur,Badhaai Do,False,Rajkummar Rao | Shardul Thakur | Badhaai Do,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2023,Arjun Talwar,Jersey,False,Shahid Kapoor | Arjun Talwar | Jersey,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2023,Bhaskar Sharma,Bhediya,False,Varun Dhawan | Bhaskar Sharma | Bhediya,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2024,,Vikrant Massey,True,2024 (69th) |  | Vikrant Massey ‡ | Manoj Kumar Sharma | 12th Fail,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2024,Padam “Paddy” Singh Sodhi,Ghoomer,False,Abhishek Bachchan | Padam “Paddy” Singh Sodhi | Ghoomer,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2024,Pradeep Kamat,Three of Us,False,Jaideep Ahlawat | Pradeep Kamat | Three of Us,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2024,Surya Kumar Singh Tikas,Bheed,False,Rajkummar Rao | Surya Kumar Singh Tikas | Bheed,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2024,Dasru / Bala,Joram,False,Manoj Bajpayee | Dasru / Bala | Joram,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2024,Kanti Sharan Mudgal,OMG 2,False,Pankaj Tripathi | Kanti Sharan Mudgal | OMG 2,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2024,Sam Manekshaw,Sam Bahadur,False,Vicky Kaushal | Sam Manekshaw | Sam Bahadur,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2025,,Rajkummar Rao,True,2025 (70th) |  | Rajkummar Rao ‡ | Srikanth Bolla | Srikanth,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2025,Arjun Sen,I Want to Talk,False,Abhishek Bachchan | Arjun Sen | I Want to Talk,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2025,"Pratik Garodia ""Pinku",Madgaon Express,False,"Pratik Gandhi | Pratik Garodia ""Pinku"" | Madgaon Express",https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2025,Vinayak Damodar Savarkar,Swatantrya Veer Savarkar,False,Randeep Hooda | Vinayak Damodar Savarkar | Swatantrya Veer Savarkar,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor
+2025,Deepak kumar,Laapataa Ladies,False,Sparsh Shrivastava | Deepak kumar | Laapataa Ladies,https://en.wikipedia.org/wiki/Filmfare_Critics_Award_for_Best_Actor

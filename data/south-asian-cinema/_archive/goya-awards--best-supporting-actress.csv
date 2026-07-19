@@ -1,0 +1,162 @@
+year,film,person,is_winner,raw_text,source_url
+,Verónica Forqué,Irene,True,1986 (1st) [ 1 ] [ 2 ] [ 3 ] [ 4 ] | Verónica Forqué ‡ | Irene | Year of Enlightment | El año de las luces,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Alejandra,The Bastard Brother of God,False,María Luisa Ponte | Alejandra | The Bastard Brother of God | El hermano bastardo de Dios,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Doña Tránsito,Year of Enlightment,False,Chus Lampreave | Doña Tránsito | Year of Enlightment | El año de las luces,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Verónica Forqué,Monique,True,1987 (2nd) | Verónica Forqué ‡ | Monique | Moors and Christians | Moros y cristianos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Olga,Turnip Top,False,Marisa Paredes | Olga | Turnip Top | Cara de acelga,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Teresa,Laura,False,"Terele Pávez | Teresa | Laura | Laura, del cielo llega la noche",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,María Barranco,Candela,True,1988 (3rd) | María Barranco ‡ | Candela | Women on the Verge of a Nervous Breakdown | Mujeres al borde de un ataque de nervios,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Policía,Baton Rouge,False,Laura Cepeda | Policía | Baton Rouge,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Emilia,Wait for Me in Heaven,False,Chus Lampreave | Emilia | Wait for Me in Heaven | Espérame en el cielo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Madre,Winter Diary,False,Terele Pávez | Madre | Winter Diary | Diario de invierno,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Lucía,Women on the Verge of a Nervous Breakdown,False,Julieta Serrano | Lucía | Women on the Verge of a Nervous Breakdown | Mujeres al borde de un ataque de nervios,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,María Asquerino,Marcela,True,1989 (4th) | María Asquerino ‡ | Marcela | The Sea and the Weather | El mar y el tiempo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Nena Colman,The Things of Love,False,María Barranco | Nena Colman | The Things of Love | Las cosas del querer,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Doña Antonia,Going South Shopping,False,Chus Lampreave | Doña Antonia | Going South Shopping | Bajarse al moro,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Isabel de Farnesio,Esquilache,False,Amparo Rivelles | Isabel de Farnesio | Esquilache,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Pastora Patermo,,False,Concha Velasco | Pastora Patermo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,María Barranco,Ely,True,1990 (5th) | María Barranco ‡ | Ely | The Ages of Lulu | Las edades de Lulú,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Rosario,Against the Wind,False,Rosario Flores | Rosario | Against the Wind | Contra el viento,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Lola Osorio,Tie Me Up! Tie Me Down!,False,Loles León | Lola Osorio | Tie Me Up! Tie Me Down! | ¡Átame!,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Kiti Manver,Verónica,True,1991 (6th) | Kiti Manver ‡ | Verónica | Anything for Bread | Todo por la pasta,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Lucrecia,The Dumbfounded King,False,María Barranco | Lucrecia | The Dumbfounded King | El rey pasmado,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Paula,High Heels,False,Cristina Marcos | Paula | High Heels | Tacones lejanos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Chus Lampreave,Doña Asun,True,1992 (7th) | Chus Lampreave ‡ | Doña Asun | Belle Époque,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Charo,Too Much Heart,False,Pastora Vega | Charo | Too Much Heart | Demasiado corazón,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Amalia,Belle Époque,False,Mary Carmen Ramírez | Amalia | Belle Époque,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Rosa Maria Sardà,Sole,True,1993 (8th) | Rosa Maria Sardà ‡ | Sole | Why Do They Call It Love When They Mean Sex? | ¿Por qué lo llaman amor cuando quieren decir sexo?,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Carmen,The Red Squirrel,False,María Barranco | Carmen | The Red Squirrel | La ardilla roja,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Juana,Kika,False,Rossy de Palma | Juana | Kika,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,María Luisa Ponte,Madre Tornera,True,1994 (9th) | María Luisa Ponte ‡ | Madre Tornera | Cradle Song | Canción de cuna,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Vanesa,Running Out of Time,False,Candela Peña | Vanesa | Running Out of Time | Días contados,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Laura,The Turkish Passion,False,Sílvia Munt | Laura | The Turkish Passion | La pasión turca,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Pilar Bardem,Doña Julia,True,1995 (10th) | Pilar Bardem ‡ | Doña Julia | Nobody Will Speak of Us When We're Dead | Nadie hablará de nosotras cuando hayamos muerto,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Leo's mother,The Flower of My Secret,False,Chus Lampreave | Leo's mother | The Flower of My Secret | La flor de mi secreto,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Rosa,,False,Rossy de Palma | Rosa,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Mary Carrillo,Ama,True,1996 (11th) | Mary Carrillo ‡ | Ama | Beyond the Garden | Más allá del jardín,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Areusa,La Celestina,False,Maribel Verdú | Areusa | La Celestina,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Charo,Libertarias,False,Loles León | Charo | Libertarias,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Charo López,María,True,1997 (12th) | Charo López ‡ | María | Secrets of the Heart | Secretos del corazón,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Clara,Live Flesh,False,Ángela Molina | Clara | Live Flesh | Carne trémula,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Rosa,Secrets of the Heart,False,Vicky Peña | Rosa | Secrets of the Heart | Secretos del corazón,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Adriana Ozores,Flora,True,1998 (13th) | Adriana Ozores ‡ | Flora | A Time for Defiance | La hora de los valientes,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Carmen,Barrio,False,Alicia Sánchez | Carmen | Barrio | Barrio,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Trini Morenos,The Girl of Your Dreams,False,Loles León | Trini Morenos | The Girl of Your Dreams | La niña de tus ojos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Rosa Rosales,,False,Rosa Maria Sardà | Rosa Rosales,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,María Galiana,Rosa,True,1999 (14th) | María Galiana ‡ | Rosa | Alone | Solas,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Ana,By My Side Again,False,Adriana Ozores | Ana | By My Side Again | Cuando vuelvas a mi lado,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Aunt Rafaela,,False,Julieta Serrano | Aunt Rafaela,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Nina Cruz,All About My Mother,False,Candela Peña | Nina Cruz | All About My Mother | Todo sobre mi madre,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Julia Gutiérrez Caba,Aunt Gala,True,2000 (15th) | Julia Gutiérrez Caba ‡ | Aunt Gala | You're the One | Una historia de entonces,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Marian,Kisses for Everyone,False,Chusa Barbero | Marian | Kisses for Everyone | Besos para todos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Ramona,Common Wealth,False,Terele Pávez | Ramona | Common Wealth | La comunidad,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Pilara,You're the One,False,Ana Fernández | Pilara | You're the One | Una historia de entonces,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Rosa Maria Sardà,Ronda,True,2001 (16th) | Rosa Maria Sardà ‡ | Ronda | No Shame | Sin vergüenza,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Belén,Sex and Lucia,False,Elena Anaya | Belén | Sex and Lucia | Lucía y el sexo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Elena,,False,Najwa Nimri | Elena,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Elvira,Mad Love,False,Rosana Pastor | Elvira | Mad Love | Juana la Loca,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Geraldine Chaplin,Marie,True,2002 (17th) | Geraldine Chaplin ‡ | Marie | In the City Without Limits | En la ciudad sin límites,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Pilar,The Other Side of the Bed,False,María Esteve | Pilar | The Other Side of the Bed | El otro lado de la cama,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Natalia,Rancour,False,Mar Regueras | Natalia | Rancour | Rencor,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Melchora,Story of a Kiss,False,Tina Sainz | Melchora | Story of a Kiss | Historia de un beso,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Candela Peña,Ana,True,2003 (18th) | Candela Peña ‡ | Ana | Take My Eyes | Te doy mis ojos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Conchi,Soldiers of Salamis,False,María Botto | Conchi | Soldiers of Salamis | Soldados de Salamina,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Irene,In the City,False,Mónica López | Irene | In the City | En la ciudad,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Beatriz,The Carpenter's Pencil,False,María Pujalte | Beatriz | The Carpenter's Pencil | El lápiz del carpintero,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Mabel Rivera,Manuela,True,2004 (19th) | Mabel Rivera ‡ | Manuela | The Sea Inside | Mar adentro,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Begoña,The Wolf,False,Silvia Abascal | Begoña | The Wolf | El lobo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Luciana,The 7th Day,False,Victoria Abril | Luciana | The 7th Day | El 7° día,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Mrs. Mingarro,Unconscious,False,Mercedes Sampietro | Mrs. Mingarro | Unconscious | Inconscientes,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Elvira Mínguez,Raquel,True,2005 (20th) | Elvira Mínguez ‡ | Raquel | Tapas,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Clara,Something to Remember Me By,False,Marta Etura | Clara | Something to Remember Me By | Para que no me olvides,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Maestra,Obaba,False,Pilar López de Ayala | Maestra | Obaba,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,La Chispa,Camarón: When Flamenco Became Legend,False,Verónica Sánchez | La Chispa | Camarón: When Flamenco Became Legend | Camarón,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Carmen Maura,Irene Trujillo,True,2006 (21st) | Carmen Maura ‡ | Irene Trujillo | Volver,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,María de Castro,Alatriste,False,Ariadna Gil | María de Castro | Alatriste,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Soledad,Volver,False,Lola Dueñas | Soledad | Volver,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Agustina,,False,Blanca Portillo | Agustina,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Amparo Baró,Emilia,True,2007 (22nd) | Amparo Baró ‡ | Emilia | Seven Billiard Tables | Siete mesas de billar francés,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Aurora,The Orphanage,False,Geraldine Chaplin | Aurora | The Orphanage | El orfanato,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Carmen,Mataharis,False,Nuria González | Carmen | Mataharis,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Inés,,False,María Vázquez | Inés,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Penélope Cruz,María Elena,True,2008 (23rd) | Penélope Cruz ‡ | María Elena | Vicky Cristina Barcelona,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Merche,Cowards,False,Elvira Mínguez | Merche | Cowards | Cobardes,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Juana Coello,The El Escorial Conspiracy,False,Rosana Pastor | Juana Coello | The El Escorial Conspiracy | La conjura de El Escorial,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Doña Restituta,Blood of May,False,Tina Sainz | Doña Restituta | Blood of May | Sangre de mayo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Marta Etura,Elena,True,2009 (24th) | Marta Etura ‡ | Elena | Cell 211 | Celda 211,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Pilar,Fat People,False,Pilar Castro | Pilar | Fat People | Gordos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Paula,,False,Verónica Sánchez | Paula,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Doña Luisa,The Consul of Sodom,False,Vicky Peña | Doña Luisa | The Consul of Sodom | El cónsul de Sodoma,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Laia Marull,Pauleta,True,2010 (25th) | Laia Marull ‡ | Pauleta | Black Bread | Pa negre,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Bea,Biutiful,False,Ana Wagener | Bea | Biutiful,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Elena Osorio,Lope,False,Pilar López de Ayala | Elena Osorio | Lope,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Dolores,The Last Circus,False,Terele Pávez | Dolores | The Last Circus | Balada triste de trompeta,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Ana Wagener,Mercedes,True,2011 (26th) | Ana Wagener ‡ | Mercedes | The Sleeping Voice | La voz dormida,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Luisa,Intruders,False,Pilar López de Ayala | Luisa | Intruders,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Mari Luz,Maktub,False,Goya Toledo | Mari Luz | Maktub,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Inés,Chrysalis,False,Maribel Verdú | Inés | Chrysalis | De tu ventana a la mía,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Candela Peña,Mamen,True,2012 (27th) | Candela Peña ‡ | Mamen | A Gun in Each Hand | Una pistola en cada mano,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,María,The Artist and the Model,False,Chus Lampreave | María | The Artist and the Model | El artista y la modelo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,María,Carmina or Blow Up,False,María León | María | Carmina or Blow Up | Carmina o revienta,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Doña Concha,Blancanieves,False,Ángela Molina | Doña Concha | Blancanieves,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Terele Pávez,Maritxu,True,2013 (28th) | Terele Pávez ‡ | Maritxu | Witching & Bitching | Las brujas de Zugarramurdi,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Mother,"10,000 Nights Nowhere",False,"Susi Sánchez | Mother | 10,000 Nights Nowhere | 10.000 noches en ninguna parte",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Margo Aguirre,15 Years and One Day,False,Maribel Verdú | Margo Aguirre | 15 Years and One Day | 15 años y un día,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Andrea,All the Women,False,Nathalie Poza | Andrea | All the Women | Todas las mujeres,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Carmen Machi,Merche / Anne,True,2014 (29th) | Carmen Machi ‡ | Merche / Anne | Spanish Affair | Ocho apellidos vascos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Eva,El Niño,False,Bárbara Lennie | Eva | El Niño,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Mrs. Casa Soto,Marshland,False,Mercedes León | Mrs. Casa Soto | Marshland | La isla mínima,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Virginia,Marseille,False,Goya Toledo | Virginia | Marseille | Marsella,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Luisa Gavasa,Mother,True,2015 (30th) | Luisa Gavasa ‡ | Mother | The Bride | La novia,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Belén,Retribution,False,Elvira Mínguez | Belén | Retribution | El desconocido,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Cati Martín,Felices 140,False,Marian Álvarez | Cati Martín | Felices 140,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Martina Ruiz,,False,Nora Navas | Martina Ruiz,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Emma Suárez,Ana Nieto,True,2016 (31st) | Emma Suárez ‡ | Ana Nieto | The Next Skin | La próxima piel,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Antonia,The Open Door,False,Terele Pávez | Antonia | The Open Door | La puerta abierta,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,María Candelaria Rodríguez,"Kiki, Love to Love",False,"Candela Peña | María Candelaria Rodríguez | Kiki, Love to Love | Kiki, el amor se hace",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Mrs. Clayton,A Monster Calls,False,Sigourney Weaver | Mrs. Clayton | A Monster Calls,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Adelfa Calvo,Lola,True,2017 (32nd) [ 5 ] [ 6 ] | Adelfa Calvo ‡ | Lola | The Motive | El autor,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Hermana Milagros,Holy Camp!,False,Belén Cuesta | Hermana Milagros | Holy Camp! | La llamada,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Susana Romero,,False,Anna Castillo | Susana Romero,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Blanca Miralles,Can't Say Goodbye,False,Lola Dueñas | Blanca Miralles | Can't Say Goodbye | No sé decir adiós,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Carolina Yuste,Paqui,True,2018 (33rd) [ 7 ] | Carolina Yuste ‡ | Paqui | Carmen & Lola | Carmen y Lola,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Asunción Ceballos,The Realm,False,Ana Wagener | Asunción Ceballos | The Realm | El reino,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Marta,Quién te cantará,False,Natalia de Molina | Marta | Quién te cantará,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Leonor Hernández,Journey to a Mother's Room,False,Anna Castillo | Leonor Hernández | Journey to a Mother's Room | Viaje al cuarto de una madre,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Julieta Serrano,Jacinta Mallo,True,2019 (34th) [ 8 ] | Julieta Serrano ‡ | Jacinta Mallo | Pain and Glory | Dolor y gloria,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Triana,Bye,False,Natalia de Molina | Triana | Bye | Adiós,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,María Santos,,False,Mona Martínez | María Santos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Ana Carrasco,While at War,False,Nathalie Poza | Ana Carrasco | While at War | Mientras dure la guerra,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Nathalie Poza,Violeta Román,True,2020 (35th) [ 9 ] [ 10 ] [ 11 ] | Nathalie Poza | Violeta Román | Rosa's Wedding | La boda de Rosa,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Sara Palacios,One Careful Owner,False,Juana Acosta | Sara Palacios | One Careful Owner | El inconveniente,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Amparo,My Heart Goes Boom!,False,Verónica Echegui | Amparo | My Heart Goes Boom! | Explota Explota,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Adela,Schoolgirls,False,Natalia de Molina | Adela | Schoolgirls | Las niñas,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Nora Navas,Teresa Vidal,True,2021 (36th) [ 12 ] | Nora Navas | Teresa Vidal | Libertad,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Adela,The Good Boss,False,Sonia Almarcha | Adela | The Good Boss | El buen patrón,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Teresa Ferreras,Parallel Mothers,False,Aitana Sánchez-Gijón | Teresa Ferreras | Parallel Mothers | Madres paralelas,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Ana Manso Ferreras,,False,Milena Smit | Ana Manso Ferreras,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Susi Sánchez,Begoña Arranz,True,2022 (37th) [ 13 ] | Susi Sánchez | Begoña Arranz | Lullaby | Cinco lobitos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Marie Denis,The Beasts,False,Marie Colomb | Marie Denis | The Beasts | As bestas,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Asun,Piggy,False,Carmen Machi | Asun | Piggy | Cerdita,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Azucena,On the Fringe,False,Penélope Cruz | Azucena | On the Fringe | En los márgenes,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Penélope,Motherhood,False,Ángela Cervantes | Penélope | Motherhood | La maternal,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Lourdes,"20,000 Species of Bees",True,"Ane Gabarain | Lourdes | 20,000 Species of Bees | 20.000 especies de abejas",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Ana Arenas,Close Your Eyes,False,Ana Torrent | Ana Arenas | Close Your Eyes | Cerrar los ojos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Lita,"20,000 Species of Bees",False,"Itziar Lazkano | Lita | 20,000 Species of Bees | 20.000 especies de abejas",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Charo,The Teacher Who Promised the Sea,False,Luisa Gavasa | Charo | The Teacher Who Promised the Sea | El maestro que prometió el mar,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Diana,Creatura,False,Clara Segura | Diana | Creatura,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Clara Segura,Carmen,True,2024 (39th) [ 16 ] | Clara Segura | Carmen | The 47 | El 47,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Marta,A House on Fire,False,Macarena García | Marta | A House on Fire | Casa en flames,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Júlia,,False,Maria Rodríguez Soto | Júlia,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Andrea,Undercover,False,Nausicaa Bonnín | Andrea | Undercover | La infiltrada,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Macarena,The Red Virgin,False,Aixa Villagrán | Macarena | The Red Virgin | La virgen roja,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Nagore Aranburu,Madre Priora Isabel,True,2025 (40th) [ 17 ] | Nagore Aranburu | Madre Priora Isabel | Sundays | Los domingos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Juana,The Dinner,False,Elvira Mínguez | Juana | The Dinner | La cena,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Olalla,Romería,False,Miryam Gallego | Olalla | Romería,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Elvira,Deaf,False,Elena Irureta | Elvira | Deaf | Sorda,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Amalia,The Portuguese House,False,Maria de Medeiros | Amalia | The Portuguese House | Una quinta portuguesa,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Verónica Forqué,,False,2 | Verónica Forqué,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Chus Lampreave,,False,6 | Chus Lampreave,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,María Barranco,,False,5 | María Barranco,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Elvira Mínguez,,False,4 | Elvira Mínguez,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress
+,Loles León,,False,3 | Loles León,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Supporting_Actress

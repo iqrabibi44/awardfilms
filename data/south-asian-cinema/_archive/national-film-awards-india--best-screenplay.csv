@@ -1,0 +1,113 @@
+year,film,person,is_winner,raw_text,source_url
+,Screenplay Writer,,False, | Screenplay Writer (Original),https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+,Screenplay Writer,,False, | Screenplay Writer (Adapted),https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+,Dialogue,,False, | Dialogue,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+,Recipient,Film,False,Year | Recipient(s) | Film(s) | Language(s) | Refs.,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+1967,S. L. Puram Sadanandan,Agniputhri,False,1967 (15th) | S. L. Puram Sadanandan | Agniputhri | Malayalam | [ 4 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+1968,Pandit Anand Kumar,Anokhi Raat,False,1968 (16th) | Pandit Anand Kumar | Anokhi Raat | Hindi | [ 22 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+1969,Puttanna Kanagal,Gejje Pooje,False,1969 (17th) | Puttanna Kanagal | Gejje Pooje | Kannada | [ 23 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+1970,Satyajit Ray,Pratidwandi,False,1970 (18th) | Satyajit Ray | Pratidwandi | Bengali | [ 12 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+1971,Tapan Sinha,Ekhonee,False,1971 (19th) | Tapan Sinha | Ekhonee | [ 24 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+1972,Gulzar,Koshish,False,1972 (20th) | Gulzar | Koshish | Hindi | [ 25 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+1973,Mrinal Sen,Padatik,False,1973 (21st) | Mrinal Sen | Padatik | Bengali | [ 16 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+1973,Ashish Burman,,False,Ashish Burman,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+1974,Satyajit Ray,Sonar Kella,False,1974 (22nd) | Satyajit Ray | Sonar Kella | [ 13 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+1975,No Award,,False,1975 (23rd) | No Award | [ 7 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+1976,Vijay Tendulkar,Manthan,False,1976 (24th) | Vijay Tendulkar | Manthan | Hindi | [ 26 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+1977,Satyadev Dubey,Bhumika,False,1977 (25th) | Satyadev Dubey | Bhumika | [ 27 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+1977,Shyam Benegal,,False,Shyam Benegal,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+1977,Girish Karnad,,False,Girish Karnad,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+1978,T. S. Ranga,Grahana,False,1978 (26th) | T. S. Ranga | Grahana | Kannada | [ 28 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+1978,T. S. Nagabharana,,False,T. S. Nagabharana,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+1979,Sai Paranjpye,Sparsh,False,1979 (27th) | Sai Paranjpye | Sparsh | Hindi | [ 29 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+1980,Mrinal Sen,Akaler Sandhane,False,1980 (28th) | Mrinal Sen | Akaler Sandhane | Bengali | [ 30 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+1981,K. Balachander,Thanneer Thanneer,False,1981 (29th) | K. Balachander | Thanneer Thanneer | Tamil | [ 31 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+1982,Mrinal Sen,Kharij,False,1982 (30th) | Mrinal Sen | Kharij | Bengali | [ 32 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+1983,G. V. Iyer,Adi Shankaracharya,False,1983 (31st) | G. V. Iyer | Adi Shankaracharya | Sanskrit | [ 33 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+1984,Adoor Gopalakrishnan,Mukhamukham,False,1984 (32nd) | Adoor Gopalakrishnan | Mukhamukham | Malayalam | [ 34 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+1985,Bhabendra Nath Saikia,Agnisnaan,False,1985 (33rd) | Bhabendra Nath Saikia | Agnisnaan | Assamese | [ 35 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+1986,Buddhadeb Dasgupta,Phera,False,1986 (34th) | Buddhadeb Dasgupta | Phera | Bengali | [ 36 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+1987,Adoor Gopalakrishnan,Anantaram,False,1987 (35th) | Adoor Gopalakrishnan | Anantaram | Malayalam | [ 37 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+1988,Arundhati Roy,In Which Annie Gives It Those Ones,False,1988 (36th) | Arundhati Roy | In Which Annie Gives It Those Ones | English | [ 38 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+1989,M. T. Vasudevan Nair,Oru Vadakkan Veeragatha,False,1989 (37th) | M. T. Vasudevan Nair | Oru Vadakkan Veeragatha | Malayalam | [ 39 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+1990,K. S. Sethumadhavan,Marupakkam,False,1990 (38th) | K. S. Sethumadhavan | Marupakkam | Tamil | [ 40 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+1991,M. T. Vasudevan Nair,Kadavu,False,1991 (39th) | M. T. Vasudevan Nair | Kadavu | Malayalam | [ 8 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+1992,M. T. Vasudevan Nair,Sadayam,False,1992 (40th) | M. T. Vasudevan Nair | Sadayam | [ 9 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+1993,Satyajit Ray,Uttoran,False,1993 (41st) | Satyajit Ray (Posthumously) | Uttoran | Bengali | [ 11 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+1994,M. T. Vasudevan Nair,Parinayam,False,1994 (42nd) | M. T. Vasudevan Nair | Parinayam | Malayalam | [ 10 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+1995,Ashok Mishra,Naseem,False,1995 (43rd) | Ashok Mishra | Naseem | Hindi | [ 41 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+1995,Saeed Akhtar Mirza,,False,Saeed Akhtar Mirza,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+1996,Agathiyan,Kadhal Kottai,False,1996 (44th) | Agathiyan | Kadhal Kottai | Tamil | [ 42 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+1997,Rituparno Ghosh,Dahan,False,1997 (45th) | Rituparno Ghosh | Dahan | Bengali | [ 43 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+1998,Ashok Mishra,Samar,False,1998 (46th) | Ashok Mishra | Samar | Hindi | [ 44 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+1999,Madampu Kunjukuttan,Karunam,False,1999 (47th) | Madampu Kunjukuttan | Karunam | Malayalam | [ 45 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2000,Bharathiraja,Kadal Pookkal,False,2000 (48th) | Bharathiraja | Kadal Pookkal | Tamil | [ 46 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2001,G. Neelakanta Reddy,Show,False,2001 (49th) | G. Neelakanta Reddy | Show | Telugu | [ 47 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2002,Aparna Sen,Mr. and Mrs. Iyer,False,2002 (50th) | Aparna Sen | Mr. and Mrs. Iyer | English | [ 48 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2003,Gautam Ghose,Abar Aranye,False,2003 (51st) | Gautam Ghose | Abar Aranye | Bengali | [ 49 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2004,Manoj Tyagi,Page 3,False,2004 (52nd) | Manoj Tyagi | Page 3 | Hindi | [ 50 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2004,Nina Arora,,False,Nina Arora,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2005,Prakash Jha,Apaharan,False,2005 (53rd) | Prakash Jha | Apaharan | [ 19 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2005,Shridhar Raghavan,,False,Shridhar Raghavan,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2005,Manoj Tyagi,,False,Manoj Tyagi,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2006,Abhijat Joshi,Lage Raho Munnabhai,False,2006 (54th) | Abhijat Joshi | Lage Raho Munnabhai | [ 17 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2006,Rajkumar Hirani,,False,Rajkumar Hirani,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2006,Vidhu Vinod Chopra,,False,Vidhu Vinod Chopra,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2007,Feroz Abbas Khan,"Gandhi, My Father",False,"2007 (55th) | Feroz Abbas Khan | Gandhi, My Father | [ 51 ]",https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2008,Sachin Kundalkar,Gandha,False,2008 (56th) | Sachin Kundalkar | Gandha | Marathi | [ 52 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2009,P. F. Mathews,Kutty Srank,False,2009 (57th) | P. F. Mathews | Kutty Srank | Malayalam | [ 5 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2009,Harikrishna,,False,Harikrishna,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2009,Kanasemba Kudureyaneri,Kannada,False,Gopalakrishna Pai | Kanasemba Kudureyaneri | Kannada,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2009,Girish Kasaravalli,,False,Girish Kasaravalli,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2009,Pasanga,Tamil,False,Pandiraj | Pasanga | Tamil,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2010,Vetrimaaran,Aadukalam,False,2010 (58th) | Vetrimaaran | Aadukalam | [ 53 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2010,Mee Sindhutai Sapkal,Marathi,False,Anant Mahadevan | Mee Sindhutai Sapkal | Marathi,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2010,Sanjay Pawar,,False,Sanjay Pawar,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2010,Mee Sindhutai Sapkal,,False,Sanjay Pawar | Mee Sindhutai Sapkal,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2011,Vikas Bahl,Chillar Party,False,2011 (59th) | Vikas Bahl | Chillar Party | Hindi | [ 14 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2011,Nitesh Tiwari,,False,Nitesh Tiwari,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2011,Vijay Maurya,,False,Vijay Maurya,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2011,Shala,Marathi,False,Avinash Deshpande Nigdi | Shala | Marathi,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2011,Deool,,False,Girish Kulkarni | Deool,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2012,Sujoy Ghosh,Kahaani,False,2012 (60th) | Sujoy Ghosh | Kahaani | Hindi | [ 54 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2012,OMG - Oh My God!,,False,Bhavesh Mandalia | OMG - Oh My God!,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2012,Umesh Shukla,,False,Umesh Shukla,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2012,Ustad Hotel,Malayalam,False,Anjali Menon | Ustad Hotel | Malayalam,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2013,P. Sheshadri,December-1,False,2013 (61st) | P. Sheshadri | December-1 | Kannada | [ 55 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2013,Prakruti,,False,Panchakshari | Prakruti,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2013,Astu,Marathi,False,Sumitra Bhave | Astu | Marathi,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2014,Srijit Mukherji,Chotushkone,False,2014 (62nd) | Srijit Mukherji | Chotushkone | Bengali | [ 56 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2014,Ottaal,Malayalam,False,Joshy Mangalath | Ottaal | Malayalam,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2014,Haider,Hindi,False,Vishal Bhardwaj | Haider | Hindi,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2015,Juhi Chaturvedi,Piku,False,2015 (63rd) | Juhi Chaturvedi | Piku | ,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2015,Tanu Weds Manu Returns,,False,Himanshu Sharma | Tanu Weds Manu Returns | ,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2015,Talvar,,False,Vishal Bhardwaj | Talvar | ,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2016,Syam Pushkaran,Maheshinte Prathikaaram,False,2016 (64th) | Syam Pushkaran | Maheshinte Prathikaaram | Malayalam | [ 57 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2016,Dashakriya,Marathi,False,Sanjay Krishnaji Patil | Dashakriya | Marathi,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2016,Pelli Choopulu,Telugu,False,Tharun Bhascker Dhaassyam | Pelli Choopulu | Telugu,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2017,Sajeev Pazhoor,Thondimuthalum Driksakshiyum,False,2017 (65th) | Sajeev Pazhoor | Thondimuthalum Driksakshiyum | Malayalam | [ 58 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2017,Bhayanakam,,False,Jayaraj | Bhayanakam,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2017,Hello Arsi,Oriya,False,Sambit Mohanty (posthumously) | Hello Arsi | Oriya,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2018,Rahul Ravindran,Chi La Sow,False,2018 (66th) | Rahul Ravindran | Chi La Sow | Telugu | ,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2018,Andhadhun,Hindi,False,Sriram Raghavan | Andhadhun | Hindi | [ 59 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2018,Arijit Biswas,,False,Arijit Biswas,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2018,Yogesh Chedekar,,False,Yogesh Chedekar,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2018,Hemanth Rao,,False,Hemanth Rao,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2018,Pooja Ladha Surti,,False,Pooja Ladha Surti,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2018,Tarikh,Bengali,False,Churni Ganguly | Tarikh | Bengali,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2019,Kaushik Ganguly,Jyeshthoputro,False,2019 (67th) | Kaushik Ganguly | Jyeshthoputro | [ 60 ],https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2019,Gumnaami,,False,Srijit Mukherji | Gumnaami,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2019,The Tashkent Files,Hindi,False,Vivek Ranjan Agnihotri | The Tashkent Files | Hindi,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2020,Sudha Kongara,Soorarai Pottru,False,2020 (68th) | Sudha Kongara | Soorarai Pottru | Tamil | ,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2020,Shalini Ushadevi,,False,Shalini Ushadevi,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2020,Mandela,,False,Madonne Ashwin | Mandela,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2021,Shahi Kabir,Nayattu,False,2021 (69th) | Shahi Kabir | Nayattu | Malayalam | ,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2021,Gangubai Kathiawadi,Hindi,False,Sanjay Leela Bhansali | Gangubai Kathiawadi | Hindi,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2021,Utkarshini Vashishtha,,False,Utkarshini Vashishtha,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2021,Prakash Kapadia,,False,Prakash Kapadia,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2022,Anand Ekarshi,Aattam,False,2022 (70th) | Anand Ekarshi | Aattam | Malayalam | ,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2022,Gulmohar,Hindi,False,Arpita Mukherjee | Gulmohar | Hindi | ,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2022,Rahul V. Chittella,,False,Rahul V. Chittella,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2023,Sai Rajesh,Baby,False,2023 (71st) | Sai Rajesh | Baby | Telugu,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2023,Parking,Tamil,False,Ramkumar Balakrishnan | Parking | Tamil,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay
+2023,Sirf Ek Bandaa Kaafi Hai,Hindi,False,Deepak Kingrani | Sirf Ek Bandaa Kaafi Hai | Hindi,https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Screenplay

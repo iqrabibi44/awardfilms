@@ -1,0 +1,286 @@
+year,film,person,is_winner,raw_text,source_url
+,Roman Polanski,5,False,Most awards | Roman Polanski | 5 | Tonie Marshall Justine Triet | 1,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Alain Resnais,8,False,Most nominations | Alain Resnais | 8 | Nicole Garcia & Maïwenn | 3,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Claude Miller,7,False,Most nominations without winning | Claude Miller | 7 | Nicole Garcia & Maïwenn | 3,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Roman Polanski,86,False,Oldest winner | Roman Polanski | 86 | Tonie Marshall | 48,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Alain Resnais,84,False,Oldest nominee | Alain Resnais | 84 | Agnès Varda | 57,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Xavier Dolan,27,False,Youngest winner | Xavier Dolan | 27 | Justine Triet | 45,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Luc Besson,26,False,Youngest nominee | Luc Besson | 26 | Maïwenn | 35,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Bertrand Tavernier,Let Joy Reign Supreme,True,1976 (1st) | Bertrand Tavernier | Let Joy Reign Supreme | Que la fête commence...,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Old Gun,Le Vieux Fusil,False,Robert Enrico | The Old Gun | Le Vieux Fusil,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Call me Savage,Le Sauvage,False,Jean-Paul Rappeneau | Call me Savage | Le Sauvage,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Story of Adele H.,L'Histoire d'Adèle H.,False,François Truffaut | The Story of Adele H. | L'Histoire d'Adèle H.,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Joseph Losey,Mr. Klein,True,1977 (2nd) | Joseph Losey | Mr. Klein | Monsieur Klein,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Best Way to Walk,La Meilleure Façon de marcher,False,Claude Miller | The Best Way to Walk | La Meilleure Façon de marcher,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Judge and the Assassin,Le Juge et l'assassin,False,Bertrand Tavernier | The Judge and the Assassin | Le Juge et l'assassin,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Barocco,,False,André Téchiné | Barocco,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Alain Resnais,Providence,True,1978 (3rd) | Alain Resnais | Providence,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,That Obscure Object of Desire,Cet obscur objet du désir,False,Luis Buñuel | That Obscure Object of Desire | Cet obscur objet du désir,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,This Sweet Sickness,Dites-lui que je l'aime,False,Claude Miller | This Sweet Sickness | Dites-lui que je l'aime,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Drummer-Crab,Le Crabe-Tambour,False,Pierre Schoendoerffer | Drummer-Crab | Le Crabe-Tambour,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Christian de Chalonge,Other People's Money,True,1979 (4th) | Christian de Chalonge | Other People's Money | L'Argent des autres,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Dossier 51,Le Dossier 51,False,Michel Deville | Dossier 51 | Le Dossier 51,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Molière,,False,Ariane Mnouchkine | Molière,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,A Simple Story,Une histoire simple,False,Claude Sautet | A Simple Story | Une histoire simple,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Roman Polanski,Tess,True,1980 (5th) | Roman Polanski (nominated for the Academy Award ) | Tess,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Womanlight,Clair de femme,False,Costa Gavras | Womanlight | Clair de femme,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Don Giovanni,,False,Joseph Losey | Don Giovanni,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Hussy,La Drôlesse,False,Jacques Doillon | The Hussy | La Drôlesse,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,François Truffaut,The Last Metro,True,1981 (6th) | François Truffaut | The Last Metro | Le dernier métro,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Slow Motion,Sauve qui peut,False,Jean-Luc Godard | Slow Motion (a.k.a. Every Man for Himself ) | Sauve qui peut (la vie),https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,My American Uncle,Mon oncle d'Amérique,False,Alain Resnais | My American Uncle | Mon oncle d'Amérique,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,A Bad Son,Un mauvais fils,False,Claude Sautet | A Bad Son | Un mauvais fils,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Jean-Jacques Annaud,Quest for Fire,True,1982 (7th) | Jean-Jacques Annaud | Quest for Fire | La Guerre du feu,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Strange Affair,Une étrange affaire,False,Pierre Granier-Deferre | Strange Affair | Une étrange affaire,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Under Suspicion,Garde à vue,False,Claude Miller | Under Suspicion | Garde à vue,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Clean Up,Coup de torchon,False,Bertrand Tavernier | Clean Up (a.k.a. Clean Slate ) | Coup de torchon,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Andrzej Wajda,Danton,True,1983 (8th) | Andrzej Wajda | Danton,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,A Room in Town,Une chambre en ville,False,Jacques Demy | A Room in Town | Une chambre en ville,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Passion,,False,Jean-Luc Godard | Passion,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Balance,La Balance,False,Bob Swaim | The Balance | La Balance,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Ettore Scola,The Ball,True,1984 (9th) | Ettore Scola | The Ball | Le Bal,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,"So Long, Stooge",Tchao pantin,False,"Claude Berri | So Long, Stooge | Tchao pantin",https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,One Deadly Summer,L'Été meurtrier,False,Jean Becker | One Deadly Summer | L'Été meurtrier,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,To Our Loves,À nos amours,False,Maurice Pialat | To Our Loves | À nos amours,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,"Finally, Sunday",Vivement dimanche!,False,"François Truffaut | Finally, Sunday | Vivement dimanche!",https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Claude Zidi,My New Partner,True,1985 (10th) | Claude Zidi | My New Partner | Les Ripoux,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Love Unto Death,L'Amour à mort,False,Alain Resnais | Love Unto Death | L'Amour à mort,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Full Moon in Paris,Les Nuits de la pleine lune,False,Éric Rohmer | Full Moon in Paris | Les Nuits de la pleine lune,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Carmen,,False,Francesco Rosi | Carmen,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,A Sunday in the Country,Un dimanche à la campagne,False,Bertrand Tavernier | A Sunday in the Country | Un dimanche à la campagne,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Michel Deville,Death in a French Garden,True,1986 (11th) | Michel Deville | Death in a French Garden | Péril en la demeure,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Subway,,False,Luc Besson | Subway,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Impudent Girl,L'Effrontée,False,Claude Miller | Impudent Girl | L'Effrontée,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Three Men and a Cradle,Trois hommes et un couffin,False,Coline Serreau | Three Men and a Cradle | Trois hommes et un couffin,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Vagabond,Sans toit ni loi,False,Agnès Varda | Vagabond | Sans toit ni loi,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Alain Cavalier,Thérèse,True,1987 (12th) | Alain Cavalier | Thérèse,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Betty Blue,37°2 le matin,False,Jean-Jacques Beineix | Betty Blue | 37°2 le matin,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Jean de Florette,,False,Claude Berri | Jean de Florette,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Ménage,Tenue de soirée,False,Bertrand Blier | Ménage | Tenue de soirée,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Mélo,,False,Alain Resnais | Mélo,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Louis Malle,"Goodbye, Children",True,"1988 (13th) | Louis Malle | Goodbye, Children | Au revoir les enfants",https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Grand Highway,Le Grand Chemin,False,Jean-Loup Hubert | The Grand Highway | Le Grand Chemin,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Tandem,,False,Patrice Leconte | Tandem,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Under the Sun of Satan,Sous le soleil de Satan,False,Maurice Pialat | Under the Sun of Satan | Sous le soleil de Satan,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Innocents,Les Innocents,False,André Téchiné | The Innocents | Les Innocents,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Jean-Jacques Annaud,The Bear,True,1989 (14th) | Jean-Jacques Annaud | The Bear | L'Ours,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Big Blue,Le Grand Bleu,False,Luc Besson | The Big Blue | Le Grand Bleu,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Story of Women,Une affaire de femmes,False,Claude Chabrol | Story of Women | Une affaire de femmes,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Reader,La Lectrice,False,Michel Deville | The Reader | La Lectrice,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Little Thief,La Petite Voleuse,False,Claude Miller | The Little Thief | La Petite Voleuse,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Bertrand Blier,Too Beautiful for You,True,1990 (15th) | Bertrand Blier | Too Beautiful for You | Trop belle pour toi,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Indian Nocturne,Nocturne indien,False,Alain Corneau | Indian Nocturne | Nocturne indien,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Valmont,,False,Miloš Forman | Valmont,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Mr. Hire,Monsieur Hire,False,Patrice Leconte | Mr. Hire | Monsieur Hire,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Life and Nothing But,La Vie et rien d'autre,False,Bertrand Tavernier | Life and Nothing But | La Vie et rien d'autre,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Jean-Paul Rappeneau,Cyrano de Bergerac,True,1991 (16th) | Jean-Paul Rappeneau | Cyrano de Bergerac,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Uranus,,False,Claude Berri | Uranus,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,La Femme Nikita,Nikita,False,Luc Besson | La Femme Nikita | Nikita,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Little Gangster,Le Petit Criminel,False,Jacques Doillon | The Little Gangster | Le Petit Criminel,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Hairdresser's Husband,Le Mari de la coiffeuse,False,Patrice Leconte | The Hairdresser's Husband | Le Mari de la coiffeuse,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Alain Corneau,All the Mornings of the World,True,1992 (17th) | Alain Corneau | All the Mornings of the World | Tous les matins du monde,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Thank You Life,Merci la vie,False,Bertrand Blier | Thank You Life | Merci la vie,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Van Gogh,,False,Maurice Pialat | Van Gogh,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Beautiful Troublemaker,La Belle Noiseuse,False,Jacques Rivette | The Beautiful Troublemaker | La Belle Noiseuse,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,I Don't Kiss,J'embrasse pas,False,André Téchiné | I Don't Kiss | J'embrasse pas,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Claude Sautet,A Heart in Winter,True,1993 (18th) | Claude Sautet | A Heart in Winter | Un cœur en hiver,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Savage Nights,Les Nuits fauves,False,Cyril Collard | Savage Nights | Les Nuits fauves,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,And the Little Prince Said,Le Petit Prince a dit,False,Christine Pascal | And the Little Prince Said | Le Petit Prince a dit,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,L.627,,False,Bertrand Tavernier | L.627,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Indochine,,False,Régis Wargnier | Indochine,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Alain Resnais,Smoking/No Smoking,True,1994 (19th) | Alain Resnais | Smoking/No Smoking,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Germinal,,False,Claude Berri | Germinal,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,"1, 2, 3, Sun","Un, deux, trois, soleil",False,"Bertrand Blier | 1, 2, 3, Sun | Un, deux, trois, soleil",https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Three Colours: Blue,Trois couleurs: Bleu,False,Krzysztof Kieślowski | Three Colours: Blue | Trois couleurs: Bleu,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Visitors,Les Visiteurs,False,Jean-Marie Poiré | The Visitors | Les Visiteurs,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,My Favourite Season,Ma saison préférée,False,André Téchiné | My Favourite Season | Ma saison préférée,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,André Téchiné,Wild Reeds,True,1995 (20th) | André Téchiné | Wild Reeds | Les Roseaux sauvages,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Léon,,False,Luc Besson | Léon,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Queen Margot,La Reine Margot,False,Patrice Chéreau | Queen Margot | La Reine Margot,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Favourite Son,Le Fils préféré,False,Nicole Garcia | The Favourite Son | Le Fils préféré,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Three Colours: Red,Trois couleurs: Rouge,False,Krzysztof Kieślowski (nominated for the Academy Award) | Three Colours: Red | Trois couleurs: Rouge,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Claude Sautet,Nelly and Mr. Arnaud,True,1996 (21st) | Claude Sautet | Nelly and Mr. Arnaud | Nelly et Monsieur Arnaud,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Happiness Is in the Field,Le Bonheur est dans le pré,False,Étienne Chatiliez | Happiness Is in the Field | Le Bonheur est dans le pré,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Ceremony,La Cérémonie,False,Claude Chabrol | The Ceremony | La Cérémonie,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,French Twist,Gazon maudit,False,Josiane Balasko | French Twist | Gazon maudit,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Hate,La Haine,False,Mathieu Kassovitz | Hate | La Haine,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Horseman on the Roof,Le Hussard sur le toit,False,Jean-Paul Rappeneau | The Horseman on the Roof | Le Hussard sur le toit,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Patrice Leconte,Ridicule,True,1997 (22nd) | Patrice Leconte | Ridicule,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Capitaine Conan,Capitaine Conan,True,Bertrand Tavernier | Capitaine Conan | Capitaine Conan,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,A Self Made Hero,Un héros très discret,False,Jacques Audiard | A Self Made Hero | Un héros très discret,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Family Resemblances,Un air de famille,False,Cédric Klapisch | Family Resemblances | Un air de famille,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Thieves,Les Voleurs,False,André Téchiné | Thieves | Les Voleurs,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Luc Besson,The Fifth Element,True,1998 (23rd) | Luc Besson | The Fifth Element,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Cousin,Le Cousin,False,Alain Corneau | The Cousin | Le Cousin,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Marius and Jeannette,Marius et Jeannette,False,Robert Guédiguian | Marius and Jeannette | Marius et Jeannette,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Western,,False,Manuel Poirier | Western,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Same Old Song,On connaît la chanson,False,Alain Resnais | Same Old Song | On connaît la chanson,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Patrice Chéreau,Those Who Love Me Can Take the Train,True,1999 (24th) | Patrice Chéreau | Those Who Love Me Can Take the Train | Ceux qui m'aiment prendront le train,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Place Vendôme,,False,Nicole Garcia | Place Vendôme,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Taxi,,False,Gérard Pirès | Taxi,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Dinner Game,Le Dîner de cons,False,Francis Veber | The Dinner Game | Le Dîner de cons,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Dreamlife of Angels,La Vie rêvée des anges,False,Erick Zonca | The Dreamlife of Angels | La Vie rêvée des anges,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Tonie Marshall,Venus Beauty Institute,True,2000 (25th) | Tonie Marshall | Venus Beauty Institute | Vénus Beauté (Institut),https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Children of the Marshland,Les Enfants du marais,False,Jean Becker | The Children of the Marshland | Les Enfants du marais,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Messenger: The Story of Joan of Arc,,False,Luc Besson | The Messenger: The Story of Joan of Arc,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Sachs' Disease,La Maladie de Sachs,False,Michel Deville | Sachs' Disease | La Maladie de Sachs,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Girl on the Bridge,La Fille sur le pont,False,Patrice Leconte | Girl on the Bridge | La Fille sur le pont,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,East/West,Est–Ouest,False,Régis Wargnier | East/West | Est–Ouest,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Dominik Moll,"Harry, He's Here to Help",True,"2001 (26th) | Dominik Moll | Harry, He's Here to Help | Harry, un ami qui vous veut du bien",https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Murderous Maids,Les Blessures assassines,False,Jean-Pierre Denis | Murderous Maids | Les Blessures assassines,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Taste of Others,Le Goût des autres,False,Agnès Jaoui | The Taste of Others | Le Goût des autres,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Crimson Rivers,Les Rivières pourpres,False,Mathieu Kassovitz | The Crimson Rivers | Les Rivières pourpres,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Saint-Cyr,,False,Patricia Mazuy | Saint-Cyr,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Jean-Pierre Jeunet,Amélie,True,2002 (27th) | Jean-Pierre Jeunet | Amélie | Le Fabuleux Destin d'Amélie Poulain,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Read My Lips,Sur mes lèvres,False,Jacques Audiard | Read My Lips | Sur mes lèvres,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Officers' Ward,La Chambre des officiers,False,François Dupeyron | The Officers' Ward | La Chambre des officiers,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Intimacy,,False,Patrice Chéreau | Intimacy,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Under the Sand,Sous le sable,False,François Ozon | Under the Sand | Sous le sable,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Roman Polanski,The Pianist,True,2003 (28th) | Roman Polanski (won the Academy Award) | The Pianist,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Amen.,,False,Costa Gavras | Amen.,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Spanish Apartement,L'Auberge espagnole,False,Cédric Klapisch | The Spanish Apartement (a.k.a. Pot Luck ) | L'Auberge espagnole,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,To Be and to Have,Être et avoir,False,Nicolas Philibert | To Be and to Have | Être et avoir,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,8 Women,8 femmes,False,François Ozon | 8 Women | 8 femmes,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Denys Arcand,The Barbarian Invasions,True,2004 (29th) | Denys Arcand | The Barbarian Invasions | Les Invasions barbares,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,One: On the Run Two: An Amazing Couple Three: After Life,Cavale Un couple épatant Après la vie,False,Lucas Belvaux | One: On the Run Two: An Amazing Couple Three: After Life | Cavale Un couple épatant Après la vie,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Little Lili,La Petite Lili,False,Claude Miller | Little Lili | La Petite Lili,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Bon voyage,,False,Jean-Paul Rappeneau | Bon voyage,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Not on the Lips,Pas sur la bouche,False,Alain Resnais | Not on the Lips | Pas sur la bouche,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Abdellatif Kechiche,Games of Love and Chance,True,2005 (30th) | Abdellatif Kechiche | Games of Love and Chance | L'Esquive,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Chorus,Les Choristes,False,Christophe Barratier | The Chorus | Les Choristes,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Kings and Queen,Rois et reine,False,Arnaud Desplechin | Kings and Queen | Rois et reine,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,A Very Long Engagement,Un long dimanche de fiançailles,False,Jean-Pierre Jeunet | A Very Long Engagement | Un long dimanche de fiançailles,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Département 36,36 Quai des Orfèvres,False,Olivier Marchal | Département 36 | 36 Quai des Orfèvres,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Jacques Audiard,The Beat That My Heart Skipped,True,2006 (31st) | Jacques Audiard | The Beat That My Heart Skipped | De battre mon cœur s'est arrêté,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Young Lieutenant,Le Petit Lieutenant,False,Xavier Beauvois | The Young Lieutenant | Le Petit Lieutenant,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Child,L'Enfant,False,Jean-Pierre and Luc Dardenne | The Child | L'Enfant,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Hidden,Caché,False,Michael Haneke | Hidden | Caché,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Live and Become,"Va, vis et deviens",False,"Radu Mihaileanu | Live and Become | Va, vis et deviens",https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Guillaume Canet,Tell No One,True,2007 (32nd) | Guillaume Canet | Tell No One | Ne le dis à personne,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Days of Glory,Indigènes,False,Rachid Bouchareb | Days of Glory | Indigènes,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Lady Chatterley,,False,Pascale Ferran | Lady Chatterley,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,"Don't Worry, I'm Fine","Je vais bien, ne t'en fais pas",False,"Philippe Lioret | Don't Worry, I'm Fine | Je vais bien, ne t'en fais pas",https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Private Fears in Public Places,Cœurs,False,Alain Resnais | Private Fears in Public Places | Cœurs,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Abdellatif Kechiche,The Secret of the Grain,True,2008 (33rd) | Abdellatif Kechiche | The Secret of the Grain | La Graine et la mulet,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,La Vie en Rose,La môme,False,Olivier Dahan | La Vie en Rose | La môme,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,A Secret,Un secret,False,Claude Miller | A Secret | Un secret,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Diving Bell and the Butterfly,Le Scaphandre et le papillon,False,Julian Schnabel (nominated for the Academy Award) | The Diving Bell and the Butterfly | Le Scaphandre et le papillon,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Witnesses,Les Témoins,False,André Téchiné | The Witnesses | Les Témoins,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Jean-François Richet,Public Enemy Number One: Part 1 and 2,True,2009 (34th) | Jean-François Richet | Public Enemy Number One: Part 1 and 2 | L'Instinct de mort and L'Ennemi public n°1,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The First Day of the Rest of Your Life,Le Premier Jour du reste de ta vie,False,Rémi Bezançon | The First Day of the Rest of Your Life | Le Premier Jour du reste de ta vie,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Class,Entre les murs,False,Laurent Cantet | The Class | Entre les murs,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,A Christmas Tale,Un conte de Noël,False,Arnaud Desplechin | A Christmas Tale | Un conte de Noël,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Séraphine,,False,Martin Provost | Séraphine,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Jacques Audiard,A Prophet,True,2010 (35th) | Jacques Audiard | A Prophet | Un prophète,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Rapt!,Rapt!,False,Lucas Belvaux | Rapt! | Rapt!,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,In the Beginning,À l'origine,False,Xavier Giannoli | In the Beginning | À l'origine,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Welcome,Welcome,False,Philippe Lioret | Welcome | Welcome,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Concert,Le Concert,False,Radu Mihaileanu | The Concert | Le Concert,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Roman Polanski,The Ghost Writer,True,2011 (36th) | Roman Polanski | The Ghost Writer,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,On Tour,Tournée,False,Mathieu Amalric | On Tour | Tournée,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Carlos,,False,Olivier Assayas | Carlos,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Of Gods and Men,Des hommes et des dieux,False,Xavier Beauvois | Of Gods and Men | Des hommes et des dieux,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Clink of Ice,Le Bruit des glaçons,False,Bertrand Blier | The Clink of Ice | Le Bruit des glaçons,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Michel Hazanavicius,The Artist,True,2012 (37th) | Michel Hazanavicius (won the Academy Award) | The Artist,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Declaration of War,La Guerre est déclarée,False,Valérie Donzelli | Declaration of War | La Guerre est déclarée,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Le Havre,,False,Aki Kaurismäki | Le Havre,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Polisse,,False,Maïwenn | Polisse,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Minister,L'Exercice de l'État,False,Pierre Scholler | The Minister | L'Exercice de l'État,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Intouchables,Intouchables,False,Éric Toledano and Olivier Nakache | The Intouchables | Intouchables,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Michael Haneke,Amour,True,2013 (38th) | Michael Haneke (nominated for the Academy Award) | Amour,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Rust and Bone,De rouille et d'os,False,Jacques Audiard | Rust and Bone | De rouille et d'os,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,A Few Hours of Spring,Quelques heures de printemps,False,Stéphane Brizé | A Few Hours of Spring | Quelques heures de printemps,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Holy Motors,,False,Leos Carax | Holy Motors,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,"Farewell, My Queen",Les Adieux à la reine,False,"Benoît Jacquot | Farewell, My Queen | Les Adieux à la reine",https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Camille Rewinds,Camille redouble,False,Noémie Lvovsky | Camille Rewinds | Camille redouble,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,In the House,Dans la maison,False,François Ozon | In the House | Dans la maison,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Roman Polanski,Venus in Fur,True,2014 (39th) | Roman Polanski | Venus in Fur | La Vénus à la fourrure,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Jimmy P.,,False,Arnaud Desplechin | Jimmy P.,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,9 Month Stretch,Neuf mois ferme,False,Albert Dupontel | 9 Month Stretch | Neuf mois ferme,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Past,Le Passé,False,Asghar Farhadi | The Past | Le Passé,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,"Me, Myself and Mum","Les Garçons et Guillaume, à table !",False,"Guillaume Gallienne | Me, Myself and Mum | Les Garçons et Guillaume, à table !",https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Stranger by the Lake,L'Inconnu du lac,False,Alain Guiraudie | Stranger by the Lake | L'Inconnu du lac,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Blue Is the Warmest Colour,La Vie d'Adèle – Chapitres 1 & 2,False,Abdellatif Kechiche | Blue Is the Warmest Colour | La Vie d'Adèle – Chapitres 1 & 2,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Abderrahmane Sissako,Timbuktu,True,2015 (40th) | Abderrahmane Sissako | Timbuktu,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Girlhood,Bande de filles,False,Céline Sciamma | Girlhood | Bande de filles,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Love at First Fight,Les Combattants,False,Thomas Cailley | Love at First Fight | Les Combattants,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Eastern Boys,,False,Robin Campillo | Eastern Boys,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Hippocrates,Hippocrate,False,Thomas Lilti | Hippocrates | Hippocrate,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Saint Laurent,,False,Bertrand Bonello | Saint Laurent,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Clouds of Sils Maria,Sils Maria,False,Olivier Assayas | Clouds of Sils Maria | Sils Maria,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Arnaud Desplechin,My Golden Days,True,2016 (41st) | Arnaud Desplechin | My Golden Days | Trois souvenirs de ma jeunesse,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Dheepan,,False,Jacques Audiard | Dheepan,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Measure of a Man,La Loi du marché,False,Stéphane Brizé | The Measure of a Man | La Loi du marché,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Marguerite,,False,Xavier Giannoli | Marguerite,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Mon roi,,False,Maïwenn | Mon roi,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Mustang,,False,Deniz Gamze Ergüven | Mustang,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Standing Tall,La Tête haute,False,Emmanuelle Bercot | Standing Tall | La Tête haute,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Xavier Dolan,It's Only the End of the World,True,2017 (42nd) | Xavier Dolan | It's Only the End of the World | Juste la fin du monde,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Divines,,False,Houda Benyamina | Divines,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Elle,,False,Paul Verhoeven | Elle,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Frantz,,False,François Ozon | Frantz,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Innocents,Les Innocentes,False,Anne Fontaine | The Innocents | Les Innocentes,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Slack Bay,La Loute,False,Bruno Dumont | Slack Bay | La Loute,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,From the Land of the Moon,Mal de pierres,False,Nicole Garcia | From the Land of the Moon | Mal de pierres,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Albert Dupontel,See You Up There,True,2018 (43rd) | Albert Dupontel | See You Up There | Au revoir là-haut,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,BPM,120 Battements par minute,False,Robin Campillo | BPM (Beats per Minute) | 120 Battements par minute,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Barbara,,False,Mathieu Amalric | Barbara,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Raw,Grave,False,Julia Ducournau | Raw | Grave,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Bloody Milk,Petit Paysan,False,Hubert Charuel | Bloody Milk | Petit Paysan,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Redoubtable,Le Redoutable,False,Michel Hazanavicius | Redoubtable | Le Redoutable,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,C'est la vie!,Le Sens de la fête,False,Éric Toledano and Olivier Nakache | C'est la vie! | Le Sens de la fête,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Jacques Audiard,The Sisters Brothers,True,2019 (44th) | Jacques Audiard | The Sisters Brothers | Les Frères Sisters,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Memoir of War,La Douleur,False,Emmanuel Finkiel | Memoir of War | La Douleur,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Trouble with You,En liberté !,False,Pierre Salvadori | The Trouble with You | En liberté !,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Sink or Swim,Le Grand Bain,False,Gilles Lellouche | Sink or Swim | Le Grand Bain,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Guy,,False,Alex Lutz | Guy,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Custody,Jusqu'à la garde,False,Xavier Legrand | Custody | Jusqu'à la garde,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,In Safe Hands,Pupille,False,Jeanne Herry | In Safe Hands | Pupille,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Roman Polanski,An Officer and a Spy,True,2020 (45th) | Roman Polanski | An Officer and a Spy | J'accuse,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,La Belle Époque,,False,Nicolas Bedos | La Belle Époque,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,By the Grace of God,Grâce à Dieu,False,François Ozon | By the Grace of God | Grâce à Dieu,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Specials,Hors normes,False,Éric Toledano and Olivier Nakache | The Specials | Hors normes,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Les Misérables,,False,Ladj Ly | Les Misérables,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Portrait of a Lady on Fire,Portrait de la jeune fille en feu,False,Céline Sciamma | Portrait of a Lady on Fire | Portrait de la jeune fille en feu,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Oh Mercy!,"Roubaix, une lumière",False,"Arnaud Desplechin | Oh Mercy! | Roubaix, une lumière",https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Albert Dupontel,Bye Bye Morons,True,2021 (46th) [ 4 ] | Albert Dupontel | Bye Bye Morons | Adieu les cons,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,DNA,ADN,False,Maïwenn | DNA | ADN,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Adolescents,Adolescentes,False,Sébastien Lifshitz | Adolescents | Adolescentes,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Love Affair,"Les Choses qu'on dit, les choses qu'on fait",False,"Emmanuel Mouret | Love Affair(s) | Les Choses qu'on dit, les choses qu'on fait",https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Summer of 85,Été 85,False,François Ozon | Summer of 85 | Été 85,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Leos Carax,Annette,True,2022 (47th) [ 5 ] | Leos Carax | Annette,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Happening,L'Événement,False,Audrey Diwan | Happening | L'Événement,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Titane,,False,Julia Ducournau | Titane,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Lost Illusions,Illusions perdues,False,Xavier Giannoli | Lost Illusions | Illusions perdues,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,"Onoda: 10,000 Nights in the Jungle","Onoda, 10 000 nuits dans la jungle",False,"Arthur Harari | Onoda: 10,000 Nights in the Jungle | Onoda, 10 000 nuits dans la jungle",https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Stronghold,BAC Nord,False,Cédric Jimenez | The Stronghold | BAC Nord,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Aline,,False,Valérie Lemercier | Aline,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Dominik Moll,The Night of the 12th,True,2023 (48th) | Dominik Moll | The Night of the 12th | La Nuit du 12,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Innocent,L'Innocent,False,Louis Garrel | The Innocent | L'Innocent,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,November,Novembre,False,Cédric Jimenez | November | Novembre,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Rise,En corps,False,Cedric Klapisch | Rise | En corps,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Pacifiction,Pacifiction: Tourment sur les Îles,False,Albert Serra | Pacifiction | Pacifiction: Tourment sur les Îles,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Justine Triet,Anatomy of a Fall,True,2024 (49th) | Justine Triet (nominated for the Academy Award) | Anatomy of a Fall | Anatomie d'une chute,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Last Summer,L'Été dernier,False,Catherine Breillat | Last Summer | L'Été dernier,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Animal Kingdom,Le Règne animal,False,Thomas Cailley | The Animal Kingdom | Le Règne animal,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,All Your Faces,Je verrai toujours vos visages,False,Jeanne Herry | All Your Faces | Je verrai toujours vos visages,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Goldman Case,Le Procès Goldman,False,Cédric Kahn | The Goldman Case | Le Procès Goldman,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Jacques Audiard,Emilia Pérez,True,2025 (50th) | Jacques Audiard (nominated for the Academy Award) | Emilia Pérez,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Count of Monte Cristo,Le Comte de Monte-Cristo,False,Matthieu Delaporte and Alexandre de La Patellière | The Count of Monte Cristo | Le Comte de Monte-Cristo,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Misericordia,Miséricorde,False,Alain Guiraudie | Misericordia | Miséricorde,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Beating Hearts,L'Amour ouf,False,Gilles Lellouche | Beating Hearts | L'Amour ouf,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Souleymane's Story,L'Histoire de Souleymane,False,Boris Lojkine | Souleymane's Story | L'Histoire de Souleymane,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Richard Linklater,Nouvelle Vague,True,2026 (51st) | Richard Linklater | Nouvelle Vague,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Ties That Bind Us,L'Attachement,False,Carine Tardieu | The Ties That Bind Us | L'Attachement,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Case 137,Dossier 137,False,Dominik Moll | Case 137 | Dossier 137,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Little Sister,La Petite Dernière,False,Hafsia Herzi | The Little Sister | La Petite Dernière,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,The Great Arch,L'Inconnu de la Grande Arche,False,Stéphane Demoustier | The Great Arch | L'Inconnu de la Grande Arche,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Roman Polanski,,False,5 | Roman Polanski,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Jacques Audiard,,False,4 | Jacques Audiard,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Jean-Jacques Annaud,,False,2 | Jean-Jacques Annaud,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Jacques Audiard,,False,8 | Jacques Audiard,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Claude Miller,,False,7 | Claude Miller,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Luc Besson,,False,6 | Luc Besson,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Bertrand Blier,,False,5 | Bertrand Blier,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Claude Berri,,False,4 | Claude Berri,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director
+,Patrice Chéreau,,False,3 | Patrice Chéreau,https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Director

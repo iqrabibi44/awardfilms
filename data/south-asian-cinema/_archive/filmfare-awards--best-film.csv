@@ -1,0 +1,311 @@
+year,film,person,is_winner,raw_text,source_url
+,Bimal Roy Productions,,True,Do Bigha Zamin | Bimal Roy Productions,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,R. K. Films,,True,Boot Polish | R. K. Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Filmistan Productions,,True,Jagriti | Filmistan Productions,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Pakshiraja Studios,,False,Azaad | Pakshiraja Studios,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Hiten Chaudhary Productions,,False,Biraj Bahu | Hiten Chaudhary Productions,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Rajkamal Kala Mandir,,True,Jhanak Jhanak Payal Baaje | Rajkamal Kala Mandir,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Mehboob Productions,,True,Mother India | Mehboob Productions,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Bimal Roy Productions,,True,Madhumati | Bimal Roy Productions,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,B. R. Films,,False,Sadhna | B. R. Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Anupam Chitra,,False,Talaaq | Anupam Chitra,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Prasad Studios,,True,Chhoti Bahen | Prasad Studios,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,L. B. Films,,False,Anari | L. B. Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Bimal Roy Productions,,False,Sujata | Bimal Roy Productions,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Sterling Investments,,True,Mughal-e-Azam | Sterling Investments,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Bani Rupa Chitra,,False,Masoom | Bani Rupa Chitra,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Bimal Roy Productions,,False,Parakh | Bimal Roy Productions,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,R. K. Films,,True,Jis Desh Men Ganga Behti Hai | R. K. Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Citizen Films,,False,Gunga Jumna | Citizen Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,B. R. Films,,False,Kanoon | B. R. Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Guru Dutt Movies Pvt. Ltd.,,True,Sahib Bibi Aur Ghulam | Guru Dutt Movies Pvt. Ltd.,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Geetanjali Pictures,,False,Bees Saal Baad | Geetanjali Pictures,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Prabhuram Pictures,,False,Rakhi | Prabhuram Pictures,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Bimal Roy Productions,,True,Bandini | Bimal Roy Productions,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Chitralaya,,False,Dil Ek Mandir | Chitralaya,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,B. R. Films,,False,Gumrah | B. R. Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Rajshri Productions,,True,Dosti | Rajshri Productions,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,R. K. Films,,False,Sangam | R. K. Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Naya Sansar,,False,Shehar Aur Sapna | Naya Sansar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Shri Prakash Pictures,,True,Himalaya Ki God Mein | Shri Prakash Pictures,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Himalaya Films,,False,Haqeeqat | Himalaya Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,B. R. Films,,False,Waqt | B. R. Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Navketan Films,,True,Guide | Navketan Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,L. B. Films,,False,Anupama | L. B. Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Charu Chitra,,False,Mamta | Charu Chitra,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,V. I. P. Films,,True,Upkar | V. I. P. Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,AVM Productions,,False,Mehrban | AVM Productions,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Prasad Studios,,False,Milan | Prasad Studios,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Sippy Films,,True,Brahmachari | Sippy Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Sagar Art International,,False,Ankhen | Sagar Art International,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Kalpanalok,,False,Neel Kamal | Kalpanalok,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Shakti Films,,True,Aradhana | Shakti Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Rupam Chitra,,False,Aashirwad | Rupam Chitra,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Prasad Studios,,False,Jeene Ki Raah | Prasad Studios,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Prasad Studios,,True,Khilona | Prasad Studios,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Raj Khosla Films,,False,Do Raaste | Raj Khosla Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Filmnagar,,False,Pehchaan | Filmnagar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Rupam Chitra,,True,Anand | Rupam Chitra,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,R. K. Films,,False,Mera Naam Joker | R. K. Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Pramod Films,,False,Naya Zamana | Pramod Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Filmnagar,,True,Be-Imaan | Filmnagar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Aarohi Film Makers,,False,Anubhav | Aarohi Film Makers,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Mahal Pictures,,False,Pakeezah | Mahal Pictures,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Shakti Films,,True,Anuraag | Shakti Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Kiron Productions,,False,Aaj Ki Taaza Khabar | Kiron Productions,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,R. K. Films,,False,Bobby | R. K. Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Romu N. Sippy and Raj N. Sippy,,False,Koshish | Romu N. Sippy and Raj N. Sippy,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Prakash Mehra Productions,,False,Zanjeer | Prakash Mehra Productions,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Devki Chitra,,True,Rajnigandha | Devki Chitra,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Blaze Film Enterprises,,False,Ankur | Blaze Film Enterprises,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Unit 3 mm,,False,Garm Hava | Unit 3 mm,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Shreeji Films,,False,Kora Kagaz | Shreeji Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,V.I.P. Films,,False,Roti Kapda Aur Makaan | V.I.P. Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Trimurti Films,,True,Deewaar | Trimurti Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Filmyug,,False,Aandhi | Filmyug,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Shakti Films,,False,Amanush | Shakti Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Filmnagar,,False,Sanyasi | Filmnagar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Sippy Films,,False,Sholay | Sippy Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Sunandini Pictures,,True,Mausam | Sunandini Pictures,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,B. R. Films,,False,Chhoti Si Baat | B. R. Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Rajshri Productions,,False,Chitchor | Rajshri Productions,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Yash Raj Films,,False,Kabhi Kabhie | Yash Raj Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Rajshri Productions,,False,Tapasya | Rajshri Productions,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Blaze Film Enterprises,,True,Bhumika | Blaze Film Enterprises,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,MKD Films Combine,,False,Amar Akbar Anthony | MKD Films Combine,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Climb Films,,False,Gharaonda | Climb Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Gujarat Milk Co-Op Marketing Federation Ltd.,,False,Manthan | Gujarat Milk Co-Op Marketing Federation Ltd.,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Jayasarathy Combine,,False,Swami | Jayasarathy Combine,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Raj Khosla Films,,True,Main Tulsi Tere Aangan Ki | Raj Khosla Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Rajshri Productions,,False,Ankhiyon Ke Jharokhon Se | Rajshri Productions,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Prakash Mehra Productions,,False,Muqaddar Ka Sikandar | Prakash Mehra Productions,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Suresh Jindal,,False,Shatranj Ke Khilari | Suresh Jindal,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Trimurti Films,,False,Trishul | Trimurti Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Film-Valas,,True,Junoon | Film-Valas,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Sujatha International,,False,Amar Deep | Sujatha International,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Yash Raj Films,,False,Kaala Patthar | Yash Raj Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,N. N. Sippy Productions,,False,Sargam | N. N. Sippy Productions,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Rupam Chitra,,True,Khubsoorat | Rupam Chitra,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Krsna Movies Enterprises,,False,Aakrosh | Krsna Movies Enterprises,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Filmyug,,False,Aasha | Filmyug,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,B. R. Films,,False,Insaaf Ka Tarazu | B. R. Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Konark Kombine International,,False,Thodisi Bewafaii | Konark Kombine International,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Film-Valas,,True,Kalyug | Film-Valas,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Rose Movies,,False,Baseraa | Rose Movies,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Neo Films,,False,Chakra | Neo Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,PLA Productions,,False,Chashme Buddoor | PLA Productions,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Prasad Studios,,False,Ek Duuje Ke Liye | Prasad Studios,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,M. R. Productions,,True,Shakti | M. R. Productions,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,New Wave Production,,False,Bazaar | New Wave Production,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,B. R. Films,,False,Nikaah | B. R. Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,R. K. Films,,False,Prem Rog | R. K. Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Trimurti Films,,False,Vidhaata | Trimurti Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Neo Films,,True,Ardh Satya | Neo Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Anu Arts,,False,Arth | Anu Arts,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Emkay Enterprises,,False,Avtaar | Emkay Enterprises,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Vijayta Films – Dharmendra,,True,Betaab | Vijayta Films – Dharmendra,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Krsna Movies Enterprises,,False,Masoom | Krsna Movies Enterprises,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Basu Bhattacharya,,True,Sparsh | Basu Bhattacharya,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,B. R. Films,,False,Aaj Ki Awaaz | B. R. Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,National Film Development Corporation of India,,False,Jaane Bhi Do Yaaro | National Film Development Corporation of India,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Rajshri Productions,,False,Saaransh | Rajshri Productions,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Chaudhary Enterprises, Prakash Mehra Productions",,False,"Sharaabi | Chaudhary Enterprises, Prakash Mehra Productions",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,R. K. Films,,True,Ram Teri Ganga Maili | R. K. Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Cineyugg Films,,False,Arjun | Cineyugg Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Nadiadwala Sons,,False,Ghulami | Nadiadwala Sons,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,N. N. Sippy Productions,,False,Meri Jung | N. N. Sippy Productions,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Sippy Films,,False,Saagar | Sippy Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Sunrise Productions,,False,Tawaif | Sunrise Productions,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+1987,No Award,,True,1987 | No Award,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+1988,No Award,,True,1988 | No Award,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+1988,1989,,True,1989 ( 34th ),https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+1988,Nasir Hussain Films,,True,Qayamat Se Qayamat Tak | Nasir Hussain Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+1988,Film Kraft,,False,Khoon Bhari Maang | Film Kraft,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+1988,N. Chandra Productions,,False,Tezaab | N. Chandra Productions,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Rajshri Productions – Tarachand Barjatya,,True,Maine Pyar Kiya | Rajshri Productions – Tarachand Barjatya,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Yash Raj Films – Yash Chopra,,False,Chandni | Yash Raj Films – Yash Chopra,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Vinod Chopra Productions – Vidhu Vinod Chopra,,False,Parinda | Vinod Chopra Productions – Vidhu Vinod Chopra,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Mukta Arts – Ashok Ghai, Subhash Ghai",,False,"Ram Lakhan | Mukta Arts – Ashok Ghai, Subhash Ghai",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Mirabai Films – Mira Nair,,False,Salaam Bombay! | Mirabai Films – Mira Nair,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Vijayta Films – Dharmendra,,True,Ghayal | Vijayta Films – Dharmendra,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Dharma Productions – Yash Johar,,False,Agneepath | Dharma Productions – Yash Johar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Maruti International – Indra Kumar , Ashok Thakeria",,False,"Dil | Maruti International – Indra Kumar , Ashok Thakeria",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Geetha Arts – Allu Aravind,,False,Pratibandh | Geetha Arts – Allu Aravind,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Yash Raj Films – Yash Chopra,,True,Lamhe | Yash Raj Films – Yash Chopra,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Vishesh Films / T-Series – Mukesh Bhatt , Gulshan Kumar",,False,"Dil Hai Ki Manta Nahin | Vishesh Films / T-Series – Mukesh Bhatt , Gulshan Kumar",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,R. K. Films – Randhir Kapoor,,False,Henna | R. K. Films – Randhir Kapoor,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Divya Films International – Sudhakar Bokade,,False,Saajan | Divya Films International – Sudhakar Bokade,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Mukta Arts – Subhash Ghai,,False,Saudagar | Mukta Arts – Subhash Ghai,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Nasir Hussain Films – Nasir Hussain,,True,Jo Jeeta Wohi Sikandar | Nasir Hussain Films – Nasir Hussain,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Maruti International – Indra Kumar , Ashok Thakeria",,False,"Beta | Maruti International – Indra Kumar , Ashok Thakeria",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Glamour Films – Nazir Ahmed Khan , Manoj Desai",,False,"Khuda Gawah | Glamour Films – Nazir Ahmed Khan , Manoj Desai",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Tahir Hussain Enterprises – Tahir Hussain,,True,Hum Hain Rahi Pyar Ke | Tahir Hussain Enterprises – Tahir Hussain,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Chiragdeep International – Pahlaj Nihalani,,False,Aankhen | Chiragdeep International – Pahlaj Nihalani,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,United Seven Combines – Ganesh Jain,,False,Baazigar | United Seven Combines – Ganesh Jain,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Cineyug Entertainment – Aly Morani , Karim Morani , Bunty Soorma",,False,"Damini | Cineyug Entertainment – Aly Morani , Karim Morani , Bunty Soorma",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Mukta Arts – Subhash Ghai,,False,Khalnayak | Mukta Arts – Subhash Ghai,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Rajshri Productions – Ajit Kumar Barjatya, Kamal Kumar Barjatya, Rajkumar Barjatya",,True,"Hum Aapke Hain Koun..! | Rajshri Productions – Ajit Kumar Barjatya, Kamal Kumar Barjatya, Rajkumar Barjatya",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Vinod Chopra Productions – Vidhu Vinod Chopra,,False,1942: A Love Story | Vinod Chopra Productions – Vidhu Vinod Chopra,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Vinay Pictures – Vinay Kumar Sinha,,False,Andaz Apna Apna | Vinay Pictures – Vinay Kumar Sinha,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Mehul Movies – Mehul Kumar,,False,Krantiveer | Mehul Movies – Mehul Kumar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Trimurti Films – Gulshan Rai,,False,Mohra | Trimurti Films – Gulshan Rai,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Yash Raj Films – Yash Chopra,,True,Dilwale Dulhania Le Jayenge | Yash Raj Films – Yash Chopra,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,United Seven Combines – Ratan Jain,,False,Akele Hum Akele Tum | United Seven Combines – Ratan Jain,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Film Kraft – Rakesh Roshan,,False,Karan Arjun | Film Kraft – Rakesh Roshan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Maruti International – Indra Kumar , Ashok Thakeria",,False,"Raja | Maruti International – Indra Kumar , Ashok Thakeria",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Varma Corporation – Ram Gopal Varma,,False,Rangeela | Varma Corporation – Ram Gopal Varma,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Cineyug Entertainment – Aly Morani , Karim Morani , Bunty Soorma",,True,"Raja Hindustani | Cineyug Entertainment – Aly Morani , Karim Morani , Bunty Soorma",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Neha Films – Binda Thackeray,,False,Agni Sakshi | Neha Films – Binda Thackeray,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Kaleidoscope Entertainment – Bobby Bedi,,False,Bandit Queen | Kaleidoscope Entertainment – Bobby Bedi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Polygram Filmed Entertainment – Sibte Hassan Rizvi,,False,Khamoshi: The Musical | Polygram Filmed Entertainment – Sibte Hassan Rizvi,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Pan Pictures – R. V. Pandit,,False,Maachis | Pan Pictures – R. V. Pandit,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Yash Raj Films – Yash Chopra,,True,Dil To Pagal Hai | Yash Raj Films – Yash Chopra,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,J. P. Films – J. P. Dutta,,False,Border | J. P. Films – J. P. Dutta,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Trimurti Films – Gulshan Rai,,False,Gupt | Trimurti Films – Gulshan Rai,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Mukta Arts – Subhash Ghai,,False,Pardes | Mukta Arts – Subhash Ghai,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"M. R. Productions – Mushir Alam , Mohammad Riaz",,False,"Virasat | M. R. Productions – Mushir Alam , Mohammad Riaz",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Dharma Productions – Yash Johar,,True,Kuch Kuch Hota Hai | Dharma Productions – Yash Johar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Vishesh Films – Mukesh Bhatt,,False,Ghulam | Vishesh Films – Mukesh Bhatt,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,G. S. Entertainment – Sohail Khan,,False,Pyaar Kiya To Darna Kya | G. S. Entertainment – Sohail Khan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Baba Films – Gordhan Tanwani,,False,Pyaar To Hona Hi Tha | Baba Films – Gordhan Tanwani,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Varma Corporation – Ram Gopal Varma,,False,Satya | Varma Corporation – Ram Gopal Varma,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Bhansali Films – Sanjay Leela Bhansali,,True,Hum Dil De Chuke Sanam | Bhansali Films – Sanjay Leela Bhansali,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Puja Films – Vashu Bhagnani,,False,Biwi No.1 | Puja Films – Vashu Bhagnani,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Cinematt Pictures – John Matthew Matthan,,False,Sarfarosh | Cinematt Pictures – John Matthew Matthan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Mukta Arts – Subhash Ghai,,False,Taal | Mukta Arts – Subhash Ghai,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Adishakti Films – Deepak Nikhalje,,False,Vaastav | Adishakti Films – Deepak Nikhalje,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Film Kraft – Rakesh Roshan,,True,Kaho Naa... Pyaar Hai | Film Kraft – Rakesh Roshan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,United Seven Combines – Ratan Jain,,False,Dhadkan | United Seven Combines – Ratan Jain,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,United Seven Combines – Ganesh Jain,,False,Josh | United Seven Combines – Ganesh Jain,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Vinod Chopra Productions – Vidhu Vinod Chopra,,False,Mission Kashmir | Vinod Chopra Productions – Vidhu Vinod Chopra,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Yash Raj Films – Yash Chopra,,False,Mohabbatein | Yash Raj Films – Yash Chopra,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Aamir Khan Productions – Aamir Khan,,True,Lagaan | Aamir Khan Productions – Aamir Khan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Dreamz Unlimited – Shahrukh Khan , Juhi Chawla",,False,"Asoka | Dreamz Unlimited – Shahrukh Khan , Juhi Chawla",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Excel Entertainment Pvt. Ltd. – Ritesh Sidhwani,,False,Dil Chahta Hai | Excel Entertainment Pvt. Ltd. – Ritesh Sidhwani,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Zee Telefilms – Nitin Keni,,False,Gadar: Ek Prem Katha | Zee Telefilms – Nitin Keni,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Dharma Productions – Yash Johar,,False,Kabhi Khushi Kabhie Gham | Dharma Productions – Yash Johar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Mega Bollywood – Bharat Shah,,True,Devdas | Mega Bollywood – Bharat Shah,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Varma Corporation – Ram Gopal Varma,,False,Company | Varma Corporation – Ram Gopal Varma,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Venus Films – Ratan Jain, Ganesh Jain",,False,"Humraaz | Venus Films – Ratan Jain, Ganesh Jain",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"White Feather Films / Pritish Nandy Communications / Film Club – Sanjay Gupta , Lawrence Mortorff, Pritish Nandy , Raju Patel",,False,"Kaante | White Feather Films / Pritish Nandy Communications / Film Club – Sanjay Gupta , Lawrence Mortorff, Pritish Nandy , Raju Patel",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Vishesh Films – Mukesh Bhatt,,False,Raaz | Vishesh Films – Mukesh Bhatt,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Film Kraft – Rakesh Roshan,,True,Koi... Mil Gaya | Film Kraft – Rakesh Roshan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,B. R. Films – B. R. Chopra,,False,Baghban | B. R. Films – B. R. Chopra,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Dharma Productions – Yash Johar , Karan Johar",,False,"Kal Ho Naa Ho | Dharma Productions – Yash Johar , Karan Johar",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Vinod Chopra Productions – Vidhu Vinod Chopra,,False,Munna Bhai M.B.B.S. | Vinod Chopra Productions – Vidhu Vinod Chopra,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"MD Productions – Sunil Manchanda , Mukesh Talreja",,False,"Tere Naam | MD Productions – Sunil Manchanda , Mukesh Talreja",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Yash Raj Films – Yash Chopra , Aditya Chopra",,True,"Veer-Zaara | Yash Raj Films – Yash Chopra , Aditya Chopra",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Yash Raj Films – Yash Chopra , Aditya Chopra",,False,"Dhoom | Yash Raj Films – Yash Chopra , Aditya Chopra",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Yash Raj Films – Yash Chopra,,False,Hum Tum | Yash Raj Films – Yash Chopra,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Red Chillies Entertainment – Shahrukh Khan , Gauri Khan",,False,"Main Hoon Na | Red Chillies Entertainment – Shahrukh Khan , Gauri Khan",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Ashutosh Gowariker Productions – Ashutosh Gowariker,,False,Swades | Ashutosh Gowariker Productions – Ashutosh Gowariker,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,SLB Films – Sanjay Leela Bhansali,,True,Black | SLB Films – Sanjay Leela Bhansali,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Yash Raj Films – Yash Chopra , Aditya Chopra",,False,"Bunty Aur Babli | Yash Raj Films – Yash Chopra , Aditya Chopra",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"S. K. Films Enterprises – Boney Kapoor , Surinder Kapoor",,False,"No Entry | S. K. Films Enterprises – Boney Kapoor , Surinder Kapoor",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Lighthouse Entertainment – Bobby Pushkarna, Kavita Pushkarna",,False,"Page 3 | Lighthouse Entertainment – Bobby Pushkarna, Kavita Pushkarna",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Vinod Chopra Productions – Vidhu Vinod Chopra,,False,Parineeta | Vinod Chopra Productions – Vidhu Vinod Chopra,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"UTV Motion Pictures , Rakeysh Omprakash Mehra Pictures – Ronnie Screwvala , Rakeysh Omprakash Mehra",,True,"Rang De Basanti | UTV Motion Pictures , Rakeysh Omprakash Mehra Pictures – Ronnie Screwvala , Rakeysh Omprakash Mehra",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Yash Raj Films – Yash Chopra , Aditya Chopra",,False,"Dhoom 2 | Yash Raj Films – Yash Chopra , Aditya Chopra",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Excel Entertainment Pvt. Ltd. – Ritesh Sidhwani , Farhan Akhtar",,False,"Don | Excel Entertainment Pvt. Ltd. – Ritesh Sidhwani , Farhan Akhtar",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Dharma Productions – Hiroo Yash Johar,,False,Kabhi Alvida Naa Kehna | Dharma Productions – Hiroo Yash Johar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Film Kraft – Rakesh Roshan,,False,Krrish | Film Kraft – Rakesh Roshan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Vinod Chopra Productions – Vidhu Vinod Chopra,,False,Lage Raho Munna Bhai | Vinod Chopra Productions – Vidhu Vinod Chopra,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Aamir Khan Productions – Aamir Khan,,True,Taare Zameen Par | Aamir Khan Productions – Aamir Khan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Yash Raj Films – Yash Chopra , Aditya Chopra",,False,"Chak De! India | Yash Raj Films – Yash Chopra , Aditya Chopra",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Madras Talkies – Mani Ratnam , G. Srinivasan",,False,"Guru | Madras Talkies – Mani Ratnam , G. Srinivasan",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Shree Ashtavinayak Cine Vision – Dhillin Mehta,,False,Jab We Met | Shree Ashtavinayak Cine Vision – Dhillin Mehta,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Red Chillies Entertainment – Shahrukh Khan , Gauri Khan",,False,"Om Shanti Om | Red Chillies Entertainment – Shahrukh Khan , Gauri Khan",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Ashutosh Gowariker Productions, UTV Motion Pictures – Ashutosh Gowariker , Ronnie Screwvala",,True,"Jodhaa Akbar | Ashutosh Gowariker Productions, UTV Motion Pictures – Ashutosh Gowariker , Ronnie Screwvala",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Dharma Productions – Karan Johar , Prashant Shah",,False,"Dostana | Dharma Productions – Karan Johar , Prashant Shah",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Geetha Arts – Allu Aravind , Tagore Madhu, Madhu Mantena",,False,"Ghajini | Geetha Arts – Allu Aravind , Tagore Madhu, Madhu Mantena",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Aamir Khan Productions – Aamir Khan , Mansoor Khan",,False,"Jaane Tu... Ya Jaane Na | Aamir Khan Productions – Aamir Khan , Mansoor Khan",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Yash Raj Films – Yash Chopra , Aditya Chopra",,False,"Rab Ne Bana Di Jodi | Yash Raj Films – Yash Chopra , Aditya Chopra",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Excel Entertainment Pvt. Ltd. – Farhan Akhtar , Ritesh Sidhwani",,False,"Rock On!! | Excel Entertainment Pvt. Ltd. – Farhan Akhtar , Ritesh Sidhwani",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Vinod Chopra Productions – Vidhu Vinod Chopra,,True,3 Idiots | Vinod Chopra Productions – Vidhu Vinod Chopra,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,UTV Motion Pictures – Ronnie Screwvala,,False,Dev.D | UTV Motion Pictures – Ronnie Screwvala,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Illuminati Films – Saif Ali Khan , Dinesh Vijan",,False,"Love Aaj Kal | Illuminati Films – Saif Ali Khan , Dinesh Vijan",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"AB Corp Ltd. – Amitabh Bachchan , Abhishek Bachchan , Sunil Manchanda",,False,"Paa | AB Corp Ltd. – Amitabh Bachchan , Abhishek Bachchan , Sunil Manchanda",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Dharma Productions – Karan Johar , Hiroo Yash Johar",,False,"Wake Up Sid | Dharma Productions – Karan Johar , Hiroo Yash Johar",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Arbaaz Khan Productions & Shree Ashtavinayak Cine Vision Ltd , – Arbaaz Khan , Malaika Arora Khan & Dhillin Mehta",,True,"Dabangg | Arbaaz Khan Productions & Shree Ashtavinayak Cine Vision Ltd , – Arbaaz Khan , Malaika Arora Khan & Dhillin Mehta",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Yash Raj Films – Yash Chopra , Aditya Chopra",,False,"Band Baaja Baaraat | Yash Raj Films – Yash Chopra , Aditya Chopra",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Dharma Productions , Red Chillies Entertainment – Hiroo Yash Johar, Gauri Khan",,False,"My Name Is Khan | Dharma Productions , Red Chillies Entertainment – Hiroo Yash Johar, Gauri Khan",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Aamir Khan Productions – Aamir Khan,,False,Peepli Live | Aamir Khan Productions – Aamir Khan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"UTV Motion Pictures , Anurag Kashyap Films – Ronnie Screwvala , Anurag Kashyap , Sanjay Singh",,False,"Udaan | UTV Motion Pictures , Anurag Kashyap Films – Ronnie Screwvala , Anurag Kashyap , Sanjay Singh",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Excel Entertainment – Farhan Akhtar , Ritesh Sidhwani",,True,"Zindagi Na Milegi Dobara | Excel Entertainment – Farhan Akhtar , Ritesh Sidhwani",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Aamir Khan Productions, UTV Motion Pictures – Aamir Khan , Kiran Rao , Ronnie Screwvala",,False,"Delhi Belly | Aamir Khan Productions, UTV Motion Pictures – Aamir Khan , Kiran Rao , Ronnie Screwvala",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Excel Entertainment , – Farhan Akhtar , Ritesh Sidhwani , Shahrukh Khan",,False,"Don 2 | Excel Entertainment , – Farhan Akhtar , Ritesh Sidhwani , Shahrukh Khan",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,UTV Spotboy – Ronnie Screwvala,,False,No One Killed Jessica | UTV Spotboy – Ronnie Screwvala,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Shree Ashtavinayak Cine Vision Ltd , Eros International – Dhilin Mehta",,False,"Rockstar | Shree Ashtavinayak Cine Vision Ltd , Eros International – Dhilin Mehta",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"ALT Entertainment & Balaji Motion Pictures – Ekta Kapoor , Shobha Kapoor",,False,"The Dirty Picture | ALT Entertainment & Balaji Motion Pictures – Ekta Kapoor , Shobha Kapoor",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,UTV Motion Pictures – Ronnie Screwvala and Siddharth Roy Kapur,,True,Barfi! | UTV Motion Pictures – Ronnie Screwvala and Siddharth Roy Kapur,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Eros Entertainment – Sunil Lulla, R. Balki , and Rakesh Jhunjhunwala",,False,"English Vinglish | Eros Entertainment – Sunil Lulla, R. Balki , and Rakesh Jhunjhunwala",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Viacom 18 Motion Pictures – Anurag Kashyap and Sunil Bohra,,False,Gangs of Wasseypur | Viacom 18 Motion Pictures – Anurag Kashyap and Sunil Bohra,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Viacom 18 Motion Pictures and Pen India Limited – Sujoy Ghosh and Kushal Kantilal Gada,,False,Kahaani | Viacom 18 Motion Pictures and Pen India Limited – Sujoy Ghosh and Kushal Kantilal Gada,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Eros Entertainment and John Abraham Entertainment – John Abraham,,False,Vicky Donor | Eros Entertainment and John Abraham Entertainment – John Abraham,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Rakeysh Omprakash Mehra , Rajiv Tandon and P. S. Barathi",,True,"Bhaag Milkha Bhaag | Rakeysh Omprakash Mehra , Rajiv Tandon and P. S. Barathi",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"UTV Motion Pictures and Red Chillies Entertainment – Ronnie Screwvala , Siddharth Roy Kapur and Gauri Khan",,False,"Chennai Express | UTV Motion Pictures and Red Chillies Entertainment – Ronnie Screwvala , Siddharth Roy Kapur and Gauri Khan",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"SLB Films and Eros International – Sanjay Leela Bhansali , Kishore Lulla",,False,"Goliyon Ki Raasleela Ram-Leela | SLB Films and Eros International – Sanjay Leela Bhansali , Kishore Lulla",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Eros International – Krishika Lulla,,False,Raanjhanaa | Eros International – Krishika Lulla,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Dharma Productions – Karan Johar,,False,Yeh Jawaani Hai Deewani | Dharma Productions – Karan Johar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Viacom 18 Motion Pictures and Phantom Films – Anurag Kashyap and Vikramaditya Motwane,,True,Queen | Viacom 18 Motion Pictures and Phantom Films – Anurag Kashyap and Vikramaditya Motwane,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Dharma Productions and Nadiadwala Grandson Entertainment – Karan Johar and Sajid Nadiadwala,,False,2 States | Dharma Productions and Nadiadwala Grandson Entertainment – Karan Johar and Sajid Nadiadwala,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,UTV Motion Pictures and Vishal Bhardwaj Pictures – Vishal Bhardwaj and Siddharth Roy Kapur,,False,Haider | UTV Motion Pictures and Vishal Bhardwaj Pictures – Vishal Bhardwaj and Siddharth Roy Kapur,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,SLB Films and Viacom 18 Motion Pictures – Sanjay Leela Bhansali,,False,Mary Kom | SLB Films and Viacom 18 Motion Pictures – Sanjay Leela Bhansali,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Rajkumar Hirani Films and Vinod Chopra Films – Rajkumar Hirani and Vidhu Vinod Chopra,,False,PK | Rajkumar Hirani Films and Vinod Chopra Films – Rajkumar Hirani and Vidhu Vinod Chopra,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"SLB Films and Eros International – Sanjay Leela Bhansali , Kishore Lulla",,True,"Bajirao Mastani | SLB Films and Eros International – Sanjay Leela Bhansali , Kishore Lulla",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Maddock Films and Eros International – Dinesh Vijan , Sunil Lulla",,False,"Badlapur | Maddock Films and Eros International – Dinesh Vijan , Sunil Lulla",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Salman Khan Films and Eros International – Salman Khan , Rockline Venkatesh",,False,"Bajrangi Bhaijaan | Salman Khan Films and Eros International – Salman Khan , Rockline Venkatesh",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"MSM Motion Pictures , Saraswati Entertainment Creations Limited and Yash Raj Films – N. P. Singh, Ronnie Lahiri, Sneha Rajani",,False,"Piku | MSM Motion Pictures , Saraswati Entertainment Creations Limited and Yash Raj Films – N. P. Singh, Ronnie Lahiri, Sneha Rajani",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"VB Pictures and Junglee Pictures – Vineet Jain , Vishal Bhardwaj",,False,"Talvar | VB Pictures and Junglee Pictures – Vineet Jain , Vishal Bhardwaj",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Colour Yellow Productions and Eros International – Krishika Lulla, Aanand L. Rai",,False,"Tanu Weds Manu Returns | Colour Yellow Productions and Eros International – Krishika Lulla, Aanand L. Rai",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Walt Disney Pictures , Aamir Khan Productions and UTV Motion Pictures – Aamir Khan , Kiran Rao , Siddharth Roy Kapoor",,True,"Dangal | Walt Disney Pictures , Aamir Khan Productions and UTV Motion Pictures – Aamir Khan , Kiran Rao , Siddharth Roy Kapoor",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Dharma Productions and Fox Star Studios – Hiroo Yash Johar, Karan Johar , Apoorva Mehta",,False,"Kapoor & Sons | Dharma Productions and Fox Star Studios – Hiroo Yash Johar, Karan Johar ,  Apoorva Mehta",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Bling Unplugged and Fox Star Studios – Atul Kasbekar , Shanti Sivaram Maini",,False,"Neerja | Bling Unplugged and Fox Star Studios – Atul Kasbekar , Shanti Sivaram Maini",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Rising Sun Films and Rashmi Sharma Telefilms – Rashmi Sharma, Ronnie Lahiri, Sheel Kumar, Shoojit Sircar",,False,"Pink | Rising Sun Films and Rashmi Sharma Telefilms – Rashmi Sharma, Ronnie Lahiri, Sheel Kumar, Shoojit Sircar",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Yash Raj Films – Aditya Chopra,,False,Sultan | Yash Raj Films – Aditya Chopra,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Balaji Motion Pictures and Phantom Films – Shobha Kapoor , Ekta Kapoor , Anurag Kashyap , Vikramaditya Motwane , Aman Gill, Vikas Bahl , Sameer Nair , Madhu Mantena",,False,"Udta Punjab | Balaji Motion Pictures and Phantom Films – Shobha Kapoor , Ekta Kapoor , Anurag Kashyap , Vikramaditya Motwane , Aman Gill, Vikas Bahl , Sameer Nair , Madhu Mantena",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"T-Series and Maddock Films – Dinesh Vijan , Bhushan Kumar , Krishan Kumar",,True,"Hindi Medium | T-Series and Maddock Films – Dinesh Vijan , Bhushan Kumar , Krishan Kumar",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Dharma Productions – Karan Johar , Hiroo Johar and Apoorva Mehta",,False,"Badrinath Ki Dulhania | Dharma Productions – Karan Johar , Hiroo Johar and Apoorva Mehta",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,BR Studios and Junglee Pictures – Renu Ravi Chopra and Vineet Jain,,False,Bareilly Ki Barfi | BR Studios and Junglee Pictures – Renu Ravi Chopra and Vineet Jain,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Aamir Khan Productions – Aamir Khan and Kiran Rao,,False,Secret Superstar | Aamir Khan Productions – Aamir Khan and Kiran Rao,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Viacom 18 Motion Pictures , KriArj Entertainment and Friday Filmworks – Aruna Bhatia, Shital Bhatia, Prernaa Arora, Arjun N. Kapoor and Hitesh Thakkar",,False,"Toilet: Ek Prem Katha | Viacom 18 Motion Pictures , KriArj Entertainment and Friday Filmworks – Aruna Bhatia, Shital Bhatia, Prernaa Arora, Arjun N. Kapoor and Hitesh Thakkar",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Dharma Productions and Junglee Pictures – Vineet Jain , Karan Johar , Hiroo Yash Johar, Apoorva Mehta",,True,"Raazi | Dharma Productions and Junglee Pictures – Vineet Jain , Karan Johar , Hiroo Yash Johar, Apoorva Mehta",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Viacom 18 Motion Pictures and Matchbox Pictures – Sriram Raghavan,,False,Andhadhun | Viacom 18 Motion Pictures and Matchbox Pictures – Sriram Raghavan,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Junglee Pictures and Chrome Pictures – Vineet Jain , Aleya Sen , Hemant Bhandari, Amit Ravindernath Sharma, Sushil Choudhary, and Priti Sahani",,False,"Badhaai Ho | Junglee Pictures and Chrome Pictures – Vineet Jain , Aleya Sen , Hemant Bhandari, Amit Ravindernath Sharma, Sushil Choudhary, and Priti Sahani",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"SLB Films and Viacom 18 Motion Pictures – Sanjay Leela Bhansali , Sudhanshu Vats, and Ajit Andhare",,False,"Padmaavat | SLB Films and Viacom 18 Motion Pictures – Sanjay Leela Bhansali , Sudhanshu Vats, and Ajit Andhare",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Rajkumar Hirani Films and Vinod Chopra Films – Rajkumar Hirani and Vidhu Vinod Chopra,,False,Sanju | Rajkumar Hirani Films and Vinod Chopra Films – Rajkumar Hirani and Vidhu Vinod Chopra,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Maddock Films , and D2R Films – Dinesh Vijan , Raj Nidimoru and Krishna D.K.",,False,"Stree | Maddock Films , and D2R Films – Dinesh Vijan , Raj Nidimoru and Krishna D.K.",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Excel Entertainment and Tiger Baby Films – Farhan Akhtar , Zoya Akhtar and Ritesh Sidhwani",,True,"Gully Boy | Excel Entertainment and Tiger Baby Films – Farhan Akhtar , Zoya Akhtar and Ritesh Sidhwani",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Nadiadwala Grandson Entertainment – Sajid Nadiadwala,,False,Chhichhore | Nadiadwala Grandson Entertainment – Sajid Nadiadwala,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Cape of Good Films, Hope Productions, Fox Star Studios , Aruna Bhatia, Anil Naidu",,False,"Mission Mangal | Cape of Good Films, Hope Productions, Fox Star Studios , Aruna Bhatia, Anil Naidu",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,RSVP Movies – Ronnie Screwvala,,False,Uri: The Surgical Strike | RSVP Movies – Ronnie Screwvala,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Yash Raj Films – Aditya Chopra,,False,War | Yash Raj Films – Aditya Chopra,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Benaras Media Works and T-Series – Bhushan Kumar , Krishan Kumar , and Anubhav Sinha",,True,"Thappad | Benaras Media Works and T-Series – Bhushan Kumar , Krishan Kumar , and Anubhav Sinha",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Rising Sun Films and Kino Works – Ronnie Lahiri and Sheel Kumar,,False,Gulabo Sitabo | Rising Sun Films and Kino Works –  Ronnie Lahiri and Sheel Kumar,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Dharma Productions and Zee Studios – Karan Johar , Hiroo Yash Johar and Apoorva Mehta",,False,"Gunjan Saxena: The Kargil Girl | Dharma Productions and Zee Studios – Karan Johar , Hiroo Yash Johar and Apoorva Mehta",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"T-Series – Bhushan Kumar , Divya Khosla Kumar , Krishan Kumar and Anurag Basu",,False,"Ludo | T-Series – Bhushan Kumar , Divya Khosla Kumar , Krishan Kumar and Anurag Basu",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Ajay Devgn FFilms and T-Series – Ajay Devgn , Bhushan Kumar and Krishan Kumar",,False,"Tanhaji: The Unsung Warrior | Ajay Devgn FFilms and T-Series – Ajay Devgn , Bhushan Kumar and Krishan Kumar",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Dharma Productions , Kaash Entertainment, Amazon Prime Video",,True,"Shershaah | Dharma Productions , Kaash Entertainment, Amazon Prime Video",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Drishyam Films , Jio Studios",,False,"Ramprasad Ki Tehrvi | Drishyam Films , Jio Studios",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"RSVP Movies , Mango People Media Network, ZEE5",,False,"Rashmi Rocket | RSVP Movies , Mango People Media Network, ZEE5",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Rising Sun Films , Kino Works, Amazon Prime Video",,False,"Sardar Udham | Rising Sun Films , Kino Works, Amazon Prime Video",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Bhansali Productions, Pen Studios",,True,"Gangubai Kathiawadi | Bhansali Productions, Pen Studios",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Junglee Pictures , Zee Studios",,False,"Badhaai Do | Junglee Pictures , Zee Studios",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"T-Series Films , Cine1 Studios",,False,"Bhool Bhulaiyaa 2 | T-Series Films , Cine1 Studios",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Dharma Productions , Star Studios , Prime Focus, Starlight Pictures",,False,"Brahmāstra: Part One – Shiva | Dharma Productions , Star Studios , Prime Focus, Starlight Pictures",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Zee Studios , Abhishek Agarwal Arts",,False,"The Kashmir Files | Zee Studios , Abhishek Agarwal Arts",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Rajshri Productions , Mahaveer Jain Films , Boundless Media",,False,"Uunchai | Rajshri Productions , Mahaveer Jain Films , Boundless Media",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Vinod Chopra Films , Zee Studios",,True,"12th Fail | Vinod Chopra Films , Zee Studios",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"T-Series Films , Cine1 Studios, Bhadrakali Pictures",,False,"Animal | T-Series Films , Cine1 Studios, Bhadrakali Pictures",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Cape of Good Films , Viacom18 Studios , Wakaoo Films",,False,"OMG 2 | Cape of Good Films , Viacom18 Studios , Wakaoo Films",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Yash Raj Films,,False,Pathaan | Yash Raj Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Red Chillies Entertainment,,False,Jawan | Red Chillies Entertainment,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Dharma Productions , Viacom18 Studios",,False,"Rocky Aur Rani Kii Prem Kahaani | Dharma Productions , Viacom18 Studios",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Jio Studios , Aamir Khan Productions , Kindling Pictures",,True,"Laapataa Ladies | Jio Studios , Aamir Khan Productions , Kindling Pictures",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Jio Studios , B62 Studios",,False,"Article 370 | Jio Studios , B62 Studios",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"T-Series Films , Cine1 Studios",,False,"Bhool Bhulaiyaa 3 | T-Series Films , Cine1 Studios",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Dharma Productions , Sikhya Entertainment",,False,"Kill | Dharma Productions , Sikhya Entertainment",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,"Maddock Films , Jio Studios",,False,"Stree 2 | Maddock Films , Jio Studios",https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Yash Raj Films SLB Films UTV Motion Pictures Bimal Roy Productions Aamir Khan Productions,,False,4 | Yash Raj Films SLB Films UTV Motion Pictures Bimal Roy Productions Aamir Khan Productions,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,Dharma Productions,,False,3 | Dharma Productions,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film
+,FilmKraft T-Series ROMP Excel Entertainment Vinod Chopra Films,,False,2 | FilmKraft T-Series ROMP Excel Entertainment Vinod Chopra Films,https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film

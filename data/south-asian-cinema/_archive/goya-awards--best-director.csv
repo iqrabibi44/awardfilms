@@ -1,0 +1,197 @@
+year,film,person,is_winner,raw_text,source_url
+,Fernando Fernán Gómez,Voyage to Nowhere,True,1986 (1st) [ 1 ] [ 2 ] | Fernando Fernán Gómez | Voyage to Nowhere | El viaje a ninguna parte,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Lulu by Night,Lulú de noche,False,Emilio Martínez Lázaro | Lulu by Night | Lulú de noche,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Werther,,False,Pilar Miró | Werther,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,José Luis Garci,Course Completed,True,1987 (2nd) | José Luis Garci | Course Completed | Asignatura aprobada,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Anguish,Angustia,False,Bigas Luna | Anguish | Angustia,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,El Lute: Run for Your Life,El Lute: camina o revienta,False,Vicente Aranda | El Lute: Run for Your Life | El Lute: camina o revienta,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Gonzalo Suárez,Rowing with the Wind,True,1988 (3rd) | Gonzalo Suárez | Rowing with the Wind | Remando al viento,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Women on the Verge of a Nervous Breakdown,Mujeres al borde de un ataque de nervios,False,Pedro Almodóvar | Women on the Verge of a Nervous Breakdown | Mujeres al borde de un ataque de nervios,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Berlin Blues,,False,Ricardo Franco | Berlin Blues,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Wait for Me in Heaven,Espérame en el cielo,False,Antonio Mercero | Wait for Me in Heaven | Espérame en el cielo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Winter Diary,Diario de invierno,False,Francisco Regueiro | Winter Diary | Diario de invierno,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Fernando Trueba,Twisted Obsession,True,1989 (4th) | Fernando Trueba | Twisted Obsession | El sueño del mono loco,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,If They Tell You I Fell,Si te dicen que caí,False,Vicente Aranda | If They Tell You I Fell | Si te dicen que caí,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,The Sea and the Weather,El mar y el tiempo,False,Fernando Fernán Gómez | The Sea and the Weather | El mar y el tiempo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Esquilache,,False,Josefina Molina | Esquilache,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Moon Child,El niño de la luna,False,Agustí Villaronga | Moon Child | El niño de la luna,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Carlos Saura,"¡Ay, Carmela!",True,"1990 (5th) | Carlos Saura | ¡Ay, Carmela!",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Tie Me Up! Tie Me Down!,¡Átame!,False,Pedro Almodóvar | Tie Me Up! Tie Me Down! | ¡Átame!,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Letters from Alou,Las cartas de Alou,False,Montxo Armendáriz | Letters from Alou | Las cartas de Alou,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Vicente Aranda,Lovers,True,1991 (6th) | Vicente Aranda | Lovers | Amantes,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Prince of Shadows,Beltenebros,False,Pilar Miró | Prince of Shadows | Beltenebros,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,The Dumbfounded King,El rey pasmado,False,Imanol Uribe | The Dumbfounded King | El rey pasmado,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Fernando Trueba,Belle Époque,True,1992 (7th) | Fernando Trueba | Belle Époque,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,A Tale of Ham and Passion,"Jamón, jamón",False,"Bigas Luna | A Tale of Ham and Passion | Jamón, jamón",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,The Fencing Master,El maestro de esgrima,False,Pedro Olea | The Fencing Master | El maestro de esgrima,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Luis García Berlanga,Everyone to Jail,True,1993 (8th) | Luis García Berlanga | Everyone to Jail | Todos a la cárcel,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Intruder,Intruso,False,Vicente Aranda | Intruder | Intruso,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,The Dead Mother,La madre muerta,False,Juanma Bajo Ulloa | The Dead Mother | La madre muerta,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Imanol Uribe,Running Out of Time,True,1994 (9th) | Imanol Uribe | Running Out of Time | Días contados,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Turkish Passion,La pasión turca,False,Vicente Aranda | Turkish Passion | La pasión turca,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Cradle Song,Canción de cuna,False,José Luis Garci | Cradle Song | Canción de cuna,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Álex de la Iglesia,The Day of the Beast,True,1995 (10th) | Álex de la Iglesia | The Day of the Beast | El día de la bestia,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,The Flower of My Secret,La flor de mi secreto,False,Pedro Almodóvar | The Flower of My Secret | La flor de mi secreto,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Mouth to Mouth,Boca a boca,False,Manuel Gómez Pereira | Mouth to Mouth | Boca a boca,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Pilar Miró,The Dog in the Manger,True,1996 (11th) | Pilar Miró | The Dog in the Manger | El perro del hortelano,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Earth,Tierra,False,Julio Medem | Earth | Tierra,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Bwana,,False,Imanol Uribe | Bwana,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Ricardo Franco,The Lucky Star,True,1997 (12th) | Ricardo Franco | The Lucky Star | La buena estrella,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Martín,,False,Adolfo Aristarain | Martín (Hache),https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Secrets of the Heart,Secretos del corazón,False,Montxo Armendáriz | Secrets of the Heart | Secretos del corazón,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Fernando León de Aranoa,Barrio,True,1998 (13th) | Fernando León de Aranoa | Barrio,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Open Your Eyes,Abre los ojos,False,Alejandro Amenábar | Open Your Eyes | Abre los ojos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,The Grandfather,El abuelo,False,José Luis Garci | The Grandfather | El abuelo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,The Girl of Your Dreams,La niña de tus ojos,False,Fernando Trueba | The Girl of Your Dreams | La niña de tus ojos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Pedro Almodóvar,All About My Mother,True,1999 (14th) | Pedro Almodóvar | All About My Mother | Todo sobre mi madre,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Butterfly's Tongue,La lengua de las mariposas,False,José Luis Cuerda | Butterfly's Tongue | La lengua de las mariposas,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,By My Side Again,Cuando vuelvas a mi lado,False,Gracia Querejeta | By My Side Again | Cuando vuelvas a mi lado,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Solas,,False,Benito Zambrano | Solas,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,José Luis Borau,Leo,True,2000 (15th) | José Luis Borau | Leo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Kisses for Everyone,Besos para todos,False,Jaime Chávarri | Kisses for Everyone | Besos para todos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Common Wealth,La comunidad,False,Álex de la Iglesia | Common Wealth | La comunidad,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,You're the One,Una historia de entonces,False,José Luis Garci | You're the One | Una historia de entonces,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Alejandro Amenábar,The Others,True,2001 (16th) | Alejandro Amenábar | The Others | Los Otros,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Mad Love,Juana la Loca,False,Vicente Aranda | Mad Love | Juana la Loca,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Don't Tempt Me,Sin noticias de Dios,False,Agustín Díaz | Don't Tempt Me | Sin noticias de Dios,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Sex and Lucia,Lucía y el sexo,False,Julio Medem | Sex and Lucia | Lucía y el sexo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Fernando León de Aranoa,Mondays in the Sun,True,2002 (17th) | Fernando León de Aranoa | Mondays in the Sun | Los lunes al sol,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Talk to Her,Hable con ella,False,Pedro Almodóvar | Talk to Her | Hable con ella,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,In the City Without Limits,En la ciudad sin límites,False,Antonio Hernández | In the City Without Limits | En la ciudad sin límites,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,The Other Side of the Bed,El otro lado de la cama,False,Emilio Martínez Lázaro | The Other Side of the Bed | El otro lado de la cama,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Icíar Bollaín,Take My Eyes,True,2003 (18th) | Icíar Bollaín | Take My Eyes | Te doy mis ojos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,My Life Without Me,Mi vida sin mí,False,Isabel Coixet | My Life Without Me | Mi vida sin mí,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,In the City,En la ciudad,False,Cesc Gay | In the City | En la ciudad,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Soldiers of Salamina,Soldados de Salamina,False,David Trueba | Soldiers of Salamina | Soldados de Salamina,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Alejandro Amenábar,The Sea Inside,True,2004 (19th) | Alejandro Amenábar | The Sea Inside | Mar adentro,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Bad Education,La mala educación,False,Pedro Almodóvar | Bad Education | La mala educación,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Roma,,False,Adolfo Aristarain | Roma,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,The Seventh Day,El séptimo día,False,Carlos Saura | The Seventh Day | El séptimo día,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Isabel Coixet,The Secret Life of Words,True,2005 (20th) | Isabel Coixet | The Secret Life of Words | La vida secreta de las palabras,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Obaba,,False,Montxo Armendáriz | Obaba,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,7 Virgins,7 vírgenes,False,Alberto Rodríguez | 7 Virgins | 7 vírgenes,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Habana Blues,,False,Benito Zambrano | Habana Blues,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Pedro Almodóvar,Volver,True,2006 (21st) | Pedro Almodóvar | Volver,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Alatriste,,False,Agustín Díaz | Alatriste,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Salvador,,False,Manuel Huerga | Salvador,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Pan's Labyrinth,El laberinto del fauno,False,Guillermo del Toro | Pan's Labyrinth | El laberinto del fauno,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Jaime Rosales,Solitary Fragments,True,2007 (22nd) | Jaime Rosales | Solitary Fragments | La soledad,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Mataharis,,False,Icíar Bollaín | Mataharis,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,13 Roses,Las 13 rosas,False,Emilio Martínez Lázaro | 13 Roses | Las 13 rosas,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Seven Billiard Tables,Siete mesas de billar francés,False,Gracia Querejeta | Seven Billiard Tables | Siete mesas de billar francés,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Javier Fesser,Camino,True,2008 (23rd) | Javier Fesser | Camino,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,The Blind Sunflowers,Los girasoles ciegos,False,José Luis Cuerda | The Blind Sunflowers | Los girasoles ciegos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Just Walking,Sólo quiero caminar,False,Agustín Díaz | Just Walking | Sólo quiero caminar,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,The Oxford Murders,,False,Álex de la Iglesia | The Oxford Murders,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Daniel Monzón,Cell 211,True,2009 (24th) | Daniel Monzón | Cell 211 | Celda 211,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,The Secret in Their Eyes,El secreto de sus ojos,False,Juan José Campanella | The Secret in Their Eyes | El secreto de sus ojos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Agora,Ágora,False,Alejandro Amenábar | Agora | Ágora,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,The Dancer and the Thief,El baile de la victoria,False,Fernando Trueba | The Dancer and the Thief | El baile de la victoria,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Agustí Villaronga,Black Bread,True,2010 (25th) | Agustí Villaronga | Black Bread | Pa negre (Pan negro),https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Buried,,False,Rodrigo Cortés | Buried,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,The Last Circus,Balada triste de trompeta,False,Álex de la Iglesia | The Last Circus | Balada triste de trompeta,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Even the Rain,También la lluvia,False,Icíar Bollaín | Even the Rain | También la lluvia,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Enrique Urbizu,No Rest for the Wicked,True,2011 (26th) | Enrique Urbizu | No Rest for the Wicked | No habrá paz para los malvados,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,The Skin I Live In,La Piel que habito,False,Pedro Almodóvar | The Skin I Live In | La Piel que habito,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Blackthorn,,False,Mateo Gil | Blackthorn,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,The Sleeping Voice,La voz dormida,False,Benito Zambrano | The Sleeping Voice | La voz dormida,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,J. A. Bayona,The Impossible,True,2012 (27th) | J. A. Bayona | The Impossible | Lo imposible,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Blancanieves,,False,Pablo Berger | Blancanieves,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Unit 7,Grupo 7,False,Alberto Rodríguez | Unit 7 | Grupo 7,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,The Artist and the Model,El artista y la modelo,False,Fernando Trueba | The Artist and the Model | El artista y la modelo,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,David Trueba,Living Is Easy with Eyes Closed,True,2013 (28th) | David Trueba | Living Is Easy with Eyes Closed | Vivir es fácil con los ojos cerrados,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,15 Years and One Day,15 años y un día,False,Gracia Querejeta | 15 Years and One Day | 15 años y un día,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Cannibal,Caníbal,False,Manuel Martín Cuenca | Cannibal | Caníbal,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Family United,La gran familia española,False,Daniel Sánchez Arévalo | Family United | La gran familia española,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Alberto Rodríguez,Marshland,True,2014 (29th) | Alberto Rodríguez | Marshland | La isla mínima,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,El Niño,,False,Daniel Monzón | El Niño,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Magical Girl,,False,Carlos Vermut | Magical Girl,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Wild Tales,Relatos salvajes,False,Damián Szifrón | Wild Tales | Relatos salvajes,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Cesc Gay,Truman,True,2015 (30th) | Cesc Gay | Truman,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,The Bride,La novia,False,Paula Ortiz | The Bride | La novia,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Nobody Wants the Night,Nadie quiere la noche,False,Isabel Coixet | Nobody Wants the Night | Nadie quiere la noche,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,A Perfect Day,Un día perfecto,False,Fernando León de Aranoa | A Perfect Day | Un día perfecto,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,J. A. Bayona,A Monster Calls,True,2016 (31st) | J. A. Bayona | A Monster Calls,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Julieta,,False,Pedro Almodóvar | Julieta,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Smoke & Mirrors,El hombre de las mil caras,False,Alberto Rodríguez | Smoke & Mirrors | El hombre de las mil caras,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,May God Save Us,Que Dios nos perdone,False,Rodrigo Sorogoyen | May God Save Us | Que Dios nos perdone,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Isabel Coixet,The Bookshop,True,2017 (32nd) [ 3 ] [ 4 ] [ 5 ] [ 6 ] | Isabel Coixet | The Bookshop | La librería,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Giant,Handia,False,Aitor Arregi and Jon Garaño | Giant | Handia,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,The Motive,El autor,False,Manuel Martín Cuenca | The Motive | El autor,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Veronica,Verónica,False,Paco Plaza | Veronica | Verónica,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Rodrigo Sorogoyen,The Realm,True,2018 (33rd) [ 7 ] | Rodrigo Sorogoyen | The Realm | El reino,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Champions,Campeones,False,Javier Fesser | Champions | Campeones,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Between Two Waters,Entre dos aguas,False,Isaki Lacuesta | Between Two Waters | Entre dos aguas,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Everybody Knows,Todos lo saben,False,Asghar Farhadi | Everybody Knows | Todos lo saben,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Pedro Almodóvar,Pain and Glory,True,2019 (34th) [ 8 ] | Pedro Almodóvar | Pain and Glory | Dolor y gloria,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,While at War,Mientras dure la guerra,False,Alejandro Amenábar | While at War | Mientras dure la guerra,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,The Endless Trench,La trinchera infinita,False,"Aitor Arregi , Jon Garaño and José Mari Goenaga | The Endless Trench | La trinchera infinita",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Fire Will Come,O que arde,False,Oliver Laxe | Fire Will Come | O que arde,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Salvador Calvo,Adú,True,2020 (35th) [ 9 ] | Salvador Calvo | Adú,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Baby,,False,Juanma Bajo Ulloa | Baby,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Rosa's Wedding,La boda de Rosa,False,Icíar Bollaín | Rosa's Wedding | La boda de Rosa,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,It Snows in Benidorm,Nieva en Benidorm,False,Isabel Coixet | It Snows in Benidorm | Nieva en Benidorm,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Fernando León de Aranoa,The Good Boss,True,2021 (36th) [ 10 ] [ 11 ] | Fernando León de Aranoa | The Good Boss | El buen patrón,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,The Daughter,La hija,False,Manuel Martín Cuenca | The Daughter | La hija,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Maixabel,,False,Icíar Bollaín | Maixabel,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Parallel Mothers,Madres paralelas,False,Pedro Almodóvar | Parallel Mothers | Madres paralelas,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Rodrigo Sorogoyen,The Beasts,True,2022 (37th) [ 12 ] | Rodrigo Sorogoyen | The Beasts | As bestas,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Alcarràs,,False,Carla Simón | Alcarràs,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Motherhood,La maternal,False,Pilar Palomero | Motherhood | La maternal,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Manticore,Mantícora,False,Carlos Vermut | Manticore | Mantícora,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Prison 77,Modelo 77,False,Alberto Rodríguez | Prison 77 | Modelo 77,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,J.A. Bayona,Society of the Snow,True,2023 (38th) [ 13 ] | J.A. Bayona | Society of the Snow | La sociedad de la nieve,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Close Your Eyes,Cerrar los ojos,False,Víctor Erice | Close Your Eyes | Cerrar los ojos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Un amor,,False,Isabel Coixet | Un amor,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Jokes & Cigarettes,Saben aquell,False,David Trueba | Jokes & Cigarettes | Saben aquell,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Creatura,,False,Elena Martín | Creatura,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,"Isaki Lacuesta , Pol Rodríguez",Saturn Return,True,"2024 (39th) [ 14 ] | Isaki Lacuesta , Pol Rodríguez [ es ] | Saturn Return | Segundo premio",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,The Room Next Door,La habitación de al lado,False,Pedro Almodóvar | The Room Next Door | La habitación de al lado,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Undercover,La infiltrada,False,Arantxa Echevarría | Undercover | La infiltrada,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,The Red Virgin,La virgen roja,False,Paula Ortiz | The Red Virgin | La virgen roja,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,"Marco, the Invented Truth","Marco, la verdad inventada",False,"Aitor Arregi , Jon Garaño | Marco, the Invented Truth | Marco, la verdad inventada",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Alauda Ruiz de Azúa,Sundays,True,2025 (40th) [ 15 ] | Alauda Ruiz de Azúa | Sundays | Los domingos,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Maspalomas,,False,"Aitor Arregi , Jose Mari Goenaga [ eu ] | Maspalomas",https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Romería,,False,Carla Simón | Romería,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Sirāt,,False,Oliver Laxe | Sirāt,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,Afternoons of Solitude,Tardes de soledad,False,Albert Serra | Afternoons of Solitude | Tardes de soledad,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,3,12,False,Pedro Almodóvar | 3 | 12,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,3,4,False,Fernando León de Aranoa | 3 | 4,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,3,3,False,J. A. Bayona | 3 | 3,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,2,6,False,Isabel Coixet | 2 | 6,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,2,5,False,Fernando Trueba | 2 | 5,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,2,5,False,Alejandro Amenábar | 2 | 5,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,2,3,False,Rodrigo Sorogoyen | 2 | 3,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,1,6,False,Vicente Aranda | 1 | 6,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,1,5,False,Icíar Bollaín | 1 | 5,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,1,5,False,Alberto Rodríguez | 1 | 5,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,1,4,False,José Luis Garci | 1 | 4,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,1,4,False,Álex de la Iglesia | 1 | 4,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,1,3,False,Pilar Miró | 1 | 3,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,1,3,False,Imanol Uribe | 1 | 3,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,1,3,False,David Trueba | 1 | 3,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,1,2,False,Fernando Fernán Gómez | 1 | 2,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,1,2,False,Ricardo Franco | 1 | 2,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,1,2,False,Carlos Saura | 1 | 2,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,1,2,False,Agustí Villaronga | 1 | 2,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,1,2,False,Daniel Monzón | 1 | 2,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,1,2,False,Cesc Gay | 1 | 2,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,1,2,False,Javier Fesser | 1 | 2,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,1,2,False,Isaki Lacuesta | 1 | 2,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,0,4,False,Aitor Arregi | 0 | 4,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,0,4,False,Jon Garaño | 0 | 4,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,0,3,False,Montxo Armendáriz | 0 | 3,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,0,3,False,Agustín Díaz Yanes | 0 | 3,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,0,3,False,Emilio Martínez Lázaro | 0 | 3,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,0,3,False,Gracia Querejeta | 0 | 3,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,0,3,False,Benito Zambrano | 0 | 3,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,0,3,False,Manuel Martín Cuenca | 0 | 3,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,0,2,False,Adolfo Aristarain | 0 | 2,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,0,2,False,José Luis Cuerda | 0 | 2,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,0,2,False,Bigas Luna | 0 | 2,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,0,2,False,Julio Medem | 0 | 2,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,0,2,False,Juanma Bajo Ulloa | 0 | 2,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,0,2,False,Carlos Vermut | 0 | 2,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,0,2,False,Paula Ortiz | 0 | 2,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,0,2,False,Carla Simón | 0 | 2,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director
+,0,2,False,Oliver Laxe | 0 | 2,https://en.wikipedia.org/wiki/Goya_Award_for_Best_Director

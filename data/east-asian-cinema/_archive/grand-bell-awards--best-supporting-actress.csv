@@ -1,0 +1,27 @@
+year,film,person,is_winner,raw_text,source_url
+,Year,Actress,False,# | Year | Actress | Film (English) | Film (Korean),https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,1999,Lee Mi-yeon,False,36 | 1999 | Lee Mi-yeon | Whispering Corridors | 여고괴담,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2000,Kim Yeo-jin,False,37 | 2000 | Kim Yeo-jin | Peppermint Candy | 박하사탕,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2001,Yoon So-jung,False,38 | 2001 | Yoon So-jung | A Day | 하루,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2002,Bang Eun-jin,False,39 | 2002 | Bang Eun-jin | Address Unknown | 수취인불명,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2003,Song Yoon-ah,False,40 | 2003 | Song Yoon-ah | Jail Breakers | 광복절 특사,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2004,Kim Ga-yeon,False,"41 | 2004 | Kim Ga-yeon | Mr. Handy, Mr. Hong | 어디선가 누군가에 무슨일이 생기면 틀림없이 나타난다 홍반장",https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2005,Na Moon-hee,False,42 | 2005 | Na Moon-hee | Crying Fist | 주먹이 운다,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2006,Kang Hye-jung,False,43 | 2006 | Kang Hye-jung | Welcome to Dongmakgol | 웰컴 투 동막골,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2007,Shim Hye-jin,False,44 | 2007 | Shim Hye-jin | Over the Border | 국경의 남쪽,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2008,Kim Hae-sook,False,45 | 2008 | Kim Hae-sook | Open City | 무방비 도시,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2009,Kim Young-ae,False,46 | 2009 | Kim Young-ae | Goodbye Mom | 애자,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2010,Youn Yuh-jung,False,47 | 2010 | Youn Yuh-jung | The Housemaid | 하녀,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2011,Shim Eun-kyung,False,48 | 2011 | Shim Eun-kyung | Romantic Heaven | 로맨틱 헤븐,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2012,Kim Hae-sook,False,49 | 2012 | Kim Hae-sook | The Thieves | 도둑들,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2013,Jang Young-nam,False,50 | 2013 | Jang Young-nam | A Werewolf Boy | 늑대소년,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2014,Kim Young-ae,False,51 | 2014 | Kim Young-ae | The Attorney | 변호인,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2015,Kim Hae-sook,False,52 | 2015 | Kim Hae-sook | The Throne | 사도,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2016,Ra Mi-ran,False,53 | 2016 | Ra Mi-ran | The Last Princess | 덕혜옹주,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2017,Kim So-jin,False,54 | 2017 | Kim So-jin | The King | 더 킹,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2018,Jin Seo-yeon,False,55 | 2018 | Jin Seo-yeon | Believer | 독전,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2019,Lee Jung-eun,False,56 | 2019 | Lee Jung-eun | Parasite | 기생충,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+,2020,N/a,False,57 | 2020 | — N/a,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+2021,2021,,False,2021,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+2021,2022,Lim Yoona,False,58 | 2022 | Lim Yoona | Confidential Assignment 2: International | 공조2: 인터내셔날,https://en.wikipedia.org/wiki/Grand_Bell_Awards
+2021,2023,Kim Sun-young,False,59 | 2023 | Kim Sun-young | Concrete Utopia | 콘크리트 유토피아,https://en.wikipedia.org/wiki/Grand_Bell_Awards

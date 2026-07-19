@@ -1,0 +1,42 @@
+RewriteEngine On
+RewriteBase /
+
+# 1. Direct redirects for trailing slashes
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)/$ $1 [L,R=301]
+
+# 2. Skip files and directories that actually exist
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# 3. Static routing rules
+RewriteRule ^privacy$ privacy.php [L,QSA]
+RewriteRule ^search$ search-results.php [L,QSA]
+
+# 4. Browse routing
+RewriteRule ^browse$ browse.php [L,QSA]
+RewriteRule ^browse/country$ browse-country.php [L,QSA]
+RewriteRule ^browse/country/([^/]+)$ browse-country-details.php?country=$1 [L,QSA]
+RewriteRule ^browse/decade/([^/]+)$ browse-decade.php?decade=$1 [L,QSA]
+RewriteRule ^browse/genre/([^/]+)$ browse-genre.php?genre=$1 [L,QSA]
+
+# 5. Cinema supercategory & industry
+RewriteRule ^cinema/([^/]+)$ cinema.php?supercategory=$1 [L,QSA]
+RewriteRule ^cinema/([^/]+)/([^/]+)$ industry.php?supercategory=$1&industry=$2 [L,QSA]
+
+# 6. Films & Persons
+RewriteRule ^films$ films.php [L,QSA]
+RewriteRule ^films/([^/]+)$ film-details.php?slug=$1 [L,QSA]
+RewriteRule ^persons$ persons.php [L,QSA]
+RewriteRule ^persons/([^/]+)$ person-details.php?slug=$1 [L,QSA]
+
+# 7. Ceremony details and edition page (Catch-all for supercategory pathing)
+# Example: /south-asian-cinema/bollywood/filmfare-awards
+# Check that the first parameter isn't "assets", "config", "lib", "layouts" to avoid overlapping static folders
+RewriteCond %{REQUEST_URI} !^/(assets|config|lib|layouts) [NC]
+RewriteRule ^([^/]+)/([^/]+)/([^/]+)$ ceremony.php?supercategory=$1&industry=$2&ceremony=$3 [L,QSA]
+
+# Example: /south-asian-cinema/bollywood/filmfare-awards/filmfare-2024
+RewriteCond %{REQUEST_URI} !^/(assets|config|lib|layouts) [NC]
+RewriteRule ^([^/]+)/([^/]+)/([^/]+)/([^/]+)$ edition.php?supercategory=$1&industry=$2&ceremony=$3&slug=$4 [L,QSA]
