@@ -3,29 +3,15 @@ require_once __DIR__ . '/config/DB.php';
 
 $filmId = $_GET['film'] ?? null;
 $personId = $_GET['person'] ?? null;
-$isPerson = $personId !== null;
+$imageUrl = $_GET['url'] ?? null;
+$ceremonySlug = $_GET['ceremony'] ?? null;
 
-if (!$filmId && !$personId) {
-    http_response_code(400);
-    exit("Invalid ID");
-}
-$id = $isPerson ? $personId : $filmId;
-if (!is_numeric($id)) {
-    http_response_code(400);
-    exit("Invalid ID format");
-}
-
-$cacheDir = __DIR__ . '/cache/posters';
-if (!is_dir($cacheDir)) {
-    mkdir($cacheDir, 0777, true);
-}
-$cacheFile = $cacheDir . '/' . ($isPerson ? 'person_' : '') . $id . '.jpg';
 $cacheExpiryDays = 30;
 
-function servePlaceholderSVG($isPerson) {
+function servePlaceholderSVG($isPerson, $iconOverride = null) {
     header('Content-Type: image/svg+xml');
     header('Cache-Control: public, max-age=86400'); // 1 day
-    $icon = $isPerson ? '👤' : '🎬';
+    $icon = $iconOverride ?: ($isPerson ? '👤' : '🎬');
     $svg = <<<SVG
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 750" width="100%" height="100%">
     <rect width="100%" height="100%" fill="#0a192f" />
@@ -36,6 +22,168 @@ SVG;
     echo $svg;
     exit;
 }
+
+// ─── CASE A: DYNAMIC WEB IMAGE URL REVERSE PROXY ───
+if ($imageUrl) {
+    $imageUrl = filter_var($imageUrl, FILTER_SANITIZE_URL);
+    if (!filter_var($imageUrl, FILTER_VALIDATE_URL)) {
+        http_response_code(400);
+        exit("Invalid source URL");
+    }
+
+    $cacheDir = __DIR__ . '/cache/url_images';
+    if (!is_dir($cacheDir)) {
+        mkdir($cacheDir, 0777, true);
+    }
+    
+    $cacheFile = $cacheDir . '/' . md5($imageUrl) . '.jpg';
+    
+    if (file_exists($cacheFile)) {
+        $fileAge = time() - filemtime($cacheFile);
+        if ($fileAge < ($cacheExpiryDays * 24 * 60 * 60)) {
+            header('Content-Type: image/jpeg');
+            header('Cache-Control: public, max-age=' . ($cacheExpiryDays * 24 * 60 * 60));
+            readfile($cacheFile);
+            exit;
+        }
+    }
+    
+    $ctx = stream_context_create([
+        'http' => [
+            'timeout' => 8,
+            'header' => "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\r\nReferer: https://en.wikipedia.org/\r\n"
+        ]
+    ]);
+    
+    $imageData = @file_get_contents($imageUrl, false, $ctx);
+    
+    if ($imageData) {
+        file_put_contents($cacheFile, $imageData);
+        header('Content-Type: image/jpeg');
+        header('Cache-Control: public, max-age=' . ($cacheExpiryDays * 24 * 60 * 60));
+        echo $imageData;
+        exit;
+    } else {
+        servePlaceholderSVG(false);
+    }
+}
+
+// ─── CASE B: CEREMONY DYNAMIC WIKIPEDIA LOGO PROXY ───
+if ($ceremonySlug) {
+    // 1. Check if there is a local asset in /images/ceremonies/ first
+    $localPng = __DIR__ . '/images/ceremonies/' . $ceremonySlug . '.png';
+    $localJpg = __DIR__ . '/images/ceremonies/' . $ceremonySlug . '.jpg';
+    
+    if (file_exists($localPng)) {
+        header('Content-Type: image/png');
+        header('Cache-Control: public, max-age=' . ($cacheExpiryDays * 24 * 60 * 60));
+        readfile($localPng);
+        exit;
+    }
+    if (file_exists($localJpg)) {
+        header('Content-Type: image/jpeg');
+        header('Cache-Control: public, max-age=' . ($cacheExpiryDays * 24 * 60 * 60));
+        readfile($localJpg);
+        exit;
+    }
+
+    $cacheDir = __DIR__ . '/cache/ceremonies';
+    if (!is_dir($cacheDir)) {
+        mkdir($cacheDir, 0777, true);
+    }
+    $cacheFile = $cacheDir . '/' . $ceremonySlug . '.jpg';
+    
+    if (file_exists($cacheFile)) {
+        $fileAge = time() - filemtime($cacheFile);
+        if ($fileAge < ($cacheExpiryDays * 24 * 60 * 60)) {
+            header('Content-Type: image/jpeg');
+            header('Cache-Control: public, max-age=' . ($cacheExpiryDays * 24 * 60 * 60));
+            readfile($cacheFile);
+            exit;
+        }
+    }
+    
+    // Lookup ceremony name in DB
+    $pdo = DB::connection();
+    $stmt = $pdo->prepare("SELECT name FROM ceremonies WHERE slug = ? LIMIT 1");
+    $stmt->execute([$ceremonySlug]);
+    $ceremonyName = $stmt->fetchColumn();
+    
+    $resolvedUrl = null;
+    if ($ceremonyName) {
+        $searchTerm = str_ireplace(' Norway', '', $ceremonyName);
+        
+        $wikiUrl = "https://en.wikipedia.org/w/api.php?action=query&titles=" . urlencode($searchTerm) . "&prop=pageimages&format=json&pithumbsize=600&redirects=true";
+        $ctx = stream_context_create([
+            'http' => [
+                'timeout' => 5,
+                'header' => "User-Agent: AwardFilms/1.0 (contact@awardfilms.com)\r\n"
+            ]
+        ]);
+        $response = @file_get_contents($wikiUrl, false, $ctx);
+        if ($response) {
+            $data = json_decode($response, true);
+            if (!empty($data['query']['pages'])) {
+                $page = reset($data['query']['pages']);
+                if (!empty($page['thumbnail']['source'])) {
+                    $resolvedUrl = $page['thumbnail']['source'];
+                }
+            }
+        }
+    }
+    
+    if ($resolvedUrl) {
+        $imageData = @file_get_contents($resolvedUrl, false, $ctx);
+        if ($imageData) {
+            file_put_contents($cacheFile, $imageData);
+            header('Content-Type: image/jpeg');
+            header('Cache-Control: public, max-age=' . ($cacheExpiryDays * 24 * 60 * 60));
+            echo $imageData;
+            exit;
+        }
+    }
+    
+    // Curated high quality fallbacks if Wikipedia returns nothing
+    $fallbacks = [
+        'lux-style-awards' => 'https://images.unsplash.com/photo-1518173946687-a4c8a383392e?q=80&w=600',
+        'nigar-awards' => 'https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?q=80&w=600',
+        'ippa-awards' => 'https://images.unsplash.com/photo-1507676184212-d03ab07a01bf?q=80&w=600',
+        'pisa-awards' => 'https://images.unsplash.com/photo-1514306191717-452ec28c7814?q=80&w=600',
+        'default' => 'https://images.unsplash.com/photo-1514306191717-452ec28c7814?q=80&w=600'
+    ];
+    $fallbackUrl = $fallbacks[$ceremonySlug] ?? $fallbacks['default'];
+    
+    $imageData = @file_get_contents($fallbackUrl, false, stream_context_create(['http' => ['timeout' => 5]]));
+    if ($imageData) {
+        file_put_contents($cacheFile, $imageData);
+        header('Content-Type: image/jpeg');
+        header('Cache-Control: public, max-age=' . ($cacheExpiryDays * 24 * 60 * 60));
+        echo $imageData;
+        exit;
+    }
+    
+    servePlaceholderSVG(false, '🏆');
+}
+
+// ─── CASE C: FILM OR PERSON ID PROXY ───
+$isPerson = $personId !== null;
+$id = $isPerson ? $personId : $filmId;
+
+if (!$id) {
+    http_response_code(400);
+    exit("Invalid request parameters");
+}
+
+if (!is_numeric($id)) {
+    http_response_code(400);
+    exit("Invalid ID format");
+}
+
+$cacheDir = __DIR__ . '/cache/posters';
+if (!is_dir($cacheDir)) {
+    mkdir($cacheDir, 0777, true);
+}
+$cacheFile = $cacheDir . '/' . ($isPerson ? 'person_' : '') . $id . '.jpg';
 
 if (file_exists($cacheFile)) {
     $fileAge = time() - filemtime($cacheFile);
@@ -137,3 +285,4 @@ if ($imageData) {
 } else {
     servePlaceholderSVG($isPerson);
 }
+?>
