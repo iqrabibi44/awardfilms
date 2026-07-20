@@ -87,7 +87,7 @@ if ($ceremonySlug) {
         exit;
     }
 
-    $cacheDir = __DIR__ . '/cache/ceremonies';
+    $cacheDir = __DIR__ . '/cache/url_images';
     if (!is_dir($cacheDir)) {
         mkdir($cacheDir, 0777, true);
     }
